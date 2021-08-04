@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_transparent">
+
+    <!--<ImageView
+        android:id="@+id/image_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_39sdp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/image_header_3" />-->
+    <include
+        android:id="@+id/image_header"
+        layout="@layout/item_header_screen" />
+
+    <RelativeLayout
+        android:id="@+id/cover_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_header">
+
+        <!--<ImageView
+            android:id="@+id/ic_status"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_24sdp"
+            android:layout_below="@+id/image_top"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_12sdp"
+            android:src="@mipmap/ic_input_address_delivery" />-->
+
+        <include
+            android:id="@+id/ic_status"
+            layout="@layout/milestone_3_step" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ic_status"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_25sdp"
+            android:text="@string/text_nhap_dia_chi_so_nha_ten_duong_phuong"
+            android:textAllCaps="true"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_7ssp"
+            android:textStyle="bold"
+            sfView:type="bold" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_edit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cover_phone"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_12sdp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+
+        <com.bda.omnilibrary.views.SfEditText
+            android:id="@+id/edt_address"
+            android:layout_width="@dimen/_300sdp"
+            android:layout_height="@dimen/_47sdp"
+            android:layout_marginLeft="@dimen/_minus13sdp"
+            android:background="@drawable/strock_round_long_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="center_vertical"
+            android:hint="@string/so_nha_ten_duong"
+            android:nextFocusDown="@+id/rl_bn_next"
+            android:paddingLeft="@dimen/_25sdp"
+            android:paddingRight="@dimen/_25sdp"
+            android:paddingBottom="@dimen/_5sdp"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_8sdp"
+            sfView:type="bold" />
+
+        <RelativeLayout
+            android:id="@+id/layout_containt_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_minus8sdp"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:layout_toRightOf="@+id/edt_address">
+
+            <ImageButton
+                android:id="@+id/bn_voice"
+                android:layout_width="@dimen/_23sdp"
+                android:layout_height="@dimen/_23sdp"
+                android:background="@drawable/ic_voice_selector"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:nextFocusDown="@+id/rl_bn_next" />
+
+
+            <com.bda.omnilibrary.views.SfButton
+                android:id="@+id/bn_delete"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="@dimen/_27sdp"
+                android:layout_height="@dimen/_23sdp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="@dimen/_1sdp"
+                android:layout_toRightOf="@+id/bn_voice"
+                android:background="@drawable/ic_del_selector"
+                android:focusable="true"
+                android:text="@string/del"
+                android:paddingBottom="@dimen/_2sdp"
+                android:focusableInTouchMode="true"
+                android:nextFocusDown="@+id/rl_bn_next"
+                android:textColor="@drawable/text_button_selector"
+                android:textSize="@dimen/_8ssp"
+                android:theme="@style/ItemStyle"
+                sfView:type="medium" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_bn_next"
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_below="@+id/layout_edit"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/btn_omi_buttn_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="0dp">
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_next"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/_10sdp"
+            android:text="@string/finish"
+            android:textAllCaps="true"
+            android:textColor="@drawable/text_button_selector"
+            android:textSize="@dimen/_7ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="bold" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

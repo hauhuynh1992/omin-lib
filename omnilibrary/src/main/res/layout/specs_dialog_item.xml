@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cv_spec"
+    android:layout_width="@dimen/_148sdp"
+    android:layout_height="@dimen/_250sdp"
+    android:paddingStart="@dimen/_11sdp"
+    android:paddingEnd="@dimen/_11sdp"
+    card_view:cardBackgroundColor="@android:color/transparent">
+
+    <RelativeLayout
+        android:id="@+id/rl_spec"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/ic_type"
+            android:layout_width="@dimen/_34sdp"
+            android:layout_height="@dimen/_34sdp"
+            android:layout_centerHorizontal="true"
+            android:scaleType="centerCrop"
+           />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ic_type"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_7sdp"
+            android:text="@string/thong_tin_sp"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/_10ssp"
+            SfView:type="bold" />
+
+        <com.bda.omnilibrary.views.SfHtmlTextView
+            android:id="@+id/tv_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/tv_title"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_14sdp"
+
+            android:lineSpacingExtra="@dimen/_1sdp"
+            android:textColor="#CCFFFFFF"
+            android:textSize="@dimen/_7ssp"
+            android:maxLines="21"
+            android:ellipsize="end"
+            SfView:type="regular" />
+    </RelativeLayout>
+</RelativeLayout>
+

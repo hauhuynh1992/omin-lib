@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="@dimen/_91sdp">
+
+    <LinearLayout
+        android:id="@+id/bn_buy_now"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="@dimen/_minus2sdp"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/item_bn_buy_now"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginEnd="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:background="@color/color_transparent"
+            android:outlineAmbientShadowColor="@color/trans"
+            android:outlineSpotShadowColor="@color/text_black_70"
+            android:theme="@style/ItemStyle"
+            app:cardBackgroundColor="@color/color_transparent"
+            app:cardCornerRadius="@dimen/_3sdp"
+            app:cardElevation="@dimen/_1sdp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/text_bn_buy_now"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/background_button_header_collection"
+                android:paddingStart="@dimen/_8sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingEnd="@dimen/_8sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="@string/quickpay"
+                android:textAllCaps="true"
+                android:textColor="@drawable/selector_button_header"
+                android:textSize="@dimen/_7ssp"
+                app:type="bold" />
+
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bn_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/bn_buy_now"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:orientation="vertical">
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/item_bn_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginEnd="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:background="@color/color_transparent"
+            android:outlineAmbientShadowColor="@color/trans"
+            android:outlineSpotShadowColor="@color/text_black_70"
+            android:theme="@style/ItemStyle"
+            app:cardBackgroundColor="@color/color_transparent"
+            app:cardCornerRadius="@dimen/_3sdp"
+            app:cardElevation="@dimen/_1sdp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/text_bn_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/background_button_header_collection"
+                android:paddingStart="@dimen/_8sdp"
+                android:paddingTop="@dimen/_5sdp"
+                android:paddingEnd="@dimen/_8sdp"
+                android:paddingBottom="@dimen/_5sdp"
+                android:text="@string/text_back_all_cap"
+                android:textAllCaps="true"
+                android:textColor="@drawable/selector_button_header"
+                android:textSize="@dimen/_7ssp"
+                app:type="bold" />
+
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+
+</RelativeLayout>

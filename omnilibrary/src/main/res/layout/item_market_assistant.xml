@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:background="@color/color_transparent"
+        android:outlineSpotShadowColor="@color/start_color"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_368sdp"
+            android:layout_height="@dimen/_206sdp"
+            android:background="@color/color_item_background"
+            android:padding="1dp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <RelativeLayout
+                    android:id="@+id/layout_category"
+                    android:layout_width="@dimen/_237sdp"
+                    android:layout_height="match_parent">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:text="@string/app_name"
+                        android:textColor="@color/title_grey_a6a6a6"
+                        android:textSize="@dimen/_16ssp"
+                        app:type="bold" />
+
+                    <ImageView
+                        android:id="@+id/image_category"
+                        android:layout_width="@dimen/_237sdp"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerCrop" />
+
+                </RelativeLayout>
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_222sdp"
+                    android:layout_marginTop="@dimen/_11sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+
+                    android:text="@string/nhu_yeu_pham_hang_ngay"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_10ssp"
+                    app:type="bold" />
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/name"
+                    android:layout_marginStart="@dimen/_222sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+                    android:textColor="@color/color_41AE96"
+                    android:textSize="@dimen/_10ssp"
+                    app:type="bold" />
+
+                <com.bda.omnilibrary.views.SfStrikeTextView
+                    android:id="@+id/list_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/name"
+                    android:layout_marginStart="@dimen/_6sdp"
+                    android:layout_toEndOf="@+id/price"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_10ssp"
+                    app:type="bold" />
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/option"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/price"
+                    android:layout_marginStart="@dimen/_222sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="regular" />
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/list"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:layout_marginStart="@dimen/_11sdp"
+                    android:layout_marginBottom="@dimen/_11sdp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

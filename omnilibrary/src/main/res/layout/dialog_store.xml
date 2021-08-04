@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@color/color_transparent"
+        android:padding="@dimen/_2sdp"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp">
+
+        <!--android:layout_marginLeft="@dimen/_8sdp"
+        android:layout_marginTop="@dimen/_4sdp"
+        android:layout_marginRight="@dimen/_8sdp"
+        android:layout_marginBottom="@dimen/_14sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"-->
+
+        <RelativeLayout
+            android:layout_width="@dimen/_217sdp"
+            android:layout_height="@dimen/_220sdp"
+            android:background="@color/color_item_background">
+
+            <RelativeLayout
+                android:id="@+id/layout_category"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_93sdp"
+                android:clipToPadding="false">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/app_name"
+                    android:textColor="@color/title_grey_a6a6a6"
+                    android:textSize="@dimen/_12ssp"
+                    app:type="bold" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/image_category"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/layout_category"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:layout_marginTop="@dimen/_12sdp"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:orientation="vertical">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_3sdp"
+                    android:layout_marginEnd="@dimen/_46sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+
+                    android:maxLines="1"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_10ssp"
+                    app:type="bold" />
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/text_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="regular" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/_34sdp"
+                android:layout_height="@dimen/_34sdp"
+                android:layout_below="@+id/layout_category"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="@dimen/_minus22sdp"
+                android:layout_marginEnd="@dimen/_12sdp"
+                android:background="@mipmap/ic_avatar">
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="@dimen/_31sdp"
+                    android:layout_height="@dimen/_31sdp"
+                    android:layout_centerInParent="true"
+                    android:scaleType="centerCrop" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_28sdp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/color_item_background">
+
+                <com.bda.omnilibrary.views.SfButton
+                    android:id="@+id/bn_back"
+                    style="?android:attr/borderlessButtonStyle"
+                    android:layout_width="@dimen/_45sdp"
+                    android:layout_height="@dimen/_16sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginStart="@dimen/_18sdp"
+                    android:layout_marginTop="@dimen/_3sdp"
+                    android:layout_marginBottom="@dimen/_3sdp"
+                    android:background="@drawable/background_button_selector"
+                    android:text="@string/back"
+                    android:textAllCaps="true"
+                    android:textColor="@drawable/text_button_selector"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="medium">
+
+                    <requestFocus />
+                </com.bda.omnilibrary.views.SfButton>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_image_cover"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_10sdp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/tv_detail_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/image_product"
+            android:layout_marginStart="@dimen/_24sdp"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_11ssp"
+            sfView:type="bold" />
+
+        <androidx.leanback.widget.HorizontalGridView
+            android:id="@+id/rv_detail_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="@dimen/_18sdp"
+            android:paddingEnd="@dimen/layout_padding"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:clipToPadding="false"
+            app:numberOfRows="1"
+            app:rowHeight="wrap_content" />
+    </LinearLayout>
+</RelativeLayout>

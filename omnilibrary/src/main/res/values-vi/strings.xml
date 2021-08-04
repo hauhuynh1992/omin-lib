@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="aldready_favourite">ĐÃ THÍCH</string>
+    <string name="so_tien_tra_hang_thang">Số tiền trả hàng tháng</string>
+    <string name="vui_long_nhap_ten_va_sdt">VUI LÒNG NHẬP TÊN CỦA BẠN VÀ SỐ ĐIỆN THOẠI</string>
+    <string name="chung_toi_se_gui_ma_xac_nhan_qua_sdt">Chúng tôi sẽ gửi mã xác nhận qua số điện thoại của bạn!</string>
+    <string name="ma_xac_nhan">MÃ XÁC NHẬN</string>
+    <string name="vui_long_nhap_ma_otp_da_gui_qua_sdt">Vui lòng nhập mã OTP đã được gửi qua số điện thoại</string>
+    <string name="vui_long_thiet_lap_mat_khau_cho_tk_cua_ban">VUI LÒNG THIẾT LẬP MẬT KHẨU CHO TÀI KHOẢN CỦA BẠN</string>
+    <string name="tro_ly_thong_minh">Trợ lý thông minh</string>
+    <string name="voice_assistant">Voice Assistant</string>
+    <string name="tim_kiem">Tìm kiếm</string>
+    <string name="san_pham_low">Sản phẩm</string>
+    <string name="tai_khoan_low">Tài khoản</string>
+    <string name="gio_hang_low">Giỏ hàng</string>
+    <string name="text_0_d">0 đ</string>
+    <string name="ho_va_ten_2_cham">Họ và tên:</string>
+    <string name="ma">Mã:</string>
+    <string name="giao_hang">Giao hàng:</string>
+    <string name="mua_sau">MUA SAU</string>
+    <string name="khong_co_sp_trong_gio_hang_cua_ban">Không có sản phẩm nào trong giỏ hàng của bạn.</string>
+    <string name="san_pham_2_cham">Sản phẩm:</string>
+    <string name="danh_gia_2_cham">Đánh giá:</string>
+    <string name="gia">Giá</string>
+    <string name="thong_tin_khach_hang">Thông tin khách hàng</string>
+    <string name="dien_thoai_2_cham">Điện thoại:</string>
+    <string name="email_2_cham">Email:</string>
+    <string name="gioi_tinh_2_cham">Giới tính:</string>
+    <string name="ngay_sinh_2_cham">Ngày sinh:</string>
+    <string name="chinh_sua">CHỈNH SỬA</string>
+    <string name="nhu_yeu_pham_hang_ngay">NHU YẾU PHẨM HẰNG NGÀY</string>
+    <string name="cap_nhat_dia_chi_email">Cập nhật địa chỉ email</string>
+    <string name="text_0_pt_lai_suat_voi_the">0% lãi suất, với thẻ</string>
+    <string name="dia_chi_2_cham">Địa chỉ:</string>
+    <string name="danh_gia_up_case">ĐÁNH GIÁ</string>
+    <string name="chi_tiet_up_case">CHI TIẾT</string>
+
+    <string name="text_description_location"><![CDATA[Ứng dụng yêu cầu bật địa điểm, để gợi ý các <BR>sản phẩm đang bán gần khu vực bạn đang</BR> <BR>sinh sống.</BR>]]></string>
+    <string name="text_turn_on_location">Bật địa điểm</string>
+    <string name="text_not_get_location">Không thể lấy được vị trí</string>
+    <string name="error_in_momo_payment">Có lỗi trong quá trình thanh toán với Momo</string>
+    <string name="error_in_quickpay_payment">Có lỗi trong quá trình thanh toán với QuickPay</string>
+    <string name="error_in_viettel_payment">Có lỗi trong quá trình thanh toán với Viettel Pay</string>
+    <string name="error_in_vnpoay_payment">Có lỗi trong quá trình thanh toán với VNPay</string>
+    <string name="error_in_vinid_payment">Có lỗi trong quá trình thanh toán với VinID</string>
+    <string name="error_in_payment">Có lỗi trong quá trình thanh toán</string>
+
+    <string name="text_to_cart">THÊM VÀO GIỎ</string>
+    <string name="text_het_han_thanh_toan">Hết hạn thanh toán</string>
+
+
+    <string name="title_activity_invoice_infomation">InvoiceInfomationActivity</string>
+    <string name="text_remark_invoice"><![CDATA[Vui lòng nhập địa chỉ chính xác giúp giao hàng dễ <BR>dàng hơn</BR>]]></string>
+
+    <string name="text_user_data_error">Dữ liệu người dùng không chính xác</string>
+
+    <string name="text_phone_blank_error">Vui lòng nhập số điện thoại</string>
+    <string name="text_phone_error">Số điện thoại không đúng</string>
+    <string name="text_name_blank_error">Vui lòng nhập họ tên</string>
+    <string name="text_address_blank_error">Vui lòng nhập địa chỉ</string>
+    <string name="cant_get_user_info">Không thể lấy thông tin khách hàng</string>
+
+    <string name="status_confirming">Đang xác nhận</string>
+    <string name="status_confirm">Đã xác nhận</string>
+    <string name="status_get_merchandise">Đang lấy hàng</string>
+    <string name="status_gotten_merchandise">Đã lấy hàng</string>
+    <string name="status_delivery">Đang giao</string>
+    <string name="status_delivered">Đã giao </string>
+    <string name="status_cancel_request">Yêu cầu huỷ đơn hàng</string>
+    <string name="status_cancel">Đã hủy</string>
+    <string name="status_returning_cart">Đang hoàn trả đơn hàng</string>
+    <string name="status_returned_cart">Đã hoàn trả đơn hàng</string>
+    <string name="status_refunded">Đã hoàn tiền</string>
+    <string name="status_init">Đơn mới khởi tạo</string>
+
+
+    <string name="error_cant_get_delivery">Không lấy được thông tin giao hàng</string>
+    <string name="text_name">Họ tên:</string>
+    <string name="text_phone">Điện thoại:</string>
+
+    <string name="text_order_is_not_change">Không thể thay đổi đơn hàng này</string>
+    <string name="text_order_is_not_delete">Không thể xóa đơn hàng</string>
+    <string name="text_order_is_not_cancel">Không thể hủy đơn hàng</string>
+    <string name="text_id_not_conform">Chưa xác nhận Box ID</string>
+
+    <string name="recieve_address_1">Nhập số nhà, tên đường</string>
+    <string name="product_suggest">Có thể bạn quan tâm</string>
+
+    <string name="momo_error"><![CDATA[Payment Momo đang bảo trì <BR>Quý khách hàng vui lòng chọn hình thức thanh toán khác</BR>]]></string>
+    <string name="moca_error"><![CDATA[Payment Moca đang bảo trì <BR>Quý khách hàng vui lòng chọn hình thức thanh toán khác</BR>]]></string>
+
+
+    <string name="vnpay_error"><![CDATA[Payment VNPAY đang bảo trì <BR>Quý khách hàng vui lòng chọn hình thức thanh toán khác</BR>]]></string>
+    <string name="vinid_error"><![CDATA[Payment VinID đang bảo trì <BR>Quý khách hàng vui lòng chọn hình thức thanh toán khác</BR>]]></string>
+    <string name="viettelpay_error"><![CDATA[Payment ViettelPay đang bảo trì <BR>Quý khách hàng vui lòng chọn hình thức thanh toán khác</BR>]]></string>
+
+    <string name="exit_app"><![CDATA[Bạn có muốn thoát OMNI shop không?</BR>]]></string>
+
+
+    <string name="profile_address_delivery">Địa chỉ giao hàng gần đây</string>
+    <string name="profile_address_user">Thông tin khách hàng</string>
+    <string name="profile_edit_user_info">Sửa thông tin khách hàng</string>
+
+    <string name="alt_address_can_not_delete_address">Không thể xóa địa chỉ</string>
+
+    <string name="text_search">Tìm kiếm</string>
+    <string name="text_search_voice">Tìm bằng giọng nói</string>
+    <string name="we_dont_hear_that">Chúng tôi không nghe được</string>
+
+    <string name="text_search_no_result">Không tìm thấy kết quả liên quan, có thể bạn quan tâm...</string>
+
+    <string name="not_match_location">Sản phẩm chỉ bán tại %1$s</string>
+    <string name="text_empty_cart">Bạn không còn gì trong giỏ hàng</string>
+
+    <string name="text_voucher">Mã voucher</string>
+
+    <string name="text_save_voucher">Lưu mã</string>
+
+    <string name="reference_type_0">sản phẩm</string>
+    <string name="reference_type_1">ngành hàng</string>
+    <string name="reference_type_2">tất cả sản phẩm</string>
+
+    <string name="voucher_type_0">Giảm giá trực tiếp</string>
+    <string name="voucher_type_1">Giảm theo %</string>
+    <string name="voucher_type_2">Freeship</string>
+
+    <string name="target_type_0">Tất cả Customer có Mã Vouche</string>
+    <string name="target_type_1">Chọn Customer</string>
+
+    <string name="conditions_0">Không có điều kiện gì khác</string>
+    <string name="conditions_1">Tổng tiền đơn hàng tối thiểu</string>
+
+    <string name="text_time_exp">Áp dụng mua sắp tại OMNI shop cho đơn hàng từ %1$s đến ngày %2$s</string>
+    <string name="text_voucher_1">Nhập mã %1$s để được %2$s khi thanh toán</string>
+
+    <string name="text_highlight">Sản phẩm có Video</string>
+    <string name="title_select_voucher">Chọn voucher</string>
+
+    <string name="text_voucher_label">Voucher %1$s</string>
+    <string name="select_other_voucher">Chọn voucher khác</string>
+
+    <string name="text_accept">Có</string>
+    <string name="text_reject">Không</string>
+
+    <string name="text_exit_payment"><![CDATA[Đơn hàng chưa được thanh toán,<BR>bạn chắc chắn muốn trở về?</BR>]]></string>
+
+    <string name="shipping_date_tr">Đơn hàng dự kiến giao ngày mai (muộn nhất ngày</string>
+    <string name="error_voucher_1">Sản phẩm không đủ điều kiện</string>
+    <string name="error_voucher_2">Hóa đơn chưa đạt giá trị tối thiểu</string>
+
+    <string name="text_prepare_listen">Xin mời bạn nói</string>
+    <string name="text_listening">Đang nghe...</string>
+    <string name="text_progressing">Đang xử lý...</string>
+
+    <string name="text_error_phone">Số điện thoại không đúng, vui lòng đọc lại</string>
+
+    <string name="error_in_moca_payment">Có lỗi trong quá trình thanh toán với Moca</string>
+
+    <string name="title_dialog_renew_qr">Mã QR đã hết hạn, bạn có muốn tạo mới?</string>
+    <string name="title_dialog_remain_qr">Bạn còn %1$s để thanh toán đơn hàng</string>
+
+    <string name="product_quatify">Sản phẩm (%1$s)</string>
+
+    <string name="text_live">Allwayshop Live</string>
+    <string name="text_lived">Các Chương Trình Đã Phát Trực Tiếp</string>
+    <string name="text_collection">Danh Mục Sản Phẩm</string>
+    <string name="text_for_u">Dành Riêng Cho Bạn</string>
+    <string name="text_promotion">Khuyễn Mãi</string>
+    <string name="text_hotdeal">Deal Sập Sàn</string>
+    <string name="text_market">Đi Chợ Giùm Bạn</string>
+    <string name="text_hot_store">Cửa Hàng Nổi Bật</string>
+    <string name="text_is_like">Có Thể Bạn Sẽ Thích</string>
+    <string name="text_best_seller">Top 10 Sản Phẩm Bán Chạy Nhất Tuần</string>
+    <string name="text_hot_key">Từ Khoá Hot</string>
+    <string name="text_history">Sản Phẩm Bạn Đã Xem</string>
+    <string name="text_u_like">Sản Phẩm Yêu Thích</string>
+
+    <string name="text_cart">GIỎ HÀNG</string>
+    <string name="text_back_home">QUAY VỀ TRANG MUA SẮM</string>
+    <string name="text_detail_search">TÌM KIẾM</string>
+    <string name="text_guarantee">Bảo hành \ Đổi trả</string>
+    <string name="wish_list">YÊU THÍCH</string>
+
+    <string name="add_to_cart_all_cap">THÊM VÀO GIỎ HÀNG</string>
+    <string name="buy_now_all_cap">MUA NGAY</string>
+
+    <string name="text_warranty">Chế độ bảo hành</string>
+    <string name="text_delivery_type">Phương thức vận chuyển</string>
+    <string name="text_return">Chính sách đổi trả</string>
+
+    <string name="text_suggest_search">GỢI Ý TÌM KIẾM</string>
+
+    <string name="text_product_result">%1$s kết quả cho sản phẩm</string>
+    <string name="text_product_store_result">%1$s kết quả cho cửa hàng</string>
+
+    <string name="text_interesting_product">Sản phẩm bạn có thể quan tâm</string>
+
+    <string name="text_top_keyword">TÌM KIẾM NHIỀU NHẤT</string>
+
+    <string name="text_back_all_cap">QUAY LẠI</string>
+
+    <string name="text_remove_item_in_cart">Bạn có chắc muốn xoá “%1$s” khỏi giỏ hàng không?</string>
+
+    <string name="text_number_item_cart">• %1$s sản phẩm</string>
+    <string name="more_product_checkout">và %1$s sản phẩm khác</string>
+
+    <string name="hot">Nổi bật</string>
+    <string name="new_arrival">Hàng mới về</string>
+
+    <string name="pay_success_">THANH TOÁN THÀNH CÔNG!</string>
+    <string name="pay_failed">THANH TOÁN CHƯA THÀNH CÔNG!</string>
+    <string name="pay_pending">GIAO DỊCH ĐANG XỬ LÝ</string>
+    <string name="order_success">ĐẶT HÀNG THÀNH CÔNG!</string>
+
+    <string name="text_thanks">Cám ơn bạn đã sử dụng OMNI shop!</string>
+    <string name="text_failed">Không thể thực hiện giao dịch.</string>
+
+    <string name="text_contact_1">Vui lòng liên hệ hotline</string>
+    <string name="text_contact_2">19001900</string>
+    <string name="text_contact_3">để được hỗ trợ.</string>
+    <string name="thanh_to_n_vi_momo">Thanh toán ví MoMo</string>
+
+    <string name="text_create_address">Bạn cần chọn hoặc tạo địa chỉ trước khi thanh toán.</string>
+    <string name="error_detail">Không lấy được thông tin chi tiết</string>
+    <string name="error_home_brand_shop">Không lấy được thông tin</string>
+
+    <string name="enter_your_phone_number">Vui lòng nhập số điện thoại</string>
+    <string name="text_vi_momo">Ví điện tử MoMo</string>
+    <string name="text_vi_vnpay">VNPay QR</string>
+    <string name="text_vi_moca">Ứng dụng Grabpay by Moca</string>
+    <string name="text_thanh_toan_cod">Thanh toán khi nhận hàng</string>
+    <string name="text_title_live">LIVE</string>
+    <string name="text_thanh_toan_momo">THANH TOÁN QUA ỨNG DỤNG MoMo</string>
+    <string name="text_thanh_toan_moca">THANH TOÁN QUA ỨNG DỤNG GRABPAY BY MOCA</string>
+    <string name="text_thanh_toan_vnpay">THANH TOÁN BẰNG MÃ VNPAY</string>
+    <string name="text_mien_phi">Miễn phí</string>
+    <string name="text_xac_nhan">XÁC NHẬN</string>
+    <string name="text_mua_them">MUA THÊM</string>
+    <string name="text_mua_lai_lan_nua">MUA LẦN NỮA</string>
+    <string name="text_mua_lai">MUA LẠI</string>
+    <string name="text_thanh_toan_vi_vnpay">Thanh toán ví VNPay</string>
+    <string name="text_thanh_toan_vi_moca">Thanh toán ví Moca</string>
+    <string name="text_thanh_toan_khi_nhan_hang">Thanh toán tiền mặt khi nhận hàng</string>
+    <string name="text_dat_hang_nhanh">Đặt hàng nhanh</string>
+    <string name="text_thanh_toan_thanh_cong">Thanh toán thành công</string>
+    <string name="text_thanh_toan_that_bai">Thanh toán thất bại</string>
+    <string name="text_chua_thanh_toan">Chưa Thanh toán</string>
+    <string name="text_toan_tat_don_hang">TÓM TẮT ĐƠN HÀNG</string>
+
+    <string name="text_cart_supplier_condition">(đơn hàng tối thiểu %1$s)</string>
+
+    <string name="text_sp_k_du_dk">Không đủ điều kiện để thanh toán</string>
+
+    <string name="text_don_hang_toi_thieu">*Không bao gồm sản phẩm của nhà cung cấp chưa đạt giá trị đơn hàng tối thiểu</string>
+
+    <string name="text_hotline_support">Hotline hỗ trợ 081.812.3838</string>
+
+    <string name="text_SKU">SKU: %1$s</string>
+    <string name="text_doi_tac_cao_cap">Đối tác cao cấp</string>
+    <string name="text_nha_cung_cap">Nhà cung cấp</string>
+    <string name="text_K">%1$sK</string>
+
+    <string name="text_nu">Nữ</string>
+    <string name="text_nam">Nam</string>
+    <string name="text_khac">Khác</string>
+
+    <string name="text_chon_quan_huyen">Chọn Quận/Huyện</string>
+    <string name="text_dia_chi">Địa chỉ</string>
+    <string name="text_ban_chua_chon_tinh_thanh_pho">Bạn chưa chọn Tỉnh/Thành phố</string>
+    <string name="text_chon_thanh_pho_tinh">Chọn Thành Phố/Tỉnh</string>
+    <string name="text_ban_chua_chon_quan_huyen">Bạn chưa chọn Quận/Huyện</string>
+    <string name="text_nhap_dia_chi_so_nha_ten_duong_phuong">NHẬP ĐỊA CHỈ: SỐ NHÀ, TÊN ĐƯỜNG, PHƯỜNG</string>
+    <string name="text_ban_chua_nhap_dia_chi">Bạn chưa nhập địa chỉ</string>
+    <string name="text_vui_long_chon_tp_tinh">Vui lòng CHỌN THÀNH PHỐ / TỈNH</string>
+    <string name="text_vui_long_chon_quan_huyen">Vui lòng CHỌN QUẬN / HUYỆN</string>
+    <string name="text_nhan_ok_de_noi">Nhấn OK để nói</string>
+    <string name="text_xin_chao">Xin chào</string>
+    <string name="text_neu_ban_noi_ro_hon">Nếu bạn nói rõ hơn, thì tôi có thể hiểu bạn đó"</string>
+    <string name="text_san_pham_da_duoc_dua_vao_cua_hang">Sản phẩm %1$s đã được đưa vào giỏ hàng, Bạn muốn xem giỏ hàng hay tiến hành thanh toán?</string>
+    <string name="text_san_pham_da_duoc_dua_vao_gio_hang">Sản phẩm đã được đưa vào giỏ hàng</string>
+    <string name="text_xem_gio_hang">Xem giỏ hàng</string>
+    <string name="text_tien_hanh_thanh_toan">tiến hành thanh toán</string>
+    <string name="text_dang_xu_ly">Đang xử lý ...</string>
+    <string name="text_vui_long_doi">Vui lòng đợi ...</string>
+    <string name="text_hay_thu_noi">Hãy thử nói ...</string>
+
+    <string name="text_gio_hang_dang_trong">Hiện đang chưa có sản phẩm nào trong giỏ hàng của bạn. Nói tôi biết bạn muốn mua gì nhé, tôi sẽ tìm giúp bạn ngay.</string>
+    <string name="text_hien_tai_khong_tin_thay_thong_tin_sp">Hiện tại không tìm thấy thông tin sản phẩm bạn yêu cầu</string>
+    <string name="text_xin_loi_khong_co_san_pham_phu_hop">Xin lỗi, không có sản phầm phù hợp với tiêu chí</string>
+    <string name="text_xin_loi_chung_toi_khong_tim_thay_san_pham_phu_hop">Xin lỗi, chúng tôi không tìm thấy sản phẩm phù hợp</string>
+    <string name="text_ban_muon_chon_sp_nao">Bạn muốn chọn sản phẩm nào?</string>
+    <string name="text_vui_long_chon_1_sp">Vui lòng chọn 1 sản phẩm</string>
+    <string name="text_chon_sp_so_1">chọn sản phẩm số 1</string>
+    <string name="text_sap_xep_theo_gia_tang_dan">sắp xếp theo giá tăng dần</string>
+    <string name="text_hien_tai_ban_chua_co_sp_nao">Hiện tại, bạn chưa có sản phẩm nào</string>
+
+    <string name="text_ban_muon_xoa_dia_chi_nay">Bạn có muốn xoá địa chỉ này?</string>
+    <string name="text_chinh_sua_dia_chi_giao_hang">CHỈNH SỬA ĐỊA CHỈ GIAO HÀNG</string>
+    <string name="text_cap_nhat">Cập nhật</string>
+    <string name="text_them_dia_chi_gia_hang">THÊM ĐỊA CHỈ GIAO HÀNG</string>
+    <string name="text_them">Thêm</string>
+    <string name="text_co_quan_cong_ty">Cơ quan / Công ty</string>
+    <string name="text_nha_rieng_chung_cu">Nhà riêng / Chung cư</string>
+
+    <string name="text_cap_nhat_don_hang">Cập nhật đơn hàng</string>
+    <string name="text_khuyen_mai">Khuyến mãi</string>
+    <string name="text_tu_omnishop">Từ OmniShop</string>
+    <string name="text_tat_ca_don_hang">Tất cả đơn hàng</string>
+    <string name="text_cho_thanh_toan">Chờ thanh toán</string>
+    <string name="text_dang_xu_ly_">Đang xử lý</string>
+    <string name="text_dang_van_chuyen">Đang vận chuyển</string>
+    <string name="text_da_giao_hang">Đã giao hàng</string>
+    <string name="text_da_huy">Đã huỷ</string>
+
+
+    <string name="text_dang_hoan_tra">Đang hoàn trả</string>
+    <string name="text_hoan_tien">Hoàn tiền</string>
+
+    <string name="text_da_them_vao_gio_hang">Đã thêm vào giỏ hàng</string>
+
+    <string name="text_money_format">%1$sđ</string>
+
+    <string name="text_pop_up_remind_2_minutes">Pop-up remind 2 phút ở QR"</string>
+
+    <string name="text_pop_up_thoat_thanh_toan">Pop-up thoát thanh toán</string>
+
+    <string name="text_pop_up_chon_voucher_khac">Pop-up chọn voucher khác</string>
+    <string name="text_pop_up_hoi_chon_voucher">Pop-up hỏi chọn voucher</string>
+
+    <string name="text_tat_ca">Tất cả</string>
+    <string name="text_ban_chay">Bán chạy</string>
+    <string name="text_hang_moi">Hàng mới</string>
+    <string name="text_gia_tang_dan">Giá tăng dần</string>
+    <string name="text_gia_giam_dan">Giá giảm dần</string>
+
+    <string name="text_vui_long_danh_gia_sp">Vui lòng cho đánh giá sản phẩm</string>
+
+    <string name="text_da_nhan_so_tien_qua_momo">Đã nhận số tiền %1$s qua ví MoMo</string>
+    <string name="text_da_nhan_so_tien_qua_moca">Đã nhận số tiền %1$s qua ví Moca</string>
+    <string name="text_da_nhan_so_tien_qua_vnpay">Đã nhận số tiền %1$s qua ví VnPay</string>
+
+    <string name="text_yeu_cau_huy_don">Yêu cầu hủy đơn</string>
+    <string name="text_ban_co_muon_huy_don_hang_nay">Bạn có muốn hủy đơn hàng này?</string>
+    <string name="text_pop_up_huy_don_hang">Pop-up hủy đơn hàng</string>
+    <string name="text_pop_up_hou_su_dung_voucher">Pop-up hỏi sử dụng voucher</string>
+    <string name="text_huy_don_hang_that_bai">Hủy đơn hàng thất bại!</string>
+
+    <string name="text_da_them_sp_vao_gio_hang">Đã thêm %1$s giỏ hàng</string>
+
+    <string name="text_nhap_dia_chi">Nhập địa chỉ"</string>
+
+    <string name="text_nhap_so_dt">Nhập số điện thoại</string>
+
+    <string name="text_chung_toi_muon_nghe">Bắt đầu nói sau tiếng \""Ting\""</string>
+
+    <string name="text_gio_hang">Giỏ hàng</string>
+    <string name="text_tam_tinh">Tạm tính</string>
+    <string name="text_da_bao_gom_vat">Đã bao gồm VAT</string>
+    <string name="text_mua_sam">MUA SẮM</string>
+    <string name="text_tom_tat_don_hang">Tóm tắt đơn hàng</string>
+    <string name="text_thanh_tien_vat">Thành tiền (VAT)</string>
+    <string name="text_du_kien_giao_hang">Dự kiến giao hàng</string>
+    <string name="text_xac_nhan_thong_tin_giao_hang">Xác nhận thông tin giao hàng</string>
+    <string name="text_doi_thong_tin">Đổi thông tin</string>
+    <string name="text_xac_nhan_lowcap">Xác nhận</string>
+    <string name="text_them_nhan_xet_cua_ban">THÊM NHẬN XÉT CỦA BẠN</string>
+    <string name="text_nhan_xet_khac">Nhận xét khác ...</string>
+    <string name="text_xoa">Xoá</string>
+    <string name="text_hoan_tat">HOÀN TẤT</string>
+    <string name="text_san_pham">SẢN PHẨM</string>
+    <string name="text_thanh_tien">THÀNH TIỀN</string>
+    <string name="text_giam_gia">Giảm giá</string>
+    <string name="voucher">Voucher</string>
+    <string name="text_phi_giao_hang">Phí giao hàng</string>
+    <string name="text_thanh_toan_truc_tuyen_giam_20">Thanh toán trực tuyến, giảm 20%</string>
+    <string name="text_dia_chi_giao_hang">Địa chỉ giao hàng</string>
+    <string name="text_nguoi_nhan">Người nhận:</string>
+    <string name="text_dien_thoai">Điện thoại:</string>
+    <string name="dia_chi">Địa chỉ:</string>
+    <string name="text_ngay_dat_hang">Ngày đặt hàng</string>
+    <string name="ngay_giao_hang">Ngày giao hàng:</string>
+    <string name="text_chon_voucher">CHỌN VOUCHER</string>
+    <string name="text_doi_dia_chi_giao_hang">ĐỔI ĐỊA CHỈ GIAO HÀNG</string>
+    <string name="text_thong_bao">THÔNG BÁO</string>
+    <string name="text_ly_do_huy_don_hang">Lý do huỷ đơn hàng</string>
+    <string name="text_danh_gia">Đánh giá:</string>
+    <string name="text_chi_tiet_san_pham">CHI TIẾT SẢN PHẨM</string>
+    <string name="text_nhap_ho_va_ten">Nhập họ và tên</string>
+    <string name="text_nhap_so_dien_thoai">Nhập số điện thoại</string>
+    <string name="text_nhan_vien_cua_omni_shop_se_lien_he">Nhân viên của OMNI shop sẽ liên hệ với quý khách để xác nhận thông tin đặt hàng.</string>
+    <string name="text_tro_ve">TRỞ VỀ</string>
+    <string name="text_vui_long_chon_phung_thuc_thanh_toan">VUI LÒNG CHỌN PHƯƠNG THỨC THANH TOÁN</string>
+    <string name="text_gio_hanh_chinh">Giờ hành chính</string>
+    <string name="text_tat_ca_ngay_trong_tuan">Tất cả ngày trong tuần</string>
+    <string name="text_ma_don_hang">Mã đơn hàng: </string>
+    <string name="text_thu_lai">THỬ LẠI</string>
+    <string name="text_tiep_tuc_mua_sam">TIẾP TỤC MUA SẮM</string>
+    <string name="text_nhap_voucher">NHẬP VOUCHER</string>
+    <string name="voucher_cua_ban">Voucher của bạn</string>
+    <string name="nhap_voucher">Nhập Voucher</string>
+    <string name="text_ap_dung">ÁP DỤNG</string>
+    <string name="text_danh_gia_san_pham">Đánh giá sản phẩm</string>
+    <string name="text_thuong_hieu">Thương hiệu</string>
+    <string name="text_cua_hang">Cửa hàng</string>
+    <string name="text_chinh_sach">Chính sách</string>
+    <string name="text_bao_hanh_doi_tra"><![CDATA[Bảo hành & Đổi trả]]></string>
+    <string name="khong_upcap">KHÔNG</string>
+    <string name="dong_y_upcap">ĐỒNG Ý</string>
+    <string name="text_dang_xuat">ĐĂNG XUẤT</string>
+    <string name="text_ban_con">Bạn còn</string>
+    <string name="text_de_thanh_toan_don_hang">để thanh toán đơn hàng</string>
+    <string name="text_sp_sau_khong_ho_tro_giao_hang">Rất tiếc, các sản phẩm sau hiện không hỗ trợ giao tới\nđịa chỉ của bạn:</string>
+    <string name="text_vui_long_doi_dia_chi_va_thu_lai">Vui lòng thay đổi địa chỉ giao hàng và thử lại</string>
+    <string name="text_doi_dia_chi">ĐỔI ĐỊA CHỈ</string>
+    <string name="text_quay_lai_low_cap">Quay lại</string>
+    <string name="text_tiep_theo">Tiếp theo</string>
+    <string name="so_nha_ten_duong">Số nhà, tên đường</string>
+    <string name="text_hoan_tat_low">Hoàn tất</string>
+    <string name="danh_sach_sp_mua_sau">Danh sách sản phẩm mua sau</string>
+    <string name="ban_chua_co_sp_nao_trong_danh_sach_mua_sau">Bạn chưa có sản phẩm nào trong danh sách mua sau</string>
+    <string name="thanh_toan_bang_the_quoc_te_visa_master_jcb">THANH TOÁN BẰNG THẺ QUỐC TẾ VISA, MASTER HOẶC JCB</string>
+    <string name="ngay_het_han">NGÀY HẾT HẠN</string>
+    <string name="mm_yy">MM/YY</string>
+    <string name="nhan_thanh_toan_ban_dong_voi">Nhấn thanh toán, bạn đồng ý với</string>
+    <string name="dieu_khoan_su_dung">Điều Khoản Sử Dụng</string>
+    <string name="cua_omnishop">của OmniShop</string>
+    <string name="tiep_theo_nhap_dai_chi">TIẾP THEO: NHẬP ĐỊA CHỈ</string>
+    <string name="chinh_sua_dia_chi_giao_hang">CHỈNH SỬA Địa chỉ giao hàng</string>
+    <string name="nguoi_nhan">Người nhận</string>
+    <string name="dien_thoai">Điện thoại</string>
+    <string name="nhap_so_dien_thoai">Nhập số điện thoại</string>
+    <string name="dat_lam_dia_chi_mac_dinh">Đặt làm địa chỉ mặc định</string>
+    <string name="xoa_dia_chi">Xoá địa chỉ</string>
+    <string name="chinh_sua_thong_tin_ca_nhan">CHỈNH SỬA Thông tin cá nhân</string>
+    <string name="ho_va_ten">Họ và tên</string>
+    <string name="text_email">Email</string>
+    <string name="nhap_dia_chi_email">Nhập địa chỉ email</string>
+    <string name="gioi_ttnh">Giới tính</string>
+    <string name="chon_gioi_tinh">Chọn giới tính</string>
+    <string name="text_ngay_sinh">Ngày sinh</string>
+    <string name="text_chon_ngay_sinh">Chọn ngày sinh</string>
+    <string name="thanh_toan_tra_gop">THANH TOÁN TRẢ GÓP</string>
+    <string name="thanh_toan_tra_gop_qua_cac_to_chuc_tai_chinh">THANH TOÁN TRẢ GÓP QUA CÁC TỔ CHỨC TÀI CHÍNH</string>
+    <string name="text_3_thang">3 tháng</string>
+    <string name="text_6_thang">6 tháng</string>
+    <string name="text_9_thang">9 tháng</string>
+    <string name="text_12_thang">12 tháng</string>
+    <string name="nhan_vien_cua_omnishop_se_lien_lac_ngay_voi_ban">Nhân viên của OMNISHOP sẽ liên lạc ngay với bạn thông qua số điện\nthoại 0919293949 để tiến hành các thủ tục cần thiết</string>
+    <string name="text_goi_cho_toi">GỌI CHO TÔI</string>
+    <string name="thanh_toan_tra_gop_qua_hoa_don_internet">THANH TOÁN TRẢ GÓP QUA HOÁ ĐƠN INTERNET</string>
+    <string name="ma_hoa_don_internet_cua_ban">mã hoá đơn internet của bạn</string>
+    <string name="hoa_don_cua_khach_hang">Hóa đơn của khách hàng</string>
+    <string name="ky_han_tra_gop">KỲ HẠN TRẢ GÓP</string>
+    <string name="dang_nhap">Đăng nhập</string>
+    <string name="vui_long_nhap_ten_nguoi_nhan_hang">Vui lòng nhập tên người nhận hàng</string>
+    <string name="text_buoc_3">Bước 3</string>
+    <string name="ban_chua_co_don_hang_nao">Bạn chưa có đơn hàng nào</string>
+    <string name="vui_long_nhap_so_dien_thoai_nhan_hang">Vui lòng nhập số điện thoại nhận hàng</string>
+    <string name="su_dung_phim_so_tren_remote_nhap_nhanh">Sử dụng phím số trên Remote để nhập nhanh</string>
+    <string name="so_dien_thoai">Số điện thoại</string>
+    <string name="text_buoc_2">Bước 2</string>
+    <string name="tiep_theo_chon_quan_huyen">TIẾP THEO: CHỌN QUẬN / HUYỆN</string>
+    <string name="text_khong_xoa">KHÔNG XOÁ</string>
+    <string name="text_xoa_san_pham">XOÁ SẢN PHẨM</string>
+    <string name="text_dang_ky">ĐĂNG KÝ</string>
+    <string name="dat_lai_mat_khau">ĐẶT LẠI MẬT KHẨU</string>
+    <string name="vui_long_nhap_otp_gui_toi_sdt_cua_ban">VUI LÒNG NHẬP MÃ OTP ĐƯỢC GỬI TỚI SỐ ĐIỆN THOẠI CỦA BẠN VÀ ĐẶT MẬT KHẨU</string>
+    <string name="text_ma_otp">Mã OTP</string>
+    <string name="nhap_mat_khau_moi">Nhập mật khẩu mới</string>
+    <string name="nhap_lai_mat_khau_moi">Nhập lại mật khẩu mới</string>
+    <string name="nhap_otp_va_mat_khau_moi">Nhập OTP và Mật khẩu mới</string>
+    <string name="vui_long_nhap_sdt_va_mat_khau">VUI LÒNG NHẬP SỐ ĐIỆN THOẠI VÀ MẬT KHẨU</string>
+    <string name="text_tiep_tuc">TIẾP TỤC</string>
+    <string name="danh_gia_san_pham_theo_don_hang">ĐÁNH GIÁ SẢN PHẨM TRONG ĐƠN HÀNG</string>
+    <string name="them_nhan_xet">THÊM NHẬN XÉT</string>
+    <string name="nhap_ten_cua_ban">Nhập tên của bạn</string>
+    <string name="nhap_ma_otp">Nhập mã OTP</string>
+    <string name="gui_lai_otp_sau">Gửi lại OTP sau</string>
+    <string name="text_120_giay">120 giây</string>
+    <string name="text_nhap_mat_khau">Nhập mật khẩu</string>
+    <string name="text_nhap_lai_mat_khau">Nhập lại mật khẩu</string>
+    <string name="danh_sach_yeu_thich">Danh sách yêu thích</string>
+    <string name="thanh_toan_tra_gop_bang_the_tien_dung">THANH TOÁN TRẢ GÓP BẰNG THẺ TÍN DỤNG</string>
+    <string name="nhap_so_the">Nhập SỐ THẺ</string>
+    <string name="dia_chi_mac_dinh">Địa chỉ mặc định</string>
+    <string name="chon">Chọn</string>
+    <string name="text_hotline">Hotline:</string>
+    <string name="phone_1800_6616">1800 6616</string>
+    <string name="dat_hang_2_cham">Đặt hàng:</string>
+    <string name="xem_chi_tiet">XEM CHI TIẾT</string>
+    <string name="nha_cung_cap">Nhà cung cấp</string>
+    <string name="ve_dau_trang">VỀ ĐẦU TRANG</string>
+    <string name="so_luong">Số lượng</string>
+    <string name="them_dia_chi_moi">THÊM ĐỊA CHỈ MỚI</string>
+    <string name="app_name">OMNI shop</string>
+    <string name="app_name_eu">OMNI demo</string>
+    <string name="no_internet">Bạn vẫn chưa kết nối Internet</string>
+    <string name="buy_now">Mua ngay</string>
+    <string name="note">Giao hàng tận nơi hoặc nhận ở cửa hàng</string>
+    <string name="suggest_product">Sản phẩm đề xuất cho bạn</string>
+    <string name="enter_our_otp">Nhập mã OTP</string>
+    <string name="please_enter_otp_from_your_phone">Vui lòng nhập mã OTP đã gửi vào số điện thoại </string>
+    <string name="settings_description">OMNI shop</string>
+    <!-- The label for use as a searchable item -->
+    <string name="search_label">Leanback API Demo</string>
+    <!-- The hint text that appears in the search box. -->
+    <string name="search_hint">Tìm kiếm</string>
+    <string name="global_search">GLOBALSEARCH</string>
+    <string name="pay">ĐẶT HÀNG</string>
+    <string name="confirmInfo">Thông Tin Nhận Hàng</string>
+    <string name="text_momo"><![CDATA[VÍ ĐIỆN TỬ <b>MOMO</b>]]></string>
+    <string name="text_vinid"><![CDATA[VÍ ĐIỆN TỬ <b>VINID</b>]]></string>
+
+    <string name="text_login_momo"><![CDATA[Đăng nhập <BR>ví điện tử MoMo</BR>]]></string>
+    <string name="text_step_2_momo"><![CDATA[Chọn tính năng quét mã <BR>ở góc phải màn hình</BR>]]></string>
+    <string name="text_step_3_momo"><![CDATA[Di chuyển camera <BR>và quét mã ở trên</BR>]]></string>
+    <string name="cant_get_config">Không thể kết nối đến server. Config Failed</string>
+    <string name="cant_get_product">Không thể kết nối đến server. Product Failed</string>
+    <string name="cant_get_box_info">Không thể kết nối đến server box. Box info Failed</string>
+    <string name="product_color">Màu sắc</string>
+    <string name="quantity">Số lượng</string>
+    <string name="add_to_card_info">Đã thêm sản phẩm vào giỏ hàng</string>
+
+    <string name="cart">Giỏ hàng</string>
+    <string name="delivery">Đơn hàng</string>
+    <string name="total_cart_money">Tổng tiền giỏ hàng (VAT): </string>
+    <string name="pay_check">Thanh toán</string>
+    <string name="account">Tài khoản</string>
+    <string name="not_update_customer_info">Thông tin khách hàng chưa cập nhật</string>
+    <string name="total_money">Tổng tiền</string>
+    <string name="shipping_fee">Phí vận chuyển</string>
+    <string name="apartment">Chung cư</string>
+    <string name="house">Nhà riêng</string>
+    <string name="product">Sản phẩm</string>
+    <string name="product_lower">sản phẩm</string>
+    <string name="price">Giá</string>
+    <string name="remove_order">Xoá đơn</string>
+    <string name="updating">Chưa cập nhật</string>
+    <string name="text_address">Địa chỉ:</string>
+    <string name="text_button_cancel">Hủy đơn hàng</string>
+    <string name="empty_cart">Chưa có sản phẩm nào trong giỏ hàng</string>
+    <string name="continue_to_pay">Tiến hành thanh toán</string>
+    <string name="del">Xoá</string>
+    <string name="exit">Thoát</string>
+    <string name="to_invoice">Xem đơn hàng</string>
+    <string name="countinue_shopping">Tiếp tục mua hàng</string>
+    <string name="no_token">Có lỗ xảy ra TOKEN</string>
+    <string name="browser_history">Sản phẩm bạn đã xem</string>
+    <string name="main_collection">Danh mục hàng hóa</string>
+    <string name="fail">Có lỗi xảy ra</string>
+    <string name="hold">Nhấp giữ</string>
+    <string name="search_voice">để nhập liệu bằng giọng nói</string>
+    <string name="back">Quay lại</string>
+    <string name="invoice">Hoá đơn</string>
+    <string name="choose_city">Chọn thành phố</string>
+    <string name="hot_deal">Deal nổi bật</string>
+    <string name="for_you">Dành cho bạn</string>
+    <string name="aldready_add_to_cart">Đã thêm vào giỏ hàng</string>
+    <string name="continue_shopping">Tiếp tục mua sấm</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="phone_number">Số điện thoại</string>
+    <string name="delivery_info">Tạo thông tin giao hàng mới</string>
+    <string name="next">Tiếp theo</string>
+    <string name="your_name">Tên của bạn</string>
+    <string name="back_info">Quay lại</string>
+    <string name="province_hn">Hà Nội</string>
+    <string name="finish">Hoàn thành</string>
+    <string name="your_address">Địa chỉ của bạn</string>
+    <string name="customer_update_faill">Thất bại trong việc xử lí thông tin khách hàng</string>
+    <string name="paying">Tiếp tục thanh toán</string>
+    <string name="aldready_address">Chọn địa chỉ giao hàng khác</string>
+    <string name="new_address">Tạo địa chỉ mới</string>
+    <string name="choose_district">Chọn quận huyện</string>
+    <string name="done">Hoàn tất</string>
+    <string name="order_infomation">Thông tin giao hàng</string>
+    <string name="discount">Freeship</string>
+    <string name="total_money_vat">Tạm tính (VAT)</string>
+    <string name="recieve_phone">Nhập số điện thoại nhận hàng</string>
+    <string name="recieve_name">Nhập tên người nhận hàng</string>
+    <string name="hint_name">Họ và tên</string>
+    <string name="recieve_province">Chọn Thành phố</string>
+    <string name="recieve_district">Chọn Quận/Huyện</string>tê
+    <string name="recieve_address">Nhập số nhà, đường, phường</string>
+    <string name="hint_address">Số nhà, đường, phường</string>
+    <string name="choose_payment">Chọn phương thức thanh toán</string>
+    <string name="hotline">Hotline: 081.812.3838</string>
+    <string name="watch_more">xem thêm</string>
+    <string name="product_not_avalable">Tạm thời không có sản phẩm nào</string>
+    <string name="add_to_cart">Thêm vào giỏ hàng</string>
+    <string name="watch_detail">Xem chi tiết</string>
+    <string name="shipment_fee">Phí vận chuyển</string>
+    <string name="shipping_date">Đơn hàng dự kiến giao %1$s\n(muộn nhất ngày %2$s)</string>
+    <string name="del_product">Xóa sản phẩm</string>
+    <string name="invoice_info">Lịch sử đặt hàng</string>
+    <string name="not_instock">Sản phẩm không khả dụng</string>
+    <string name="error">Có lỗi xảy ra</string>
+    <string name="available_item">Hiện tại shop vẫn còn hàng</string>
+    <string name="not_available_desc">Chưa xác định ngày nhập hàng vào kho</string>
+    <string name="not_available">Hiện đang hết hàng</string>
+    <string name="supply_by">Được bán bởi</string>
+    <string name="image_product">Hình ảnh sản phẩm</string>
+    <string name="relative_video">Video liên quan</string>
+    <string name="product_description">Mô tả sản phẩm</string>
+    <string name="relative_product">Sản phẩm liên quan</string>
+    <string name="confirm_success_order_info">Cảm ơn quý khách. Chúng tôi sẽ liên hệ với quý khách trong thời gian sớm nhất để xác thực thông tin.</string>
+    <string name="pay_success">Thanh toán thành công</string>
+    <string name="invoice_processing">Đơn hàng đang được xử lý.</string>
+    <string name="wanna_continue">Bạn có muốn tiếp tục</string>
+    <string name="delete_invoice">Xóa đơn hàng</string>
+    <string name="sold">Đã bán</string>
+    <string name="process_payment">Xem giỏ hàng</string>
+    <string name="promotion">Khuyến mãi độc quyền:</string>
+    <string name="product_not_available">Xin lỗi quý khách\nSản phẩm đang tạm thời hết hàng</string>
+    <string name="ok">Đồng ý</string>
+    <string name="back_twice_exit">Nhấn lần nữa để thoát OMNI Shop</string>
+    <string name="cart_empty">đang trống</string>
+    <string name="home">Quay lại trang chủ</string>
+    <string name="province_hcm">TP. Hồ Chí Minh</string>
+    <string name="need_name">Bạn cần điền tên để thực hiện việc thanh toán</string>
+    <string name="need_phone">Bạn cần điền số điện thoại để thực hiện việc thanh toán</string>
+    <string name="facebook">Facebook</string>
+    <string name="face_book_link">https://www.facebook.com/shoppingtvapp</string>
+    <string name="email_address">Email: cskh@shoppingtv.vn</string>
+    <string name="version">Phiên bản:</string>
+    <string name="processing_order">Đơn hàng đang xử lý</string>
+    <string name="order_history">Lịch sử đặt hàng</string>
+    <string name="orther_place">Nơi khác</string>
+    <string name="choose_location">Chọn vị trí</string>
+    <string name="need_district">Bạn chưa chọn Quận/Huyện</string>
+    <string name="available_in">Bán tại:</string>
+    <string name="not_available_area">chỉ được bán tại</string>
+    <string name="short_facebook">fb.com/shoppingtvapp</string>
+    <string name="homepage">Trang chủ</string>
+    <string name="error_in_cod_payment">Có lỗi trong quá trình thanh toán với COD</string>
+    <string name="pick_province_first">Bạn đang ở thành phố nào?</string>
+    <string name="pick_district_first">Bạn hiện đang ở khu vực nào?</string>
+    <string name="not_recieve_voice">Không thể nhận dữ liệu!</string>
+    <string name="listening">Chúng tôi đang lắng nghe..</string>
+    <string name="search_result">Kết quả tìm kiếm</string>
+    <string name="speak_phone">Bạn vui lòng đọc số điện thoại nhận hàng</string>
+    <string name="speak_name">Bạn vui lòng đọc tên người nhận hàng</string>
+    <string name="speak_address">Bạn vui lòng đọc địa chỉ nhận hàng</string>
+    <string name="wrong_phone_number">Số điện thoại không chính xác</string>
+    <string name="title_vaucher">Áp dụng mã voucher</string>
+    <string name="enter_voucher">Mời nhập mã voucher của bạn</string>
+    <string name="apply">Áp dụng</string>
+    <string name="voucher_value">Mã voucher của bạn có giá trị</string>
+    <string name="voucher_not_available">Mã voucher không hợp lệ</string>
+    <string name="not_apply_voucher">Không áp dụng</string>
+    <string name="current_voucher">Bạn đang áp dụng mã voucher:</string>
+    <string name="total_money_final_vat">Thành tiền (VAT)</string>
+    <string name="ok_to_exit">Nhấn OK để thoát</string>
+    <string name="click_to_voice">Chọn vào đây để tìm kiếm bằng giọng nói</string>
+    <string name="current_place">Vị trí:</string>
+    <string name="space">Dấu cách</string>
+    <string name="choose_order_location">Chọn vị trí khác</string>
+    <string name="start_voucher_day">Áp dụng từ ngày</string>
+    <string name="stop_voucher_day">đến ngày</string>
+    <string name="use_in_purchase">Bạn có thể sử dụng Mã voucher\nở phần thanh toán</string>
+    <string name="original">Xuất xứ:</string>
+    <string name="down_to_show_deatail">Nhấn xuống dưới để xem chi tiết</string>
+    <string name="title_voucher">Danh sách Voucher</string>
+    <string name="no">Không</string>
+    <string name="yes">Có</string>
+    <string name="ask_to_use_voucher">Bạn có muốn sử dụng voucher giảm giá không?</string>
+    <string name="connect_remote_voice">Vui lòng kết nối thiết bị với điều khiển từ xa</string>
+    <string name="max_voucher_value">Tối đa</string>
+    <string name="orther">Khác</string>
+    <string name="no_thanks">Không, cảm ơn</string>
+    <string name="no_voucher_can_apply">Không tìm thấy voucher có thể áp dụng</string>
+    <string name="back_to_close">Nhấn  ←  để quay lại</string>
+    <string name="quickpay">ĐẶT HÀNG NHANH</string>
+    <string name="confirm_quickpay">Xác nhận thông tin</string>
+    <string name="edit">Sửa</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="quickpay_info">Chúng tôi sẽ liên hệ quý khách trong thời gian sớm nhất</string>
+    <string name="no_info">Chưa có thông tin giao hàng. Mời bạn đổi thông tin giao hàng</string>
+    <string name="only_online">Sản phẩm %1$s chỉ hỗ trợ thanh toán online</string>
+    <string name="confirm_delivery_info">Xác nhận thông tin giao hàng</string>
+    <string name="enter_your_infomation">Vui lòng nhập đầy đủ thông tin</string>
+    <string name="don_hang__">Đơn hàng </string>
+    <string name="da_duoc_giao_thanh_cong">" đã được giao thành công ngày "</string>
+    <string name="vui_long_de_lai_danh_gia_cua_ban">Vui lòng để lại đánh giá của bạn</string>
+    <string name="danh_gia_san_pham_all_caps">ĐÁNH GIÁ SẢN PHẨM</string>
+    <string name="choose_all_caps">CHỌN</string>
+    <string name="danh_gia_low_case">Đánh giá</string>
+    <string name="text_xoa_all_caps">XOÁ</string>
+    <string name="ban_chua_co_sp_nao_trong_danh_sach_yeu_thich">Bạn chưa có sản phẩm yêu thích nào trong danh sách</string>
+    <string name="nhan">Nhấn</string>
+    <string name="de_mo_voice_assistant">để mở Voice Assistant</string>
+    <string name="_hotline">Hotline</string>
+    <string name="_19001900">19001900</string>
+    <string name="thong_tin_sp">Thông tin sản phẩm</string>
+
+    <string name="text_button_home">Trang chủ</string>
+    <string name="text_button_account">Tài khoản của tôi</string>
+    <string name="text_button_order">Quản lý đơn hàng</string>
+    <string name="text_button_wish_list">Sản phẩm yêu thích</string>
+    <string name="text_button_info">Thông tin</string>
+    <string name="text_button_contact">Liên hệ</string>
+    <string name="text_button_notification">Thông báo</string>
+    <string name="text_button_buy_later">Sản phẩm mua sau</string>
+    <string name="text_button_signout">Đăng xuất</string>
+    <string name="text_button_phone">Số điện thoại</string>
+    <string name="text_button_fb">Facebook</string>
+    <string name="text_button_email">Email</string>
+    <string name="text_welcome">Xin chào %s, %s, tôi có thể giúp gì cho bạn</string>
+    <string name="text_delivery_now">Giao hàng tận nơi hoặc nhận hàng ở cửa hàng</string>
+    <string name="phone_invalid">Số điện thoại không đúng, vui lòng đọc lại</string>
+    <string name="phone_require">Vui lòng nhập số điện thoại</string>
+    <string name="guild_speak">Vui lòng đọc sau tiếng bíp</string>
+    <string name="listen_error">Nếu bạn nói rõ hơn, thì tôi có thể hiểu bạn đấy</string>
+
+    <string name="text_not_match_intent">Xin lỗi, tôi không hiểu câu nói của bạn, đây là các dòng sản phẩm chúng tôi đang bán</string>
+    <string name="text_product_out_stock">Xin lỗi, hiện tại sản phẩm này tạm hết hàng, mời bạn chọn sản phẩm khác</string>
+    <string name="text_open_assistant">để mở trợ lý ảo</string>
+    <string name="text_open_cart">để thanh toán</string>
+
+    <string name="text_login_guild">Đăng nhập để theo dõi đơn hàng, \n lưu danh sách sản phẩm yêu thích, nhận nhiều ưu đãi hấp dẫn.</string>
+    <string name="text_input_phone_login">VUI LÒNG NHẬP SỐ ĐIỆN THOẠI và MẬT KHẨU.</string>
+    <string name="password">Nhập mật khẩu</string>
+
+
+    <string name="simple_ime">Simple IME</string>
+    <string name="subtype_en_US">English (US)</string>
+    <string name="text_more_products"> và %d sản phẩm khác</string>
+
+    <string name="text_sign_out_app">Bạn có chắc muốn đăng xuất khỏi tài khoản?</string>
+    <string name="text_wish_list_confirm">Bạn có muốn thêm “%1$s” vào giỏ hàng</string>
+
+    <string name="text_hello">Hello</string>
+    <string name="text_input_google_login">VUI LÒNG vào đường dẫn bên dưới bằng thiết bị khác nhập mã xác thực để đăng nhập</string>
+    <string name="text_input_sub_google_login">OMNI shop sẽ tự động đăng nhập sau khi xác thực</string>
+    <string name="text_link_auth">Link xác thực</string>
+    <string name="text_code_auth">Mã xác thực</string>
+    <string name="new_password">Nhập mật khẩu mới</string>
+    <string name="text_timeout_auth">Hết hạn sau</string>
+    <string name="confirm_new_password">Nhập lại mật khẩu mới</string>
+    <string name="text_het_han_login">Hết hạn đăng nhập</string>
+    <string name="text_xac_dinh_sau">Xác nhận sau</string>
+    <string name="text_da_thanh_toan">Đã thanh toán</string>
+    <string name="supplier_name">Nhà cung cấp: %1$s</string>
+
+    <string name="store">Cửa hàng</string>
+    <string name="text_xem_chi_tiet">Xem chi tiết ></string>
+    <string name="text_tong_sp">Tổng %1$s sản phẩm</string>
+
+    <string name="text_ten_nha_cung_cap">Nhà cung cấp: %1$s</string>
+    <string name="text_so_sp">%1$s sản phẩm</string>
+    <string name="text_bam_ok_chi_tiet_don_hang_nha_cung_cap">Bấm OK để xem chi tiết đơn hàng và nhà cung cấp.</string>
+    <string name="text_bum_ok_de_xem_chi_tiet_n_voucher">Bấm OK để xem chi tiết và chọn voucher</string>
+    <string name="text_bum_ok_de_xem_chi_tiet_ngay_giao">Bấm OK để xem chi tiết ngày dự kiến giao hàng</string>
+    <string name="text_chi_tiet_thanh_toan_uu_dai">Chi tiết thanh toán &amp; ưu đãi voucher</string>
+    <string name="text_chi_tiet_ngay_ngay_du_kien_don_hang">chi tiết ngày dự kiến giao hàng của các nhà cung cấp</string>
+
+    <string name="text_number_item">%1$s sản phẩm</string>
+    <string name="text_shipping_time">Dự kiến giao hàng: %1$s</string>
+    <string name="text_chi_tiet_don_hang">chi tiết đơn hàng</string>
+    <string name="text_chon_coucher">chọn voucher</string>
+
+    <string name="text_chon_lai_voucher">Voucher hiện tại không thể áp dụng cho đơn hàng, bạn có muốn chọn voucher khác?</string>
+    <string name="text_quantity">Số lượng: %1$s</string>
+    <string name="text_order_by_supplier">chi tiết đơn hàng theo các nhà cung cấp</string>
+    <string name="no_reciever_name">Bạn chưa nhập tên người nhận</string>
+    <string name="no_reciever_address">Bạn chưa nhập địa chỉ giao hàng</string>
+    <string name="re_new">Làm mới</string>
+
+    <string name="milestone_order_information">Thông tin đơn hàng</string>
+    <string name="milestone_payment_method">Phương thức thanh toán</string>
+    <string name="milestone_result">Kết quả</string>
+    <string name="milestone_processing">@string/text_dang_xu_ly_</string>
+    <string name="milestone_delivering">@string/text_dang_van_chuyen</string>
+    <string name="milestone_delivered">@string/text_da_giao_hang</string>
+    <string name="milestone_phone">@string/so_dien_thoai</string>
+    <string name="milestone_name">Tên người nhận hàng</string>
+    <string name="milestone_address">Địa chỉ nhận hàng</string>
+    <string name="milestone_choose_city">@string/text_chon_thanh_pho_tinh</string>
+    <string name="milestone_choose_province">@string/text_chon_quan_huyen</string>
+    <string name="milestone_fill_address">@string/text_dia_chi</string>
+    <string name="milestone_confirm_order">Xác nhận đơn hàng</string>
+    <string name="txt_login_success">Chào mừng bạn trở lại với OMNI Shop</string>
+
+
+    <string name="txt_order_payment_pending">Chờ thanh toán</string>
+    <string name="txt_order_processing">Đang xử lý</string>
+    <string name="txt_order_delivering">Đang vận chuyển</string>
+    <string name="txt_order_delivered">Đã giao hàng</string>
+    <string name="txt_order_cancelled">Đã huỷ</string>
+    <string name="txt_order_returning">Đang hoàn trả</string>
+    <string name="txt_order_refunded">Hoàn tiền</string>
+
+    <string name="btn_add_to_cart">Mua sau</string>
+    <string name="btn_detail">Chi tiết</string>
+    <string name="bnt_buy_now">Mua ngay</string>
+
+    <string name="text_brandshop_name">Cửa hàng:</string>
+    <string name="text_to_turn">để trở về</string>
+    <string name="text_press">Bấm</string>
+    <string name="text_added_successful">Sản phẩm đã thêm vào giỏ hàng thành công</string>
+    <string name="text_to_exit">để thoát</string>
+    <string name="text_to_choose_list">để chọn danh sách</string>
+    <string name="text_to_go_to_cart">để đến trang giỏ hàng</string>
+    <string name="text_to_choose_voucher">để chọn voucher ưu đãi khác</string>
+
+    <string name="tv_empty_cart">Giỏ hàng đang trống. Nói tôi biết bạn muốn mua sản phẩm gì nhé. </string>
+    <string name="tv_which_product_select_add_to_cart">Bạn muốn chọn sản phẩm số mấy?</string>
+    <string name="tv_which_product_select">Bạn muốn xem chi tiết sản phẩm số mấy?</string>
+    <string name="tv_no_product_selected">Chưa có sản phẩm được chọn. Bạn vui lòng chọn sản phẩm muốn xem chi tiết thông tin nhé</string>
+    <string name="tv_product_add_to_cart">Sản phẩm đã được thêm vào giỏ hàng</string>
+    <string name="lanCode">vi-VN</string>
+    <string name="product_quantity">Số lượng: %1$s</string>
+    <string name="input_phone">Nhập số điện thoại</string>
+    <string name="live_stream_product_count">%1$s sản phẩm</string>
+    <string name="choose_fill_voucher">Chọn / nhập voucher</string>
+    <string name="oder_id">Đơn hàng: %1$s</string>
+    <string name="count_products">%1$s sản phẩm</string>
+    <string name="view_detail_favourtite_product">Xem chi tiết (%1$ss)</string>
+    <string name="hiding_after_moment">Sẽ ẩn sau (%1$ss)</string>
+
+    <string name="txt_confirm_understand">Tôi đã hiểu</string>
+    <string name="text_order_date">Bạn đã đặt %1$s đơn hàng %2$s trong %3$s ngày</string>
+
+</resources>

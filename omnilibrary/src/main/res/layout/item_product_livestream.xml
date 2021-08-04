@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:id="@+id/rl_content"
+            android:layout_width="@dimen/_90sdp"
+            android:layout_height="@dimen/_121sdp"
+            android:background="@color/color_product_background"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_24sdp"
+                android:layout_margin="@dimen/_3sdp">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_7ssp"
+                    app:type="medium" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:orientation="horizontal">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/sale_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:textColor="@color/color_41AE96"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="bold" />
+
+
+                    <com.bda.omnilibrary.views.SfStrikeTextView
+                        android:id="@+id/list_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:maxLines="1"
+                        android:textColor="@color/gray_AAAAAA"
+                        android:textSize="@dimen/_6ssp"
+                        android:visibility="visible"
+                        app:type="medium" />
+
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <com.google.android.material.card.MaterialCardView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/color_transparent"
+                android:theme="@style/ItemStyle"
+                app:cardBackgroundColor="@color/color_transparent"
+                app:cardCornerRadius="@dimen/_6sdp"
+                app:cardElevation="0dp"
+                app:cardPreventCornerOverlap="true">
+
+                <RelativeLayout
+                    android:id="@+id/layout_category"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:text="@string/app_name"
+                        android:textColor="@color/title_grey_a6a6a6"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="bold" />
+
+                    <ImageView
+                        android:id="@+id/image_category"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="centerCrop" />
+
+                </RelativeLayout>
+            </com.google.android.material.card.MaterialCardView>
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

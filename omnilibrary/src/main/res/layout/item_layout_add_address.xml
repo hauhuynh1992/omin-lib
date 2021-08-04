@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_customProfile"
+    android:layout_width="match_parent"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:layout_height="wrap_content">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:text="@string/text_dia_chi_giao_hang"
+        android:textAllCaps="true"
+        android:textColor="@color/title_black_black"
+        android:textSize="@dimen/_7ssp"
+        SfView:type="bold" />
+
+    <RelativeLayout
+        android:id="@+id/bn_add"
+        android:layout_width="@dimen/_110sdp"
+        android:layout_height="@dimen/_46sdp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/btn_omi_buttn_selector"
+        android:padding="0dp">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/text_edit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:gravity="center_horizontal"
+            android:text="@string/them_dia_chi_moi"
+            android:textAllCaps="true"
+            android:textColor="@drawable/selector_button_header"
+            android:textSize="@dimen/_7ssp"
+            SfView:type="bold" />
+
+    </RelativeLayout>
+</RelativeLayout>

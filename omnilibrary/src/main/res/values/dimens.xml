@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_alphabet_width">@dimen/_14sdp</dimen>
+    <dimen name="button_alphabet_height">@dimen/_18sdp</dimen>
+
+    <dimen name="layout_padding">@dimen/_25sdp</dimen>
+    <dimen name="card_insets">@dimen/_minus8sdp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

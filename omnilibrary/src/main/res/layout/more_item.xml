@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/_126sdp"
+    android:layout_height="@dimen/_167sdp">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:background="@color/color_transparent"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_110sdp"
+            android:background="@color/title_grey_f4f4f4"
+            android:layout_height="@dimen/_148sdp">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+
+                <ImageView
+                    android:id="@+id/image_category"
+                    android:layout_width="@dimen/_110sdp"
+                    android:layout_height="@dimen/_110sdp"
+                    android:scaleType="centerCrop" />
+
+                <ImageView
+                    android:id="@+id/image_sale_of"
+                    android:layout_width="@dimen/_29sdp"
+                    android:layout_height="@dimen/_29sdp"
+                    android:layout_alignParentRight="true"
+                    android:scaleType="centerCrop" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/image_category"
+                    android:layout_marginLeft="@dimen/_5sdp"
+                    android:layout_marginRight="@dimen/_5sdp"
+                    android:orientation="vertical">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/name"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_3sdp"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:textColor="@color/title_black"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="regular" />
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/sale_price"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:ellipsize="end"
+                            android:gravity="center_vertical"
+                            android:maxLines="1"
+                            android:textColor="@color/title_black"
+                            android:textSize="@dimen/_9ssp"
+                            app:type="bold" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_marginTop="@dimen/_3sdp"
+                            android:background="@mipmap/bag"
+                            android:visibility="gone" />
+                    </RelativeLayout>
+
+                    <com.bda.omnilibrary.views.SfStrikeTextView
+                        android:id="@+id/list_price"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="@dimen/_4sdp"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:textColor="@color/title_discount_item"
+                        android:textSize="@dimen/_5ssp"
+                        app:type="regular" />
+
+                </LinearLayout>
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

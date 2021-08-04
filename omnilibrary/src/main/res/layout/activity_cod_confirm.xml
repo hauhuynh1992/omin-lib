@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_product_detail"
+    tools:context=".ui.orderDetail.OrderActivity">
+
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:orientation="horizontal"
+        android:weightSum="35">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_56sdp"
+            android:layout_marginEnd="@dimen/_12sdp"
+            android:layout_weight="12.5"
+            android:orientation="vertical">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_12sdp"
+                android:text="@string/text_tom_tat_don_hang"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/_8ssp"
+                app:type="bold" />
+
+            <LinearLayout
+                android:id="@+id/ln_delivery"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_marginStart="@dimen/_12sdp"
+                android:layout_marginTop="@dimen/_12sdp"
+                android:background="@mipmap/image_receipt"
+                android:clipToPadding="false"
+                android:orientation="vertical"
+                android:visibility="visible"
+                android:weightSum="2">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/title_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:text="@string/text_thanh_tien_vat"
+                            android:textColor="@color/color_gray_1E2432"
+                            android:textSize="@dimen/_7ssp"
+                            app:type="medium" />
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:textColor="@color/title_black_black"
+                            android:textSize="@dimen/_8ssp"
+                            app:type="bold" />
+
+                    </LinearLayout>
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/_11sdp"
+                        android:layout_marginEnd="@dimen/_11sdp">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_20sdp"
+                            android:layout_marginTop="@dimen/_6sdp"
+                            android:background="@drawable/background_devivery_time"
+                            android:paddingStart="@dimen/_6sdp"
+                            android:paddingEnd="@dimen/_6sdp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerVertical="true"
+                                android:text="@string/text_du_kien_giao_hang"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="medium" />
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/date"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_centerVertical="true"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="bold" />
+
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <!-- </com.google.android.material.card.MaterialCardView>-->
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/con_qr"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="22.5"
+            android:orientation="vertical">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_56sdp"
+                android:text="@string/text_xac_nhan_thong_tin_giao_hang"
+                android:textColor="@color/title_black_black"
+                android:textSize="@dimen/_10ssp"
+                app:type="bold" />
+
+            <RelativeLayout
+                android:id="@+id/rl_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/name"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:paddingTop="@dimen/_3sdp"
+                android:paddingBottom="@dimen/_3sdp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_10sdp"
+                    android:layout_marginRight="@dimen/_10sdp"
+                    android:background="@null"
+                    android:orientation="vertical">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="medium" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_phone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_2sdp"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+
+                        android:maxLines="2"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="medium" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_address"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_1sdp"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="medium" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_district"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_1sdp"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:paddingBottom="@dimen/_2sdp"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="medium" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_delivery_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_1sdp"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:paddingBottom="@dimen/_2sdp"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="medium" />
+                </LinearLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_info"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_5sdp">
+
+                <!--<com.bda.omnilibrary.views.SfButton
+                    android:id="@+id/btn_remove"
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_18sdp"
+                    android:layout_marginEnd="@dimen/_10sdp"
+                    android:background="@drawable/main_button_selector"
+                    android:nextFocusLeft="@+id/btn_remove"
+                    android:text="Đổi thông tin"
+                    android:textColor="@color/title_white"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="bold" />
+
+                <com.bda.omnilibrary.views.SfButton
+                    android:id="@+id/btn_choose"
+                    android:layout_width="@dimen/_100sdp"
+                    android:layout_height="@dimen/_18sdp"
+                    android:layout_toEndOf="@+id/btn_remove"
+                    android:background="@drawable/main_button_selector"
+                    android:nextFocusLeft="@+id/btn_remove"
+                    android:nextFocusRight="@+id/btn_choose"
+                    android:text="Xác nhận"
+                    android:textColor="@color/title_white"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="bold" />-->
+
+                <LinearLayout
+                    android:id="@+id/btn_remove"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/item_btn_remove"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_3sdp"
+                        android:layout_marginTop="@dimen/_2sdp"
+                        android:layout_marginEnd="@dimen/_3sdp"
+                        android:layout_marginBottom="@dimen/_5sdp"
+                        android:background="@color/color_transparent"
+                        android:outlineAmbientShadowColor="@color/text_black_70"
+                        android:outlineSpotShadowColor="@color/text_black_70"
+                        android:theme="@style/ItemStyle"
+                        app:cardBackgroundColor="@color/color_transparent"
+                        app:cardCornerRadius="@dimen/_3sdp"
+                        app:cardElevation="@dimen/_1sdp"
+                        app:cardPreventCornerOverlap="true"
+                        app:cardUseCompatPadding="true">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/text_btn_remove"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:background="@drawable/background_button_header_collection"
+                            android:gravity="center"
+                            android:paddingStart="@dimen/_8sdp"
+                            android:paddingTop="@dimen/_5sdp"
+                            android:paddingEnd="@dimen/_8sdp"
+                            android:paddingBottom="@dimen/_5sdp"
+                            android:text="@string/text_doi_thong_tin"
+                            android:textAllCaps="true"
+                            android:textColor="@drawable/selector_button_header"
+                            android:textSize="@dimen/_7ssp"
+                            app:type="bold" />
+
+                    </com.google.android.material.card.MaterialCardView>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/btn_choose"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_5sdp"
+                    android:layout_toEndOf="@+id/btn_remove"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:orientation="vertical">
+
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/item_btn_choose"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_3sdp"
+                        android:layout_marginTop="@dimen/_2sdp"
+                        android:layout_marginEnd="@dimen/_3sdp"
+                        android:layout_marginBottom="@dimen/_5sdp"
+                        android:background="@color/color_transparent"
+                        android:outlineAmbientShadowColor="@color/text_black_70"
+                        android:outlineSpotShadowColor="@color/text_black_70"
+                        android:theme="@style/ItemStyle"
+                        app:cardBackgroundColor="@color/color_transparent"
+                        app:cardCornerRadius="@dimen/_3sdp"
+                        app:cardElevation="@dimen/_1sdp"
+                        app:cardPreventCornerOverlap="true"
+                        app:cardUseCompatPadding="true">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/text_btn_choose"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:background="@drawable/background_button_header_collection"
+                            android:gravity="center"
+                            android:paddingStart="@dimen/_8sdp"
+                            android:paddingTop="@dimen/_5sdp"
+                            android:paddingEnd="@dimen/_8sdp"
+                            android:paddingBottom="@dimen/_5sdp"
+                            android:text="@string/text_xac_nhan_lowcap"
+                            android:textAllCaps="true"
+                            android:textColor="@drawable/selector_button_header"
+                            android:textSize="@dimen/_7ssp"
+                            app:type="bold" />
+
+                    </com.google.android.material.card.MaterialCardView>
+                </LinearLayout>
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <include
+        android:id="@+id/image_header"
+        layout="@layout/item_header_screen" />
+
+</RelativeLayout>

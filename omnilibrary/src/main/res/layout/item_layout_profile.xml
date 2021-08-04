@@ -1,0 +1,236 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_customProfile"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_8sdp"
+        android:text="@string/thong_tin_khach_hang"
+        android:textAllCaps="true"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_7ssp"
+        SfView:type="bold" />
+
+    <RelativeLayout
+        android:id="@+id/layout_invoice_item_content"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_88sdp"
+        android:layout_below="@+id/tv_title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_8sdp"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:layout_marginRight="@dimen/_8sdp"
+        android:layout_marginBottom="@dimen/_10sdp">
+
+        <RelativeLayout
+            android:id="@+id/rl_info"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_88sdp"
+            android:background="@drawable/round_background_new"
+            android:paddingLeft="@dimen/_11sdp"
+            android:paddingTop="@dimen/_7sdp"
+            android:paddingRight="@dimen/_11sdp"
+            android:paddingBottom="@dimen/_7sdp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:id="@+id/ll_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_name_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_uid"
+                        android:layout_centerVertical="true"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+                        android:text="@string/ho_va_ten_2_cham"
+                        android:textColor="@color/title_black_0A0F06"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="regular" />
+
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_uid"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/_6sdp"
+                        android:layout_toRightOf="@+id/tv_name_title"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+                        android:maxLines="2"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="bold" />
+
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_6sdp">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/transparent"
+                        android:ellipsize="end"
+
+                        android:maxLines="1"
+                        android:text="@string/dien_thoai_2_cham"
+                        android:textColor="@color/title_black_0A0F06"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="regular" />
+
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_phone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_uid"
+                        android:layout_marginLeft="@dimen/_6sdp"
+                        android:background="@android:color/transparent"
+
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_6sdp">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_uid"
+                        android:background="@android:color/transparent"
+                        android:text="@string/email_2_cham"
+                        android:textColor="@color/title_black_0A0F06"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="regular" />
+
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_email"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_uid"
+                        android:layout_marginLeft="@dimen/_6sdp"
+                        android:background="@android:color/transparent"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_gender"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_6sdp">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_uid"
+                        android:background="@android:color/transparent"
+                        android:text="@string/gioi_tinh_2_cham"
+                        android:textColor="@color/title_black_0A0F06"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="regular" />
+
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_gender"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_uid"
+                        android:layout_marginLeft="@dimen/_6sdp"
+                        android:background="@android:color/transparent"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="bold" />
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:id="@+id/ll_birth_day"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_uid"
+                    android:layout_marginTop="@dimen/_6sdp">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/title_birthday"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:background="@android:color/transparent"
+                        android:text="@string/ngay_sinh_2_cham"
+                        android:textColor="@color/title_black_0A0F06"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="regular" />
+
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_birth_day"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+
+                        android:layout_marginLeft="@dimen/_6sdp"
+                        android:layout_toRightOf="@+id/title_birthday"
+                        android:background="@android:color/transparent"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_7ssp"
+                        SfView:type="bold" />
+
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/bn_edit"
+            android:layout_width="@dimen/_80sdp"
+            android:layout_height="@dimen/_46sdp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginRight="@dimen/_minus7sdp"
+            android:layout_marginBottom="@dimen/_minus10sdp"
+            android:background="@drawable/btn_omi_buttn_medium_selector"
+            android:padding="0dp">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/text_edit"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:gravity="center_horizontal"
+                android:text="@string/chinh_sua"
+                android:textAllCaps="true"
+                android:textColor="@drawable/selector_button_header"
+                android:textSize="@dimen/_7ssp"
+                app:type="bold" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+</RelativeLayout>

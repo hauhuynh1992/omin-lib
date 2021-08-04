@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_cover_present"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/item_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:id="@+id/rl_image"
+            android:layout_width="@dimen/_81sdp"
+            android:layout_height="@dimen/_81sdp"
+            android:background="@color/background_product_detail">
+
+            <ImageView
+                android:id="@+id/img_item_detail"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+
+            <View
+                android:id="@+id/view_cover"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/title_transparentblack_80000000"
+                android:visibility="gone" />
+
+            <ImageView
+                android:id="@+id/img_play"
+                android:layout_width="@dimen/_12sdp"
+                android:layout_height="@dimen/_12sdp"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="@dimen/_6sdp"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

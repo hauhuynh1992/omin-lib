@@ -1,0 +1,2376 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "uid": "0x13be4d",
+            "collection_name": "Trang điểm",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be4e",
+            "collection_name": "Chăm sóc da mặt",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be4f",
+            "collection_name": "Chăm sóc tóc",
+            "count_items": 14,
+            "products": [
+                {
+                    "uid": "0x119067",
+                    "sku_id": "20000009",
+                    "product_name": "DẦU GỘI ARGAN NUÔI DƯỠNG TÓC_ SIMPLY ESSENTIALS 400ML",
+                    "display_name": "Dầu gội ARGAN dưỡng tóc (400ml)",
+                    "display_name_detail": "Dầu gội ARGAN dưỡng tóc_ SIMPLY ESSENTIALS 400ML",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119067/image_cover.1589259790639.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Chăm sóc da đầu và nuôi dưỡng tóc. Phục hồi độ mềm mại, tóc tràn đầy sức sống. Phù hợp cho tóc hư tổn, hiệu quả hơn cho da nhờn.",
+                    "keywords": "dầu gội,  argan, tóc simply essentials, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 371,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Chăm sóc da đầu và nuôi dưỡng tóc, phục hồi độ mềm mại, tóc tràn đầy sức sống, phù hợp cho tóc hư tổn, hiệu quả hơn cho da nhờn.<br>\nDầu Argan còn gọi là vàng lỏng, là bí quyết dưỡng tóc đặc biệt của người&nbsp;Maroc, châu Phi với nhiều công dụng hữu ích cho mái tóc: mềm mại, chắc khỏe và bóng mượt.<br>\nSimply Essentials khai thác triệt để những ưu điểm của dầu Argan (giàu&nbsp;vitamin E, giàu chất chống oxy hóa, nhiều khoáng chất, dưỡng ẩm), nuôi dưỡng và phục hồi từ bên trong mái tóc (khô xơ, hư tổn), hạn chế tóc gãy, rụng. Tóc sẽ trở nên mềm mại, tràn đầy sức sống sau mỗi lần sử dụng.<br>\nDùng chung với dầu xả Argan nuôi dưỡng tóc - Simply Essentials để mang lại&nbsp;kết quả tốt nhất.<br>\nGiá trị nhân đạo và lợi ích cộng đồng: Sản phẩm không thí nghiệm trên động vật.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 110000,
+                        "listed_price_with_vat": 110000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x12c84e",
+                        "brand_name": "SIMPLY ESSENTIALS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119067/thumb.1589259790640.jpeg",
+                            "source": "images/0x119067/source.1589259790641.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119070",
+                    "sku_id": "20000011",
+                    "product_name": "DẦU GỘI KERATIN PHỤC HỒI TÓC_ SIMPLY ESSENTIALS 400ML",
+                    "display_name": "Dầu gội KERATIN phục hồi tóc (400ml)",
+                    "display_name_detail": "Dầu gội KERATIN phục hồi tóc_ SIMPLY ESSENTIALS 400ML",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119070/image_cover.1589259868940.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Tăng cường phục hồi, chăm sóc tóc. Giúp tóc chắc khỏe và đầy sức sống. Phù hợp cho mọi loại tóc",
+                    "keywords": "dầu gội,  keratin, tóc simply essentials, mỹ phẩm, chăm sóc cá nhân",
+                    "viewcount": 26,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Tăng cường phục hồi, chăm sóc tóc, giúp tóc chắc khỏe và đầy sức sống, phù hợp cho mọi loại tóc.<br>\nViệc chải nhiều, sấy khô tóc hàng ngày, hoặc uốn hay duỗi cũng khiến tóc trở nên mỏng hơn, khô hơn, xỉn màu và dễ gãy hơn. Do đó, dầu gội Keratin mang lại những dưỡng chất quan trọng đối với sức khỏe của tóc: chăm sóc tóc, giúp tóc tăng cường phục hồi, chắc khỏe và đầy sức sống.<br>\nDùng chung với dầu xả Keratin phục hồi tóc - Simply Essentials để mang lại kết quả tốt nhất.<br>\nXuất xứ: Châu Âu<br>\nGiá trị nhân đạo và lợi ích cộng đồng: Sản phẩm không thí nghiệm trên động vật.<br>\nThành phần chính:<br>\nKeratin- thành phần chính của tóc-<br>\nKeratin chiếm 85% thành phần cấu tạo nên tóc. Sản phẩm cung cấp keratin giúp cho mái tóc của bạn trông quyến rũ và đầy sức sống hơn.<br>\nD-panthenol<br>\nĐây là một loại vitamin B5 tổng hợp giúp phục hồi và tái tạo biểu bì, bao gồm cả điều trị cho các nang tóc và ngăn ngừa rụng tóc.<br>\nBơ hạt mỡ<br>\nBảo vệ da đầu khỏi sự khô ráp, kích thích mọc tóc.<br>\nDầu bơ Dưỡng ẩm cho tóc, kích tóc mọc nhanh và ngăn tóc gãy rụng.<br>\nTăng &nbsp;&nbsp;cường phục hồi, chăm sóc tóc<br>\nGiúp tóc chắc khỏe và đầy sức sống<br>\nPhù hợp cho mọi loại tóc<br>\nViệc chải nhiều, sấy khô tóc hàng ngày, hoặc uốn hay duỗi cũng khiến tóc trở nên mỏng hơn, khô hơn, xỉn màu và dễ gãy hơn. Do đó, dầu gội Keratin mang lại những dưỡng chất quan trọng đối với sức khỏe của tóc: chăm sóc tóc, giúp tóc tăng cường phục hồi, chắc khỏe và đầy sức sống.<br>\nDùng chung với dầu xả Keratin phục hồi tóc - Simply Essentials để mang lại kết quả tốt nhất.<br>\nXuất xứ: Châu Âu<br>\nGiá trị nhân đạo và lợi ích cộng đồng: Sản phẩm không thí nghiệm trên động vật.<br>\nThành phần chính:<br>\nKeratin- thành phần chính của tóc-<br>\nKeratin chiếm 85% thành phần cấu tạo nên tóc. Sản phẩm cung cấp keratin giúp cho mái tóc của bạn trông quyến rũ và đầy sức sống hơn.<br>\nD-panthenol<br>\nĐây là một loại vitamin B5 tổng hợp giúp phục hồi và tái tạo biểu bì, bao gồm cả điều trị cho các nang tóc và ngăn ngừa rụng tóc.<br>\nBơ hạt mỡ<br>\nBảo vệ da đầu khỏi sự khô ráp, kích thích mọc tóc.<br>\nDầu bơ Dưỡng ẩm cho tóc, kích tóc mọc nhanh và ngăn tóc gãy rụng.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 110000,
+                        "listed_price_with_vat": 110000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x12c84e",
+                        "brand_name": "SIMPLY ESSENTIALS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119070/thumb.1589259868941.jpeg",
+                            "source": "images/products/0x119070/source_1590049728107.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119078",
+                    "sku_id": "20000014",
+                    "product_name": "KEM NHUỘM TÓC PREMIUM FASHION 07 VÀNG VỪA 50ML",
+                    "display_name": "Kem nhuộm tóc Premium Fashion vàng nâu (50ml)",
+                    "display_name_detail": "Kem nhuộm tóc Premium Fashion 07 vàng nâu 50ml",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119078/image_cover.1589260136029.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bền màu, đều màu và bóng sáng. Giữ màu tươi sáng lâu dài. Màu vàng nâu thời trang và phủ bạc tóc 100%.",
+                    "keywords": "kem nhuộm,  tóc, fashion vàng vừa, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 36,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Phòng thí nghiệm chuyên nghiệp của RUBELLA “STYLE INNOVATION” đã phát triển một hợp chất mới Q10 Repair &amp; Protect dành cho kem nhuộm tóc PREMIUM FASHION, giúp mái tóc nhuộm của bạn chắc khỏe và đẹp tự nhiên.</p>\n<p>Mặt khác sự kết hợp có chọn lọc của Coenzyme Q10, axit Oleic và Vitamin C, hợp chất Q10 Repair &amp; Protect trong kem nhuộm tóc PREMIUM FASHION, ngăn ngừa sự lão hóa và duy trì sức sống tươi trẻ giúp tóc bạn dễ dàng lên màu và&nbsp;giữ màu luôn tươi mới.</p>\n<p>Tóc sẽ nhanh chóng phục hồi sự chắc khỏe, bóng sáng và đầy sức sống nhờ công thức đặc biệt của chất oxy hóa chứa Peptide trong gạo có trong sản phẩm.</p>\n<p>Dầu thực vật tự nhiên góp phần giúp tóc không bị thô ráp, tóc mềm mại và bóng&nbsp;bẩy hơn.</p>\n<p>Đặc biệt, sản phẩm không gây ngứa rát trong quá trình nhuộm.</p>\n<p>Sản phẩm đạt chứng nhận hữu cơ. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 165000,
+                        "listed_price_with_vat": 165000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x12c852",
+                        "brand_name": " PREMIUM FASHION"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x119078/thumb_1590049460631.jpeg",
+                            "source": "images/0x119078/source.1589260136030.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11907a",
+                    "sku_id": "20000015",
+                    "product_name": "DẦU GỘI TRỊ GÀU TOP TEN 250ML",
+                    "display_name": "Dầu gội trị gàu TOPTEN (250ml)",
+                    "display_name_detail": "Dầu gội trị gàu TOPTEN (250ml)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11907a/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dầu gội trị gàu TOPTEN làm sạch da đầu, loại bỏ 100% các mảng gàu thấy được. Có thể sử dụng hàng ngày. Đã được kiểm nghiệm da liễu.",
+                    "keywords": "dầu gội,  trị, gàu top ten, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 38,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Công thức đặc biệt loại bỏ gàu đến 100% .</p>\n<p>Thích hợp cho mọi loại tóc .</p>\n<p>Có thể sử dụng hàng ngày.</p>\n<p>&nbsp;Đã được kiểm nghiệm da liễu.</p>\n<p>&nbsp;Dầu gội trị gàu TOPTEN làm sạch da đầu, loại bỏ 100 % các mảng gàu thấy được.&nbsp;</p>\n<p>Với công thức đặc biệt từ than hoạt tính, Caffeine và Zinc Pyrithione, bạn sẽ cảm nhận rõ rệt tình trạng cải thiện của da đầu và gàu được loại bỏ dần chỉ sau 4 tuần gội.</p>\n<p>Than hoạt tính làm sạch da đầu và giảm nhờn Caffeine giúp giảm rụng tóc Zinc Pyrithione loại bỏ gàu.</p>\n<p>Xuất xứ: Châu Âu.</p>\n<p>Sản phẩm đạt chứng nhận hữu cơ.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 110000,
+                        "listed_price_with_vat": 110000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b81d",
+                        "brand_name": "TOP TEN"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11907a/thumb.1588136584315.jpg",
+                            "source": "images/0x11907a/source.1588146259214.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119082",
+                    "sku_id": "    ",
+                    "product_name": "Combo 1 nhuộm Fashion 02 + 2 chai Gội xả Argan S-Essential",
+                    "display_name": "Combo 1 nhuộm Fashion + 2 chai gội xả ARGAN",
+                    "display_name_detail": "Combo 1 nhuộm Premium Fashion 02 xanh đen + 1 bộ Argan Simply Essential (Gội + Xả) ",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119082/image_cover.487f7b22f68312d2c1bbc93b1aea445b.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 3 sản phẩm gội -xả- nhuộm bảo về và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                    "promotion_desc": "Combo 1 nhuộm +1 gội +1 xả.",
+                    "keywords": "combo 1 nhuộm,  nhuộm fashion, xả argan s, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 188,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 299000,
+                        "listed_price_with_vat": 385000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b681",
+                        "brand_name": "Song Nguyên"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119084",
+                    "sku_id": "20000019",
+                    "product_name": "KEM NHUỘM TÓC TOP TEN 01 MÀU ĐEN 40ML",
+                    "display_name": "Kem nhuộm tóc TOPTEN  màu đen (40ml)",
+                    "display_name_detail": "Kem nhuộm tóc TOPTEN 01 màu đen (40ml)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119084/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Công thức dịu nhẹ, không chứa amoniac, TOP TEN nhuộm cho tóc, râu và ria mép. Kem nhuộm tóc TOP TEN có chứa hỗn hợp protein và vitamin C, giúp tóc chắc khỏe, bóng sáng và lên màu đen đẹp tự nhiên.",
+                    "keywords": "kem nhuộm,  tóc, ten màu đen, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 35,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Kem nhuộm tóc, râu và ria mép</p>\n<p>Tóc chắc khỏe và lên màu tự nhiên.</p>\n<p>Đảm bảo che phủ tóc với màu đen hoàn hảo.</p>\n<p>Dễ dàng, tiện lợi với 3 bước tự nhuộm đơn giản có trong mỗi hộp.</p>\n<p>Với công thức dịu nhẹ, không chứa amoniac, bạn có thể dùng TOP TEN nhuộm cho tóc, cho râu và cả ria mép.&nbsp;</p>\n<p>Kem nhuộm tóc TOPTEN có chứa hỗn hợp protein và vitamin C, giúp tóc chắc &nbsp;&nbsp;khỏe, bóng sáng và lên màu đẹp tự nhiên.&nbsp;</p>\n<p>Khả năng che phủ tóc bạc là hoàn hảo.&nbsp;</p>\n<p>Xuất xứ: Châu Âu.&nbsp;</p>\n<p>Giá trị nhân đạo và lợi ích cộng đồng: Sản phẩm không thí nghiệm trên động vật.&nbsp;</p>\n<p>Sản phẩm đạt chứng nhận hữu cơ.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 121000,
+                        "listed_price_with_vat": 121000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b81d",
+                        "brand_name": "TOP TEN"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119084/thumb.1588136945760.jpg",
+                            "source": "images/0x119084/source.1588141022880.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11908c",
+                    "sku_id": "    ",
+                    "product_name": "Combo 1 nhuộm Fashion 02 + 2 chai Gội xả Keratin S-Essential",
+                    "display_name": "Combo 1 nhuộm Fashion + 2 chai gội xả KERATIN",
+                    "display_name_detail": "Combo 1 nhuộm Premium Fashion 02 xanh đen + 1 bộ Keratin Simply Essential (Gội+ Xả)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11908c/image_cover.487f7b22f68312d2c1bbc93b1aea445b.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 3 sản phẩm gội -xả- nhuộm bảo về và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang. ",
+                    "promotion_desc": "Combo 1 nhuộm xanh đen + 1 gội+ 1 xả Keratin",
+                    "keywords": "combo 1 nhuộm,  nhuộm fashion, xả keratin s, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 22,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chiết xuất tự nhiên nhập khẩu chẩu Âu. &nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 299000,
+                        "listed_price_with_vat": 385000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b681",
+                        "brand_name": "Song Nguyên"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b824",
+                    "sku_id": "20000020",
+                    "product_name": "KEM NHUỘM TÓC TOP TEN 03 NÂU TỐI 40ML",
+                    "display_name": "Kem nhuộm tóc TOPTEN 03 nâu tối (40ml)",
+                    "display_name_detail": "Kem nhuộm tóc TOPTEN 03 nâu tối (40ml)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b824/image_cover.487f7b22f68312d2c1bbc93b1aea445b.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Công thức dịu nhẹ, không chứa amoniac, TOP TEN nhuộm cho tóc, râu và ria mép. Kem nhuộm tóc TOP TEN có chứa hỗn hợp protein và vitamin C, giúp tóc chắc khỏe, bóng sáng và lên màu nâu đậm đẹp tự nhiên.",
+                    "keywords": "kem nhuộm,  tóc, ten nâu tối, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 14,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "Topten",
+                        "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kem nhuộm tóc, râu và ria mépTóc chắc khỏe và lên màu tự &nbsp;&nbsp;nhiên<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Đảm bảo che phủ tóc với màu nâu đậm hoàn hảo<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Dễ dàng, tiện lợi với 3 bước tự nhuộm đơn giản có trong mỗi hộp<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Với công thức dịu nhẹ, không chứa amoniac, bạn có thể dùng TOP TEN nhuộm &nbsp;&nbsp;cho tóc, cho râu và cả ria mép.<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Kem nhuộm tóc TOP TEN có chứa hỗn hợp protein và vitamin C, giúp tóc chắc &nbsp;&nbsp;khỏe, bóng sáng và lên màu đẹp tự nhiên.<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Khả năng che phủ tóc bạc là hoàn hảo.<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Xuất xứ: Châu Âu<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Giá trị nhân đạo và lợi ích cộng đồng: Sản phẩm không thí nghiệm trên động &nbsp;&nbsp;vật. Sản phẩm đạt chứng nhận hữu cơ. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 121000,
+                        "listed_price_with_vat": 121000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b81d",
+                        "brand_name": "TOP TEN"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ]
+                },
+                {
+                    "uid": "0x13c27c",
+                    "product_name": "Combo 1 chai dầu gội + 1 xả Argan",
+                    "display_name": "Combo 1 dầu gội và xả Argan",
+                    "display_name_detail": "Combo 1 dầu gội và xả Argan",
+                    "color": "#f48024",
+                    "image_cover": "images/0x13c27c/image_cover_1589542679246.jpeg",
+                    "image_highlight": "images/0x13c27c/image_highlight_1589542679247.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 2 sản phẩm dầu gội và dầu xả bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                    "keywords": "dầu gội, dầu xả, Argan",
+                    "viewcount": 195,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 176000,
+                        "listed_price_with_vat": 220000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x12c84e",
+                        "brand_name": "SIMPLY ESSENTIALS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c27c/thumb_1589862478474.jpeg",
+                            "source": "images/products/0x13c27c/source_1589862478476.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c27c/thumb_1589862478475.jpeg",
+                            "source": "images/products/0x13c27c/source_1589862478477.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x13c2a0",
+                    "product_name": "Combo 1 chai dầu gội + 1 xả Keratin",
+                    "display_name": "Combo 1 dầu gội và xả Keratin",
+                    "display_name_detail": "Combo 1 dầu gội và xả Keratin",
+                    "color": "#f48024",
+                    "image_cover": "images/0x13c2a0/image_cover_1589542734328.jpeg",
+                    "image_highlight": "images/0x13c2a0/image_highlight_1589542734329.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 2 sản phẩm dầu gội và dầu xả bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                    "keywords": "dầu gội, dầu xả, Keratin",
+                    "viewcount": 551,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 176000,
+                        "listed_price_with_vat": 220000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x12c84e",
+                        "brand_name": "SIMPLY ESSENTIALS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c2a0/thumb_1589862550123.jpeg",
+                            "source": "images/products/0x13c2a0/source_1589862550124.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x13c2cc",
+                    "product_name": "Combo 2 Nhuộm màu 02- xanh đen ",
+                    "display_name": "Combo 2 kem nhuộm Premium xanh đen",
+                    "display_name_detail": "Combo 2 kem nhuộm Premium Fashion xanh đen",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x13c2cc/image_cover_1589859291997.jpeg",
+                    "image_highlight": "images/products/0x13c2cc/image_highlight_1589859291998.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 2 sản phẩm nhuộm bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                    "promotion_desc": "combo 2 nhuộm tóc màu 02 tiết kiệm 66.000 đồng, giảm 20%.",
+                    "keywords": "nhuộm, nhuộm tóc, xanh đen",
+                    "viewcount": 291,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 264000,
+                        "listed_price_with_vat": 330000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x12c84e",
+                        "brand_name": "SIMPLY ESSENTIALS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ]
+                },
+                {
+                    "uid": "0x13c2d3",
+                    "product_name": "Combo 2 nhuộm màu 07- Vàng nâu",
+                    "display_name": "Combo 2 kem nhuộm Premium vàng nâu",
+                    "display_name_detail": "Combo 2 nhuộm Premium Fashion vàng nâu",
+                    "color": "#f48024",
+                    "image_cover": "images/0x13c2d3/image_cover_1589543250789.jpeg",
+                    "image_highlight": "images/0x13c2d3/image_highlight_1589543250790.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 2 sản phẩm nhuộm bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                    "promotion_desc": "combo 2 nhuộm tóc màu 07 tiết kiệm 66.000 đồng, giảm 20%.",
+                    "keywords": "nhuộm, nhuộm tóc, vàng nâu",
+                    "viewcount": 276,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 264000,
+                        "listed_price_with_vat": 330000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x12c84e",
+                        "brand_name": "SIMPLY ESSENTIALS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c2d3/thumb_1589862721201.jpeg",
+                            "source": "images/products/0x13c2d3/source_1589862721204.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c2d3/thumb_1589862721202.jpeg",
+                            "source": "images/products/0x13c2d3/source_1589862721205.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c2d3/thumb_1589862721203.jpeg",
+                            "source": "images/products/0x13c2d3/source_1589862721206.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x13c2dd",
+                    "product_name": "Combo1 DG Topten trị gàu + 1 ST topten 5 in 1",
+                    "display_name": "Combo TOPTEN dầu gội và sữa tắm 5 in 1",
+                    "display_name_detail": "Combo TOPTEN dầu gội trị gàu + sữa tắm 5 in 1",
+                    "color": "#f48024",
+                    "image_cover": "images/0x13c2dd/image_cover_1589543289665.jpeg",
+                    "image_highlight": "images/0x13c2dd/image_highlight_1589543289666.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 2 sản phẩm dầu gội sữa tắm dành cho phái mạnh. ",
+                    "promotion_desc": "combo dầu gội và sữa tắm tiết kiệm 58.000 đồng, giảm 25%.",
+                    "keywords": "dầu gội, trị gàu, sữa tắm, topten",
+                    "viewcount": 157,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 173000,
+                        "listed_price_with_vat": 231000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b81d",
+                        "brand_name": "TOP TEN"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c2dd/thumb_1589863441500.jpeg",
+                            "source": "images/products/0x13c2dd/source_1589863441502.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c2dd/thumb_1589863441501.jpeg",
+                            "source": "images/products/0x13c2dd/source_1589863441503.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x13c2e0",
+                    "product_name": "Combo 2 nhuộm Toptep 03- Nâu đậm",
+                    "display_name": "Combo 2 kem nhuộm TOPTEN nâu đậm",
+                    "display_name_detail": "Combo 2 kem nhuộm TOPTEN 03 nâu đậm",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x13c2e0/image_cover_1589859207963.jpeg",
+                    "image_highlight": "images/products/0x13c2e0/image_highlight_1589859207964.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 2 sản phẩm nhuộm bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                    "promotion_desc": "combo 2 nhuộm tóc Topten màu 03 tiết kiệm 60.500 đồng, giảm 25%.",
+                    "keywords": "nhuộm, nhuộm tóc, nâu đậm",
+                    "viewcount": 161,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 181500,
+                        "listed_price_with_vat": 242000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be4f",
+                            "collection_name": "Chăm sóc tóc"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b81d",
+                        "brand_name": "TOP TEN"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x13c2e0/thumb_1589862883052.jpeg",
+                            "source": "images/products/0x13c2e0/source_1589862883053.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be51",
+            "collection_name": "Chăm sóc cơ thể",
+            "count_items": 8,
+            "products": [
+                {
+                    "uid": "0x119107",
+                    "sku_id": "   ",
+                    "product_name": "Set 8 chai nước rửa tay khô Hapicare 60ml",
+                    "display_name": "Combo 8 chai rửa tay khô Hapicare (60ml)",
+                    "display_name_detail": "Combo 8 chai nước rửa tay khô Hapicare 60ml",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119107/image_cover.jpg",
+                    "image_highlight": "images/0x119107/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Gel rửa tay khô diệt khuẩn Hapicare chứa thành phần dưỡng ẩm và Vitamin E giúp diệt vi khuẩn, làm sáng và mềm da tay sau khi sử dụng. Công thức mới không cần dùng nước, thuận tiện đem theo.",
+                    "promotion_desc": " giá sốc chỉ còn 150.000 đồng. Tiết kiệm 48%.",
+                    "keywords": "nước rửa tay, nước rửa tay khô, Hapicare",
+                    "viewcount": 2577,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "discount_tag": "48%",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Công&nbsp;thức gel rửa tay khô độc đáo giúp diệt vi khuẩn cách hiệu quả nhất mà không làm khô da tay.</p>\n<p>Hương thơm tự nhiên tươi mới trẻ trung với công thức mới không cần dùng nước, thuận tiện đem theo khi ra đường hoặc&nbsp;học tập, làm việc văn phòng. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 150000,
+                        "listed_price_with_vat": 290000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b686",
+                        "brand_name": "HAPICARE"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119107/thumb.1587640135525.jpg",
+                            "source": "images/0x119107/source.1587833463578.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119110",
+                    "sku_id": "   ",
+                    "product_name": "BỘ 2 Chai Rửa tay nhanh - xịt khử khuẩn Mr.Fresh 500ml  ",
+                    "display_name": "Bộ 2 chai nước rửa tay Mr Fresh (500ml)",
+                    "display_name_detail": "Combo 2 chai nước rửa tay xịt khuẩn Mr Fresh (500ml)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119110/image_cover.jpg",
+                    "image_highlight": "images/products/0x119110/image_highlight_1589858536971.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Rửa tay nhanh xịt khử trùng Mr.Fresh 500ml với công thức theo quy chuẩn của sở y tế và WHO khuyến cáo với 70% hàm lượng cồn Ethanol.",
+                    "promotion_desc": "tặng 1 chai gel rửa tay khô Hapicare 250ml.",
+                    "keywords": "gel rửa tay, gel rửa tay khô, mr fresh",
+                    "viewcount": 77,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Giúp Làm sạch tay nhanh, kháng khuẩn hiệu quả, ngăn ngừa và hạn chế sự phát triển của vi khuẩn, virus có hại, bổ sung tinh chất dưỡng ẩm, làm mềm da phù hợp với cả da trẻ em và phụ nữ.<br>\nRửa tay nhanh xịt khử trùng Mr.Fresh 500ml thiết kế dưới dạng xịt tác dụng nhanh, mạnh, tức thì. Không chỉ bảo vệ bàn tay mà các bộ phận khác trên cơ thể như cổ, trán,... cũng được bảo vệ. Có thể xịt vào các vật dụng cá nhân như khẩu trang, ví tiền, điện thoại... hoặc các nơi công cộng như tay nắm cửa, nút bấm thang máy.<br>\nCông dụng : Làm sạch tay nhanh, kháng khuẩn hiệu quả, ngăn ngừa và hạn chế sự phát triển của vi khuẩn, virus có hại.<br>\nMột chai vỏ nhựa cung cấp 3600 lần xịt&nbsp;.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 249000,
+                        "listed_price_with_vat": 390000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b687",
+                        "brand_name": "MR FRESH"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119110/thumb.1587639953959.jpg",
+                            "source": "images/0x119110/source.1587525681311.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119112",
+                    "sku_id": "   ",
+                    "product_name": "BỘ 2 CHAI GEL RỬA TAY KHÔ Mr Fresh 500ML ",
+                    "display_name": "Combo 2 chai gel rửa tay khô Mr Fresh (500ml) ",
+                    "display_name_detail": "Combo 2 chai gel rửa tay khô Mr Fresh (500ml)  ",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119112/image_cover.jpg",
+                    "image_highlight": "images/0x119112/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Làm sạch vết bẩn tối đa và có khả năng ngăn ngừa bệnh tật. Được sản xuất theo công nghệ Nhật Bản, hạn sử dụng lên đến 3 năm kể từ ngày sản xuất.",
+                    "promotion_desc": "tặng 1 chai nước rửa tay nhanh - xịt khử trùng Mr.Fresh 120ml.",
+                    "keywords": "gel rửa tay, gel rửa tay khô, mr fresh",
+                    "viewcount": 59,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Có khả&nbsp;năng diệt khuẩn cực hiệu quả tới 99%, vì vậy, nó được đánh giá là sản phẩm&nbsp;rửa tay tốt không khác gì các loại sữa rửa tay thông thường.<br>\nHương thơm nhẹ nhàng hoặc không mùi: Một số loại đem đến hương thơm rất dễ&nbsp;chịu và nhẹ nhàng nhưng một số không để lại dấu vết gì, phù hợp với những người không thích các loại hương liệu.<br>\nBổ sung độ ẩm cho tay giúp da tay trở nên mềm mại hơn.<br>\nCó khả năng khử mùi tuyệt đối, có thể đánh bay các mùi khó chịu nhất như mùi tanh,…<br>\nLàm sạch vết bẩn tối đa và có khả năng ngăn ngừa bệnh tật.<br>\nĐược sản xuất theo công nghệ Nhật Bản, hạn sử dụng lên đến 3 năm kể từ ngày&nbsp;sản xuất.<br>\nCông dụng : Làm sạch tay, khử mùi, dưỡng ẩm, diệt khuẩn nhanh chóng, ngăn ngừa và hạn chế sự phát triển của vi khuẩn, virus có hại.<br>\nThành phần: Nước tinh &nbsp;&nbsp;khiết, Ethy Alcohol, Isopopyl Alcohol, Glycerin, Acylite Crosspolymer, Gringer Oil.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 249000,
+                        "listed_price_with_vat": 390000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b687",
+                        "brand_name": "MR FRESH"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119112/thumb.1587639912601.jpg",
+                            "source": "images/0x119112/source.1587525860150.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b821",
+                    "sku_id": "20000017",
+                    "product_name": "SỮA TẮM DẠNG GEL TOP TEN 5 TRONG 1 250ML",
+                    "display_name": "Sữa tắm dạng gel TOPTEN 5 in 1 (250ml)",
+                    "display_name_detail": "Sữa tắm dạng gel TOPTEN 5 in 1 (250ml)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b821/image_cover_1589361780080.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Sản phẩm đa năng gel TOPTEN 5in1, chăm sóc toàn diện - tóc, cơ thể, mặt, cạo râu và dưỡng da, giúp phái mạnh tiết kiệm thời gian và tinh tế.",
+                    "keywords": "sữa tắm, dạng, top ten trong, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                    "viewcount": 30,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "Topten",
+                        "content": "<p>Sản phẩm đa năng 5in1: TẮM, GỘI, RỬA MẶT, CẠO RÂU, DƯỠNG DA.</p>\n<p>Công thức mới từ than hoạt tính và chiết xuất bạc hà.</p>\n<p>Tiết kiệm thời gian và rất tinh tế.</p>\n<p>Phù hợp cho mọi loại da và tóc.</p>\n<p>Sản phẩm đa năng Gel TOP TEN 5in1, chăm sóc toàn diện - tóc, cơ thể, mặt, cạo râu và dưỡng da, giúp phái mạnh tiết kiệm thời gian và tinh tế.</p>\n<p>Công thức có chứa than hoạt tính (làm sạch sâu, thanh lọc da) và chiết xuất bạc hà (tươi mát, làm mềm da khi cạo râu).</p>\n<p>TOP TEN 5in1 xứng đáng là trợ thủ cho cánh đàn ông sử dụng 5 chức năng trong cùng 1 sản phẩm. Một sản phẩm đa năng, tiện ích, giúp tiết kiệm thời gian và tinh tế, đáp ứng đúng nhu cầu năng động và tiện lợi của phái mạnh.</p>\n<p>Phù hợp cho mọi loại da và tóc.</p>\n<p>Xuất xứ: Châu Âu.</p>\n<p>Sản phẩm đạt chứng nhận hữu cơ. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 121000,
+                        "listed_price_with_vat": 121000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b680",
+                        "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff7",
+                        "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b81d",
+                        "brand_name": "TOP TEN"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b821/thumb.1588136704108.jpg",
+                            "source": "images/0x11b821/source.1588141085259.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1704f6",
+                    "sku_id": "10000697",
+                    "product_name": "Tắm gội em bé L'affair Belove dịu êm và thoải mái  850ml",
+                    "display_name": "Tắm gội em bé L'affair dịu êm  850ml",
+                    "display_name_detail": "Tắm gội em bé L'affair Belove dịu êm và thoải mái  850ml",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1704f6/image_cover_1591247892486.jpeg",
+                    "image_highlight": "images/products/0x1704f6/image_highlight_1591247892611.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Tắm gội em bé nhập khẩu từ Malaysia.",
+                    "promotion_desc": "tiết kiệm 51.000 đồng, giảm 27%.",
+                    "keywords": "tắm gội, em bé, laffair, dịu êm, thoải mái",
+                    "viewcount": 16,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Sản phẩm đặc biệt, rất nhẹ dịu. Vừa sử dụng tắm và gội cho bé. Được làm từ các chiết xuất thảo mộc thiên nhiên cùng với tinh dầu từ hạt Jojoba và Pro-Vitamin B5 giúp làm sạch cho làn da nhạy cảm của bé và cung cấp các chất dinh dưỡng giúp tóc bé luôn khỏe mạnh, mềm mại. Phù hợp cho bé và cả gia đình, nên sử dụng mỗi ngày.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 139000,
+                        "listed_price_with_vat": 190000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x172563",
+                        "manufacturer_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.supplier": {
+                        "uid": "0x172498",
+                        "supplier_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1703be",
+                        "brand_name": "Laffair"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1704f6/thumb_1591260767759.jpeg",
+                            "source": "images/products/0x1704f6/source_1591260767924.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1704f6/thumb_1591260767789.jpeg",
+                            "source": "images/products/0x1704f6/source_1591260768022.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1704f6/thumb_1591260767868.jpeg",
+                            "source": "images/products/0x1704f6/source_1591260768163.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1704f6/thumb_1591260767883.jpeg",
+                            "source": "images/products/0x1704f6/source_1591260768234.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1704f6/thumb_1591260767892.jpeg",
+                            "source": "images/products/0x1704f6/source_1591260768267.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x17ae00",
+                    "sku_id": "10000699",
+                    "product_name": "Combo 2 Tắm gội em bé L'affair Belove dịu êm và thoải mái 250ml và 1 Tắm gội em bé L'affair Be Love - chăm sóc & bảo vệ 250ml",
+                    "display_name": "Combo 3 tắm gội em bé L'affair  250ml",
+                    "display_name_detail": "Combo 3 tắm gội em bé L'affair Belove dịu êm và bảo vệ 250ml",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x17ae00/image_cover_1591260623613.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Tắm gội em bé nhập khẩu từ Malaysia.",
+                    "promotion_desc": "tiết kiệm 50.000 đồng, giảm 25%.",
+                    "keywords": "tắm gội, em bé, laffair, dịu êm, thoải mái, chăm sóc, bảo vệ",
+                    "viewcount": 27,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Sản phẩm đặc biệt, rất nhẹ dịu. Vừa sử dụng tắm và gội cho bé. Được làm &nbsp;&nbsp;từ các chiết xuất thảo mộc thiên nhiên cùng với tinh dầu từ hạt Jojoba và Pro-Vitamin B5 giúp làm sạch cho làn da nhạy cảm của bé &nbsp;&nbsp;và cung cấp các chất dinh dưỡng giúp tóc bé luôn khỏe mạnh, mềm &nbsp;&nbsp;mại. Phù hợp cho bé và cả gia đình, nên sử dụng mỗi ngày. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 149000,
+                        "listed_price_with_vat": 199000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x172563",
+                        "manufacturer_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.supplier": {
+                        "uid": "0x172498",
+                        "supplier_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1703be",
+                        "brand_name": "Laffair"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17ae00/thumb_1591260623673.jpeg",
+                            "source": "images/products/0x17ae00/source_1591260623807.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17ae00/thumb_1591260623681.jpeg",
+                            "source": "images/products/0x17ae00/source_1591260623839.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17ae00/thumb_1591260623721.jpeg",
+                            "source": "images/products/0x17ae00/source_1591260623882.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x17af46",
+                    "sku_id": "10000701",
+                    "parent_sku_id": "",
+                    "product_name": "ST dưỡng sáng da Elizzer_chiết xuất sữa dê",
+                    "display_name": "Sữa tắm dê dưỡng sáng da Elizzer 1L",
+                    "display_name_detail": "Sữa tắm dưỡng sáng da Elizzer chiết xuất sữa dê 1L",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x17af46/image_cover_1591247937148.jpeg",
+                    "image_highlight": "images/products/0x17af46/image_highlight_1591247937258.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Sữa tắm dưỡng sáng da chiết xuất sữa dê nhập khẩu từ Malaysia.",
+                    "promotion_desc": "mua 1 tặng 1.",
+                    "keywords": "sữa tắm, dưỡng da, sữa dê",
+                    "viewcount": 143,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Sữa tắm Goat’s Milk được điều chế với chiết xuất sữa dê giàu Axit Amin, Vitamin A, B, D, E, khoáng chất giúp tăng cường độ ẩm và chất dinh dưỡng giúp da sáng mịn và rạng rỡ hơn.&nbsp;</p>\n<p>Đặc biệt còn có thêm Hải Thảo và Vitamin E giúp làn da khỏe khoắn. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 140000,
+                        "listed_price_with_vat": 189000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x172563",
+                        "manufacturer_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.supplier": {
+                        "uid": "0x172498",
+                        "supplier_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1703bf",
+                        "brand_name": "Elizzer"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17af46/thumb_1591259944662.jpeg",
+                            "source": "images/products/0x17af46/source_1591259944800.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17af46/thumb_1591259944682.jpeg",
+                            "source": "images/products/0x17af46/source_1591259944901.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17af46/thumb_1591259944691.jpeg",
+                            "source": "images/products/0x17af46/source_1591259944948.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17af46/thumb_1591259944621.jpeg",
+                            "source": "images/products/0x17af46/source_1591259944707.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17af46/thumb_1591259944654.jpeg",
+                            "source": "images/products/0x17af46/source_1591259944746.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x17b1bf",
+                    "sku_id": "10000703",
+                    "product_name": "ST Laffair pH 5.5 hạt",
+                    "display_name": "Sữa tắm Laffair pH 5.5 hạt 1L",
+                    "display_name_detail": "Sữa tắm Laffair pH 5.5 hạt 1L",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x17b1bf/image_cover_1591162126361.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Sữa tắm hạt tẩy tế bào chết p.h 5.5 nhập khẩu từ Malaysia.",
+                    "promotion_desc": "tiết kiệm 50.000 đồng, giảm 19%.",
+                    "keywords": "sữa tắm, laffair",
+                    "viewcount": 10,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Sữa tắm L’affair hạt có nhiều Vitamin, các hạt tinh thể như cát để massage khắp cơ &nbsp;thể giúp lấy đi các tế bào chết tạo điều kiện cho các tế bào mới phát triển và làm mờ các vết nám, sạm giúp làn da mềm mại, sáng lên từng ngày và mang lại cảm giác sảng khoái sau khi sử dụng. Sữa tắm L’affair hạt sẽ mang đến cho bạn làn da mịn màng và rạng rỡ. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 209000,
+                        "listed_price_with_vat": 259000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x172563",
+                        "manufacturer_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.supplier": {
+                        "uid": "0x172498",
+                        "supplier_name": "Công ty TNHH Chung Kim"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be26",
+                            "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                            "collection_image": "collection_images/0x13be26.jpg"
+                        },
+                        {
+                            "uid": "0x13be51",
+                            "collection_name": "Chăm sóc cơ thể"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1703be",
+                        "brand_name": "Laffair"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17b1bf/thumb_1591162126873.jpeg",
+                            "source": "images/products/0x17b1bf/source_1591162127333.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17b1bf/thumb_1591162127074.jpeg",
+                            "source": "images/products/0x17b1bf/source_1591162127361.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17b1bf/thumb_1591162127155.jpeg",
+                            "source": "images/products/0x17b1bf/source_1591162127468.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17b1bf/thumb_1591162127223.jpeg",
+                            "source": "images/products/0x17b1bf/source_1591162127717.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x17b1bf/thumb_1591162127297.jpeg",
+                            "source": "images/products/0x17b1bf/source_1591162127801.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be52",
+            "collection_name": "Dụng cụ làm đẹp",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be53",
+            "collection_name": "Nước hoa",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be54",
+            "collection_name": "Mỹ phẩm cho nam",
+            "count_items": 0
+        }
+    ],
+    "Hotdeals": {
+        "products": [
+            {
+                "uid": "0x13c2a0",
+                "product_name": "Combo 1 chai dầu gội + 1 xả Keratin",
+                "display_name": "Combo 1 dầu gội và xả Keratin",
+                "display_name_detail": "Combo 1 dầu gội và xả Keratin",
+                "color": "#f48024",
+                "image_cover": "images/0x13c2a0/image_cover_1589542734328.jpeg",
+                "image_highlight": "images/0x13c2a0/image_highlight_1589542734329.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 2 sản phẩm dầu gội và dầu xả bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                "keywords": "dầu gội, dầu xả, Keratin",
+                "viewcount": 551,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 176000,
+                    "listed_price_with_vat": 220000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b680",
+                    "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff7",
+                    "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4f",
+                        "collection_name": "Chăm sóc tóc"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x12c84e",
+                    "brand_name": "SIMPLY ESSENTIALS"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/products/0x13c2a0/thumb_1589862550123.jpeg",
+                        "source": "images/products/0x13c2a0/source_1589862550124.jpeg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x13c2d3",
+                "product_name": "Combo 2 nhuộm màu 07- Vàng nâu",
+                "display_name": "Combo 2 kem nhuộm Premium vàng nâu",
+                "display_name_detail": "Combo 2 nhuộm Premium Fashion vàng nâu",
+                "color": "#f48024",
+                "image_cover": "images/0x13c2d3/image_cover_1589543250789.jpeg",
+                "image_highlight": "images/0x13c2d3/image_highlight_1589543250790.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 2 sản phẩm nhuộm bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                "promotion_desc": "combo 2 nhuộm tóc màu 07 tiết kiệm 66.000 đồng, giảm 20%.",
+                "keywords": "nhuộm, nhuộm tóc, vàng nâu",
+                "viewcount": 276,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 264000,
+                    "listed_price_with_vat": 330000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b680",
+                    "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff7",
+                    "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4f",
+                        "collection_name": "Chăm sóc tóc"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x12c84e",
+                    "brand_name": "SIMPLY ESSENTIALS"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/products/0x13c2d3/thumb_1589862721201.jpeg",
+                        "source": "images/products/0x13c2d3/source_1589862721204.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x13c2d3/thumb_1589862721202.jpeg",
+                        "source": "images/products/0x13c2d3/source_1589862721205.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x13c2d3/thumb_1589862721203.jpeg",
+                        "source": "images/products/0x13c2d3/source_1589862721206.jpeg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x13c2dd",
+                "product_name": "Combo1 DG Topten trị gàu + 1 ST topten 5 in 1",
+                "display_name": "Combo TOPTEN dầu gội và sữa tắm 5 in 1",
+                "display_name_detail": "Combo TOPTEN dầu gội trị gàu + sữa tắm 5 in 1",
+                "color": "#f48024",
+                "image_cover": "images/0x13c2dd/image_cover_1589543289665.jpeg",
+                "image_highlight": "images/0x13c2dd/image_highlight_1589543289666.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 2 sản phẩm dầu gội sữa tắm dành cho phái mạnh. ",
+                "promotion_desc": "combo dầu gội và sữa tắm tiết kiệm 58.000 đồng, giảm 25%.",
+                "keywords": "dầu gội, trị gàu, sữa tắm, topten",
+                "viewcount": 157,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 173000,
+                    "listed_price_with_vat": 231000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b680",
+                    "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff7",
+                    "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4f",
+                        "collection_name": "Chăm sóc tóc"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b81d",
+                    "brand_name": "TOP TEN"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/products/0x13c2dd/thumb_1589863441500.jpeg",
+                        "source": "images/products/0x13c2dd/source_1589863441502.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x13c2dd/thumb_1589863441501.jpeg",
+                        "source": "images/products/0x13c2dd/source_1589863441503.jpeg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x119107",
+                "sku_id": "   ",
+                "product_name": "Set 8 chai nước rửa tay khô Hapicare 60ml",
+                "display_name": "Combo 8 chai rửa tay khô Hapicare (60ml)",
+                "display_name_detail": "Combo 8 chai nước rửa tay khô Hapicare 60ml",
+                "color": "#f48024",
+                "image_cover": "images/0x119107/image_cover.jpg",
+                "image_highlight": "images/0x119107/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Gel rửa tay khô diệt khuẩn Hapicare chứa thành phần dưỡng ẩm và Vitamin E giúp diệt vi khuẩn, làm sáng và mềm da tay sau khi sử dụng. Công thức mới không cần dùng nước, thuận tiện đem theo.",
+                "promotion_desc": " giá sốc chỉ còn 150.000 đồng. Tiết kiệm 48%.",
+                "keywords": "nước rửa tay, nước rửa tay khô, Hapicare",
+                "viewcount": 2577,
+                "ribbon": "Chỉ giao ở HCM",
+                "discount_tag": "48%",
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Công&nbsp;thức gel rửa tay khô độc đáo giúp diệt vi khuẩn cách hiệu quả nhất mà không làm khô da tay.</p>\n<p>Hương thơm tự nhiên tươi mới trẻ trung với công thức mới không cần dùng nước, thuận tiện đem theo khi ra đường hoặc&nbsp;học tập, làm việc văn phòng. &nbsp;&nbsp;&nbsp;</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 150000,
+                    "listed_price_with_vat": 290000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67a",
+                    "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff9",
+                    "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be51",
+                        "collection_name": "Chăm sóc cơ thể"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b686",
+                    "brand_name": "HAPICARE"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/0x119107/thumb.1587640135525.jpg",
+                        "source": "images/0x119107/source.1587833463578.jpg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x13c2e0",
+                "product_name": "Combo 2 nhuộm Toptep 03- Nâu đậm",
+                "display_name": "Combo 2 kem nhuộm TOPTEN nâu đậm",
+                "display_name_detail": "Combo 2 kem nhuộm TOPTEN 03 nâu đậm",
+                "color": "#f48024",
+                "image_cover": "images/products/0x13c2e0/image_cover_1589859207963.jpeg",
+                "image_highlight": "images/products/0x13c2e0/image_highlight_1589859207964.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 2 sản phẩm nhuộm bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                "promotion_desc": "combo 2 nhuộm tóc Topten màu 03 tiết kiệm 60.500 đồng, giảm 25%.",
+                "keywords": "nhuộm, nhuộm tóc, nâu đậm",
+                "viewcount": 161,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 181500,
+                    "listed_price_with_vat": 242000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b680",
+                    "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff7",
+                    "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4f",
+                        "collection_name": "Chăm sóc tóc"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b81d",
+                    "brand_name": "TOP TEN"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/products/0x13c2e0/thumb_1589862883052.jpeg",
+                        "source": "images/products/0x13c2e0/source_1589862883053.jpeg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x17af46",
+                "sku_id": "10000701",
+                "parent_sku_id": "",
+                "product_name": "ST dưỡng sáng da Elizzer_chiết xuất sữa dê",
+                "display_name": "Sữa tắm dê dưỡng sáng da Elizzer 1L",
+                "display_name_detail": "Sữa tắm dưỡng sáng da Elizzer chiết xuất sữa dê 1L",
+                "color": "#f48024",
+                "image_cover": "images/products/0x17af46/image_cover_1591247937148.jpeg",
+                "image_highlight": "images/products/0x17af46/image_highlight_1591247937258.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Sữa tắm dưỡng sáng da chiết xuất sữa dê nhập khẩu từ Malaysia.",
+                "promotion_desc": "mua 1 tặng 1.",
+                "keywords": "sữa tắm, dưỡng da, sữa dê",
+                "viewcount": 143,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Sữa tắm Goat’s Milk được điều chế với chiết xuất sữa dê giàu Axit Amin, Vitamin A, B, D, E, khoáng chất giúp tăng cường độ ẩm và chất dinh dưỡng giúp da sáng mịn và rạng rỡ hơn.&nbsp;</p>\n<p>Đặc biệt còn có thêm Hải Thảo và Vitamin E giúp làn da khỏe khoắn. &nbsp;&nbsp;&nbsp;</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 140000,
+                    "listed_price_with_vat": 189000
+                },
+                "product.manufacturer": {
+                    "uid": "0x172563",
+                    "manufacturer_name": "Công ty TNHH Chung Kim"
+                },
+                "product.supplier": {
+                    "uid": "0x172498",
+                    "supplier_name": "Công ty TNHH Chung Kim"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be51",
+                        "collection_name": "Chăm sóc cơ thể"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1703bf",
+                    "brand_name": "Elizzer"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/products/0x17af46/thumb_1591259944662.jpeg",
+                        "source": "images/products/0x17af46/source_1591259944800.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x17af46/thumb_1591259944682.jpeg",
+                        "source": "images/products/0x17af46/source_1591259944901.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x17af46/thumb_1591259944691.jpeg",
+                        "source": "images/products/0x17af46/source_1591259944948.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x17af46/thumb_1591259944621.jpeg",
+                        "source": "images/products/0x17af46/source_1591259944707.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x17af46/thumb_1591259944654.jpeg",
+                        "source": "images/products/0x17af46/source_1591259944746.jpeg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x119110",
+                "sku_id": "   ",
+                "product_name": "BỘ 2 Chai Rửa tay nhanh - xịt khử khuẩn Mr.Fresh 500ml  ",
+                "display_name": "Bộ 2 chai nước rửa tay Mr Fresh (500ml)",
+                "display_name_detail": "Combo 2 chai nước rửa tay xịt khuẩn Mr Fresh (500ml)",
+                "color": "#f48024",
+                "image_cover": "images/0x119110/image_cover.jpg",
+                "image_highlight": "images/products/0x119110/image_highlight_1589858536971.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Rửa tay nhanh xịt khử trùng Mr.Fresh 500ml với công thức theo quy chuẩn của sở y tế và WHO khuyến cáo với 70% hàm lượng cồn Ethanol.",
+                "promotion_desc": "tặng 1 chai gel rửa tay khô Hapicare 250ml.",
+                "keywords": "gel rửa tay, gel rửa tay khô, mr fresh",
+                "viewcount": 77,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Giúp Làm sạch tay nhanh, kháng khuẩn hiệu quả, ngăn ngừa và hạn chế sự phát triển của vi khuẩn, virus có hại, bổ sung tinh chất dưỡng ẩm, làm mềm da phù hợp với cả da trẻ em và phụ nữ.<br>\nRửa tay nhanh xịt khử trùng Mr.Fresh 500ml thiết kế dưới dạng xịt tác dụng nhanh, mạnh, tức thì. Không chỉ bảo vệ bàn tay mà các bộ phận khác trên cơ thể như cổ, trán,... cũng được bảo vệ. Có thể xịt vào các vật dụng cá nhân như khẩu trang, ví tiền, điện thoại... hoặc các nơi công cộng như tay nắm cửa, nút bấm thang máy.<br>\nCông dụng : Làm sạch tay nhanh, kháng khuẩn hiệu quả, ngăn ngừa và hạn chế sự phát triển của vi khuẩn, virus có hại.<br>\nMột chai vỏ nhựa cung cấp 3600 lần xịt&nbsp;.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 249000,
+                    "listed_price_with_vat": 390000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67a",
+                    "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff9",
+                    "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be51",
+                        "collection_name": "Chăm sóc cơ thể"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b687",
+                    "brand_name": "MR FRESH"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/0x119110/thumb.1587639953959.jpg",
+                        "source": "images/0x119110/source.1587525681311.jpg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x13c27c",
+                "product_name": "Combo 1 chai dầu gội + 1 xả Argan",
+                "display_name": "Combo 1 dầu gội và xả Argan",
+                "display_name_detail": "Combo 1 dầu gội và xả Argan",
+                "color": "#f48024",
+                "image_cover": "images/0x13c27c/image_cover_1589542679246.jpeg",
+                "image_highlight": "images/0x13c27c/image_highlight_1589542679247.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 2 sản phẩm dầu gội và dầu xả bảo vệ và làm đẹp tóc cũng như nuôi dưỡng giúp tóc chắc khỏe thời trang.",
+                "keywords": "dầu gội, dầu xả, Argan",
+                "viewcount": 195,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 176000,
+                    "listed_price_with_vat": 220000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b680",
+                    "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff7",
+                    "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4f",
+                        "collection_name": "Chăm sóc tóc"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x12c84e",
+                    "brand_name": "SIMPLY ESSENTIALS"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/products/0x13c27c/thumb_1589862478474.jpeg",
+                        "source": "images/products/0x13c27c/source_1589862478476.jpeg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/products/0x13c27c/thumb_1589862478475.jpeg",
+                        "source": "images/products/0x13c27c/source_1589862478477.jpeg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x119112",
+                "sku_id": "   ",
+                "product_name": "BỘ 2 CHAI GEL RỬA TAY KHÔ Mr Fresh 500ML ",
+                "display_name": "Combo 2 chai gel rửa tay khô Mr Fresh (500ml) ",
+                "display_name_detail": "Combo 2 chai gel rửa tay khô Mr Fresh (500ml)  ",
+                "color": "#f48024",
+                "image_cover": "images/0x119112/image_cover.jpg",
+                "image_highlight": "images/0x119112/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Làm sạch vết bẩn tối đa và có khả năng ngăn ngừa bệnh tật. Được sản xuất theo công nghệ Nhật Bản, hạn sử dụng lên đến 3 năm kể từ ngày sản xuất.",
+                "promotion_desc": "tặng 1 chai nước rửa tay nhanh - xịt khử trùng Mr.Fresh 120ml.",
+                "keywords": "gel rửa tay, gel rửa tay khô, mr fresh",
+                "viewcount": 59,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Có khả&nbsp;năng diệt khuẩn cực hiệu quả tới 99%, vì vậy, nó được đánh giá là sản phẩm&nbsp;rửa tay tốt không khác gì các loại sữa rửa tay thông thường.<br>\nHương thơm nhẹ nhàng hoặc không mùi: Một số loại đem đến hương thơm rất dễ&nbsp;chịu và nhẹ nhàng nhưng một số không để lại dấu vết gì, phù hợp với những người không thích các loại hương liệu.<br>\nBổ sung độ ẩm cho tay giúp da tay trở nên mềm mại hơn.<br>\nCó khả năng khử mùi tuyệt đối, có thể đánh bay các mùi khó chịu nhất như mùi tanh,…<br>\nLàm sạch vết bẩn tối đa và có khả năng ngăn ngừa bệnh tật.<br>\nĐược sản xuất theo công nghệ Nhật Bản, hạn sử dụng lên đến 3 năm kể từ ngày&nbsp;sản xuất.<br>\nCông dụng : Làm sạch tay, khử mùi, dưỡng ẩm, diệt khuẩn nhanh chóng, ngăn ngừa và hạn chế sự phát triển của vi khuẩn, virus có hại.<br>\nThành phần: Nước tinh &nbsp;&nbsp;khiết, Ethy Alcohol, Isopopyl Alcohol, Glycerin, Acylite Crosspolymer, Gringer Oil.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 249000,
+                    "listed_price_with_vat": 390000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67a",
+                    "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff9",
+                    "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be51",
+                        "collection_name": "Chăm sóc cơ thể"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b687",
+                    "brand_name": "MR FRESH"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/0x119112/thumb.1587639912601.jpg",
+                        "source": "images/0x119112/source.1587525860150.jpg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11b59f",
+                "sku_id": "10000151",
+                "product_name": "Bộ 10 mặt nạ hồng sâm (23g/1 cái)",
+                "display_name": " Bộ 10 mặt nạ hồng sâm (23g/1 cái)",
+                "display_name_detail": "Bộ 10 mặt nạ hồng sâm Skinapple (23g/1 cái)",
+                "color": "#f48024",
+                "image_cover": "images/0x11b59f/image_cover.jpg",
+                "image_highlight": "images/0x11b59f/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Mặt nạ dưỡng trắng da, giúp làm giảm, làm mờ nếp nhăn trên da.",
+                "promotion_desc": "tặng 2 mặt nạ hồng sâm cùng loại.",
+                "keywords": "mặt nạ hồng sâm, mặt nạ",
+                "viewcount": 377,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Với chị em phụ nữ, đặc biệt là chị em phụ nữ từ độ tuổi 30 trở đi, lão hóa là một nỗi&nbsp;phiền muộn thường trực với sự xuất hiện của các nếp nhăn, làn da bắt đầu chảy sệ, giảm độ đàn hồi. Cảm giác mình đã bắt đầu già đi khiến chị em phụ nữ chúng ta nhiều khi cảm thấy rất là buồn.</p>\n<p>Sạm, nám, tàn nhang có thể&nbsp;nói là một trong những yếu tố ảnh hưởng rất lớn đến làn da, đến nhan sắc của mỗi người. Đặc biệt là với phụ nữ Á Đông, khi mà chuẩn mực làn da đẹp là bạn phải có một làn da không những trông trắng sáng mà còn phải trông đều màu.</p>\n<ul>\n  <li>Công Dụng: Mặt nạ dưỡng trắng da, giúp làm giảm, làm mờ nếp nhăn trên &nbsp;da.</li>\n  <li>Cách dùng:Các bước đắp mặt nạ rất đơn giản.</li>\n  <li>Bước 1: Rửa sạch mặt với sữa rửa mặt.</li>\n  <li>Bước 2: Đắp mặt nạ từ 10 đến 15 phút (đối với da khô là 20 phút) rồi nhẹ nhàng lấy mặt nạ ra, dùng tay mát-xa để các dưỡng chất thẩm thấu vào làn da.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;</li>\n</ul>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 99000,
+                    "listed_price_with_vat": 299000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67b",
+                    "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x118ffd",
+                    "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4e",
+                        "collection_name": "Chăm sóc da mặt"
+                    }
+                ],
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/0x11b59f/thumb.1587696952247.jpg",
+                        "source": "images/0x11b59f/source.1587820752728.jpg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/0x11b59f/thumb.1587387436296.jpg",
+                        "source": "images/0x11b59f/source.1587820752729.jpg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/0x11b59f/thumb.1587387436297.jpg",
+                        "source": "images/0x11b59f/source.1587820752730.jpg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11b5a1",
+                "sku_id": "10000152",
+                "product_name": "Bộ 20 mặt nạ hồng sâm (23g/1 cái)",
+                "display_name": "Bộ 20 mặt nạ hồng sâm Skinapple",
+                "display_name_detail": "Bộ 20 mặt nạ hồng sâm Skinapple",
+                "color": "#f48024",
+                "image_cover": "images/0x11b5a1/image_cover.jpg",
+                "image_highlight": "images/0x11b5a1/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Mặt nạ dưỡng trắng da, giúp làm giảm và làm mờ nếp nhăn trên da.",
+                "promotion_desc": "tặng 5 mặt nạ hồng sâm.",
+                "keywords": "mặt nạ hồng sâm, mặt nạ",
+                "viewcount": 3306,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Với chị em phụ nữ, đặc biệt là chị em phụ nữ từ độ tuổi 30 trở đi, lão hóa là một nỗi phiền muộn thường trực với sự xuất hiện của các nếp nhăn, làn da bắt đầu chảy sệ, giảm độ đàn hồi. Cảm giác mình đã bắt đầu già đi khiến chị em phụ nữ chúng ta nhiều khi cảm thấy rất là buồn.<br>\nSạm, nám, tàn nhang có thể nói là một trong những yếu tố ảnh hưởng rất lớn đến làn da, đến nhan sắc của mỗi người. Đặc biệt là với phụ nữ Á Đông, khi mà chuẩn mực làn da đẹp là bạn phải có một làn da không những trông trắng sáng mà còn phải trông đều màu.<br>\nCách dùng (các bước đắp mặt nạ rất đơn giản):<br>\nRửa sạch mặt với sữa rửa mặt.<br>\nĐắp mặt nạ từ 10 đến 15 phút (đối với da khô là 20 phút) rồi nhẹ nhàng lấy mặt nạ ra, dùng tay mát-xa để các dưỡng chất thẩm thấu vào làn da.<br>\n&nbsp;</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 259000,
+                    "listed_price_with_vat": 599000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67b",
+                    "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x118ffd",
+                    "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4e",
+                        "collection_name": "Chăm sóc da mặt"
+                    }
+                ],
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/0x11b5a1/thumb.1587696991797.jpg",
+                        "source": "images/0x11b5a1/source.1588064305205.jpg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x119095",
+                "sku_id": "",
+                "product_name": "Combo 1 nhuộm topten 03 + 1ST topten 5in1 + 1DG Topten",
+                "display_name": "Combo TOPTEN Tắm Gội Nhuộm ",
+                "display_name_detail": "Combo TOPTEN 1 nhuộm nâu đậm + 1 gội trị gàu + 1 sữa tắm 5in1",
+                "color": "#f48024",
+                "image_cover": "images/0x119095/image_cover.jpg",
+                "image_highlight": "images/0x119095/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 3 sản phẩm tắm-gội-nhuộm dành cho phái mạnh. ",
+                "promotion_desc": "giảm 25% khi mua bộ 3 sản phẩm kem nhuộm, dầu gội và sữa tắm Topten.",
+                "keywords": "combo 1 nhuộm,  nhuộm topten, topten, mỹ phẩm, chăm sóc cá nhân, cá nhân",
+                "viewcount": 551,
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "product.pricing": {
+                    "price_with_vat": 249000,
+                    "listed_price_with_vat": 352000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b680",
+                    "manufacturer_name": "CÔNG TY TNHH GIẢI PHÁP PHÂN PHỐI SONG NGUYÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff7",
+                    "supplier_name": "CÔNG TY TNHH GIẢI PHÁP SONG NGUYÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be26",
+                        "collection_name": "Mỹ phẩm & Chăm sóc cá nhân",
+                        "collection_image": "collection_images/0x13be26.jpg"
+                    },
+                    {
+                        "uid": "0x13be4f",
+                        "collection_name": "Chăm sóc tóc"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b681",
+                    "brand_name": "Song Nguyên"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "thumb": "images/0x119095/thumb.1587958715758.jpg",
+                        "source": "images/0x119095/source.1587958715759.jpg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/0x119095/thumb.1587441901117.jpg",
+                        "source": "images/0x119095/source.1587441901119.jpg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/0x119095/thumb.1587454362079.jpg",
+                        "source": "images/0x119095/source.1587454362080.jpg",
+                        "media_type": "image"
+                    },
+                    {
+                        "thumb": "images/0x119095/thumb.1587725020576.jpg",
+                        "source": "images/0x119095/source.1587725020577.jpg",
+                        "media_type": "image"
+                    }
+                ],
+                "videos": []
+            }
+        ],
+        "count_products": 12
+    }
+}

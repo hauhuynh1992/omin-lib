@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_product_detail"
+    tools:context=".ui.searchActivity.SearchActivity">
+
+    <include
+        android:id="@+id/header"
+        layout="@layout/item_header_screen" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="@dimen/_56sdp"
+        android:layout_toEndOf="@+id/editText">
+
+        <ImageView
+            android:id="@+id/voice"
+            android:layout_width="@dimen/_46sdp"
+            android:layout_height="@dimen/_46sdp"
+            android:background="@drawable/btn_voice_search_selector"
+            android:focusable="true"
+            android:layout_marginLeft="@dimen/_25sdp"
+            android:focusableInTouchMode="true"
+            android:padding="@dimen/_5sdp"
+            android:scaleType="fitCenter" />
+
+        <com.bda.omnilibrary.custome.SearchKeyboardView
+            android:id="@+id/keyboard"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_15sdp"
+            android:layout_marginTop="@dimen/_7sdp"
+            android:layout_toEndOf="@+id/voice" />
+    </RelativeLayout>
+
+    <!--<com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/editText"
+        android:layout_width="@dimen/_147sdp"
+        android:layout_height="@dimen/_22sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_65sdp"
+        android:ellipsize="start"
+        android:focusable="false"
+        android:singleLine="true"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_9sdp"
+        SfView:type="medium" />-->
+
+    <com.bda.omnilibrary.views.SfEditText
+        android:id="@+id/editText"
+        android:layout_width="@dimen/_136sdp"
+        android:layout_height="@dimen/_19sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_67sdp"
+        android:background="@drawable/input_search_selector"
+        android:ellipsize="end"
+        android:focusable="false"
+        android:paddingBottom="@dimen/_1sdp"
+        android:focusableInTouchMode="false"
+        android:hint="@string/text_search"
+        android:paddingStart="@dimen/_5sdp"
+        android:paddingEnd="@dimen/_5sdp"
+        android:singleLine="true"
+        android:textColor="@color/title_black_black"
+        android:textSize="@dimen/_7sdp"
+        SfView:type="bold" />
+
+    <RelativeLayout
+        android:id="@+id/rlTextSuggest"
+        android:layout_width="@dimen/_180sdp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editText"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <!--        android:layout_above="@+id/layout_search_result"-->
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/tv_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/_1sdp"
+            android:layout_marginBottom="@dimen/_10sdp"
+
+            android:text="@string/text_suggest_search"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_10ssp"
+            android:visibility="visible"
+            SfView:type="bold" />
+
+        <androidx.leanback.widget.VerticalGridView
+            android:id="@+id/vgSuggestText"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_144sdp"
+            android:layout_below="@+id/tv_result"
+            android:layout_marginLeft="@dimen/_1sdp" />
+
+    </RelativeLayout>
+
+    <!--<RelativeLayout
+        android:id="@+id/layout_search_result"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_146sdp"
+        android:layout_alignParentBottom="true"
+        android:visibility="gone">
+
+        <androidx.leanback.widget.HorizontalGridView
+            android:id="@+id/vgProduct"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:clipToPadding="false"
+            android:paddingStart="@dimen/_13sdp"
+            android:paddingEnd="@dimen/_13sdp" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@null"
+            android:visibility="gone" />
+    </RelativeLayout>-->
+</RelativeLayout>

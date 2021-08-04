@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    card_view:cardBackgroundColor="@color/color_transparent"
+    card_view:cardCornerRadius="@dimen/_6sdp"
+    card_view:cardElevation="@dimen/_1sdp"
+    card_view:cardPreventCornerOverlap="true"
+    card_view:cardUseCompatPadding="true">
+
+    <LinearLayout
+        android:layout_width="@dimen/_217sdp"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginStart="@dimen/_13sdp"
+            android:layout_marginTop="@dimen/_14sdp"
+            android:layout_marginEnd="@dimen/_13sdp"
+            android:ellipsize="end"
+            android:gravity="center"
+            android:maxLines="2"
+            android:textColor="@color/title_black_black"
+            android:textSize="@dimen/_8ssp"
+            sfView:type="medium" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:gravity="center">
+
+            <LinearLayout
+                android:id="@+id/bn_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/item_bn_cancel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_3sdp"
+                    android:layout_marginTop="@dimen/_2sdp"
+                    android:layout_marginEnd="@dimen/_3sdp"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:background="@color/color_transparent"
+                    android:outlineAmbientShadowColor="@color/trans"
+                    android:outlineSpotShadowColor="@color/text_black_70"
+                    android:theme="@style/ItemStyle"
+                    sfView:cardBackgroundColor="@color/color_transparent"
+                    sfView:cardCornerRadius="@dimen/_3sdp"
+                    sfView:cardElevation="@dimen/_2sdp"
+                    sfView:cardPreventCornerOverlap="true"
+                    sfView:cardUseCompatPadding="true">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/text_bn_cancel"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/_20sdp"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/background_button_header_collection"
+                        android:gravity="center"
+                        android:paddingStart="@dimen/_20sdp"
+                        android:paddingEnd="@dimen/_20sdp"
+                        android:text="@string/khong_upcap"
+                        android:textAllCaps="true"
+                        android:textColor="@drawable/selector_button_header"
+                        android:textSize="@dimen/_7ssp"
+                        sfView:type="medium" />
+
+                </com.google.android.material.card.MaterialCardView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/bn_accept"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/item_bn_accept"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_3sdp"
+                    android:layout_marginTop="@dimen/_2sdp"
+                    android:layout_marginEnd="@dimen/_3sdp"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:background="@color/color_transparent"
+                    android:outlineAmbientShadowColor="@color/trans"
+                    android:outlineSpotShadowColor="@color/text_black_70"
+                    android:theme="@style/ItemStyle"
+                    sfView:cardBackgroundColor="@color/color_transparent"
+                    sfView:cardCornerRadius="@dimen/_3sdp"
+                    sfView:cardElevation="@dimen/_2sdp"
+                    sfView:cardPreventCornerOverlap="true"
+                    sfView:cardUseCompatPadding="true">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/text_bn_accept"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/_20sdp"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/background_button_header_collection"
+                        android:gravity="center"
+                        android:paddingStart="@dimen/_20sdp"
+                        android:paddingEnd="@dimen/_20sdp"
+                        android:text="@string/dong_y_upcap"
+                        android:textAllCaps="true"
+                        android:textColor="@drawable/selector_button_header"
+                        android:textSize="@dimen/_7ssp"
+                        sfView:type="medium" />
+
+                </com.google.android.material.card.MaterialCardView>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

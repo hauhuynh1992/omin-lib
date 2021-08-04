@@ -1,0 +1,3247 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "uid": "0x13be61",
+            "collection_name": "Thực phẩm chức năng",
+            "count_items": 18,
+            "products": [
+                {
+                    "uid": "0x1584bb",
+                    "sku_id": "10000685",
+                    "product_name": "Tỏi đen cô đơn nguyên vỏ túi nhôm 125g",
+                    "display_name": "Tỏi đen cô đơn nguyên vỏ túi nhôm 125g",
+                    "display_name_detail": "Tỏi đen cô đơn nguyên vỏ túi nhôm 125g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1584bb/image_cover_1591259683992.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Tỏi đen 100% nguyên vỏ. Khối lượng: 125g. Bao bì: Túi nhôm (túi zip). ",
+                    "promotion_desc": "tiết kiệm 15.000 đồng, giảm 9%.",
+                    "keywords": "tỏi, tỏi đen cô đơn, tỏi cô đơn, tỏi đen, nguyên vỏ, aum",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p><br></p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 150000,
+                        "listed_price_with_vat": 165000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x15847a",
+                        "manufacturer_name": "CÔNG TY TNHH AUM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x151813",
+                        "supplier_name": "CÔNG TY TNHH AUM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x15846b",
+                        "brand_name": "Tỏi đen AUM"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584bb/thumb_1591259684073.jpeg",
+                            "source": "images/products/0x1584bb/source_1591259684211.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584bb/thumb_1591259684096.jpeg",
+                            "source": "images/products/0x1584bb/source_1591259684230.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584bb/thumb_1591259684104.jpeg",
+                            "source": "images/products/0x1584bb/source_1591259684284.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584bb/thumb_1591259684112.jpeg",
+                            "source": "images/products/0x1584bb/source_1591259684325.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584bb/thumb_1591259684016.jpeg",
+                            "source": "images/products/0x1584bb/source_1591259684131.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584bb/thumb_1591259684040.jpeg",
+                            "source": "images/products/0x1584bb/source_1591259684182.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1584ce",
+                    "sku_id": "10000686",
+                    "product_name": "Tỏi đen cô đơn nguyên vỏ hũ nhựa 350g",
+                    "display_name": "Tỏi đen cô đơn nguyên vỏ hũ nhựa 350g",
+                    "display_name_detail": "Tỏi đen cô đơn nguyên vỏ hũ nhựa 350g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1584ce/image_cover_1591247802351.jpeg",
+                    "image_highlight": "images/products/0x1584ce/image_highlight_1591247802238.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Tỏi đen 100% nguyên vỏ. Khối lượng: 350g. Bao bì: Hũ nhựa.",
+                    "promotion_desc": "tiết kiệm 171.000 đồng, giảm 35%.",
+                    "keywords": "tỏi, tỏi đen cô đơn, tỏi cô đơn, tỏi đen, nguyên vỏ, aum",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 319000,
+                        "listed_price_with_vat": 490000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x15847a",
+                        "manufacturer_name": "CÔNG TY TNHH AUM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x151813",
+                        "supplier_name": "CÔNG TY TNHH AUM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x15846b",
+                        "brand_name": "Tỏi đen AUM"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584ce/thumb_1591259627184.jpeg",
+                            "source": "images/products/0x1584ce/source_1591259627287.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584ce/thumb_1591259627210.jpeg",
+                            "source": "images/products/0x1584ce/source_1591259627307.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584ce/thumb_1591259627228.jpeg",
+                            "source": "images/products/0x1584ce/source_1591259627445.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584ce/thumb_1591259627237.jpeg",
+                            "source": "images/products/0x1584ce/source_1591259627509.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1584ce/thumb_1591259627278.jpeg",
+                            "source": "images/products/0x1584ce/source_1591259627539.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x158506",
+                    "sku_id": "10000687",
+                    "product_name": "Tỏi đen cô đơn bóc vỏ hũ nhựa 150g",
+                    "display_name": "Tỏi đen cô đơn bóc vỏ hũ nhựa 150g",
+                    "display_name_detail": "Tỏi đen cô đơn bóc vỏ hũ nhựa 150g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x158506/image_cover_1591259575789.jpeg",
+                    "instock": true,
+                    "short_desc": "Tỏi đen 100% bóc vỏ. Khối lượng: 150g. Bao bì: Hũ nhựa.",
+                    "promotion_desc": "tiết kiệm 20.000 đồng, giảm 11%.",
+                    "keywords": "tỏi, tỏi đen cô đơn, tỏi cô đơn, tỏi đen, bóc vỏ, aum",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 170000,
+                        "listed_price_with_vat": 190000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x15847a",
+                        "manufacturer_name": "CÔNG TY TNHH AUM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x151813",
+                        "supplier_name": "CÔNG TY TNHH AUM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x15846b",
+                        "brand_name": "Tỏi đen AUM"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x158506/thumb_1591259575914.jpeg",
+                            "source": "images/products/0x158506/source_1591259576114.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x158506/thumb_1591259575923.jpeg",
+                            "source": "images/products/0x158506/source_1591259576163.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x158506/thumb_1591259575823.jpeg",
+                            "source": "images/products/0x158506/source_1591259575950.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x158506/thumb_1591259575832.jpeg",
+                            "source": "images/products/0x158506/source_1591259575992.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x158506/thumb_1591259575840.jpeg",
+                            "source": "images/products/0x158506/source_1591259576034.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x158506/thumb_1591259575902.jpeg",
+                            "source": "images/products/0x158506/source_1591259576074.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de26b",
+                    "sku_id": "10000833",
+                    "product_name": "Viên Uống Dầu Cá Omega 3-6- 9 Pharmekal 100 Viên",
+                    "display_name": "Viên Uống Dầu Cá Omega 3-6- 9 Pharmekal 100 Viên",
+                    "display_name_detail": "Viên Uống Dầu Cá Omega 3-6- 9 Pharmekal 100 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de26b/image_cover_1591779286918.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Nơi khô ráo, thoáng mát. Tránh xa tầm tay trẻ em. Tránh ánh sáng trực tiếp. Đậy nắp kín sau khi sử dụng.",
+                    "promotion_desc": "",
+                    "keywords": "Dầu Cá 180mg , EPA 144mg , DHA 96mg , Dầu Hạt Lanh…",
+                    "viewcount": 5,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Dùng cho người trưởng thành cần nâng cao chức năng hoạt động của tim mạch , người có nguy cơ xơ vữa động mạch.</p>\n<p>Hỗ trợ giảm nguy cơ xơ vữa động mạch.</p>\n<p>Giúp duy trì hệ thống tim mạch khỏe mạnh , hỗ trợ giảm nguy cơ mắc bệnh về tim.&nbsp;</p>\n<p>Ngày uống 1,2 lần , mỗi lần 1 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p><br></p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 195000,
+                        "listed_price_with_vat": 195000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de26b/thumb_1591779286960.jpeg",
+                            "source": "images/products/0x1de26b/source_1591779287082.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de26b/thumb_1591779286996.jpeg",
+                            "source": "images/products/0x1de26b/source_1591779287177.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de26b/thumb_1591779287029.jpeg",
+                            "source": "images/products/0x1de26b/source_1591779287324.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de26b/thumb_1591779287046.jpeg",
+                            "source": "images/products/0x1de26b/source_1591779287374.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de26b/thumb_1591779287069.jpeg",
+                            "source": "images/products/0x1de26b/source_1591779287492.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de54a",
+                    "sku_id": "10000834",
+                    "product_name": "Viên Uống Giảm Cân Garcinia Cambogia Pharmekal 30 Viên",
+                    "display_name": "Viên Uống Giảm Cân Pharmekal 30 Viên",
+                    "display_name_detail": "Viên Uống Giảm Cân Garcinia Cambogia Pharmekal 30 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de54a/image_cover_1591770029858.jpeg",
+                    "image_highlight": "images/products/0x1de54a/image_highlight_1591770029947.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Tránh ánh sáng trực tiếp.",
+                    "promotion_desc": "tặng 1 hộp Vitamin E Nature's Bounty.",
+                    "keywords": "Quả bứa 500mg , Caffeine 100mg , chất xơ 100mg…",
+                    "viewcount": 51,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Hỗ trợ quá trình chuyển hóa đường thành chất béo , giảm quá trình tổng hợp cholesterol.</p>\n<p>Tăng cường kiểm soát sự thèm ăn kết hợp với chế độ ăn uống hợp lý và tập thể dục giúp giảm cân.</p>\n<p>Ngày uống 1 lần , mỗi lần 1 viên. Trước khi ăn 30 phút.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 490000,
+                        "listed_price_with_vat": 490000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de54a/thumb_1591779345759.jpeg",
+                            "source": "images/products/0x1de54a/source_1591779345822.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de54a/thumb_1591779345772.jpeg",
+                            "source": "images/products/0x1de54a/source_1591779345871.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de54a/thumb_1591779345782.jpeg",
+                            "source": "images/products/0x1de54a/source_1591779345913.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de54a/thumb_1591779345791.jpeg",
+                            "source": "images/products/0x1de54a/source_1591779345991.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de54a/thumb_1591779345812.jpeg",
+                            "source": "images/products/0x1de54a/source_1591779346048.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de565",
+                    "sku_id": "10000835",
+                    "product_name": "Viên Uống Dầu Cá Omega 3 Pharmekal 100 Viên",
+                    "display_name": "Viên Uống Dầu Cá Omega 3 Pharmekal 100 Viên",
+                    "display_name_detail": "Viên Uống Dầu Cá Omega 3 Pharmekal 100 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de565/image_cover_1591779232494.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dùng cho người từ tuổi trưởng thành. Hỗ trợ tăng cường sức khỏe cho hệ tim mạch, tăng cường trí não.",
+                    "keywords": "Fish Oil 1000mg , EPA 180mg , DHA 120mg , phụ liệu Gelatin , chất làm dầy Glycerin , chất chống oxy hóa …",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 3 lần , mỗi lần 1 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.&nbsp;</p>\n<p>Tránh xa tầm tay trẻ em.&nbsp;</p>\n<p>Tránh ánh sáng trực tiếp.&nbsp;</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 145000,
+                        "listed_price_with_vat": 145000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de565/thumb_1591779232714.jpeg",
+                            "source": "images/products/0x1de565/source_1591779233072.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de565/thumb_1591779232599.jpeg",
+                            "source": "images/products/0x1de565/source_1591779232735.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de565/thumb_1591779232617.jpeg",
+                            "source": "images/products/0x1de565/source_1591779232815.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de565/thumb_1591779232640.jpeg",
+                            "source": "images/products/0x1de565/source_1591779232889.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de565/thumb_1591779232695.jpeg",
+                            "source": "images/products/0x1de565/source_1591779232933.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de597",
+                    "sku_id": "10000837",
+                    "product_name": "Viên Uống Sụn Cá Mập Pharmekal 60 Viên",
+                    "display_name": "Viên Uống Sụn Cá Mập Pharmekal 60 Viên",
+                    "display_name_detail": "Viên Uống Sụn Cá Mập Pharmekal 60 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de597/image_cover_1591779404245.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Giúp phục hồi tái tạo mô sụn khớp , giảm đau , bôi trơn khớp ,đảm bảo sự hoạt động linh hoạt cho khớp , hỗ trợ giảm chiệu trứng thoái hóa , đau khớp. ",
+                    "keywords": "Shark Cartilage Power 740mg , phụ liệu Gelatin , Decalcium Photphate…",
+                    "viewcount": 1,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 2 lần , mỗi lần 2,3 viên.&nbsp;</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 220000,
+                        "listed_price_with_vat": 220000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de597/thumb_1591779404281.jpeg",
+                            "source": "images/products/0x1de597/source_1591779404366.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de597/thumb_1591779404308.jpeg",
+                            "source": "images/products/0x1de597/source_1591779404430.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de597/thumb_1591779404318.jpeg",
+                            "source": "images/products/0x1de597/source_1591779404461.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de597/thumb_1591779404333.jpeg",
+                            "source": "images/products/0x1de597/source_1591779404511.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de597/thumb_1591779404343.jpeg",
+                            "source": "images/products/0x1de597/source_1591779404628.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de5b5",
+                    "sku_id": "10000838",
+                    "product_name": "Viên Uống Glucosamine Pharmekal 60 Viên",
+                    "display_name": "Viên Uống Glucosamine Pharmekal 60 Viên",
+                    "display_name_detail": "Viên Uống Glucosamine Pharmekal 60 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de5b5/image_cover_1591779738038.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dùng cho người trưởng thành bị thoái hóa khớp, vận động khó khăn do thoái hóa khớp, khô khớp. Giúp nuôi dưỡng sụn, khớp, hỗ trợ duy trì khả năng khớp, giúp khớp vận động linh hoạt.",
+                    "keywords": "Glucosamine HydroChloride , Methysulfonylmethane MSM ,  Chondroitin sulfate , Collagen type I , III …",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 2 lần , mỗi lần 1 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 290000,
+                        "listed_price_with_vat": 290000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5b5/thumb_1591779738102.jpeg",
+                            "source": "images/products/0x1de5b5/source_1591779738270.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5b5/thumb_1591779738112.jpeg",
+                            "source": "images/products/0x1de5b5/source_1591779738309.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5b5/thumb_1591779738122.jpeg",
+                            "source": "images/products/0x1de5b5/source_1591779738397.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5b5/thumb_1591779738151.jpeg",
+                            "source": "images/products/0x1de5b5/source_1591779738438.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5b5/thumb_1591779738222.jpeg",
+                            "source": "images/products/0x1de5b5/source_1591779738499.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de5d9",
+                    "sku_id": "10000839",
+                    "product_name": "Viên Uống Sụn Cá Mập Pharmekal 100 Viên",
+                    "display_name": "Viên Uống Sụn Cá Mập Pharmekal 100 Viên",
+                    "display_name_detail": "Viên Uống Sụn Cá Mập Pharmekal 100 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de5d9/image_cover_1591779807600.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Giúp phục hồi tái tạo mô sụn khớp , giảm đau , bôi trơn khớp ,đảm bảo sự hoạt động linh hoạt cho khớp , hỗ trợ giảm chiệu trứng thoái hóa , đau khớp.",
+                    "keywords": "Shark Cartilage Power 740mg , phụ liệu Gelatin , Decalcium Photphate…",
+                    "viewcount": 1,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 2 lần , mỗi lần 2,3 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 315000,
+                        "listed_price_with_vat": 315000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5d9/thumb_1591779807688.jpeg",
+                            "source": "images/products/0x1de5d9/source_1591779807971.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5d9/thumb_1591779807702.jpeg",
+                            "source": "images/products/0x1de5d9/source_1591779808026.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5d9/thumb_1591779807769.jpeg",
+                            "source": "images/products/0x1de5d9/source_1591779808131.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5d9/thumb_1591779807635.jpeg",
+                            "source": "images/products/0x1de5d9/source_1591779807803.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de5d9/thumb_1591779807665.jpeg",
+                            "source": "images/products/0x1de5d9/source_1591779807854.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de647",
+                    "sku_id": "10000841",
+                    "product_name": "Viên Uống Trắng Da Spathion Pharmekal 30 Viên",
+                    "display_name": "Viên Uống Trắng Da Spathion Pharmekal 30 Viên",
+                    "display_name_detail": "Viên Uống Trắng Da Spathion Pharmekal 30 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de647/image_cover_1591779870519.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Giúp chống lão hóa da , làm đẹp da , tăng độ ẩm cho da mịn màng , giảm thâm nám , sạm da.",
+                    "keywords": "Collagen 500mg , Glutathione 500mg , Vitamin C 150mg , Milkthistle 100mg…",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Dùng cho người trưởng thành.</p>\n<p>Ngày uống 2 lần , mỗi lần 1 viên.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Tránh xa tầm tay trẻ em.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 590000,
+                        "listed_price_with_vat": 590000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de647/thumb_1591779870582.jpeg",
+                            "source": "images/products/0x1de647/source_1591779870724.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de647/thumb_1591779870615.jpeg",
+                            "source": "images/products/0x1de647/source_1591779870796.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de647/thumb_1591779870625.jpeg",
+                            "source": "images/products/0x1de647/source_1591779870850.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de647/thumb_1591779870666.jpeg",
+                            "source": "images/products/0x1de647/source_1591779870889.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de647/thumb_1591779870699.jpeg",
+                            "source": "images/products/0x1de647/source_1591779870929.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de716",
+                    "sku_id": "10000842",
+                    "parent_sku_id": "Viên Uống Đa Vitamin One Daily Pharmekal 60 Viên ",
+                    "product_name": "Viên Uống Đa Vitamin One Daily Pharmekal 60 Viên ",
+                    "display_name": "Viên Uống Đa Vitamin One Daily Pharmekal 60 Viên ",
+                    "display_name_detail": "855600003919",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de716/image_cover_1591779922776.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bổ sung vitamin và khoáng chất cho cơ thể.",
+                    "keywords": "Vitamin A , C , D , B , Acid Folid , Ca , Mg , Zn , Fe...  ",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Dùng cho người từ tuổi trưởng thành bị suy nhược cơ thể , sức đề kháng kém , đang phục hồi sau khi phẫu thuật.</p>\n<p>Ngày uống 1 lần , mỗi lần 1 viên.&nbsp;</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 190000,
+                        "listed_price_with_vat": 190000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de716/thumb_1591779922842.jpeg",
+                            "source": "images/products/0x1de716/source_1591779922960.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de716/thumb_1591779922866.jpeg",
+                            "source": "images/products/0x1de716/source_1591779923019.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de716/thumb_1591779922876.jpeg",
+                            "source": "images/products/0x1de716/source_1591779923090.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de716/thumb_1591779922906.jpeg",
+                            "source": "images/products/0x1de716/source_1591779923139.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de716/thumb_1591779922923.jpeg",
+                            "source": "images/products/0x1de716/source_1591779923191.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de759",
+                    "sku_id": "10000844",
+                    "product_name": "Viên Uống Mát Gan Milk Thistle Nature's Bounty 50 Viên",
+                    "display_name": "Viên Uống Mát Gan Milk Thistle Nature's Bounty 50 Viên",
+                    "display_name_detail": "Viên Uống Mát Gan Milk Thistle Nature's Bounty 50 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de759/image_cover_1591780160616.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Sản phẩm dành cho người có chức năng gan suy giảm, người nóng gan , uống nhiều rượu bia.",
+                    "keywords": "Chiết xuất cây ké sữa , Dầu đậu nành , Gelatin",
+                    "viewcount": 1,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 2 lần , mỗi lần 1 viên.&nbsp;</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 250000,
+                        "listed_price_with_vat": 250000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de759/thumb_1591780160663.jpeg",
+                            "source": "images/products/0x1de759/source_1591780160852.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de759/thumb_1591780160738.jpeg",
+                            "source": "images/products/0x1de759/source_1591780160925.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de759/thumb_1591780160754.jpeg",
+                            "source": "images/products/0x1de759/source_1591780160966.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de759/thumb_1591780160781.jpeg",
+                            "source": "images/products/0x1de759/source_1591780161030.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de759/thumb_1591780160806.jpeg",
+                            "source": "images/products/0x1de759/source_1591780161083.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de763",
+                    "sku_id": "10000845",
+                    "product_name": "Viên Uống Calcium Nature's Bounty 100 Viên",
+                    "display_name": "Viên Uống Calcium Nature's Bounty 100 Viên",
+                    "display_name_detail": "Viên Uống Calcium Nature's Bounty 100 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de763/image_cover_1591780206857.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Hỗ trợ duy trì sức khỏe hệ sương , giúp sương chắc khỏe.",
+                    "keywords": "Vitamin D3 600 IU, Canxium 1000mg, Magie 400mg,  Kẽm 25mg, Sodium 10mg",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 3 lần , mỗi lần 1 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 220000,
+                        "listed_price_with_vat": 220000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de763/thumb_1591780206936.jpeg",
+                            "source": "images/products/0x1de763/source_1591780207053.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de763/thumb_1591780206956.jpeg",
+                            "source": "images/products/0x1de763/source_1591780207091.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de763/thumb_1591780206965.jpeg",
+                            "source": "images/products/0x1de763/source_1591780207141.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de763/thumb_1591780206975.jpeg",
+                            "source": "images/products/0x1de763/source_1591780207181.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de763/thumb_1591780206913.jpeg",
+                            "source": "images/products/0x1de763/source_1591780206986.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de76e",
+                    "sku_id": "10000846",
+                    "product_name": "Viên Uống Collagen Nature's Bounty 90 Viên",
+                    "display_name": "Viên Uống Collagen Nature's Bounty 90 Viên",
+                    "display_name_detail": "Viên Uống Collagen Nature's Bounty 90 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de76e/image_cover_1591780256541.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Giúp trẻ hóa làn da, chống lão hóa, phục hồi nuôi dưỡng tế bào da.  Giúp làn da luôn căng mịn, giảm các nếp nhăn trên da.",
+                    "keywords": "Vitamin C , Sodium , Hydrolyzed Collagen , L-Ornithine HCL",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 2 lần , mỗi lần 2 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 490000,
+                        "listed_price_with_vat": 490000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de76e/thumb_1591780256576.jpeg",
+                            "source": "images/products/0x1de76e/source_1591780256687.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de76e/thumb_1591780256586.jpeg",
+                            "source": "images/products/0x1de76e/source_1591780256752.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de76e/thumb_1591780256599.jpeg",
+                            "source": "images/products/0x1de76e/source_1591780256837.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de76e/thumb_1591780256619.jpeg",
+                            "source": "images/products/0x1de76e/source_1591780256895.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de76e/thumb_1591780256671.jpeg",
+                            "source": "images/products/0x1de76e/source_1591780256978.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de77f",
+                    "sku_id": "10000847",
+                    "product_name": "Viên Uống Lutein Nature's Bounty 30 Viên",
+                    "display_name": "Viên Uống Lutein Nature's Bounty 30 Viên",
+                    "display_name_detail": "Viên Uống Lutein Nature's Bounty 30 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de77f/image_cover_1591780302851.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dùng cho người trưởng thành, người mắt kém, thị lực suy giảm, người bị thoái hóa điểm vàng ở mắt. Bổ sung Lutein giúp duy trì và tăng cường thị lực cho mắt, giảm nguy cơ thoái hóa điểm vàng ở mắt.",
+                    "keywords": "Lutein 20mg , Gelatin , Glycerin thực vật , sáp ong vàng , safflower Oil …",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 1 lần , mỗi lần 1 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 195000,
+                        "listed_price_with_vat": 195000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de77f/thumb_1591780302904.jpeg",
+                            "source": "images/products/0x1de77f/source_1591780303056.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de77f/thumb_1591780302937.jpeg",
+                            "source": "images/products/0x1de77f/source_1591780303122.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de77f/thumb_1591780302949.jpeg",
+                            "source": "images/products/0x1de77f/source_1591780303185.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de77f/thumb_1591780302997.jpeg",
+                            "source": "images/products/0x1de77f/source_1591780303243.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de77f/thumb_1591780303021.jpeg",
+                            "source": "images/products/0x1de77f/source_1591780303285.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de796",
+                    "sku_id": "10000848",
+                    "product_name": "Viên Uống Gingo Biloba Nature's Bounty 30 Viên",
+                    "display_name": "Viên Uống Gingo Biloba Nature's Bounty 30 Viên",
+                    "display_name_detail": "Viên Uống Gingo Biloba Nature's Bounty 30 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de796/image_cover_1591780351128.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Người thiểu năng tuần hoàn não. Người có di chứng mạch máu não sau chấn động, chấn thương cần tăng cường tuần hành não. Giúp tóc, móng tay chắc khỏe.",
+                    "keywords": "Cao Bạch Quả , Cellulose thực vật , Dicalcium Phosphate.",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;Ngày uống 2 lần , mỗi lần 1 viên.</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Tham khảo ý kiến bác sỹ trước khi dùng sản phẩm , phụ nữ mang thai và cho con bú , người bị cao huyết áp , phụ nữ bị rong kinh , người bị xuất huyết.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 179000,
+                        "listed_price_with_vat": 179000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de796/thumb_1591780351280.jpeg",
+                            "source": "images/products/0x1de796/source_1591780351466.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de796/thumb_1591780351293.jpeg",
+                            "source": "images/products/0x1de796/source_1591780351580.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de796/thumb_1591780351193.jpeg",
+                            "source": "images/products/0x1de796/source_1591780351307.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de796/thumb_1591780351230.jpeg",
+                            "source": "images/products/0x1de796/source_1591780351353.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de796/thumb_1591780351244.jpeg",
+                            "source": "images/products/0x1de796/source_1591780351405.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de7ba",
+                    "sku_id": "10000849",
+                    "product_name": "Viên Uống Melatonin 5mg Nature's Bounty 60 Viên",
+                    "display_name": "Viên Uống Melatonin 5mg Nature's Bounty 60 Viên",
+                    "display_name_detail": "Viên Uống Melatonin 5mg Nature's Bounty 60 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de7ba/image_cover_1591842477948.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dùng cho người trưởng thành bị suy nhược mất ngủ, căng thẳng thần kinh. Giúp điều hòa giấc ngủ, giảm căng thẳng do bị mất ngủ. ",
+                    "keywords": "Melatonin 5mg , Dầu đậu nành ,  Gelatin ,Glycerin , sáp ong vàng…",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 1 lần , mỗi lần 1 viên , khi đi ngủ.</p>\n<p>&nbsp;Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Sản phẩm có thể gây ngủ gà , không dùng sản phẩm khi lái xe , vận hành máy móc , uống đồ uống có cồn.</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 145000,
+                        "listed_price_with_vat": 145000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ba/thumb_1591842478021.jpeg",
+                            "source": "images/products/0x1de7ba/source_1591842478279.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ba/thumb_1591842478030.jpeg",
+                            "source": "images/products/0x1de7ba/source_1591842478319.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ba/thumb_1591842477981.jpeg",
+                            "source": "images/products/0x1de7ba/source_1591842478125.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ba/thumb_1591842477991.jpeg",
+                            "source": "images/products/0x1de7ba/source_1591842478201.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ba/thumb_1591842478003.jpeg",
+                            "source": "images/products/0x1de7ba/source_1591842478239.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de80a",
+                    "sku_id": "10000850",
+                    "product_name": "Viên Uống Prenatal DHA Pharmekal 60 Viên",
+                    "display_name": "Viên Uống Prenatal DHA Pharmekal 60 Viên",
+                    "display_name_detail": "Viên Uống Prenatal DHA Pharmekal 60 Viên",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de80a/image_cover_1591780408731.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bổ sung dưỡng chất cho phụ nữ mang thai, cho con bú. Hỗ trợ nâng cao sức khỏe cho mẹ và em bé. Dùng cho phụ nữ mang thai và cho con bú.",
+                    "keywords": "Vitamin A , C , D3 , E , B1,2,3 . Acid Folic , EHA , PHA , Ca , Zn , Fe…",
+                    "viewcount": 2,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngày uống 1 lần , mỗi lần 1 viên.&nbsp;</p>\n<p>Sản phẩm không phải là thuốc không có tác dụng thay thế thuốc chữa bệnh.</p>\n<p>Nơi khô ráo, thoáng mát.</p>\n<p>Tránh xa tầm tay trẻ em.</p>\n<p>Tránh ánh sáng trực tiếp.</p>\n<p>Đậy nắp kín sau khi sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 370000,
+                        "listed_price_with_vat": 370000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da999",
+                        "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9ee",
+                        "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be61",
+                            "collection_name": "Thực phẩm chức năng"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a3",
+                        "brand_name": "PHARMEKAL/USA"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de80a/thumb_1591780408767.jpeg",
+                            "source": "images/products/0x1de80a/source_1591780408832.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de80a/thumb_1591780408777.jpeg",
+                            "source": "images/products/0x1de80a/source_1591780408881.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de80a/thumb_1591780408795.jpeg",
+                            "source": "images/products/0x1de80a/source_1591780408961.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de80a/thumb_1591780408812.jpeg",
+                            "source": "images/products/0x1de80a/source_1591780409005.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de80a/thumb_1591780408822.jpeg",
+                            "source": "images/products/0x1de80a/source_1591780409107.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be62",
+            "collection_name": "Thực phẩm bổ sung",
+            "count_items": 7,
+            "products": [
+                {
+                    "uid": "0x119012",
+                    "sku_id": "",
+                    "product_name": "Combo 2 Tuýp viên sủi Young Collagen",
+                    "display_name": "Combo 2 tuýp Young Collagen dạng sủi",
+                    "display_name_detail": "Combo 2 tuýp Young Collagen dạng sủi",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119012/image_cover.jpg",
+                    "image_banner": "images/0x119012/image_banner.jpg",
+                    "image_highlight": "images/0x119012/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Uống viên sủi Young Collagen mỗi ngày để bổ sung lượng collagen cần thiết cho da. Giúp tăng cường độ ẩm và đàn hồi của da.",
+                    "promotion_desc": "tặng 1 vỉ Serum 9cf.",
+                    "keywords": "Làm đẹp, collagen, young collagen, viên sủi",
+                    "viewcount": 760,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "Viên Sủi Bổ Sung Collagen - Young Collagen",
+                        "content": "<p>Hỗ trợ tăng cường dinh dưỡng, sức đề kháng giúp da, móng và tóc khoẻ mạnh. Ngăn ngừa quá trình lão hoá do đường hoá gây ra.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 598000,
+                        "listed_price_with_vat": 598000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b650",
+                        "manufacturer_name": "Công Ty OHUI Kiên Giang"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff4",
+                        "supplier_name": "Công Ty OHUI Kiên Giang"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be62",
+                            "collection_name": "Thực phẩm bổ sung"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x118ff3",
+                        "brand_name": "Young Collagen"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587696614490.jpg",
+                            "source": "images/0x119012/source.1587821581746.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587442136716.jpg",
+                            "source": "images/0x119012/source.1587442136725.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587442136720.jpg",
+                            "source": "images/0x119012/source.1587442136729.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587442136715.jpg",
+                            "source": "images/0x119012/source.1587442136724.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587442136717.jpg",
+                            "source": "images/0x119012/source.1587442136726.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587442136718.jpg",
+                            "source": "images/0x119012/source.1587442136727.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587442136719.jpg",
+                            "source": "images/0x119012/source.1587442136728.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119012/thumb.1587442136712.jpg",
+                            "source": "images/0x119012/source.1587442136721.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b593",
+                    "sku_id": "10000145",
+                    "product_name": "Hộp 2 lọ Đông trùng hạ thảo (90 viên/1 lọ)",
+                    "display_name": "Hộp 2 lọ Đông Trùng Hạ Thảo",
+                    "display_name_detail": "Hộp 2 lọ Đông Trùng Hạ Thảo (90 viên/1 lọ)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b593/image_cover.jpg",
+                    "image_highlight": "images/0x11b593/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đông Trùng Hạ Thảo là một loại đông dược quý có bản chất là dạng ký sinh của loài nấm Ophiocordyceps sinensis trên cơ thể ấu trùng của một vài loài bướm trong chi Thitarodes Viette.",
+                    "promotion_desc": " tặng 1 hộp kẹo sâm dẻo 200gr.",
+                    "keywords": "đông trùng hạ thảo, thực phẩm bổ sung",
+                    "viewcount": 49,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Không giống các loại nấm khác, vào mùa đông Đông Trùng Hạ Thảo ký sinh trên cơ thể côn trùng đã chết để lấy chất dinh dưỡng và phát triển thành nấm khi mùa hè đến. Phần dược tính của đông trùng hạ thảo đã được chứng minh là do các chất chiết xuất từ nấm Ophiocordyceps sinensis. Đông trùng hạ thảo được sử dụng từ lâu trong y học cổ truyền Trung Hoa và y học cổ truyền Tây Tạng.<br>\nCách sử dụng: dạng viên nan dùng trực tiếp,ngày dùng 2~3 lần, mỗi lần 1 viên, dùng chung với nước.<br>\nĐối tượng sử dụng:</p>\n<p>Người suy nhược cơ thể, mệt mỏi, căng thẳng tinh thần, người cao tuổi, người đang hồi phục sức khỏe, kém tập trung, người sinh lực yếu.</p>\n<p>Phụ nữ có thai và cho con bú, người cao huyết áp không nên dùng.</p>\n<p>Người bị dị ứng hoặc mẫn cảm đặc biệt phải kiểm tra kỹ thành phần trước khi uống.</p>\n<p>CÁCH DÙNG: ngày dùng 2-3 lần, mỗi lần 1 viên, uống cùng với nước.<br>\n&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1490000,
+                        "listed_price_with_vat": 1990000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67b",
+                        "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffd",
+                        "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be62",
+                            "collection_name": "Thực phẩm bổ sung"
+                        }
+                    ],
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b593/thumb.1587648666879.jpg",
+                            "source": "images/0x11b593/source.1587833922620.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b593/thumb.1587393060108.jpg",
+                            "source": "images/0x11b593/source.1587833922621.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b593/thumb.1587393060109.jpg",
+                            "source": "images/0x11b593/source.1587833922622.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b593/thumb.1587393392240.jpg",
+                            "source": "images/0x11b593/source.1587833922623.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b593/thumb.1587393392241.jpg",
+                            "source": "images/0x11b593/source.1587833922624.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b593/thumb.1587393392242.jpg",
+                            "source": "images/0x11b593/source.1587833922625.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b595",
+                    "sku_id": "10000146",
+                    "product_name": "Hộp 30 Viên hoàn trầm hương nhung hươu 3.75g/viên",
+                    "display_name": "Hộp 30 viên hoàn trầm hương nhung hươu",
+                    "display_name_detail": "Hộp 30 viên hoàn trầm hương nhung hươu (3.75g/viên)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b595/image_cover.jpg",
+                    "image_highlight": "images/0x11b595/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Sản phẩm viên hoàn bồi bổ sức khỏe cho người hiện đại bận rộn.",
+                    "promotion_desc": "tặng 1 hộp kẹo sâm dẻo 200gr.",
+                    "keywords": "trầm hương nhung hươu, thực phẩm bổ sung",
+                    "viewcount": 53,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Điều hoà huyết áp.<br>\nBồi bổ sức khoẻ ( hồng sâm, nhung hươu…).<br>\nBồi bổ thần kinh, hỗ trợ hiệu quả bệnh rối loạn tiền đinh, stress ( thành phần có thiên ma, sơn thù du ).<br>\nCải thiện chức năng tiêu hóa ( kế sửa ).<br>\nAn thần, ngủ ngon ( trầm hương, đại táo ).<br>\nHDSD: 1 ngày 1 lần, mỗi lần 1 viên, nhai kỹ rồi uống cùng với nước .&nbsp;&nbsp;</p>\n<p><br></p>\n<p><br></p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1590000,
+                        "listed_price_with_vat": 2290000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67b",
+                        "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffd",
+                        "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be62",
+                            "collection_name": "Thực phẩm bổ sung"
+                        }
+                    ],
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587654333570.jpg",
+                            "source": "images/0x11b595/source.1587834390412.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587393302136.jpg",
+                            "source": "images/0x11b595/source.1587834390413.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587393302137.jpg",
+                            "source": "images/0x11b595/source.1587834390414.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587393302138.jpg",
+                            "source": "images/0x11b595/source.1587834390415.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587393302139.jpg",
+                            "source": "images/0x11b595/source.1587834390416.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587393302140.jpg",
+                            "source": "images/0x11b595/source.1587834390417.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587393302141.jpg",
+                            "source": "images/0x11b595/source.1587834390418.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b595/thumb.1587393302142.jpg",
+                            "source": "images/0x11b595/source.1587834390419.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b597",
+                    "sku_id": "10000147",
+                    "product_name": "Hộp 30 gói Hồng sâm trẻ em (20ml/1 gói)",
+                    "display_name": "Hộp 30 gói hồng sâm trẻ em Jelly",
+                    "display_name_detail": "Hộp 30 gói hồng sâm trẻ em Jelly (20ml/1 gói)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b597/image_cover.jpg",
+                    "image_highlight": "images/0x11b597/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Công dụng: Hỗ trợ tăng cường sức đề kháng, bồi bổ sức khỏe. Chú ý: Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.",
+                    "promotion_desc": " tặng 1 hộp kẹo sâm dẻo 200gr. Tiết kiệm 35%.",
+                    "keywords": "hồng sâm trẻ em, thực phẩm bổ sung",
+                    "viewcount": 58,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Đối tượng sử dụng: sử dụng cho trẻ em từ 3 tuổi trở lên, trẻ có sức đề kháng kém, hay ốm vặt, trẻ em biếng ăn, trẻ em cần chăm sóc sức khỏe.</p>\n<p>Hướng dẫn sử dụng: ngày uống 1 lần, mỗi lần 1 gói.</p>\n<p>Lưu ý:</p>\n<p>Không uống nếu gói bị biến dạng, bị hở, bị rách hoặc bị hỏng.</p>\n<p>Hãy cẩn thận với bao bì khi mở hoặc uống sản phẩm.<br>\n Kiểm tra kỹ các thành phần của sản phẩm nếu cơ thể mẫn cảm hoặc dị ứng.</p>\n<p>Không uống sản phẩm đã hết hạn sử dụng.</p>\n<p>Không cho sản phẩm trực tiếp vào lò vi sóng.</p>\n<p>Tham khảo ý kiến bác sĩ của bạn nếu bạn đang dùng thuốc (đặc biệt là điều trị bệnh tiểu đường, thuốc chống đông máu).</p>\n<p>Bảo quản: Uống ngay sau khi mở sản phẩm. Bảo quản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và nơi độ ẩm cao.</p>\n<p>Xuất xứ: Hàn Quốc.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1290000,
+                        "listed_price_with_vat": 1990000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67b",
+                        "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffd",
+                        "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be62",
+                            "collection_name": "Thực phẩm bổ sung"
+                        }
+                    ],
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b597/thumb.1587654297870.jpg",
+                            "source": "images/0x11b597/source.1587824233756.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b597/thumb.1587393541772.jpg",
+                            "source": "images/0x11b597/source.1587824233757.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b597/thumb.1587393541773.jpg",
+                            "source": "images/0x11b597/source.1587824233758.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b597/thumb.1587393541774.jpg",
+                            "source": "images/0x11b597/source.1587824233759.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b597/thumb.1587393754846.jpg",
+                            "source": "images/0x11b597/source.1587824233760.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b597/thumb.1587393754847.jpg",
+                            "source": "images/0x11b597/source.1587824233761.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b599",
+                    "sku_id": "10000148",
+                    "product_name": "Hộp 6 củ Hồng sâm Hàn Quốc 6 năm tuổi tẩm mật ong 300g (50g/ củ)",
+                    "display_name": "Hồng sâm nguyên củ tẩm mật ong hộp 300g",
+                    "display_name_detail": "Hồng sâm nguyên củ tẩm mật ong hộp 300g",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b599/image_cover.jpg",
+                    "image_highlight": "images/0x11b599/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Sản phẩm được làm từ 100% Hồng sâm Hàn Quốc đủ 6 năm tuổi ( sâm của vùng núi Geumsan).",
+                    "promotion_desc": "tặng 1 hộp kẹo sâm dẻo 200gr.",
+                    "keywords": "hồng sâm hàn quốc, hồng sâm tẩm mật ong",
+                    "viewcount": 29,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Vùng có thổ nhưỡng đặc biệt phù hợp với sự sinh trưởng và phát triển của sâm, nên sâm có giá trị dinh dưỡng cao , lượng saponin trong sâm cao cấp nhiều lần so với sâm trồng ở các vùng khác trên thế giới . Vì vậy sâm Geumsan là sâm tốt nhất thế giới.<br>\nTrọng lượng trung bình mỗi củ là 50g.<br>\nSản phẩm được đóng gói riêng từng củ nên dễ dàng sử dụng , cũng như bảo quản.<br>\nSản phẩm sử dụng nguyên liệu cao cấp, là món quà giá trị để biếu/tặng.<br>\nCông dụng: Hỗ trợ tăng sức đề kháng, bồi bổ sức khỏe, giảm mệt mỏi, tăng sự tỉnh táo.<br>\nChú ý: Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc<br>\nchữa bệnh.<br>\nĐối tượng sử dụng: người suy nhược sức đề kháng kém, người mới ốm dậy, người cần phục<br>\nhồi sức khỏe,<br>\nngười cần bồi bổ sức khỏe, học sinh sinh viên, người làm việc trí óc căng thẳng, bà<br>\nnội trợ mệt mỏi vì công việc gia đình.<br>\nPhụ nữ có thai và cho con bú , người cao huyết áp, không nên dùng<br>\nNgười bị dị ứng hoặc mẫn cảm đặc biệt phải kiểm tra kỹ thành phần trước khi sử<br>\ndụng<br>\n&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1490000,
+                        "listed_price_with_vat": 1990000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67b",
+                        "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffd",
+                        "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be62",
+                            "collection_name": "Thực phẩm bổ sung"
+                        }
+                    ],
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b599/thumb.1587654202532.jpg",
+                            "source": "images/0x11b599/source.1587834872604.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b599/thumb.1587393676018.jpg",
+                            "source": "images/0x11b599/source.1587834872605.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b599/thumb.1587393676015.jpg",
+                            "source": "images/0x11b599/source.1587834872606.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b599/thumb.1587393676016.jpg",
+                            "source": "images/0x11b599/source.1587834872607.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b599/thumb.1587393676017.jpg",
+                            "source": "images/0x11b599/source.1587834872608.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b599/thumb.1587393798620.jpg",
+                            "source": "images/0x11b599/source.1587834872609.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b599/thumb.1587393798621.jpg",
+                            "source": "images/0x11b599/source.1587834872610.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b5a3",
+                    "sku_id": "10000153",
+                    "product_name": "Bộ 5 hộp kẹo sâm dẻo (1 hộp 200gr)",
+                    "display_name": "Bộ 5 hộp kẹo sâm dẻo Jelly",
+                    "display_name_detail": "Bộ 5 hộp kẹo sâm dẻo Jelly (200gr/hộp)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b5a3/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Hồng sâm Jelly là sản phẩm được chiết xuất từ nhân sâm đỏ của Hàn Quốc, một món ăn vặt tốt cho sức khỏe,",
+                    "promotion_desc": "tặng 1 hộp kẹo sâm dẻo 200gr.",
+                    "keywords": "kẹo sâm, kẹo sâm dẻo",
+                    "viewcount": 9,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Phù hợp với khẩu vị của con người hiện đại. Nam, nữ, già trẻ đều có thể ăn kẹo sâm!</p>\n<p>Quy cách đóng gói: 200g/hộp</p>\n<p>Cách dùng: ăn trực tiếp&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 499000,
+                        "listed_price_with_vat": 499000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67b",
+                        "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffd",
+                        "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be62",
+                            "collection_name": "Thực phẩm bổ sung"
+                        }
+                    ],
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5a3/thumb.1587654181781.jpg",
+                            "source": "images/0x11b5a3/source.1588043629813.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b5a5",
+                    "sku_id": "10000154",
+                    "product_name": "Bộ 3 hộp kẹo sâm dẻo (1 hộp 200gr)",
+                    "display_name": "Bộ 3 hộp kẹo sâm dẻo Jelly",
+                    "display_name_detail": "Bộ 3 hộp kẹo sâm dẻo Jelly (200gr/hộp)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b5a5/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Hồng sâm Jelly là sản phẩm được chiết xuất từ nhân sâm đỏ của Hàn Quốc, một món ăn vặt tốt cho sức khỏe,",
+                    "promotion_desc": "",
+                    "keywords": "kẹo sâm, kẹo sâm dẻo",
+                    "viewcount": 12,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phù hợp với khẩu vị của con người hiện đại. Nam, nữ, già trẻ đều &nbsp;&nbsp;có thể ăn kẹo sâm!<br>\n&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;Quy cách đóng gói: 200g/hộp<br>\n&nbsp;</p>\n<p>&nbsp;&nbsp;&nbsp;&nbsp;Cách dùng: ăn trực tiếp &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 299000,
+                        "listed_price_with_vat": 299000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67b",
+                        "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffd",
+                        "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be62",
+                            "collection_name": "Thực phẩm bổ sung"
+                        }
+                    ],
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5a5/thumb.1587696711578.jpg",
+                            "source": "images/0x11b5a5/source.1588750615942.jpg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be63",
+            "collection_name": "Thảo dược",
+            "count_items": 2,
+            "products": [
+                {
+                    "uid": "0x118fe0",
+                    "sku_id": "20000004",
+                    "product_name": "1 chai keo ong vị bạc hà (người lớn) + 1 chai keo ong vị trái cây (em bé)",
+                    "display_name": "Combo 2 keo mật ong người lớn và em bé ",
+                    "display_name_detail": "Combo 2 Chai keo mật ong vị bạc hà (người lớn) + vị trái cây (em bé) Tracybee",
+                    "color": "#f48024",
+                    "image_cover": "images/0x118fe0/image_cover.jpg",
+                    "image_highlight": "images/0x118fe0/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": " Bổ sung kháng thể tự nhiên của keo ong, giúp hạn chế quá trình oxy hóa, giúp kháng khuẩn trong khoang miệng và đường hô hấp: viêm họng, ho, cảm cúm…",
+                    "promotion_desc": "tặng 2 lọ mật ong hoa café và hoa chôm chôm 189ml.",
+                    "keywords": "Mật ong, Tracy Bee, keo ong, bạc hà, vị trái cây",
+                    "viewcount": 36,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "Combo ",
+                        "content": "<p>Công dụng: Bổ sung kháng thể tự nhiên của keo ong, giúp hạn chế quá trình oxy hóa, giúp kháng khuẩn trong khoang miệng và đường hô hấp.</p>\n<p>Đối tượng sử dụng: Trẻ em trên 12 tháng tuổi và người trưởng thành.</p>\n<p>Bảo quản: Bảo quản nơi sạch sẽ, thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời.</p>\n<p>Thời hạn sử dụng: 2 năm kể từ ngày sản xuất.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 550000,
+                        "listed_price_with_vat": 740000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b657",
+                        "manufacturer_name": "CÔNG TY TNHH ONG MẬT TRACYBEE"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff5",
+                        "supplier_name": "CÔNG TY TNHH ONG MẬT TRACYBEE"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be63",
+                            "collection_name": "Thảo dược"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x118fdf",
+                        "brand_name": "Tracy Bee"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x118fe0/thumb.1587639793086.jpg",
+                            "source": "images/0x118fe0/source.1587373779898.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x118fe0/thumb.1587215235586.jpg",
+                            "source": "images/0x118fe0/source.1587373779899.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x118fe0/thumb.1587215235587.jpg",
+                            "source": "images/0x118fe0/source.1587373779900.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x118fe0/thumb.1587215235588.jpg",
+                            "source": "images/0x118fe0/source.1587373779901.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x118fe0/thumb.1587216599520.jpg",
+                            "source": "images/0x118fe0/source.1587373779902.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x118fe0/thumb.1587216599521.jpg",
+                            "source": "images/0x118fe0/source.1587373779903.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x118fe0/thumb.1587216599522.jpg",
+                            "source": "images/0x118fe0/source.1587373779904.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119069",
+                    "sku_id": "20000005",
+                    "parent_sku_id": "   ",
+                    "product_name": "1 lọ keo ong viên + 1 chai keo ong  vị bạc hà (người lớn)  + 1 chai keo ong vị trái cây (em bé)",
+                    "display_name": "Combo 2 keo ong dạng xịt và 1 keo ong viên",
+                    "display_name_detail": "Combo 2 chai keo ong vị bạc hà người lớn + vị trái cây em bé và 1 lọ keo ong viên",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119069/image_cover.jpg",
+                    "image_highlight": "images/0x119069/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bổ sung kháng thể tự nhiên của keo ong, giúp hạn chế quá trình oxy hóa, giúp kháng khuẩn trong khoang miệng và đường hô hấp: viêm họng, ho, cảm cúm",
+                    "promotion_desc": "Tặng 2 lọ mật hoa café và hoa chôm chôm 189ml + 01 lọ phấn hoa 50gr.",
+                    "keywords": "Mật ong, Tracy Bee, keo ong, bạc hà, vị trái cây",
+                    "viewcount": 27,
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "Combo Keo Mật Ong",
+                        "content": "<p>Đối tượng sử dụng: Trẻ em trên 24 tháng tuổi và người trưởng thành.</p>\n<p>Bảo quản: Bảo quản nơi sạch sẽ, thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời.</p>\n<p>Thời hạn sử dụng: 2 năm kể từ ngày sản xuất</p>\n<p>Làm sao để chúng ta hạn chế sử dụng kháng sinh cho con cái và gia đình khi chưa cần thiết: viêm họng, ho, cảm cúm…?</p>\n<p>Keo ong là một lớp kháng khuẩn tự nhiên do con ong tạo nên nhằm bảo vệ đàn ong khỏi vi khuẩn gây bệnh. Keo ong xanh Brazil đã được chứng minh khoa học về đặc tính kháng khuẩn, kháng nấm, kháng virus, chống oxy hoá, tăng sức đề kháng, phòng ngừa ung thư vượt trội.</p>\n<p>Công dụng: Bổ sung kháng thể tự nhiên của keo ong, giúp hạn chế quá trình oxy hóa, giúp kháng khuẩn trong khoang miệng và đường hô hấp.</p>\n<p>Đối tượng sử dụng:Trẻ em trên 12 tháng tuổi và người trưởng thành.</p>\n<p>Bảo quản: Bảo quản nơi sạch sẽ, thoáng mát, tránh tiếp xúc trực tiếp với ánh nắng mặt trời.</p>\n<p>Thời hạn sử dụng: 2 năm kể từ ngày sản xuất</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 729000,
+                        "listed_price_with_vat": 729000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b657",
+                        "manufacturer_name": "CÔNG TY TNHH ONG MẬT TRACYBEE"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff5",
+                        "supplier_name": "CÔNG TY TNHH ONG MẬT TRACYBEE"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be63",
+                            "collection_name": "Thảo dược"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x118fdf",
+                        "brand_name": "Tracy Bee"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587640092121.jpg",
+                            "source": "images/0x119069/source.1587375564558.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587216166179.jpg",
+                            "source": "images/0x119069/source.1587375564559.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587216166180.jpg",
+                            "source": "images/0x119069/source.1587375564560.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587464607098.jpg",
+                            "source": "images/0x119069/source.1587464607104.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587464607099.jpg",
+                            "source": "images/0x119069/source.1587464607106.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587464607100.jpg",
+                            "source": "images/0x119069/source.1587464607107.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587464607101.jpg",
+                            "source": "images/0x119069/source.1587464607108.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587464607102.jpg",
+                            "source": "images/0x119069/source.1587464607109.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119069/thumb.1587464607103.jpg",
+                            "source": "images/0x119069/source.1587464607110.jpg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be64",
+            "collection_name": "Vitamin & Khoáng chất",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be66",
+            "collection_name": "Vật dụng & Thiết bị y tế",
+            "count_items": 2,
+            "products": [
+                {
+                    "uid": "0x119109",
+                    "sku_id": "10000096",
+                    "product_name": "Set 10 khẩu trang vải kháng khuẩn 3 lớp Xpak",
+                    "display_name": "Set 10 khẩu trang vải kháng khuẩn 3 lớp ",
+                    "display_name_detail": "Combo 10 khẩu trang vải kháng khuẩn 3 lớp ",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119109/image_cover.jpg",
+                    "image_highlight": "images/0x119109/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Khẩu trang vải kháng khuẩn 3 lớp màu xanh XPAK giúp ngăn ngừa khói bụi và vi khuẩn từ môi trường xung quanh, chất liệu mềm mại ôm trọn khuôn mặt mà không gây cảm giác khó thở cho bạn.",
+                    "promotion_desc": "tặng 2 chai nước rửa tay khô Hapicare 60ml.",
+                    "keywords": "khẩu trang vải, khẩu trang kháng khuẩn, khẩu trang 3 lớp xpak",
+                    "viewcount": 286,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 150000,
+                        "listed_price_with_vat": 290000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be66",
+                            "collection_name": "Vật dụng & Thiết bị y tế"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b688",
+                        "brand_name": "XPAK"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119109/thumb.1587640166833.jpg",
+                            "source": "images/0x119109/source.1587449856033.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119109/thumb.1587468772564.jpg",
+                            "source": "images/0x119109/source.1587468772565.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11910e",
+                    "sku_id": "10000097",
+                    "product_name": "Set 5 khẩu trang vải kháng khuẩn 3 lớp Xpak",
+                    "display_name": "Set 5 khẩu trang vải kháng khuẩn 3 lớp",
+                    "display_name_detail": "Combo 5 khẩu trang vải kháng khuẩn 3 lớp ",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11910e/image_cover.jpg",
+                    "image_highlight": "images/0x11910e/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Khẩu trang vải kháng khuẩn 3 lớp màu xanh XPAK giúp ngăn ngừa khói bụi và vi khuẩn từ môi trường xung quanh, chất liệu mềm mại ôm trọn khuôn mặt mà không gây cảm giác khó thở cho bạn.",
+                    "promotion_desc": "tặng 1 chai nước rửa tay khô Hapicare 60ml. Tiết kiệm ",
+                    "keywords": "khẩu trang vải, khẩu trang kháng khuẩn, khẩu trang 3 lớp xpak",
+                    "viewcount": 50,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 109000,
+                        "listed_price_with_vat": 190000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be29",
+                            "collection_name": "Sức khỏe",
+                            "collection_image": "collection_images/0x13be29.jpg"
+                        },
+                        {
+                            "uid": "0x13be66",
+                            "collection_name": "Vật dụng & Thiết bị y tế"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b688",
+                        "brand_name": "XPAK"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11910e/thumb.1587640089070.jpg",
+                            "source": "images/0x11910e/source.1587468892588.jpg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        }
+    ],
+    "Hotdeals": {
+        "products": [
+            {
+                "uid": "0x1584ce",
+                "sku_id": "10000686",
+                "product_name": "Tỏi đen cô đơn nguyên vỏ hũ nhựa 350g",
+                "display_name": "Tỏi đen cô đơn nguyên vỏ hũ nhựa 350g",
+                "display_name_detail": "Tỏi đen cô đơn nguyên vỏ hũ nhựa 350g",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1584ce/image_cover_1591247802351.jpeg",
+                "image_highlight": "images/products/0x1584ce/image_highlight_1591247802238.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Tỏi đen 100% nguyên vỏ. Khối lượng: 350g. Bao bì: Hũ nhựa.",
+                "promotion_desc": "tiết kiệm 171.000 đồng, giảm 35%.",
+                "keywords": "tỏi, tỏi đen cô đơn, tỏi cô đơn, tỏi đen, nguyên vỏ, aum",
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 319000,
+                    "listed_price_with_vat": 490000
+                },
+                "product.manufacturer": {
+                    "uid": "0x15847a",
+                    "manufacturer_name": "CÔNG TY TNHH AUM"
+                },
+                "product.supplier": {
+                    "uid": "0x151813",
+                    "supplier_name": "CÔNG TY TNHH AUM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be61",
+                        "collection_name": "Thực phẩm chức năng"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x15846b",
+                    "brand_name": "Tỏi đen AUM"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1584ce/thumb_1591259627184.jpeg",
+                        "source": "images/products/0x1584ce/source_1591259627287.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1584ce/thumb_1591259627210.jpeg",
+                        "source": "images/products/0x1584ce/source_1591259627307.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1584ce/thumb_1591259627228.jpeg",
+                        "source": "images/products/0x1584ce/source_1591259627445.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1584ce/thumb_1591259627237.jpeg",
+                        "source": "images/products/0x1584ce/source_1591259627509.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1584ce/thumb_1591259627278.jpeg",
+                        "source": "images/products/0x1584ce/source_1591259627539.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11b593",
+                "sku_id": "10000145",
+                "product_name": "Hộp 2 lọ Đông trùng hạ thảo (90 viên/1 lọ)",
+                "display_name": "Hộp 2 lọ Đông Trùng Hạ Thảo",
+                "display_name_detail": "Hộp 2 lọ Đông Trùng Hạ Thảo (90 viên/1 lọ)",
+                "color": "#f48024",
+                "image_cover": "images/0x11b593/image_cover.jpg",
+                "image_highlight": "images/0x11b593/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Đông Trùng Hạ Thảo là một loại đông dược quý có bản chất là dạng ký sinh của loài nấm Ophiocordyceps sinensis trên cơ thể ấu trùng của một vài loài bướm trong chi Thitarodes Viette.",
+                "promotion_desc": " tặng 1 hộp kẹo sâm dẻo 200gr.",
+                "keywords": "đông trùng hạ thảo, thực phẩm bổ sung",
+                "viewcount": 49,
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Không giống các loại nấm khác, vào mùa đông Đông Trùng Hạ Thảo ký sinh trên cơ thể côn trùng đã chết để lấy chất dinh dưỡng và phát triển thành nấm khi mùa hè đến. Phần dược tính của đông trùng hạ thảo đã được chứng minh là do các chất chiết xuất từ nấm Ophiocordyceps sinensis. Đông trùng hạ thảo được sử dụng từ lâu trong y học cổ truyền Trung Hoa và y học cổ truyền Tây Tạng.<br>\nCách sử dụng: dạng viên nan dùng trực tiếp,ngày dùng 2~3 lần, mỗi lần 1 viên, dùng chung với nước.<br>\nĐối tượng sử dụng:</p>\n<p>Người suy nhược cơ thể, mệt mỏi, căng thẳng tinh thần, người cao tuổi, người đang hồi phục sức khỏe, kém tập trung, người sinh lực yếu.</p>\n<p>Phụ nữ có thai và cho con bú, người cao huyết áp không nên dùng.</p>\n<p>Người bị dị ứng hoặc mẫn cảm đặc biệt phải kiểm tra kỹ thành phần trước khi uống.</p>\n<p>CÁCH DÙNG: ngày dùng 2-3 lần, mỗi lần 1 viên, uống cùng với nước.<br>\n&nbsp;</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1490000,
+                    "listed_price_with_vat": 1990000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67b",
+                    "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x118ffd",
+                    "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be62",
+                        "collection_name": "Thực phẩm bổ sung"
+                    }
+                ],
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b593/thumb.1587648666879.jpg",
+                        "source": "images/0x11b593/source.1587833922620.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b593/thumb.1587393060108.jpg",
+                        "source": "images/0x11b593/source.1587833922621.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b593/thumb.1587393060109.jpg",
+                        "source": "images/0x11b593/source.1587833922622.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b593/thumb.1587393392240.jpg",
+                        "source": "images/0x11b593/source.1587833922623.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b593/thumb.1587393392241.jpg",
+                        "source": "images/0x11b593/source.1587833922624.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b593/thumb.1587393392242.jpg",
+                        "source": "images/0x11b593/source.1587833922625.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11901d",
+                "sku_id": "",
+                "product_name": "Combo 3 Tuýp Viên sủi Young Collagen",
+                "display_name": "Combo 3 tuýp Young Collagen dạng sủi",
+                "display_name_detail": "Combo 3 tuýp Young Collagen dạng sủi",
+                "color": "#f48024",
+                "image_cover": "images/0x11901d/image_cover.jpg",
+                "image_highlight": "images/0x11901d/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Uống viên sủi Young Collagen mỗi ngày để bổ sung lượng collagen cần thiết cho da. Giúp tăng cường độ ẩm và đàn hồi của da.",
+                "promotion_desc": "tặng 1 lọ Serum WellDerma.",
+                "keywords": "Làm đẹp, collagen, young collagen, viên sủi",
+                "viewcount": 362,
+                "ribbon": "",
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "detail": {
+                    "title": "Young Collagen - Viên Sủi Bổ Sung Collagen",
+                    "content": "<p>Hỗ trợ tăng cường dinh dưỡng, sức đề kháng giúp da, móng và tóc khoẻ mạnh.<br>\nNgăn ngừa quá trình lão hoá do đường hoá gây ra.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 897000,
+                    "listed_price_with_vat": 897000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b650",
+                    "manufacturer_name": "Công Ty OHUI Kiên Giang"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff4",
+                    "supplier_name": "Công Ty OHUI Kiên Giang"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be62",
+                        "collection_name": "Thực phẩm bổ sung"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x118ff3",
+                    "brand_name": "Young Collagen"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587696642285.jpg",
+                        "source": "images/0x11901d/source.1587462572562.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462572563.jpg",
+                        "source": "images/0x11901d/source.1587462684476.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462684473.jpg",
+                        "source": "images/0x11901d/source.1587462684481.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462684474.jpg",
+                        "source": "images/0x11901d/source.1587462684482.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462684475.jpg",
+                        "source": "images/0x11901d/source.1587462684483.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462684469.jpg",
+                        "source": "images/0x11901d/source.1587462684477.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462684470.jpg",
+                        "source": "images/0x11901d/source.1587462684478.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462684471.jpg",
+                        "source": "images/0x11901d/source.1587462684479.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11901d/thumb.1587462684472.jpg",
+                        "source": "images/0x11901d/source.1587462684480.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11b599",
+                "sku_id": "10000148",
+                "product_name": "Hộp 6 củ Hồng sâm Hàn Quốc 6 năm tuổi tẩm mật ong 300g (50g/ củ)",
+                "display_name": "Hồng sâm nguyên củ tẩm mật ong hộp 300g",
+                "display_name_detail": "Hồng sâm nguyên củ tẩm mật ong hộp 300g",
+                "color": "#f48024",
+                "image_cover": "images/0x11b599/image_cover.jpg",
+                "image_highlight": "images/0x11b599/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Sản phẩm được làm từ 100% Hồng sâm Hàn Quốc đủ 6 năm tuổi ( sâm của vùng núi Geumsan).",
+                "promotion_desc": "tặng 1 hộp kẹo sâm dẻo 200gr.",
+                "keywords": "hồng sâm hàn quốc, hồng sâm tẩm mật ong",
+                "viewcount": 29,
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Vùng có thổ nhưỡng đặc biệt phù hợp với sự sinh trưởng và phát triển của sâm, nên sâm có giá trị dinh dưỡng cao , lượng saponin trong sâm cao cấp nhiều lần so với sâm trồng ở các vùng khác trên thế giới . Vì vậy sâm Geumsan là sâm tốt nhất thế giới.<br>\nTrọng lượng trung bình mỗi củ là 50g.<br>\nSản phẩm được đóng gói riêng từng củ nên dễ dàng sử dụng , cũng như bảo quản.<br>\nSản phẩm sử dụng nguyên liệu cao cấp, là món quà giá trị để biếu/tặng.<br>\nCông dụng: Hỗ trợ tăng sức đề kháng, bồi bổ sức khỏe, giảm mệt mỏi, tăng sự tỉnh táo.<br>\nChú ý: Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc<br>\nchữa bệnh.<br>\nĐối tượng sử dụng: người suy nhược sức đề kháng kém, người mới ốm dậy, người cần phục<br>\nhồi sức khỏe,<br>\nngười cần bồi bổ sức khỏe, học sinh sinh viên, người làm việc trí óc căng thẳng, bà<br>\nnội trợ mệt mỏi vì công việc gia đình.<br>\nPhụ nữ có thai và cho con bú , người cao huyết áp, không nên dùng<br>\nNgười bị dị ứng hoặc mẫn cảm đặc biệt phải kiểm tra kỹ thành phần trước khi sử<br>\ndụng<br>\n&nbsp;</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1490000,
+                    "listed_price_with_vat": 1990000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67b",
+                    "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x118ffd",
+                    "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be62",
+                        "collection_name": "Thực phẩm bổ sung"
+                    }
+                ],
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b599/thumb.1587654202532.jpg",
+                        "source": "images/0x11b599/source.1587834872604.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b599/thumb.1587393676018.jpg",
+                        "source": "images/0x11b599/source.1587834872605.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b599/thumb.1587393676015.jpg",
+                        "source": "images/0x11b599/source.1587834872606.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b599/thumb.1587393676016.jpg",
+                        "source": "images/0x11b599/source.1587834872607.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b599/thumb.1587393676017.jpg",
+                        "source": "images/0x11b599/source.1587834872608.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b599/thumb.1587393798620.jpg",
+                        "source": "images/0x11b599/source.1587834872609.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b599/thumb.1587393798621.jpg",
+                        "source": "images/0x11b599/source.1587834872610.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11b597",
+                "sku_id": "10000147",
+                "product_name": "Hộp 30 gói Hồng sâm trẻ em (20ml/1 gói)",
+                "display_name": "Hộp 30 gói hồng sâm trẻ em Jelly",
+                "display_name_detail": "Hộp 30 gói hồng sâm trẻ em Jelly (20ml/1 gói)",
+                "color": "#f48024",
+                "image_cover": "images/0x11b597/image_cover.jpg",
+                "image_highlight": "images/0x11b597/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Công dụng: Hỗ trợ tăng cường sức đề kháng, bồi bổ sức khỏe. Chú ý: Thực phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.",
+                "promotion_desc": " tặng 1 hộp kẹo sâm dẻo 200gr. Tiết kiệm 35%.",
+                "keywords": "hồng sâm trẻ em, thực phẩm bổ sung",
+                "viewcount": 58,
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Đối tượng sử dụng: sử dụng cho trẻ em từ 3 tuổi trở lên, trẻ có sức đề kháng kém, hay ốm vặt, trẻ em biếng ăn, trẻ em cần chăm sóc sức khỏe.</p>\n<p>Hướng dẫn sử dụng: ngày uống 1 lần, mỗi lần 1 gói.</p>\n<p>Lưu ý:</p>\n<p>Không uống nếu gói bị biến dạng, bị hở, bị rách hoặc bị hỏng.</p>\n<p>Hãy cẩn thận với bao bì khi mở hoặc uống sản phẩm.<br>\n Kiểm tra kỹ các thành phần của sản phẩm nếu cơ thể mẫn cảm hoặc dị ứng.</p>\n<p>Không uống sản phẩm đã hết hạn sử dụng.</p>\n<p>Không cho sản phẩm trực tiếp vào lò vi sóng.</p>\n<p>Tham khảo ý kiến bác sĩ của bạn nếu bạn đang dùng thuốc (đặc biệt là điều trị bệnh tiểu đường, thuốc chống đông máu).</p>\n<p>Bảo quản: Uống ngay sau khi mở sản phẩm. Bảo quản ở nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp và nơi độ ẩm cao.</p>\n<p>Xuất xứ: Hàn Quốc.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1290000,
+                    "listed_price_with_vat": 1990000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67b",
+                    "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x118ffd",
+                    "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be62",
+                        "collection_name": "Thực phẩm bổ sung"
+                    }
+                ],
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b597/thumb.1587654297870.jpg",
+                        "source": "images/0x11b597/source.1587824233756.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b597/thumb.1587393541772.jpg",
+                        "source": "images/0x11b597/source.1587824233757.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b597/thumb.1587393541773.jpg",
+                        "source": "images/0x11b597/source.1587824233758.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b597/thumb.1587393541774.jpg",
+                        "source": "images/0x11b597/source.1587824233759.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b597/thumb.1587393754846.jpg",
+                        "source": "images/0x11b597/source.1587824233760.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b597/thumb.1587393754847.jpg",
+                        "source": "images/0x11b597/source.1587824233761.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11b595",
+                "sku_id": "10000146",
+                "product_name": "Hộp 30 Viên hoàn trầm hương nhung hươu 3.75g/viên",
+                "display_name": "Hộp 30 viên hoàn trầm hương nhung hươu",
+                "display_name_detail": "Hộp 30 viên hoàn trầm hương nhung hươu (3.75g/viên)",
+                "color": "#f48024",
+                "image_cover": "images/0x11b595/image_cover.jpg",
+                "image_highlight": "images/0x11b595/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Sản phẩm viên hoàn bồi bổ sức khỏe cho người hiện đại bận rộn.",
+                "promotion_desc": "tặng 1 hộp kẹo sâm dẻo 200gr.",
+                "keywords": "trầm hương nhung hươu, thực phẩm bổ sung",
+                "viewcount": 53,
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Điều hoà huyết áp.<br>\nBồi bổ sức khoẻ ( hồng sâm, nhung hươu…).<br>\nBồi bổ thần kinh, hỗ trợ hiệu quả bệnh rối loạn tiền đinh, stress ( thành phần có thiên ma, sơn thù du ).<br>\nCải thiện chức năng tiêu hóa ( kế sửa ).<br>\nAn thần, ngủ ngon ( trầm hương, đại táo ).<br>\nHDSD: 1 ngày 1 lần, mỗi lần 1 viên, nhai kỹ rồi uống cùng với nước .&nbsp;&nbsp;</p>\n<p><br></p>\n<p><br></p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1590000,
+                    "listed_price_with_vat": 2290000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67b",
+                    "manufacturer_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x118ffd",
+                    "supplier_name": "CÔNG TY TNHH SANTE 365 VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be62",
+                        "collection_name": "Thực phẩm bổ sung"
+                    }
+                ],
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587654333570.jpg",
+                        "source": "images/0x11b595/source.1587834390412.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587393302136.jpg",
+                        "source": "images/0x11b595/source.1587834390413.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587393302137.jpg",
+                        "source": "images/0x11b595/source.1587834390414.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587393302138.jpg",
+                        "source": "images/0x11b595/source.1587834390415.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587393302139.jpg",
+                        "source": "images/0x11b595/source.1587834390416.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587393302140.jpg",
+                        "source": "images/0x11b595/source.1587834390417.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587393302141.jpg",
+                        "source": "images/0x11b595/source.1587834390418.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11b595/thumb.1587393302142.jpg",
+                        "source": "images/0x11b595/source.1587834390419.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x11910e",
+                "sku_id": "10000097",
+                "product_name": "Set 5 khẩu trang vải kháng khuẩn 3 lớp Xpak",
+                "display_name": "Set 5 khẩu trang vải kháng khuẩn 3 lớp",
+                "display_name_detail": "Combo 5 khẩu trang vải kháng khuẩn 3 lớp ",
+                "color": "#f48024",
+                "image_cover": "images/0x11910e/image_cover.jpg",
+                "image_highlight": "images/0x11910e/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Khẩu trang vải kháng khuẩn 3 lớp màu xanh XPAK giúp ngăn ngừa khói bụi và vi khuẩn từ môi trường xung quanh, chất liệu mềm mại ôm trọn khuôn mặt mà không gây cảm giác khó thở cho bạn.",
+                "promotion_desc": "tặng 1 chai nước rửa tay khô Hapicare 60ml. Tiết kiệm ",
+                "keywords": "khẩu trang vải, khẩu trang kháng khuẩn, khẩu trang 3 lớp xpak",
+                "viewcount": 50,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 109000,
+                    "listed_price_with_vat": 190000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67a",
+                    "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff9",
+                    "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be66",
+                        "collection_name": "Vật dụng & Thiết bị y tế"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b688",
+                    "brand_name": "XPAK"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x11910e/thumb.1587640089070.jpg",
+                        "source": "images/0x11910e/source.1587468892588.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x119109",
+                "sku_id": "10000096",
+                "product_name": "Set 10 khẩu trang vải kháng khuẩn 3 lớp Xpak",
+                "display_name": "Set 10 khẩu trang vải kháng khuẩn 3 lớp ",
+                "display_name_detail": "Combo 10 khẩu trang vải kháng khuẩn 3 lớp ",
+                "color": "#f48024",
+                "image_cover": "images/0x119109/image_cover.jpg",
+                "image_highlight": "images/0x119109/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Khẩu trang vải kháng khuẩn 3 lớp màu xanh XPAK giúp ngăn ngừa khói bụi và vi khuẩn từ môi trường xung quanh, chất liệu mềm mại ôm trọn khuôn mặt mà không gây cảm giác khó thở cho bạn.",
+                "promotion_desc": "tặng 2 chai nước rửa tay khô Hapicare 60ml.",
+                "keywords": "khẩu trang vải, khẩu trang kháng khuẩn, khẩu trang 3 lớp xpak",
+                "viewcount": 286,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 150000,
+                    "listed_price_with_vat": 290000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67a",
+                    "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff9",
+                    "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be66",
+                        "collection_name": "Vật dụng & Thiết bị y tế"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b688",
+                    "brand_name": "XPAK"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x119109/thumb.1587640166833.jpg",
+                        "source": "images/0x119109/source.1587449856033.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x119109/thumb.1587468772564.jpg",
+                        "source": "images/0x119109/source.1587468772565.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1de54a",
+                "sku_id": "10000834",
+                "product_name": "Viên Uống Giảm Cân Garcinia Cambogia Pharmekal 30 Viên",
+                "display_name": "Viên Uống Giảm Cân Pharmekal 30 Viên",
+                "display_name_detail": "Viên Uống Giảm Cân Garcinia Cambogia Pharmekal 30 Viên",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1de54a/image_cover_1591770029858.jpeg",
+                "image_highlight": "images/products/0x1de54a/image_highlight_1591770029947.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Tránh ánh sáng trực tiếp.",
+                "promotion_desc": "tặng 1 hộp Vitamin E Nature's Bounty.",
+                "keywords": "Quả bứa 500mg , Caffeine 100mg , chất xơ 100mg…",
+                "viewcount": 51,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Hỗ trợ quá trình chuyển hóa đường thành chất béo , giảm quá trình tổng hợp cholesterol.</p>\n<p>Tăng cường kiểm soát sự thèm ăn kết hợp với chế độ ăn uống hợp lý và tập thể dục giúp giảm cân.</p>\n<p>Ngày uống 1 lần , mỗi lần 1 viên. Trước khi ăn 30 phút.</p>\n<p>Ngưng sử dụng và tham khảo ý kiến bác sỹ khi có phản ứng bất lợi xảy ra.&nbsp;</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 490000,
+                    "listed_price_with_vat": 490000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1da999",
+                    "manufacturer_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                },
+                "product.supplier": {
+                    "uid": "0x1da9ee",
+                    "supplier_name": "CÔNG TY TNHH VĂN DUY PHƯƠNG"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be29",
+                        "collection_name": "Sức khỏe",
+                        "collection_image": "collection_images/0x13be29.jpg"
+                    },
+                    {
+                        "uid": "0x13be61",
+                        "collection_name": "Thực phẩm chức năng"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1da9a3",
+                    "brand_name": "PHARMEKAL/USA"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1de54a/thumb_1591779345759.jpeg",
+                        "source": "images/products/0x1de54a/source_1591779345822.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1de54a/thumb_1591779345772.jpeg",
+                        "source": "images/products/0x1de54a/source_1591779345871.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1de54a/thumb_1591779345782.jpeg",
+                        "source": "images/products/0x1de54a/source_1591779345913.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1de54a/thumb_1591779345791.jpeg",
+                        "source": "images/products/0x1de54a/source_1591779345991.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1de54a/thumb_1591779345812.jpeg",
+                        "source": "images/products/0x1de54a/source_1591779346048.jpeg"
+                    }
+                ],
+                "videos": []
+            }
+        ],
+        "count_products": 9
+    }
+}

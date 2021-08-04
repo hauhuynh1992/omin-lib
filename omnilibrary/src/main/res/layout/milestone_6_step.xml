@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="@dimen/_510sdp"
+    android:layout_height="@dimen/_31sdp"
+    android:layout_centerHorizontal="true"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginTop="@dimen/_12sdp">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/step"
+        android:layout_width="@dimen/_474sdp"
+        android:layout_height="@dimen/_31sdp"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/milestone_6_step1" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:weightSum="6">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/step_1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:maxLines="1"
+            android:text="@string/milestone_phone"
+            android:textAlignment="center"
+            android:textColor="@color/color_41AE96"
+            android:textSize="@dimen/_6ssp"
+            app:type="bold" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/step_2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.2"
+            android:maxLines="1"
+            android:text="@string/milestone_name"
+            android:textAlignment="center"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_6ssp"
+            app:type="bold" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/step_3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:maxLines="1"
+            android:text="@string/milestone_address"
+            android:textAlignment="center"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_6ssp"
+            app:type="bold" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/step_4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.2"
+            android:maxLines="1"
+            android:text="@string/milestone_order_information"
+            android:textAlignment="center"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_6ssp"
+            app:type="bold" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/step_5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:maxLines="1"
+            android:text="@string/milestone_payment_method"
+            android:textAlignment="center"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_6ssp"
+            app:type="bold" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/step_6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.2"
+            android:maxLines="1"
+            android:text="@string/milestone_result"
+            android:textAlignment="center"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_6ssp"
+            app:type="bold" />
+
+
+    </LinearLayout>
+</RelativeLayout>

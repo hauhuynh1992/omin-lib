@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99363636">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="@dimen/_480sdp"
+        android:layout_height="@dimen/_250sdp"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="@dimen/_480sdp"
+            android:layout_height="@dimen/_250sdp"
+            android:background="@drawable/bg_border_6sdp"
+            android:orientation="vertical">
+
+            <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:sfView="http://schemas.android.com/apk/res-auto"
+                android:layout_width="@dimen/_480sdp"
+                android:layout_height="match_parent">
+
+
+                <!--<ImageView
+                    android:id="@+id/ic_status"
+                    android:layout_width="@dimen/_247sdp"
+                    android:layout_height="@dimen/_24sdp"
+                    android:layout_below="@+id/image_top"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/_11sdp"
+                    android:src="@mipmap/ic_select_province" />-->
+
+                <RelativeLayout
+                    android:id="@+id/ic_status"
+                    android:layout_width="@dimen/_288sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/_4sdp">
+
+                    <androidx.appcompat.widget.AppCompatImageView
+                        android:id="@+id/step"
+                        android:layout_width="@dimen/_248sdp"
+                        android:layout_height="@dimen/_30sdp"
+                        android:layout_centerHorizontal="true"
+                        android:src="@mipmap/milestone_step_1" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:orientation="horizontal"
+                        android:weightSum="3">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/step_1"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:maxLines="1"
+                            android:text="@string/milestone_choose_city"
+                            android:textAlignment="center"
+                            android:textColor="@color/color_41AE96"
+                            android:textSize="@dimen/_7ssp"
+                            app:type="bold" />
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/step_2"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1.2"
+                            android:maxLines="1"
+                            android:text="@string/milestone_choose_province"
+                            android:textAlignment="center"
+                            android:textColor="@color/text_color_dark"
+                            android:textSize="@dimen/_7ssp"
+                            app:type="bold" />
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/step_3"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:maxLines="1"
+                            android:text="@string/milestone_fill_address"
+                            android:textAlignment="center"
+                            android:textColor="@color/text_color_dark"
+                            android:textSize="@dimen/_7ssp"
+                            app:type="bold" />
+
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/ic_status"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/_12sdp"
+                    android:text="@string/text_vui_long_chon_tp_tinh"
+                    android:textAllCaps="true"
+                    android:textColor="@color/title_black"
+                    android:textSize="@dimen/_7ssp"
+                    sfView:type="bold" />
+
+                <RelativeLayout
+                    android:id="@+id/layout_province"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/title"
+                    android:visibility="gone">
+
+                    <androidx.leanback.widget.HorizontalGridView
+                        android:id="@+id/rv_province"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clipToPadding="false"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:paddingLeft="@dimen/_12sdp"
+                        android:paddingRight="@dimen/_12sdp"
+                        android:paddingBottom="@dimen/_20sdp"
+                        app:horizontalMargin="@dimen/_5sdp"
+                        app:rowHeight="wrap_content"
+                        app:spanCount="5" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/rv_province"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/_minus8sdp"
+                        android:orientation="horizontal">
+
+                        <RelativeLayout
+                            android:id="@+id/bn_back_province"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="@dimen/_46sdp"
+                            android:layout_marginRight="@dimen/_minus8sdp"
+                            android:background="@drawable/btn_omi_buttn_selector"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:nextFocusDown="@id/bn_back_province"
+                            android:padding="0dp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/tv_back_province"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginTop="@dimen/_14sdp"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true"
+                                android:gravity="center_horizontal"
+                                android:text="@string/text_quay_lai_low_cap"
+                                android:textAllCaps="true"
+                                android:textColor="@drawable/text_button_selector"
+                                android:textSize="@dimen/_8ssp"
+                                android:theme="@style/ItemStyle"
+                                sfView:type="bold" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/bn_next_province"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="@dimen/_45sdp"
+                            android:layout_below="@id/rl_default"
+                            android:layout_marginLeft="@dimen/_minus8sdp"
+                            android:background="@drawable/btn_omi_buttn_selector"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:nextFocusDown="@id/bn_next_province"
+                            android:padding="0dp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/tv_next_province"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginTop="@dimen/_14sdp"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true"
+                                android:gravity="center_horizontal"
+                                android:text="@string/text_tiep_theo"
+                                android:textAllCaps="true"
+                                android:textColor="@drawable/text_button_selector"
+                                android:textSize="@dimen/_8ssp"
+                                android:theme="@style/ItemStyle"
+                                sfView:type="bold" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/layout_district"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/title"
+                    android:visibility="gone">
+
+                    <androidx.leanback.widget.HorizontalGridView
+                        android:id="@+id/rv_district"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:clipToPadding="false"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:paddingLeft="@dimen/_12sdp"
+                        android:paddingRight="@dimen/_12sdp"
+                        android:paddingBottom="@dimen/_20sdp"
+                        app:horizontalMargin="@dimen/_5sdp"
+                        app:rowHeight="wrap_content" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/rv_district"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/_minus8sdp"
+                        android:orientation="horizontal">
+
+                        <RelativeLayout
+                            android:id="@+id/bn_back_district"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="@dimen/_45sdp"
+                            android:layout_marginRight="@dimen/_minus8sdp"
+                            android:background="@drawable/btn_omi_buttn_selector"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:nextFocusDown="@id/bn_back_district"
+                            android:padding="0dp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/tv_back_district"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginTop="@dimen/_14sdp"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true"
+                                android:gravity="center_horizontal"
+                                android:text="@string/text_quay_lai_low_cap"
+                                android:textAllCaps="true"
+                                android:textColor="@drawable/text_button_selector"
+                                android:textSize="@dimen/_8ssp"
+                                android:theme="@style/ItemStyle"
+                                sfView:type="bold" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/bn_next_district"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="@dimen/_46sdp"
+                            android:layout_below="@id/rl_default"
+                            android:layout_marginLeft="@dimen/_minus8sdp"
+                            android:background="@drawable/btn_omi_buttn_selector"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:nextFocusDown="@id/bn_next_district"
+                            android:padding="0dp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/tv_next_district"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginTop="@dimen/_14sdp"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true"
+                                android:gravity="center_horizontal"
+                                android:text="@string/text_tiep_theo"
+                                android:textAllCaps="true"
+                                android:textColor="@drawable/text_button_selector"
+                                android:textSize="@dimen/_8ssp"
+                                android:theme="@style/ItemStyle"
+                                sfView:type="bold" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:id="@+id/layout_address"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/title"
+                    android:visibility="visible">
+
+                    <RelativeLayout
+                        android:id="@+id/layout_input_address"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/_12sdp"
+                        android:gravity="center"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/edt_address"
+                            android:layout_width="@dimen/_235sdp"
+                            android:layout_height="@dimen/_47sdp"
+                            android:layout_below="@+id/rl_title"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="@dimen/_minus11sdp"
+                            android:layout_toRightOf="@+id/tv_name_title"
+                            android:background="@drawable/strock_round_long_selector"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:gravity="center_vertical"
+                            android:hint="@string/so_nha_ten_duong"
+                            android:inputType="text"
+                            android:maxLines="1"
+                            android:nextFocusDown="@+id/edt_phone__"
+                            android:paddingLeft="@dimen/_22sdp"
+                            android:paddingRight="@dimen/_22sdp"
+                            android:paddingBottom="@dimen/_5sdp"
+                            android:textColor="@color/title_black"
+                            android:textSize="@dimen/_8sdp"
+                            android:textStyle="bold" />
+
+
+                        <RelativeLayout
+                            android:id="@+id/view_voice_remove_name"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="@dimen/_minus8sdp"
+                            android:layout_marginTop="@dimen/_10sdp"
+                            android:layout_toRightOf="@+id/edt_address"
+                            android:visibility="visible">
+
+                            <ImageButton
+                                android:id="@+id/bn_voice_name"
+                                android:layout_width="@dimen/_23sdp"
+                                android:layout_height="@dimen/_23sdp"
+                                android:background="@drawable/ic_voice_selector"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true" />
+
+                            <com.bda.omnilibrary.views.SfButton
+                                android:id="@+id/bn_delete_name"
+                                style="?android:attr/borderlessButtonStyle"
+                                android:layout_width="@dimen/_27sdp"
+                                android:layout_height="@dimen/_23sdp"
+                                android:layout_centerHorizontal="true"
+                                android:layout_marginLeft="@dimen/_1sdp"
+                                android:layout_toRightOf="@+id/bn_voice_name"
+                                android:background="@drawable/ic_del_selector"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true"
+                                android:paddingBottom="@dimen/_2sdp"
+                                android:text="@string/del"
+                                android:textColor="@drawable/text_button_selector"
+                                android:textSize="@dimen/_8ssp"
+                                android:theme="@style/ItemStyle"
+                                sfView:type="medium" />
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/layout_input_address"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/_minus12sdp"
+                        android:layout_marginBottom="@dimen/_11sdp"
+                        android:orientation="horizontal">
+
+                        <RelativeLayout
+                            android:id="@+id/bn_back_address"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="@dimen/_45sdp"
+                            android:layout_marginRight="@dimen/_minus8sdp"
+                            android:background="@drawable/btn_omi_buttn_selector"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:padding="0dp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/tv_back_address"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginTop="@dimen/_14sdp"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true"
+                                android:gravity="center_horizontal"
+                                android:text="@string/text_quay_lai_low_cap"
+                                android:textAllCaps="true"
+                                android:textColor="@drawable/text_button_selector"
+                                android:textSize="@dimen/_8ssp"
+                                android:theme="@style/ItemStyle"
+                                sfView:type="bold" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/bn_complete"
+                            android:layout_width="@dimen/_100sdp"
+                            android:layout_height="@dimen/_45sdp"
+                            android:layout_below="@id/rl_default"
+                            android:layout_marginLeft="@dimen/_minus8sdp"
+                            android:background="@drawable/btn_omi_buttn_selector"
+                            android:focusable="true"
+                            android:focusableInTouchMode="true"
+                            android:padding="0dp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/tv_bn_complete"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_marginTop="@dimen/_14sdp"
+                                android:focusable="true"
+                                android:focusableInTouchMode="true"
+                                android:gravity="center_horizontal"
+                                android:text="@string/text_hoan_tat_low"
+                                android:textAllCaps="true"
+                                android:textColor="@drawable/text_button_selector"
+                                android:textSize="@dimen/_8ssp"
+                                android:theme="@style/ItemStyle"
+                                sfView:type="bold" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+                </RelativeLayout>
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+
+
+
+
+

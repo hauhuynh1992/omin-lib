@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    sfView:cardBackgroundColor="@color/color_transparent">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/con"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_6sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_6sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:background="@color/color_transparent"
+        android:orientation="vertical"
+        android:outlineSpotShadowColor="@color/text_black_70"
+        android:theme="@style/ItemStyle"
+        sfView:cardBackgroundColor="@color/color_transparent"
+        sfView:cardCornerRadius="@dimen/_6sdp"
+        sfView:cardElevation="@dimen/_1sdp"
+        sfView:cardPreventCornerOverlap="true"
+        sfView:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_44sdp"
+            android:background="#F3F3F3">
+
+            <ImageView
+                android:id="@+id/image_cover"
+                android:layout_width="@dimen/_69sdp"
+                android:layout_height="match_parent"
+                android:layout_marginEnd="@dimen/_10sdp"
+                android:src="@mipmap/image_momo" />
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/image_cover"
+                android:orientation="vertical">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/name"
+                    android:layout_width="@dimen/_60sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="@dimen/_1sdp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:text="@string/san_pham_low"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_8ssp"
+                    sfView:type="bold" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/describe"
+                        android:layout_width="@dimen/_60sdp"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/_1sdp"
+                        android:ellipsize="end"
+                        android:maxLines="1"
+                        android:text="@string/text_0_pt_lai_suat_voi_the"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/_8ssp"
+                        sfView:type="bold" />
+
+                    <ImageView
+                        android:id="@+id/image_left"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_3sdp"
+                        android:src="@mipmap/image_momo" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

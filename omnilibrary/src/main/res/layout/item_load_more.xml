@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con_"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:outlineSpotShadowColor="@color/text_black_70"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_144sdp"
+            android:layout_height="@dimen/_195sdp"
+            android:background="@color/color_item_background">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/img_arrow"
+                    android:layout_width="@dimen/_18sdp"
+                    android:layout_height="@dimen/_14sdp"
+                    android:layout_centerInParent="true"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@mipmap/ic_arrow_right" />
+
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_arrow"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/_9sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+
+                    android:maxLines="1"
+                    android:text="@string/watch_more"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_12ssp"
+                    app:type="bold" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

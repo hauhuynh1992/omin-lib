@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_product_detail"
+    tools:context=".ui.orderDetail.OrderActivity">
+
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:orientation="horizontal"
+        android:weightSum="35">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_46sdp"
+            android:layout_marginEnd="@dimen/_12sdp"
+            android:layout_weight="12"
+            android:orientation="vertical">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_12sdp"
+                android:text="@string/text_tom_tat_don_hang"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/_8ssp"
+                app:type="bold" />
+
+            <LinearLayout
+                android:id="@+id/ln_delivery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_12sdp"
+                android:layout_marginTop="@dimen/_12sdp"
+                android:background="@mipmap/image_receipt"
+                android:clipToPadding="false"
+                android:orientation="vertical"
+                android:visibility="visible"
+                android:weightSum="2">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:orientation="vertical">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/title_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:text="@string/text_thanh_tien_vat"
+                            android:textColor="@color/color_gray_1E2432"
+                            android:textSize="@dimen/_7ssp"
+                            app:type="medium" />
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_horizontal"
+                            android:textColor="@color/title_black_black"
+                            android:textSize="@dimen/_8ssp"
+                            app:type="bold" />
+
+                    </LinearLayout>
+
+
+                </RelativeLayout>
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginStart="@dimen/_11sdp"
+                        android:layout_marginEnd="@dimen/_11sdp">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginTop="@dimen/_6sdp"
+                            android:background="@drawable/background_devivery_time"
+                            android:padding="@dimen/_6sdp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/text_du_kien_giao_hang"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="medium" />
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/date"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:textColor="@color/white"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="bold" />
+
+                        </RelativeLayout>
+                    </RelativeLayout>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <!-- </com.google.android.material.card.MaterialCardView>-->
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/container"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="23"
+            android:orientation="vertical" />
+
+    </LinearLayout>
+
+    <!--<androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/image_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_39sdp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@mipmap/image_header_3" />-->
+    <include
+        android:id="@+id/image_header"
+        layout="@layout/item_header_screen" />
+</RelativeLayout>

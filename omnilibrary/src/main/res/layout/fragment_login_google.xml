@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/text_guide"
+        android:layout_width="@dimen/_205sdp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_22sdp"
+        android:gravity="center"
+        android:lines="2"
+        android:text="@string/text_input_google_login"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="#000000"
+        android:textSize="@dimen/_7ssp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/text_sub_guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_guide"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_9sdp"
+        android:gravity="center"
+        android:lines="2"
+        android:text="@string/text_input_sub_google_login"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="@dimen/_7ssp" />
+
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:layout_width="@dimen/_158sdp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_sub_guide"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_17sdp"
+        android:gravity="left"
+        android:text="@string/text_link_auth"
+        android:textAlignment="textStart"
+        android:textColor="#000000"
+        android:textSize="@dimen/_8ssp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_link_auth"
+        android:layout_width="@dimen/_158sdp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:background="@drawable/gradiant_trans_auth"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:hint="@string/text_nhap_so_dt"
+        android:nextFocusDown="@+id/edt_password"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingBottom="@dimen/_4sdp"
+        android:text="www.google.com/device"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_8sdp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:layout_width="@dimen/_158sdp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_sub_guide"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_9sdp"
+        android:gravity="left"
+        android:text="@string/text_code_auth"
+        android:textColor="#000000"
+        android:textSize="@dimen/_8ssp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_code"
+        android:layout_width="@dimen/_158sdp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:background="@drawable/gradiant_trans_auth"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:gravity="center"
+        android:hint="@string/text_nhap_so_dt"
+        android:nextFocusDown="@+id/edt_password"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingBottom="@dimen/_4sdp"
+        android:text="GQVQ-JKEC"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_8sdp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_12sdp"
+        android:orientation="horizontal">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/tv_hint_timeout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="start"
+            android:text="@string/text_timeout_auth"
+            android:textColor="#000000"
+            android:textSize="@dimen/_7ssp" />
+
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_13sdp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_marginRight="@dimen/_5sdp"
+            android:layout_toRightOf="@+id/tv_hint_timeout"
+            android:background="@drawable/button_orgrance_focus"
+            android:gravity="center"
+            android:paddingStart="@dimen/_5sdp"
+            android:paddingEnd="@dimen/_5sdp"
+            android:text="120 giây"
+            android:textColor="@color/white"
+            android:textSize="@dimen/_6ssp"
+            app:type="bold" />
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_make_new"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/_67sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:alpha="0.4"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_minus10sdp"
+            android:paddingBottom="@dimen/_4sdp"
+            android:layout_marginTop="@dimen/_minus8sdp"
+            android:layout_toRightOf="@+id/time"
+            android:background="@mipmap/ic_btn_reload"
+            android:enabled="false"
+            android:focusable="true"
+            android:text="@string/re_new"
+            android:textAllCaps="false"
+            android:textColor="@color/title_white"
+            android:focusableInTouchMode="true"
+            android:textSize="@dimen/_7ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="medium" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

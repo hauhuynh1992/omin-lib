@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/ln_empty"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/image_top"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ln_empty_interior"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/_12sdp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="@dimen/_111sdp"
+            android:layout_height="@dimen/_83sdp"
+            android:layout_gravity="center_horizontal"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_cart_empty" />
+
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:background="@android:color/transparent"
+            android:gravity="center_vertical"
+            android:text="@string/khong_co_sp_trong_gio_hang_cua_ban"
+            android:textColor="@color/title_black_black"
+            android:textSize="@dimen/_7ssp"
+            sfView:type="regular" />
+
+        <RelativeLayout
+            android:id="@+id/layout_continue"
+            android:layout_width="@dimen/_130sdp"
+            android:layout_height="@dimen/_44sdp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/btn_omi_buttn_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:padding="0dp">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/bn_shopping_"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_14sdp"
+                android:gravity="center_horizontal"
+                android:nextFocusLeft="@id/bn_shopping_"
+                android:nextFocusRight="@id/bn_shopping_"
+                android:text="@string/text_tiep_tuc_mua_sam"
+                android:textColor="@drawable/selector_button_header"
+                android:textSize="@dimen/_8ssp"
+                sfView:type="bold" />
+
+            <requestFocus />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

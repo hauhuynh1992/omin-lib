@@ -1,0 +1,91 @@
+<resources>
+    <declare-styleable name="SfView">
+        <attr name="type">
+            <enum name="light" value="1" />
+            <enum name="regular" value="2" />
+            <enum name="heavy" value="3" />
+            <enum name="bold" value="4" />
+            <enum name="medium" value="5" />
+            <enum name="semiBolt" value="6" />
+            <enum name="italic" value="7" />
+            <enum name="mediumText" value="8" />
+        </attr>
+
+        <attr name="temperature" format="integer" />
+
+        <attr name="weatherType">
+            <enum name="rainy" value="0" />
+        </attr>
+
+        <attr name="showSoftKeyboard" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="TvRadioGroup">
+        <attr name="tvRadioCheckedId" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="ColorPickerView">
+        <attr name="color" format="color" />
+        <attr name="strokeColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="QuantityView">
+        <attr name="count" format="integer" />
+    </declare-styleable>
+
+
+    <declare-styleable name="SimpleVideoView">
+        <attr name="loop" format="boolean" />
+        <attr name="stopSystemAudio" format="boolean" />
+        <attr name="muted" format="boolean" />
+        <attr name="showSpinner" format="boolean" />
+        <attr name="showProgress" format="boolean" />
+        <attr name="showTimeStick" format="boolean" />
+
+    </declare-styleable>
+
+    <declare-styleable name="flowText">
+        <attr name="lineSpacingExtra" format="dimension" />
+        <attr name="lineSpacingMultiplier" format="float" />
+        <attr name="textSize" format="dimension" />
+        <attr name="textColor" format="reference|color" />
+        <attr name="maxLines" format="integer" min="0" />
+    </declare-styleable>
+
+
+    <declare-styleable name="DotsIndicator">
+        <attr name="dot_width" format="dimension" />
+        <attr name="dot_height" format="dimension" />
+        <attr name="dot_margin" format="dimension" />
+
+        <attr name="dot_drawable" format="reference" />
+        <attr name="dot_drawable_unselected" format="reference" />
+        <attr name="dot_tint" format="color" />
+
+        <attr name="dots_animator" format="reference" />
+        <attr name="dots_animator_reverse" format="reference" />
+
+        <attr name="dots_orientation" format="enum">
+            <enum name="horizontal" value="0" />
+            <enum name="vertical" value="1" />
+        </attr>
+
+        <attr name="dots_gravity">
+            <flag name="top" value="0x30" />
+            <flag name="bottom" value="0x50" />
+            <flag name="left" value="0x03" />
+            <flag name="right" value="0x05" />
+            <flag name="center_vertical" value="0x10" />
+            <flag name="fill_vertical" value="0x70" />
+            <flag name="center_horizontal" value="0x01" />
+            <flag name="fill_horizontal" value="0x07" />
+            <flag name="center" value="0x11" />
+            <flag name="fill" value="0x77" />
+            <flag name="clip_vertical" value="0x80" />
+            <flag name="clip_horizontal" value="0x08" />
+            <flag name="start" value="0x00800003" />
+            <flag name="end" value="0x00800005" />
+        </attr>
+    </declare-styleable>
+
+</resources>

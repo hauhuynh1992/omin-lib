@@ -1,0 +1,2285 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "uid": "0x13be6f",
+            "collection_name": "Trái cây",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be70",
+            "collection_name": "Thịt & Cá ",
+            "count_items": 14,
+            "products": [
+                {
+                    "uid": "0x1dda36",
+                    "sku_id": "10000811",
+                    "product_name": "Thịt bò Fuji: Bít tết 250g",
+                    "display_name": "Thịt bò Fuji: Bít tết 250g",
+                    "display_name_detail": "Thịt bò Fuji: Bít tết 250g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dda36/image_cover_1591773167792.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không",
+                    "keywords": "Thịt bò, bò, fuji, bít tết",
+                    "viewcount": 8,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò &nbsp;&nbsp;Fuji Cắt lát theo định lượng chế biến món beefsteak ( bít tết). &nbsp;&nbsp;&nbsp;</p>\n<p>Thịt bò nhập khẩu (70%), nước, nguyên liệu, phụ gia thực phẩm: * PB –100 (mỡ động vật, dầu, đạm sữa, Sodium Caseinate, chất nhũ hóa: Lecithin (322i), chất chống oxi hóa: d-alpha-Tocopherol (307a), nước. * Bunasofty (Dextrin, dịch chiết xuất từ nấm Shimeji, Trisodium Citrate (331iii), Ascorbic Acid(L-)(300). * Kaneyoshi Mix (Malto Dextrin, Distarch Phosphate (1412), Starch Sodium Octenyl Succinate (1450), Xanthan Gum (415), Sodium Polyphosphate (452i). * Beefoil Powder EX (Mỡ động vật, Dextrin, Sodium Caseinate, chất nhũ hóa: Mono-and Di –Glycerides of fatty acids (471),Sodium Polyphosphate (452 i), Ascorbic Acid (L-) (300).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 192500,
+                        "listed_price_with_vat": 192500
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda36/thumb_1591773167845.jpeg",
+                            "source": "images/products/0x1dda36/source_1591773167965.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda36/thumb_1591773167882.jpeg",
+                            "source": "images/products/0x1dda36/source_1591773168107.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda36/thumb_1591773167892.jpeg",
+                            "source": "images/products/0x1dda36/source_1591773168188.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda36/thumb_1591773167903.jpeg",
+                            "source": "images/products/0x1dda36/source_1591773168354.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda36/thumb_1591773167942.jpeg",
+                            "source": "images/products/0x1dda36/source_1591773168506.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1dda5a",
+                    "sku_id": "10000812",
+                    "product_name": "Thịt bò Fuji: Bít tết 200g",
+                    "display_name": "Thịt bò Fuji: Bít tết 200g",
+                    "display_name_detail": "Thịt bò Fuji: Bít tết 200g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dda5a/image_cover_1591773236229.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không",
+                    "keywords": "Thịt bò, bò, fuji, bít tết",
+                    "viewcount": 5,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò Fuji Cắt lát theo định lượng chế biến món beefsteak ( bít tết).</p>\n<p>Thịt bò nhập khẩu (70%), nước, nguyên liệu, phụ gia thực</p>\n<p>phẩm:</p>\n<p>* PB –100 (mỡ động vật, dầu, đạm sữa, Sodium Caseinate, chất nhũ hóa: Lecithin (322i), chất</p>\n<p>chống oxi hóa: d-alpha-Tocopherol (307a), nước.</p>\n<p>* Bunasofty (Dextrin, dịch chiết xuất từ nấm Shimeji, Trisodium Citrate (331iii), Ascorbic</p>\n<p>Acid(L-)(300).</p>\n<p>* Kaneyoshi Mix (Malto Dextrin, Distarch Phosphate (1412), Starch Sodium Octenyl</p>\n<p>Succinate (1450), Xanthan Gum (415), Sodium Polyphosphate (452i).</p>\n<p>* Beefoil Powder EX (Mỡ động vật, Dextrin, Sodium Caseinate, chất nhũ hóa: Mono-and Di</p>\n<p>–Glycerides of fatty acids (471),Sodium Polyphosphate (452 i), Ascorbic Acid (L-) (300).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 154000,
+                        "listed_price_with_vat": 154000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda5a/thumb_1591773236270.jpeg",
+                            "source": "images/products/0x1dda5a/source_1591773236453.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda5a/thumb_1591773236285.jpeg",
+                            "source": "images/products/0x1dda5a/source_1591773236531.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda5a/thumb_1591773236308.jpeg",
+                            "source": "images/products/0x1dda5a/source_1591773236577.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda5a/thumb_1591773236334.jpeg",
+                            "source": "images/products/0x1dda5a/source_1591773236719.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda5a/thumb_1591773236415.jpeg",
+                            "source": "images/products/0x1dda5a/source_1591773236843.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de7a7",
+                    "sku_id": "10000813",
+                    "product_name": "Thịt bò Fuji: Bít tết 150g",
+                    "display_name": "Thịt bò Fuji: Bít tết 150g",
+                    "display_name_detail": "Thịt bò Fuji: Bít tết 150g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de7a7/image_cover_1591773281335.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Thịt bò Fuji Cắt lát theo định lượng chế biến món beefsteak ( bít tết). ",
+                    "keywords": "Thịt bò, bò, fuji, bít tết",
+                    "viewcount": 6,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;Thịt bò nhập khẩu (70%), nước, nguyên liệu, phụ gia thực phẩm:</p>\n<p>* PB –100 (mỡ động vật, dầu, đạm sữa, Sodium Caseinate, chất nhũ hóa: Lecithin (322i), chất chống oxi hóa: d-alpha-Tocopherol (307a), nước.</p>\n<p>* Bunasofty (Dextrin, dịch chiết xuất từ nấm Shimeji, Trisodium Citrate (331iii), Ascorbic Acid(L-)(300).</p>\n<p>* Kaneyoshi Mix (Malto Dextrin, Distarch Phosphate (1412), Starch Sodium Octenyl Succinate (1450), Xanthan Gum (415), Sodium Polyphosphate (452i).</p>\n<p>* Beefoil Powder EX (Mỡ động vật, Dextrin, Sodium Caseinate, chất nhũ hóa: Mono-and Di–Glycerides of fatty acids (471),Sodium Polyphosphate (452 i), Ascorbic Acid (L-) (300).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 115500,
+                        "listed_price_with_vat": 115500
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7a7/thumb_1591773282011.jpeg",
+                            "source": "images/products/0x1de7a7/source_1591773281361.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7a7/thumb_1591773282047.jpeg",
+                            "source": "images/products/0x1de7a7/source_1591773281456.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7a7/thumb_1591773282059.jpeg",
+                            "source": "images/products/0x1de7a7/source_1591773281516.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7a7/thumb_1591773282129.jpeg",
+                            "source": "images/products/0x1de7a7/source_1591773281703.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7a7/thumb_1591773282150.jpeg",
+                            "source": "images/products/0x1de7a7/source_1591773281856.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de7b3",
+                    "sku_id": "10000814",
+                    "product_name": "Thịt bò Fuji:  Nướng mỏng  200g",
+                    "display_name": "Thịt bò Fuji: Nướng mỏng 200g",
+                    "display_name_detail": "Thịt bò Fuji: Nướng mỏng 200g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de7b3/image_cover_1591773470654.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Thịt bò Fuji Cắt lát theo định lượng chế biến món beefsteak ( bít tết). ",
+                    "keywords": "thịt bò, bò, thịt, nướng mỏng, fuji",
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò nhập khẩu (70%), nước, nguyên liệu, phụ gia thựcphẩm:</p>\n<p>* PB –100 (mỡ động vật, dầu, đạm sữa, Sodium Caseinate, chất nhũ hóa: Lecithin (322i), chất chống oxi hóa: d-alpha-Tocopherol (307a), nước.</p>\n<p>* Bunasofty (Dextrin, dịch chiết xuất từ nấm Shimeji, Trisodium Citrate (331iii), Ascorbic Acid(L-)(300).</p>\n<p>* Kaneyoshi Mix (Malto Dextrin, Distarch Phosphate (1412), Starch Sodium Octenyl Succinate (1450), Xanthan Gum (415), Sodium Polyphosphate (452i).</p>\n<p>* Beefoil Powder EX (Mỡ động vật, Dextrin, Sodium Caseinate, chất nhũ hóa: Mono-and Di–Glycerides of fatty acids (471),Sodium Polyphosphate (452 i), Ascorbic Acid (L-) (300).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 154000,
+                        "listed_price_with_vat": 154000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7b3/thumb_1591773470882.jpeg",
+                            "source": "images/products/0x1de7b3/source_1591773471172.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7b3/thumb_1591773470931.jpeg",
+                            "source": "images/products/0x1de7b3/source_1591773471310.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7b3/thumb_1591773470762.jpeg",
+                            "source": "images/products/0x1de7b3/source_1591773470955.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7b3/thumb_1591773470802.jpeg",
+                            "source": "images/products/0x1de7b3/source_1591773471071.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de7c3",
+                    "sku_id": "10000815",
+                    "product_name": "\"Thịt bò Fuji:  Nướng xiên 200g\"",
+                    "display_name": "Thịt bò Fuji: Nướng xiên 200g",
+                    "display_name_detail": "Thịt bò Fuji: Nướng xiên 200g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de7c3/image_cover_1591773520011.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Thịt bò Fuji Cắt lát theo định lượng chế biến món beefsteak ( bít tết). ",
+                    "keywords": "thịt bò, bò, thịt,nướng xiên, fuji",
+                    "viewcount": 1,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò nhập khẩu (70%), nước, nguyên liệu, phụ gia thực phẩm:</p>\n<p>* PB –100 (mỡ động vật, dầu, đạm sữa, Sodium Caseinate, chất nhũ hóa: Lecithin (322i), chất chống oxi hóa: d-alpha-Tocopherol (307a), nước.</p>\n<p>* Bunasofty (Dextrin, dịch chiết xuất từ nấm Shimeji, Trisodium Citrate (331iii), Ascorbic Acid(L-)(300).</p>\n<p>* Kaneyoshi Mix (Malto Dextrin, Distarch Phosphate (1412), Starch Sodium Octenyl Succinate (1450), Xanthan Gum (415), Sodium Polyphosphate (452i).</p>\n<p>* Beefoil Powder EX (Mỡ động vật, Dextrin, Sodium Caseinate, chất nhũ hóa: Mono-and Di–Glycerides of fatty acids (471),Sodium Polyphosphate (452 i), Ascorbic Acid (L-) (300).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 154000,
+                        "listed_price_with_vat": 154000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7c3/thumb_1591773520064.jpeg",
+                            "source": "images/products/0x1de7c3/source_1591773520178.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7c3/thumb_1591773520083.jpeg",
+                            "source": "images/products/0x1de7c3/source_1591773520299.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7c3/thumb_1591773520095.jpeg",
+                            "source": "images/products/0x1de7c3/source_1591773520426.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7c3/thumb_1591773520120.jpeg",
+                            "source": "images/products/0x1de7c3/source_1591773520520.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7c3/thumb_1591773520162.jpeg",
+                            "source": "images/products/0x1de7c3/source_1591773520638.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de7ec",
+                    "sku_id": "10000816",
+                    "product_name": "\"Thịt bò Fuji:  Nhúng lẩu 200g\"",
+                    "display_name": "Thịt bò Fuji: Nhúng lẩu 200g",
+                    "display_name_detail": "Thịt bò Fuji: Nhúng lẩu 200g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de7ec/image_cover_1591773569755.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Thịt bò Fuji Cắt lát theo định lượng chế biến món beefsteak ( bít tết). ",
+                    "keywords": "thịt bò, bò, thịt, nhúng lẩu",
+                    "viewcount": 1,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò nhập khẩu (70%), nước, nguyên liệu, phụ gia thực phẩm:</p>\n<p>* PB –100 (mỡ động vật, dầu, đạm sữa, Sodium Caseinate, chất nhũ hóa: Lecithin (322i), chất chống oxi hóa: d-alpha-Tocopherol (307a), nước.</p>\n<p>* Bunasofty (Dextrin, dịch chiết xuất từ nấm Shimeji, Trisodium Citrate (331iii), Ascorbic Acid(L-)(300).</p>\n<p>* Kaneyoshi Mix (Malto Dextrin, Distarch Phosphate (1412), Starch Sodium Octenyl Succinate (1450), Xanthan Gum (415), Sodium Polyphosphate (452i).</p>\n<p>* Beefoil Powder EX (Mỡ động vật, Dextrin, Sodium Caseinate, chất nhũ hóa: Mono-and Di–Glycerides of fatty acids (471),Sodium Polyphosphate (452 i), Ascorbic Acid (L-) (300).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 154000,
+                        "listed_price_with_vat": 154000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ec/thumb_1591773569807.jpeg",
+                            "source": "images/products/0x1de7ec/source_1591773570037.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ec/thumb_1591773569837.jpeg",
+                            "source": "images/products/0x1de7ec/source_1591773570187.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ec/thumb_1591773569941.jpeg",
+                            "source": "images/products/0x1de7ec/source_1591773570317.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ec/thumb_1591773569970.jpeg",
+                            "source": "images/products/0x1de7ec/source_1591773570472.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de7ec/thumb_1591773569797.jpeg",
+                            "source": "images/products/0x1de7ec/source_1591773570013.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de81a",
+                    "sku_id": "10000817",
+                    "product_name": "\"Thăn ngoại bò ÚC :  Bít tết 200g\"",
+                    "display_name": "Thăn ngoại bò ÚC: Bít tết 200g",
+                    "display_name_detail": "Thăn ngoại bò ÚC: Bít tết 200g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de81a/image_cover_1591773621161.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Thịt bò Fuji Cắt lát theo định lượng chế biến món beefsteak ( bít tết). ",
+                    "keywords": "thăn bò, bò, bò úc, bít tết",
+                    "viewcount": 1,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>100% thăn bò Úc nhập khẩu. Thịt Thăn bò ÚC Cắt lát theo định lượng chế biến món beefsteak ( bít tết).</p>\n<p><br></p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 79200,
+                        "listed_price_with_vat": 79200
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de81a/thumb_1591773621374.jpeg",
+                            "source": "images/products/0x1de81a/source_1591773621732.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de81a/thumb_1591773621243.jpeg",
+                            "source": "images/products/0x1de81a/source_1591773621385.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de81a/thumb_1591773621254.jpeg",
+                            "source": "images/products/0x1de81a/source_1591773621405.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de81a/thumb_1591773621333.jpeg",
+                            "source": "images/products/0x1de81a/source_1591773621489.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de81a/thumb_1591773621346.jpeg",
+                            "source": "images/products/0x1de81a/source_1591773621615.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de822",
+                    "sku_id": "10000818",
+                    "product_name": "Thăn ngoại bò ÚC : Nhúng lẩu 200g",
+                    "display_name": "Thăn ngoại bò ÚC : Nhúng lẩu 200g",
+                    "display_name_detail": "Thăn ngoại bò ÚC : Nhúng lẩu 200g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de822/image_cover_1591773834311.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không.",
+                    "keywords": "thăn bò, bò, bò úc, nhúng lẩu",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>100% thăn &nbsp;&nbsp;bò Úc nhập khẩu. Thịt Thăn bò ÚC Cắt mỏng đóng khay thuận tiện sử dụng món lẩu.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 79200,
+                        "listed_price_with_vat": 79200
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de822/thumb_1591773834391.jpeg",
+                            "source": "images/products/0x1de822/source_1591773834530.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de822/thumb_1591773834421.jpeg",
+                            "source": "images/products/0x1de822/source_1591773834677.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de822/thumb_1591773834433.jpeg",
+                            "source": "images/products/0x1de822/source_1591773834764.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de822/thumb_1591773834498.jpeg",
+                            "source": "images/products/0x1de822/source_1591773834840.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de822/thumb_1591773834513.jpeg",
+                            "source": "images/products/0x1de822/source_1591773834912.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de840",
+                    "sku_id": "10000819",
+                    "product_name": "Xúc xích Bò Fuji  500g",
+                    "display_name": "Xúc xích bò Fuji  500g",
+                    "display_name_detail": "Xúc xích bò Fuji  500g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de840/image_cover_1591773879475.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Món ăn hấp dẫn được mọi lứa tuổi yêu thích,Thịt bò nguyên chất chiếm tới hơn 70%. Thành phần chứa nhiều dưỡng chất cần thiết cho cơ thể như protein, lipid.",
+                    "keywords": "xúc xích, bò, fuji",
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò (≥ 70%), muối ăn, hạt tiêu, tỏi, đường saccarozo, đạm đậu nành, chất ổn định (1412), chất nhũ hóa (450i, 451i), chất điều chỉnh độ axit (262i, 262ii, E325), chất điều vị (621).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 137500,
+                        "listed_price_with_vat": 137500
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de840/thumb_1591773879539.jpeg",
+                            "source": "images/products/0x1de840/source_1591773879688.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de840/thumb_1591773879569.jpeg",
+                            "source": "images/products/0x1de840/source_1591773879758.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de840/thumb_1591773879598.jpeg",
+                            "source": "images/products/0x1de840/source_1591773879807.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de840/thumb_1591773879614.jpeg",
+                            "source": "images/products/0x1de840/source_1591773879856.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de840/thumb_1591773879631.jpeg",
+                            "source": "images/products/0x1de840/source_1591773879937.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de853",
+                    "sku_id": "10000820",
+                    "product_name": "Viên mọc bò  250g",
+                    "display_name": "Bò viên 250g",
+                    "display_name_detail": "Bò viên 250g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de853/image_cover_1591773756871.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Món ăn hấp dẫn được mọi lứa tuổi yêu thích, thuận tiện chế biến các món chiên, ăn kèm lẩu, sốt cà chua.",
+                    "keywords": "viên mọc bò, bò, fuji",
+                    "viewcount": 2,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò, đường, muối, tiêu, chất điều vị ( 621), chất nhũ hóa (450 i ,451ii), chất ổn định (1412),chất điều chỉnh độ axit ( 262i ,262ii,325).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 41250,
+                        "listed_price_with_vat": 41250
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de853/thumb_1591773756919.jpeg",
+                            "source": "images/products/0x1de853/source_1591773757075.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de853/thumb_1591773756943.jpeg",
+                            "source": "images/products/0x1de853/source_1591773757209.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de853/thumb_1591773756993.jpeg",
+                            "source": "images/products/0x1de853/source_1591773757374.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de853/thumb_1591773757043.jpeg",
+                            "source": "images/products/0x1de853/source_1591773757519.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de886",
+                    "sku_id": "10000821",
+                    "product_name": "Ba chỉ bò mỹ: Nướng mỏng 500g",
+                    "display_name": "Ba chỉ bò mỹ: Nướng mỏng 500g",
+                    "display_name_detail": "Ba chỉ bò mỹ: Nướng mỏng 500g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de886/image_cover_1591774283695.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. ",
+                    "keywords": "ba chỉ, bò, bò mỹ, nướng mỏng",
+                    "viewcount": 1,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>100% thịt ba chỉ bò Mỹ nhập khẩu. Món ăn hấp dẫn được mọi lứa tuổi yêu thích, thuận tiện chế biến tại nhà với các món nướng kiểu Hàn.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 126500,
+                        "listed_price_with_vat": 126500
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de886/thumb_1591774283778.jpeg",
+                            "source": "images/products/0x1de886/source_1591774284068.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de886/thumb_1591774283795.jpeg",
+                            "source": "images/products/0x1de886/source_1591774284139.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de886/thumb_1591774283820.jpeg",
+                            "source": "images/products/0x1de886/source_1591774284443.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de886/thumb_1591774283837.jpeg",
+                            "source": "images/products/0x1de886/source_1591774284492.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de886/thumb_1591774283733.jpeg",
+                            "source": "images/products/0x1de886/source_1591774283875.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de898",
+                    "sku_id": "10000822",
+                    "product_name": "Ba chỉ bò mỹ: Nướng mỏng 300g",
+                    "display_name": "Ba chỉ bò mỹ: Nướng mỏng 300g",
+                    "display_name_detail": "Ba chỉ bò mỹ: Nướng mỏng 300g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de898/image_cover_1591774342489.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. 100% thịt ba chỉ bò Mỹ nhập khẩu. Món ăn hấp dẫn được mọi lứa tuổi yêu thích, thuận tiện chế biến tại nhà với các món nướng kiểu Hàn.",
+                    "keywords": "ba chỉ, bò, bò mỹ, nướng mỏng",
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "product.pricing": {
+                        "price_with_vat": 75900,
+                        "listed_price_with_vat": 75900
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de898/thumb_1591774342568.jpeg",
+                            "source": "images/products/0x1de898/source_1591774342884.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de898/thumb_1591774342616.jpeg",
+                            "source": "images/products/0x1de898/source_1591774342980.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de898/thumb_1591774342641.jpeg",
+                            "source": "images/products/0x1de898/source_1591774343024.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de898/thumb_1591774342656.jpeg",
+                            "source": "images/products/0x1de898/source_1591774343060.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de898/thumb_1591774342540.jpeg",
+                            "source": "images/products/0x1de898/source_1591774342709.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de8ae",
+                    "sku_id": "10000823",
+                    "product_name": "Ba chỉ bò mỹ: Nhúng lẩu 500g",
+                    "display_name": "Ba chỉ bò mỹ: Nhúng lẩu 500g",
+                    "display_name_detail": "Ba chỉ bò mỹ: Nhúng lẩu 500g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de8ae/image_cover_1591774419041.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. 100% thịt ba chỉ bò Mỹ nhập khẩu. Thịt Ba Chỉ Bò Mỹ Cắt mỏng  đóng khay thuận tiện sử dụng món lẩu, cuộn nấm kim chi.",
+                    "keywords": "ba chỉ, bò, bò mỹ, nhúng lẩu",
+                    "viewcount": 1,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "product.pricing": {
+                        "price_with_vat": 126500,
+                        "listed_price_with_vat": 126500
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8ae/thumb_1591774419253.jpeg",
+                            "source": "images/products/0x1de8ae/source_1591774419552.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8ae/thumb_1591774419087.jpeg",
+                            "source": "images/products/0x1de8ae/source_1591774419273.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8ae/thumb_1591774419132.jpeg",
+                            "source": "images/products/0x1de8ae/source_1591774419370.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8ae/thumb_1591774419152.jpeg",
+                            "source": "images/products/0x1de8ae/source_1591774419447.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8ae/thumb_1591774419165.jpeg",
+                            "source": "images/products/0x1de8ae/source_1591774419497.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de8c7",
+                    "sku_id": "10000825",
+                    "product_name": "Hamburger Fuji 100g",
+                    "display_name": "Hamburger Fuji 100g",
+                    "display_name_detail": "Hamburger Fuji 100g",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de8c7/image_cover_1591773932636.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đóng gói hút chân không. Hamburger Fuji đóng gói 100gram được mọi lứa tuổi yêu thích, thuận tiện khi chế biến các bữa ăn tại nhà cho gia đình.",
+                    "keywords": "harburger,fuji",
+                    "viewcount": 4,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thịt bò (80%) trong đó : Thịt bò nhập khẩu (63%), bò Fuji (17%), Thành phần khác : Hành tây, sữa tươi, trứng gà, bột xù, gia vị ( muối, tiêu ).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 36300,
+                        "listed_price_with_vat": 36300
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea49",
+                        "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1da9e9",
+                        "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be70",
+                            "collection_name": "Thịt & Cá "
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de701",
+                        "brand_name": "FUJIFOODS"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8c7/thumb_1591773932741.jpeg",
+                            "source": "images/products/0x1de8c7/source_1591773933016.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8c7/thumb_1591773932778.jpeg",
+                            "source": "images/products/0x1de8c7/source_1591773933117.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8c7/thumb_1591773932803.jpeg",
+                            "source": "images/products/0x1de8c7/source_1591773933307.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8c7/thumb_1591773932660.jpeg",
+                            "source": "images/products/0x1de8c7/source_1591773932835.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de8c7/thumb_1591773932688.jpeg",
+                            "source": "images/products/0x1de8c7/source_1591773932874.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be71",
+            "collection_name": "Sản phẩm chế biến",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be72",
+            "collection_name": "Rau quả",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be73",
+            "collection_name": "Combo Thực phẩm tươi sống",
+            "count_items": 15,
+            "products": [
+                {
+                    "uid": "0x11b5d3",
+                    "sku_id": "10000223",
+                    "product_name": "Combo 3 ngày ăn cao cấp ",
+                    "display_name": "Combo 3 ngày ăn cao cấp (4 người ăn)",
+                    "display_name_detail": "Combo 3 ngày ăn: thịt lợn hữu cơ, bò ăn cỏ Hòa Bình, gà mái tơ, rau, củ cao cấp",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b5d3/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thực phẩm tươi sống, giao trong ngày, bao gồm: 1kg thịt lợn hữu cơ, 350gr thịt bò ăn cỏ Hòa Bình, 600gr thịt gà quế hoặc gà mái mơ, 4 túi rau ăn lá, 3 loại rau ăn củ, 300gr rau gia vị.",
+                    "promotion_desc": "Giảm giá 50,000 VND",
+                    "keywords": "Thịt lợn, thịt bò, thịt gà, rau, gia vị, hữu cơ, gừng, tỏi, ớt, riềng, chanh, quất ",
+                    "viewcount": 406,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "Combo 3 Ngày Ăn Cao Cấp",
+                        "content": "<p>Combo thực phẩm 3 ngày ăn với các nguyên liệu cao cấp như thịt lợn hữu cơ được sản xuất bởi HTX Trường Thành (Hà Nam), rau hữu cơ có chứng nhận USDA của Mỹ từ trang trại Hoa Viên (Thạch Thất), rau, củ Global GAP của VietFarm Đà Lạt, rau củ hữu cơ PGS Vietnam, thịt bò Hòa Bình chăn thả tự nhiên không dùng cám công nghiệp, gà quế được nuôi bằng ngô, thóc và bột trùn quế. Combo được đóng gói &nbsp;thành khẩu phần ăn 3 ngày cho gia đình 4 người, với:<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt lợn hữu cơ: 400gr sườn, 400gr ba chỉ, 200gr nạc vai<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt bò Hòa Bình: 350gr thăn bò<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt gà quế: 1/2 con<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 4 túi rau ăn lá hữu cơ tùy chọn (1kg)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 3 loại rau ăn củ, quả tùy chọn (1,1kg)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Rau gia vị: Hành lá, ớt, chanh,…<br>\n&nbsp;Sản phẩm thu hoạch và giao trong ngày!<br>\n&nbsp;Sau khi quý khách đặt hàng, trạm dịch vụ gần nhất sẽ liên hệ và giúp quý khách lựa chọn các sản phẩm rau, củ phù hợp với nhu cầu ăn của gia đình &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 580000,
+                        "listed_price_with_vat": 630000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c65",
+                        "manufacturer_name": "Trường Thành,Hoa Viên Farm,Việt Farm,PGS Hữu Cơ"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5d3/thumb.1588041951217.jpg",
+                            "source": "images/0x11b5d3/source.1588041951218.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5d3/thumb.1587958269173.jpg",
+                            "source": "images/0x11b5d3/source.1587958269180.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5d3/thumb.1587958269174.jpg",
+                            "source": "images/0x11b5d3/source.1587958269179.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5d3/thumb.1587958269175.JPG",
+                            "source": "images/0x11b5d3/source.1587958269178.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5d3/thumb.1588041951219.jpg",
+                            "source": "images/0x11b5d3/source.1588041951220.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b5ea",
+                    "sku_id": "10000224",
+                    "product_name": "Combo 7 ngày ăn cao cấp",
+                    "display_name": "Combo 7 ngày ăn cao cấp (4 người ăn)",
+                    "display_name_detail": "Combo 7 ngày ăn: thịt lợn hữu cơ, bò ăn cỏ, gà quế, cá Sông Đà, rau, củ cao cấp",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b5ea/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thực phẩm tươi sống, thu hoạch và giao trong ngày, bao gồm: 1,3kg thịt lợn hữu cơ, 400gr thịt bò ăn cỏ, 1 con gà quế, 1 con cá Sông Đà, 6 túi rau ăn lá, 5 loại rau ăn củ, qua, 500gr rau gia vị.",
+                    "promotion_desc": "Giảm giá 100,000 VND",
+                    "keywords": "Thịt lợn, thịt bò, thịt gà, rau, gia vị, hữu cơ , cá, gừng, tỏi, ớt, riềng, chanh, quất  ",
+                    "viewcount": 184,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "Combo 7 Ngày Ăn Cao Cấp",
+                        "content": "<p>&nbsp;Combo thực phẩm 7 ngày ăn với các sản phẩm cao cấp như thịt lợn hữu cơ được sản &nbsp;&nbsp;xuất bởi HTX Trường Thành (Hà Nam), rau hữu cơ có chứng nhận USDA của Mỹ từ trang trại Hoa Viên (Thạch Thất), rau, củ Global GAP của VietFarm Đà Lạt, thịt bò Hòa Bình chăn thả tự nhiên, gà quế được nuôi bằng ngô, thóc và bột trùn quế. Combo được đóng gói thành khẩu phần ăn 7 ngày cho gia đình 4 người, với:<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt lợn hữu cơ: 400gr ba chỉ, 400gr sườn, 300gr nạc thăn, 200gr thịt xay &nbsp;&nbsp;<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt bò Hòa Bình: 400gr thăn bò<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt gà quế: 1 con<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Cá Sông Đà tùy chọn: cá diêu hồng, cá rô phi, cá trắm trắng, cá chép<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 6 túi rau ăn lá hữu cơ tùy chọn (1,8kg)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 5 loại rau ăn củ, quả tùy chọn (2,5kg)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Rau gia vị: Hành lá, ớt, chanh, riềng, sả, tỏi, hành khô, thì là…<br>\n&nbsp;Sau khi quý khách đặt hàng, trạm dịch vụ gần nhất sẽ liên hệ và giúp quý khách lựa chọn các sản phẩm rau, củ phù hợp với nhu cầu ăn của gia đình. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1100000,
+                        "listed_price_with_vat": 1200000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c65",
+                        "manufacturer_name": "Trường Thành,Hoa Viên Farm,Việt Farm,PGS Hữu Cơ"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5ea/thumb.1588041987943.jpg",
+                            "source": "images/0x11b5ea/source.1588041987944.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5ea/thumb.1587966464941.jpg",
+                            "source": "images/0x11b5ea/source.1587966464942.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b5ed",
+                    "sku_id": "10000225",
+                    "product_name": "Combo 3 ngày ăn rẻ hơn, nhiều hơn",
+                    "display_name": "Combo 3 ngày ăn rẻ hơn, nhiều hơn",
+                    "display_name_detail": "Combo 3 ngày ăn: thịt lợn MeatDeli, thịt gà CP, thịt bò ta, rau, củ VietGAP",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b5ed/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thực phẩm giao trong ngày: 1,2kg thịt lợn MeatDeli, 350gr thăn bò ăn cỏ Hòa Bình, 1kg thịt gà CP, 1,2kg rau ăn lá, 1kg rau ăn củ, 300gr rau gia vị VietGAP",
+                    "promotion_desc": "Giảm giá 40,000 VND",
+                    "keywords": "Thịt lợn, thịt bò, thịt gà, rau, gia vị, hữu cơ, gừng, tỏi, ớt, riềng, chanh, quất ",
+                    "viewcount": 80,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;&nbsp;Combo thực phẩm 3 ngày ăn với các sản phẩm được tin dùng như thịt lợn MeatDeli, thịt gà CP, thịt bò Hòa Bình, rau an toàn VietGAP. Combo được đóng gói thành &nbsp;&nbsp;khẩu phần ăn 3 ngày cho gia đình 4 người, với:<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt lợn MeatDeli: 400gr ba chỉ, 400gr sườn, 300gr thịt xay<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt bò Hòa Bình: 350gr thăn bò<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Thịt gà CP phi lê: 300gr ức, 300gr đùi, 400gr cánh gà<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 4 túi rau ăn lá an toàn tùy chọn (1,2kg)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 3 loại rau ăn củ, quả tùy chọn (1kg)<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- Rau gia vị: Hành lá, ớt, chanh,…<br>\n&nbsp;&nbsp;Sau khi quý khách đặt hàng, trạm dịch vụ gần nhất sẽ liên hệ và giúp quý khách lựa chọn các sản phẩm rau, củ phù hợp với nhu cầu ăn của gia đình. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 480000,
+                        "listed_price_with_vat": 520000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c66",
+                        "manufacturer_name": "MeatDeli, CP, Orgari, VietFarm, Lan Sơn Farm"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5ed/thumb.1588042014056.jpg",
+                            "source": "images/0x11b5ed/source.1588042014057.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b5f7",
+                    "sku_id": "10000226",
+                    "product_name": "Combo 7 ngày ăn rẻ hơn, nhiều hơn",
+                    "display_name": "Combo 7 ngày ăn rẻ hơn, nhiều hơn",
+                    "display_name_detail": "Combo 7 ngày ăn: lợn MeatDeli, gà CP, bò ta, cá Sông Đà, rau, củ VietGAP",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b5f7/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "1,3kg thịt lợn, 400gr thịt bò, 1 con gà, 1 con cá tùy chọn, 6 túi rau ăn lá, 5 loại rau ăn củ, qua, 500gr rau gia vị",
+                    "promotion_desc": "Giảm giá 60,000 VND",
+                    "keywords": "Thịt lợn, thịt bò, thịt gà, rau, gia vị, hữu cơ, cá, gừng, tỏi, ớt, riềng, chanh, quất ",
+                    "viewcount": 139,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Combo&nbsp;thực phẩm 7 ngày ăn với các sản phẩm cao cấp như thịt lợn hữu cơ được sản xuất bởi HTX Trường Thành (Hà Nam), rau hữu cơ có chứng nhận USDA của Mỹ từ trang trại Hoa Viên (Thạch Thất), rau, củ Global GAP của VietFarm Đà Lạt, thịt bò Hòa Bình chăn thả tự nhiên không dùng cám công nghiệp, gà quế được nuôi bằng ngô thóc và bột trùn quế. Combo được đóng gói thành khẩu phần ăn 7 ngày cho gia đình 4 người, với:<br>\nThịt lợn hữu cơ: 400gr ba chỉ, 400gr sườn, 300gr nạc thăn, 200gr thịt xay &nbsp;&nbsp;<br>\nThịt bò Hòa Bình: 400gr thăn bò<br>\nThịt gà quế: 1 con<br>\nCá Sông Đà tùy chọn: cá diêu hồng, cá rô phi, cá trắm trắng, cá &nbsp;&nbsp;chép<br>\n6 túi rau ăn lá hữu cơ tùy chọn (1,8kg)<br>\n5 loại rau ăn củ, quả tùy chọn (2,5kg)<br>\nRau gia vị: Hành lá, ớt, chanh, riềng, sả, tỏi, hành khô, thì là…<br>\nSau khi quý khách đặt hàng, trạm dịch vụ gần nhất sẽ liên hệ và giúp quý&nbsp;khách lựa chọn các sản phẩm rau, củ phù hợp với nhu cầu ăn của gia đình. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 890000,
+                        "listed_price_with_vat": 950000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c66",
+                        "manufacturer_name": "MeatDeli, CP, Orgari, VietFarm, Lan Sơn Farm"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5f7/thumb.1588041852519.jpg",
+                            "source": "images/0x11b5f7/source.1588041852520.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b5fa",
+                    "sku_id": "10000227",
+                    "product_name": "Set nguyên liệu lẩu gà nấu nấm ASHIMA 4-6 người ăn",
+                    "display_name": "Set lẩu gà nấu nấm ASHIMA (4 người ăn)",
+                    "display_name_detail": "Set lẩu gà: nước cốt Ashima, gà quế, nấm Việt và rau củ cao cấp",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b5fa/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Set lẩu gà cho bốn người ăn với nước cốt lẩu Ashima, 2.2kg gà quế thơm ngon, 0.5kg nấm Việt chuẩn xịn, trứng vịt lộn và 6 loại rau, củ các loại.",
+                    "promotion_desc": "Giảm giá 40,000 VND",
+                    "keywords": "thịt gà, lẩu nấm, nấm, lẩu, nước lẩu",
+                    "viewcount": 35,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;Không còn phải mệt mỏi lên thực đơn cho một bữa tiệc 4-6 người ăn nữa, set lẩu gà Ashima với đầy đủ nước cốt và các loại nguyên liệu thuần Việt cao cấp:<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 1 gói nước lẩu nấm Ashima 500ml<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 1,5 con gà quế 2.2kg<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 2 khay nấm kim châm gói 150gr<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 1 khay nấm hương tươi 200gr<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 1 khay nấm ngọc châm 200gr<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 1 túi Cải cúc 300gr, 1 quả cải thảo 500gr, 1 túi cải thìa 300gr, 1 túi &nbsp;&nbsp;ngải cứu 300gr<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 4 quả trứng vịt lộn<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 1 bắp ngô ngọt ta<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 500gr khoai môn<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 2 bìa đậu phụ làng Mơ<br>\n&nbsp;&nbsp;&nbsp;&nbsp;- 4 gói mỳ tôm Vifon<br>\n&nbsp;&nbsp;Cho phép bạn có 1 bữa tiệc gia đình mà không cần tới 30 phút chuẩn bị. Nước cốt lẩu nấm nguyên chất Ashima với công thức chuẩn xịn đầu bếp 5 sao, gà quế &nbsp;&nbsp;nuôi ngô thóc cùng nấm Việt chuẩn xịn và các nguyên liệu tươi ngon khác.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 850000,
+                        "listed_price_with_vat": 890000
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5fa/thumb.1588044274771.jpg",
+                            "source": "images/0x11b5fa/source.1588044274772.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5fa/thumb.1587966745860.JPG",
+                            "source": "images/0x11b5fa/source.1587966745861.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5fa/thumb.1587966745862.JPG",
+                            "source": "images/0x11b5fa/source.1587966745863.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5fa/thumb.1587966745864.JPG",
+                            "source": "images/0x11b5fa/source.1587966745865.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b5fa/thumb.1587966745866.JPG",
+                            "source": "images/0x11b5fa/source.1587966745867.JPG"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b601",
+                    "sku_id": "10000228",
+                    "product_name": "Set nguyên liệu lẩu thập cẩm KICHI KICHI 4-6 người ăn",
+                    "display_name": "Set lẩu thập cẩm KICHI KICHI (4-6 người)",
+                    "display_name_detail": "Set lẩu thập cẩm: nước cốt lẩu Kichi, gà ri, bò Mỹ, hải sản tự nhiên và nấm Việt",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b601/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Set lẩu nấm Kichi Kichi cho 4-6 người ăn với nước cốt lẩu thái Kichi Kichi chuẩn xịn, 1,5kg gà ri, tôm sú Phú Quốc tự nhiên, nghêu sạch Legend, thịt bò Mỹ, các loại nấm và rau ăn kèm.",
+                    "promotion_desc": "giảm giá 40.000 đồng.",
+                    "keywords": "lẩu thái, Kichi, lẩu thập cẩm, lẩu, thịt gà, tôm, nghêu, rau, thịt bò, mì tôm",
+                    "viewcount": 85,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Không &nbsp;&nbsp;còn phải mệt mỏi lên thực đơn cho một bữa tiệc 4-6 người ăn nữa, set lẩu thập &nbsp;&nbsp;cẩm Kichi-Kichi với đầy đủ nước cốt và các loại nguyên liệu cao cấp:<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 gói nước lẩu Kichi Kichi <br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 con gà ri Orgari 1.5kg<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 khay tôm sú Phú Quốc 350gr <br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 khay nghêu sạch Legend 500gr<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 khay thịt bò Mỹ 500gr<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 2 khay nấm kim châm 150gr <br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 khay nấm hương tươi 200gr<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 khay nấm ngọc châm 200gr<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 2 củ cà rốt 300gr<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 2 túi rau cần 600gr<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 túi rau muống 300gr<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 túi rau cải ngồng<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 1 túi rau cải cúc <br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 4 gói mì tôm Vifon<br>\n &nbsp;&nbsp;&nbsp;&nbsp;Cho phép bạn có 1 bữa tiệc gia đình mà không cần tới 30 phút chuẩn bị. Nước &nbsp;&nbsp;cốt lẩu nấm nguyên chất Kichi Kichi với công thức chuẩn xịn cùng với các &nbsp;&nbsp;nguyên liệu cao cấp tươi, ngon trong ngày. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 810000,
+                        "listed_price_with_vat": 850000
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b601/thumb.1587966837800.JPG",
+                            "source": "images/0x11b601/source.1587966837803.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b601/thumb.1587966837801.JPG",
+                            "source": "images/0x11b601/source.1587966837802.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b601/thumb.1587966837798.JPG",
+                            "source": "images/0x11b601/source.1587966837805.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b601/thumb.1588044315637.jpg",
+                            "source": "images/0x11b601/source.1588044315638.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b604",
+                    "sku_id": "10000229",
+                    "product_name": "Set nguyên liệu lẩu hải sản Tom YUM 4-6 người ăn",
+                    "display_name": "Set lẩu hải sản Tom YUM (4-6 người)",
+                    "display_name_detail": "Set lẩu Hải sản: nước cốt Tom YUM, hải sản Phú Quốc đánh bắt tự nhiên, nấm Việt",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b604/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Set lẩu nấm Hải sản cho 4-6 người ăn với nước cốt lẩu Tom YUM nguyên chất, mực câu và tôm sú tự nhiên, nghêu sạch Legend, các loại nấm thuật Việt và rau củ cao cấp ăn kèm.",
+                    "promotion_desc": "giảm giá 50.000 đồng.",
+                    "keywords": "lẩu hải sản, lẩu thập cẩm, lẩu, thịt gà, tôm, đậu, nghêu, rau, thịt bò, mì tôm, rau cải",
+                    "viewcount": 77,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;&nbsp;&nbsp;Không còn phải mệt mỏi lên thực đơn cho một bữa tiệc 4-6 người ăn nữa, set lẩu hải sản đánh bắt tự nhiên với đầy đủ nước cốt và các loại nguyên liệu cao cấp:<br>\n&nbsp;&nbsp;&nbsp;1 gói nước lẩu Tom YUM<br>\n&nbsp;&nbsp;&nbsp;1 khay tôm sú Phú Quốc 350gr<br>\n&nbsp;&nbsp; 1 khay mực ống Phú Quốc 500gr<br>\n&nbsp;&nbsp;&nbsp;1 khay mực lá Phú Quốc 600gr<br>\n&nbsp;&nbsp;&nbsp;1 khay bề bề Phú Quốc 300gr<br>\n&nbsp;&nbsp;&nbsp;1 khay nghêu sạch Legend 500gr<br>\n&nbsp;&nbsp;&nbsp;1 quả dứa gọt sẵn<br>\n&nbsp;&nbsp;&nbsp;2 quả cà chua<br>\n&nbsp;&nbsp;&nbsp;2 khay nấm kim châm 300gr<br>\n&nbsp;&nbsp;&nbsp;2 bìa bậu phụ làng Mơ<br>\n&nbsp;&nbsp; 1 túi rau cải chip Đà Lạt 300gr<br>\n&nbsp;&nbsp;&nbsp;1 túi rau cải ngồng 300gr<br>\n&nbsp;&nbsp;&nbsp;1 bắp cải thảo 500gr<br>\n&nbsp;&nbsp;&nbsp;4 gói mì tôm Vifon<br>\n&nbsp;&nbsp;Cho phép bạn có 1 bữa tiệc gia đình mà không cần tới 30 phút chuẩn bị. Nước cốt lẩu hải sản Tom YUM nguyên chất cùng với các nguyên liệu hải sản đánh bắt tự nhiên Phú Quốc.<br>\n&nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1150000,
+                        "listed_price_with_vat": 1200000
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b604/thumb.1587967129974.JPG",
+                            "source": "images/0x11b604/source.1587967129977.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b604/thumb.1587967129975.jpg",
+                            "source": "images/0x11b604/source.1587967129978.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b604/thumb.1587967129976.JPG",
+                            "source": "images/0x11b604/source.1587967129979.JPG"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b607",
+                    "sku_id": "10000230",
+                    "product_name": "Combo thịt nướng ba chỉ bò Mỹ (3 người ăn)",
+                    "display_name": "Combo thịt nướng ba chỉ bò Mỹ (3 người)\t",
+                    "display_name_detail": "Combo thịt nướng ba chỉ bò Mỹ, nước sốt ướp và sốt chấm đính kèm",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b607/image_cover_1589372084395.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Combo bao gồm 500g Thịt Ba Chỉ Bò Mỹ và 150g Sốt Ướp, 100g Sốt Chấm được chế biến từ nguyên liệu hoàn toàn tự nhiên do Bếp Trưởng Park Sung Min hơn 40 năm kinh nghiệm nghiên cứu và chế biến.",
+                    "keywords": "thịt bò, ba chỉ bò Mỹ, bò Mỹ, nướng, set nướng",
+                    "viewcount": 40,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bí quyết của OriFood nằm ở nước sốt ướp và sốt chấm thịt được chế biến từ nguyên liệu hoàn toàn tự nhiên, theo công thức bí truyền, do Bếp Trưởng Park Sung Min hơn 40 năm kinh nghiệm nghiên cứu và chế biến.<br>\nThành phần: 500g thịt ba chỉ bò Mỹ + 150g sốt ướp + 100g sốt chấm<br>\nHướng dẫn sử dụng:<br>\nDùng trực tiếp hoặc chế biến các món ăn.<br>\nRã đông phần thịt, gói sốt ướp và gói sốt chấm.<br>\nTrộn sốt ướp thịt với một ít hỗn hợp dầu ăn và dầu mè, tẩm ướp đều lên các lát thịt.<br>\nĐể thịt thấm khoảng 60 phút trước khi nướng.<br>\nMón thịt nướng sẽ ngon hơn khi dùng kèm với sốt chấm thịt.<br>\nMẹo nhỏ mách bạn:<br>\nKhông lật thịt khi vừa đặt vào vỉ.<br>\nMột miếng thịt chỉ nên lật tối đa 3 lần.<br>\nPhủ đều phần sốt ướp lên thịt khi nướng.<br>\nKhông dùng kẹp ép thịt xuống vỉ nướng sẽ làm thịt lâu chín và mất nước dẫn đến bị khô dai. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 208900,
+                        "listed_price_with_vat": 208900
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b607/thumb.1587967239133.jpg",
+                            "source": "images/0x11b607/source.1587967239134.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b607/thumb.1587967239135.png",
+                            "source": "images/0x11b607/source.1587967239136.png"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b60a",
+                    "sku_id": "10000231",
+                    "product_name": "Set rau hữu cơ 3 ngày ăn",
+                    "display_name": "Set rau hữu cơ 3 ngày ăn (2,7kg)\t",
+                    "display_name_detail": "Set 2,7kg với 9 loại rau, củ, gia vị cao cấp cho 3 ngày ăn",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b60a/image_cover.JPG",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Tùy chọn 3 loại rau ăn lá, 3 loại rau ăn củ quả và 3 loại gia vị đủ cho 3 ngày ăn. Sản phẩm được canh tác bởi các trang trại đã được cấp giấy chứng nhận hữu cơ tiêu chuẩn quốc tế.",
+                    "keywords": "rau, rau mùng tơi, rau cải, rau muống, khoai, khoai sọ, bầu, bí, mướp, mướp đắng, cà tím, bí đỏ, khoai tây, khoai sọ, khoai môn, cà chua, hành lá, ớt, chanh, thì là, rau thơm",
+                    "viewcount": 15,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Quý &nbsp;&nbsp;khách sau khi đặt hàng, cửa hàng gần nhất sẽ gọi cho quý khách để giới thiệu &nbsp;&nbsp;các loại rau, củ mới về để quý khách lựa chọn:<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 3 túi rau ăn lá tự chọn (rau lang, muống, ngót, mùng tơi, cải các loại, &nbsp;&nbsp;dọc mùng…)<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 3 loại rau củ tự chọn (bầu, bí, mướp, mướp đắng, cà tím, bí đỏ, khoai &nbsp;&nbsp;tây, khoai sọ, khoai môn, cà chua…)<br>\n &nbsp;&nbsp;&nbsp;&nbsp;- 3 loại rau gia vị tự chọn (hành lá, ớt, chanh, thì là, rau thơm các &nbsp;&nbsp;loại…)<br>\n &nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 165000,
+                        "listed_price_with_vat": 165000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c67",
+                        "manufacturer_name": "OriFood"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b60a/thumb.1587967404132.jpg",
+                            "source": "images/0x11b60a/source.1587967404135.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b60a/thumb.1587967404130.jpg",
+                            "source": "images/0x11b60a/source.1587967404133.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b60a/thumb.1587967404131.jpg",
+                            "source": "images/0x11b60a/source.1587967404134.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b60a/thumb.1587967533274.JPG",
+                            "source": "images/0x11b60a/source.1587967533275.JPG"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b60d",
+                    "sku_id": "10000232",
+                    "product_name": "Set thịt lợn hữu cơ 3 ngày ăn ",
+                    "display_name": "Set thịt lợn hữu cơ 3 ngày ăn (1,2kg)\t",
+                    "display_name_detail": "Set thịt lợn 3 ngày ăn bao gồm ba chỉ, sườn và nạc vai",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b60d/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thịt lợn hữu cơ được nuôi hoàn toàn bằng thức ăn tự nhiên cho chất lượng vượt trội, ngọt thịt, thơm, nước trong. Sản phẩm đã được chứng nhận hữu cơ bởi tổ chức đánh giá độc lập NHO.",
+                    "keywords": "sườn, ba chỉ, nạc vai, thịt lợn",
+                    "viewcount": 25,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;Lợn được nuôi hoàn toàn bằng rau, cám ngô, protein từ cá.&nbsp;</p>\n<p>Thức ăn kiểm soát đầu &nbsp;vào chặt chẽ là những loại sản phẩm bản địa, không biến đổi gen, canh tác tự &nbsp;nhiên. Lợn nuôi trong không gian thoáng đãng, có sân chơi riêng.&nbsp;</p>\n<p>Thịt lợn ngọt thịt, thơm, khi luộc nước trong, không nhiều mỡ.</p>\n<p>Set bao gồm: 400gr sườn, 400gr ba chỉ và 400gr nạc vai hoặc thịt xay &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 275000,
+                        "listed_price_with_vat": 275000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c68",
+                        "manufacturer_name": "HTX Trường Thành"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b60d/thumb.1587967881430.jpg",
+                            "source": "images/0x11b60d/source.1587967881431.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b610",
+                    "sku_id": "10000233",
+                    "product_name": "Set thịt bò Hòa Bình",
+                    "display_name": "Set thịt bò Hòa Bình (1kg)\t",
+                    "display_name_detail": "Set 1kg thăn và bắp bò ăn cỏ Hòa Bình",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b610/image_cover.JPG",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thịt bò nuôi thả tự nhiên tại vùng núi Tân Lạc, Hòa Bình. Bò ăn cỏ vùng cao, khí hậu ôn đới nên thịt bò có hương vị đặc sắc riêng, ngon hơn và đậm đà hơn.",
+                    "keywords": "thăn bò, bắp bò, thịt bò",
+                    "viewcount": 19,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;Thịt bò nuôi thả tự nhiên tại vùng núi Tân Lạc Hòa Bình. Bò vùng cao ăn cỏ và rơm, nuôi ở vùng khí hậu lạnh nên thịt bò có hương vị đặc sắc riêng, ngon hơn và đậm đà hơn.<br>\n&nbsp;Set bao gồm: 500gr thăn bò, 500gr bắp bò. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 330000,
+                        "listed_price_with_vat": 330000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c69"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b610/thumb.1587967937424.JPG",
+                            "source": "images/0x11b610/source.1587967937427.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b610/thumb.1587967937425.JPG",
+                            "source": "images/0x11b610/source.1587967937428.JPG"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b610/thumb.1587967937426.JPG",
+                            "source": "images/0x11b610/source.1587967937429.JPG"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b613",
+                    "sku_id": "10000234",
+                    "product_name": "Gà quế nguyên con",
+                    "display_name": "Gà quế nguyên con (1.3kg - 1.5kg)\t",
+                    "display_name_detail": "Set 1 con gà quế nuôi ngô, thóc và trùn quế",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b613/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Gà thả vườn ăn ngô thóc và bột trùn quế, hoàn toàn không sử dụng thức ăn công nghiệp. Thịt gà dai, da vàng, giòn, vị thơm đặc trưng, không mỡ.",
+                    "keywords": "thịt gà, gà quế",
+                    "viewcount": 11,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Gà thả vườn, ăn ngô thóc và bột trùn quế, hoàn toàn không sử dụng thức ăn công nghiệp. Gà không mỡ, thịt dai, da vàng, giòn, vị thơm đặc trưng.<br>\n&nbsp;</p>\n<p>Gà quế đóng túi chân không trọng lượng từ 1,3-1,5kg. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 339000,
+                        "listed_price_with_vat": 339000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c6a",
+                        "manufacturer_name": "Sóc Sơn"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b613/thumb.1587967978995.jpg",
+                            "source": "images/0x11b613/source.1587967978996.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b616",
+                    "sku_id": "10000235",
+                    "product_name": "Set hải sản Phú Quốc (2.2 kg)",
+                    "display_name": "Set hải sản Phú Quốc (2.2kg)\t",
+                    "display_name_detail": "Set mực câu, tôm sú, bề bề và cá thu đánh bắt tự nhiên Phú Quốc",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b616/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Hải sản Phú Quốc đánh bắt tự nhiên, đóng gói, cấp đông sâu ngay trên biển và chuyển về Hà Nội bằng đường hàng không. Một set bao gồm mực ống, mực lá, tôm sú tự nhiên, bề bề và cá thu một nắng.",
+                    "promotion_desc": "Giảm giá 50,000 VND",
+                    "keywords": "hải sản, mực, tôm, bề bề, cá",
+                    "viewcount": 27,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 1040000,
+                        "listed_price_with_vat": 1090000
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b616/thumb.1587968016407.jpg",
+                            "source": "images/0x11b616/source.1587968016408.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b624",
+                    "sku_id": "10000240",
+                    "product_name": "Thăn bò Hòa Bình 400gr",
+                    "display_name": "Thăn bò Hòa Bình (400gr)\t",
+                    "display_name_detail": "Thăn bò Hòa Bình (khay 400gr)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b624/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bò nuôi thả tự nhiên vùng núi cao Tân Lạc, Hòa Bình. Bò ăn cỏ vùng cao cho chất lương thịt đậm đà, thơm ngon.",
+                    "keywords": "thịt bò, thăn bò, bò",
+                    "viewcount": 3,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bò nuôi thả tự nhiên vùng núi cao Tân Lạc, Hòa Bình. Bò ăn cỏ vùng cao cho chất lương thịt đậm đà, thơm ngon.</p>\n<p><br>\nĐặt trước 16h, giao trong ngày, bảo hành 1 đổi 1 hoặc hoàn tiền đối với các sản phẩm không đạt chất lượng.</p>\n<p><br>\nMột &nbsp;khay thịt bò ăn cỏ Hòa Bình 400gr &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 132000,
+                        "listed_price_with_vat": 132000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c69"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b624/thumb.1587968408020.jpg",
+                            "source": "images/0x11b624/source.1587968408022.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b624/thumb.1587968408021.JPG",
+                            "source": "images/0x11b624/source.1587968408023.JPG"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x11b62a",
+                    "sku_id": "10000242",
+                    "product_name": "Mực lá Phú Quốc 650gr",
+                    "display_name": "Mực lá Phú Quốc 650gr\t",
+                    "display_name_detail": "Mực lá đánh bắt tự nhiên Phú Quốc 6-8 con (khay 650gr)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x11b62a/image_cover.JPG",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Mực lá câu tự nhiên Phú Quốc, cấp đông sâu ngay trên biển, vận chuyển đường hàng không về Hà Nội, đảm bảo chất lượng sản phẩm cao nhất như vừa đánh bắt xong.",
+                    "keywords": "mực, mực lá, hải sản, tôm, bề bề, cá",
+                    "viewcount": 8,
+                    "ribbon": "Chỉ giao ở HN",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Mực lá câu tự nhiên Phú Quốc, cấp đông sâu ngay trên biển, vận chuyển đường hàng không về Hà Nội, đảm bảo chất lượng sản phẩm cao nhất như vừa đánh bắt xong.&nbsp;</p>\n<p>Một khay mực lá 650gr &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 267000,
+                        "listed_price_with_vat": 267000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x133c6c",
+                        "manufacturer_name": "Hải Sản Phú Quốc"
+                    },
+                    "product.supplier": {
+                        "uid": "0x11b5d6",
+                        "supplier_name": "Foodhub "
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2b",
+                            "collection_name": "Thực phẩm Tươi sống ",
+                            "collection_image": "collection_images/0x13be2b.jpg"
+                        },
+                        {
+                            "uid": "0x13be73",
+                            "collection_name": "Combo Thực phẩm tươi sống"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x133c6e",
+                        "brand_name": "FoodHub"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x11b62a/thumb.1587968465805.JPG",
+                            "source": "images/0x11b62a/source.1587968465806.JPG"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        }
+    ],
+    "Hotdeals": {
+        "products": [
+            {
+                "uid": "0x194ba8",
+                "sku_id": "",
+                "product_name": "Combo 3 thịt bò Fuji - bít tết 150g",
+                "display_name": "Combo 3 thịt bò Fuji - bít tết 150g",
+                "display_name_detail": "Combo 3 thịt bò Fuji - bít tết 150g",
+                "color": "#f48024",
+                "image_cover": "images/products/0x194ba8/image_cover_1591848945776.jpeg",
+                "image_highlight": "images/products/0x194ba8/image_highlight_1591765424507.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Đóng gói hút chân không",
+                "promotion_desc": "tặng thịt bò Úc nướng mỏng 150g.",
+                "keywords": "xốt, chua ngọt",
+                "viewcount": 541,
+                "ribbon": "",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Thịt bò Fuji Cắt lát theo định lượng chế biến món beefsteak (bít tết). &nbsp;&nbsp;&nbsp;</p>\n<p>Thịt bò nhập khẩu (70%), nước, nguyên liệu, phụ gia thực phẩm:</p>\n<p>* PB –100 (mỡ động vật, dầu, đạm sữa, Sodium Caseinate, chất nhũ hóa: Lecithin (322i), chất chống oxi hóa: d-alpha-Tocopherol (307a), nước.</p>\n<p>* Bunasofty (Dextrin, dịch chiết xuất từ nấm Shimeji, Trisodium Citrate (331iii), Ascorbic Acid(L-)(300).</p>\n<p>* Kaneyoshi Mix (Malto Dextrin, Distarch Phosphate (1412), Starch Sodium Octenyl</p>\n<p>Succinate (1450), Xanthan Gum (415), Sodium Polyphosphate (452i).</p>\n<p>* Beefoil Powder EX (Mỡ động vật, Dextrin, Sodium Caseinate, chất nhũ hóa: Mono-and Di - Glycerides of fatty acids (471),Sodium Polyphosphate (452 i), Ascorbic Acid (L-) (300).</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 462000,
+                    "listed_price_with_vat": 462000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1dea49",
+                    "manufacturer_name": "Công ty Cổ Phần Thực Phẩm Fuji"
+                },
+                "product.supplier": {
+                    "uid": "0x1da9e9",
+                    "supplier_name": "CÔNG TY CỔ PHẦN THỰC PHẨM FUJI"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be70",
+                        "collection_name": "Thịt & Cá "
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1de701",
+                    "brand_name": "FUJIFOODS"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x194ba8/thumb_1591848729808.jpeg",
+                        "source": "images/products/0x194ba8/source_1591848729942.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x194ba8/thumb_1591848729821.jpeg",
+                        "source": "images/products/0x194ba8/source_1591848730042.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x194ba8/thumb_1591848729851.jpeg",
+                        "source": "images/products/0x194ba8/source_1591848730219.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x194ba8/thumb_1591848729889.jpeg",
+                        "source": "images/products/0x194ba8/source_1591848730287.jpeg"
+                    }
+                ],
+                "videos": []
+            }
+        ],
+        "count_products": 1
+    }
+}

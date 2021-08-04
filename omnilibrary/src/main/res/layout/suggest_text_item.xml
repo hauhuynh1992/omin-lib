@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/_4sdp"
+    android:background="@drawable/search_background_selector"
+    android:paddingStart="@dimen/_6sdp"
+    android:paddingTop="@dimen/_1sdp"
+    android:paddingEnd="@dimen/_6sdp"
+    android:paddingBottom="@dimen/_1sdp">
+
+    <ImageView
+        android:id="@+id/img_history_search"
+        android:layout_width="@dimen/_7sdp"
+        android:layout_height="@dimen/_6sdp"
+        android:layout_gravity="center_vertical"
+        android:layout_marginRight="@dimen/_3sdp"
+        android:src="@mipmap/ic_history" />
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:drawablePadding="@dimen/_4sdp"
+        android:ellipsize="end"
+        android:background="@null"
+        android:gravity="center"
+        android:maxLines="1"
+        android:paddingBottom="@dimen/_1sdp"
+        android:text="@string/back"
+        android:textColor="@drawable/search_key_color_selector"
+        android:textSize="@dimen/_8ssp"
+        android:theme="@style/SuggestTextStyle"
+        SfView:type="medium" />
+</LinearLayout>

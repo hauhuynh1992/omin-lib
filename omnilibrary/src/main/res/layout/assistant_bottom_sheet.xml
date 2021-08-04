@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_white"
+    android:orientation="vertical"
+    app:behavior_hideable="false"
+    app:layout_behavior="android.support.design.widget.BottomSheetBehavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_result"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/txt_topic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5sp"
+                android:paddingLeft="@dimen/_13sdp"
+                android:textColor="#000000"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/vp_result"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:clipToPadding="false"
+                android:orientation="horizontal"
+                android:paddingLeft="@dimen/_5sdp"
+                android:paddingRight="@dimen/_5sdp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1">
+
+                <ImageButton
+                    android:id="@+id/img_voice"
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:background="@drawable/voice_button_selector"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:src="@drawable/btn_voice_assistant_selector" />
+
+                <com.airbnb.lottie.LottieAnimationView
+                    android:id="@+id/lav_main"
+                    android:layout_width="@dimen/_30sdp"
+                    android:layout_height="@dimen/_30sdp"
+                    android:layout_centerInParent="true"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="@dimen/_10sdp"
+                    android:visibility="gone"
+                    app:lottie_fileName="ic_voice_speack_animation.json"
+                    app:lottie_loop="false"
+                    app:lottie_speed="1" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_20sdp"
+                android:layout_gravity="center"
+                android:layout_weight="5"
+                android:orientation="horizontal">
+
+                <RelativeLayout
+                    android:id="@+id/rl_hint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center">
+
+                    <!--                    <LinearLayout-->
+                    <!--                        android:id="@+id/ll_hint"-->
+                    <!--                        android:layout_width="wrap_content"-->
+                    <!--                        android:layout_height="wrap_content"-->
+                    <!--                        android:orientation="horizontal">-->
+
+                    <!--                        <com.bda.omnilibrary.views.SfTextView-->
+                    <!--                            android:layout_width="wrap_content"-->
+                    <!--                            android:layout_height="wrap_content"-->
+                    <!--                            android:drawablePadding="@dimen/_2sdp"-->
+                    <!--                            android:drawableRight="@mipmap/ic_red_remote"-->
+                    <!--                            android:gravity="center_vertical"-->
+                    <!--                            android:text="Nhấn"-->
+                    <!--                            android:textColor="@color/title_black"-->
+                    <!--                            android:textSize="@dimen/_8ssp"-->
+                    <!--                            sfView:type="medium" />-->
+
+                    <!--                        <com.bda.omnilibrary.views.SfTextView-->
+                    <!--                            android:id="@+id/txt_toggle_assistant"-->
+                    <!--                            android:layout_width="wrap_content"-->
+                    <!--                            android:layout_height="wrap_content"-->
+                    <!--                            android:layout_marginLeft="@dimen/_2sdp"-->
+                    <!--                            android:drawablePadding="@dimen/_2sdp"-->
+                    <!--                            android:gravity="center_vertical"-->
+                    <!--                            android:text="để nói"-->
+                    <!--                            android:textColor="@color/title_black"-->
+                    <!--                            android:textSize="@dimen/_8ssp"-->
+                    <!--                            sfView:type="medium" />-->
+                    <!--                    </LinearLayout>-->
+
+                    <TextView
+                        android:id="@+id/tv_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_gravity="center"
+                        android:layout_marginRight="@dimen/_18sdp"
+                        android:textColor="#000000"
+                        android:textSize="@dimen/_8ssp"
+                        android:textStyle="bold" />
+
+                </RelativeLayout>
+
+
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/vp_suggest"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/rl_hint"
+                    android:nextFocusRight="@id/vp_suggest"
+                    android:orientation="horizontal" />
+
+            </RelativeLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

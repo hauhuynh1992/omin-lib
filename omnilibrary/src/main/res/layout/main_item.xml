@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_sub_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginBottom="@dimen/_6sdp"
+
+        android:textColor="@color/title_black_black"
+        android:textSize="@dimen/_11ssp"
+        SfView:type="bold" />
+
+    <androidx.leanback.widget.HorizontalGridView
+        android:id="@+id/rv_sub_home"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/_6sdp"
+        android:clipToPadding="false"
+        android:paddingStart="@dimen/_10sdp"
+        android:paddingEnd="@dimen/_20sdp"
+        app:numberOfRows="1"
+        app:rowHeight="wrap_content" />
+</LinearLayout>

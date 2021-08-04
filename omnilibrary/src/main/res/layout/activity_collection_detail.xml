@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_EAEAEA"
+    tools:context=".ui.mainActivity.MainActivity">
+
+    <RelativeLayout
+        android:id="@+id/image_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            android:id="@+id/image_header"
+            layout="@layout/item_header_screen" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/image_header"
+            android:layout_marginTop="@dimen/_4sdp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_26sdp">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/tv_breadcrumb"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:text="@string/text_mua_sam"
+                    android:textAllCaps="true"
+                    android:textColor="@drawable/selector_button_header"
+                    android:textSize="@dimen/_10ssp"
+                    app:type="bold" />
+
+            </LinearLayout>
+
+            <androidx.leanback.widget.HorizontalGridView
+                android:id="@+id/list_collection"
+                android:focusedByDefault="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="0dp"
+                android:layout_marginStart="@dimen/_4sdp"
+                android:clipToPadding="false"
+                android:paddingStart="@dimen/_10sdp"
+                android:paddingEnd="@dimen/_16sdp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <androidx.leanback.widget.VerticalGridView
+        android:id="@+id/rv_product"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="@dimen/_19sdp"
+        android:layout_marginTop="@dimen/_73sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:clipToPadding="false"
+        android:paddingBottom="@dimen/_20sdp"
+        app:horizontalMargin="@dimen/_minus6sdp"
+        app:verticalMargin="@dimen/_minus8sdp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="@dimen/_5sdp" />
+</RelativeLayout>

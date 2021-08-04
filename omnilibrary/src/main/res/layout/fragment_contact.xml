@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bg_background"
+    tools:context=".ui.accountAcitity.contactFragment.ContactFragment">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+
+            android:text="@string/hotline"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_10ssp"
+            sfView:type="medium" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:text="@string/email_address"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_10ssp"
+            sfView:type="medium" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="@string/facebook"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_10ssp"
+            sfView:type="bold" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/face_book_link"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_10ssp"
+            sfView:type="medium" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:text="@string/run_company"
+            android:visibility="gone"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_10ssp"
+            sfView:type="medium" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:text="@string/tax_number"
+            android:visibility="gone"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_10ssp"
+            sfView:type="medium" />
+
+
+    </LinearLayout>
+
+</RelativeLayout>

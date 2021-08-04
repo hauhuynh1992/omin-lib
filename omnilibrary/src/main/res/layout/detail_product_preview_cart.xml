@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_26sdp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="@dimen/layout_padding"
+        android:paddingRight="@dimen/layout_padding">
+
+        <RelativeLayout
+            android:id="@+id/rl_cart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_centerInParent="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+
+            <ImageView
+                android:id="@+id/img_cart"
+                android:layout_width="@dimen/_11sdp"
+                android:layout_height="@dimen/_11sdp"
+                android:layout_centerVertical="true"
+                android:background="@mipmap/ic_cart_gradiant" />
+
+            <LinearLayout
+                android:id="@+id/ll_cart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_3sdp"
+                android:layout_toEndOf="@+id/img_cart"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_10sdp"
+                    android:layout_marginTop="@dimen/_1sdp">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_cart"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentBottom="true"
+                        android:text="@string/text_cart"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/_5ssp"
+                        android:textStyle="normal"
+                        sfView:type="regular" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_addcart_quantity"
+                        android:layout_width="@dimen/_9sdp"
+                        android:layout_height="@dimen/_9sdp"
+                        android:layout_marginLeft="@dimen/_2sdp"
+                        android:layout_toRightOf="@+id/tv_cart"
+                        android:background="@drawable/round_active"
+                        android:gravity="center"
+                        android:text="1"
+                        android:textColor="@color/title_white"
+                        android:textSize="@dimen/_5sdp"
+                        sfView:type="bold" />
+                </RelativeLayout>
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/text_total_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/title_orange_E75300"
+                    android:textSize="@dimen/_6ssp"
+                    android:textStyle="normal"
+                    sfView:type="bold" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/line_cart"
+                android:layout_width="@dimen/_54sdp"
+                android:layout_height="@dimen/_1sdp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/background_button_active"
+                android:visibility="gone" />
+
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:id="@+id/rl_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/text_back_home"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/_8ssp"
+                android:textStyle="normal"
+                sfView:type="bold" />
+
+            <View
+                android:id="@+id/line_back"
+                android:layout_width="@dimen/_101sdp"
+                android:layout_height="@dimen/_1sdp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/background_button_active"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_search"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/_28sdp"
+            android:layout_toLeftOf="@+id/rl_back"
+            android:focusable="true"
+            android:focusableInTouchMode="true">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/tv_search"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:text="@string/text_detail_search"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/_8ssp"
+                android:textStyle="normal"
+                sfView:type="bold" />
+
+            <View
+                android:id="@+id/line_search"
+                android:layout_width="@dimen/_34sdp"
+                android:layout_height="@dimen/_1sdp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/background_button_active"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+
+</RelativeLayout>

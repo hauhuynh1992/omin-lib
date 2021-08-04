@@ -1,0 +1,664 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "uid": "0x13be55",
+            "collection_name": "Sữa & Thực phẩm ăn dặm",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be56",
+            "collection_name": "Chăm sóc & Vệ sinh cho bé",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be57",
+            "collection_name": "Thời trang & Phụ kiện cho bé",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be58",
+            "collection_name": "Đồ chơi",
+            "count_items": 6,
+            "products": [
+                {
+                    "uid": "0x155667",
+                    "sku_id": "10000688",
+                    "product_name": "Trò chơi tìm đường (Pathfinder game) ",
+                    "display_name": "Trò chơi tìm đường ",
+                    "display_name_detail": "Trò chơi tìm đường (Pathfinder game) ",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x155667/image_cover_1590838644006.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ trò chơi tìm đường Winwintoys 60212 với những viên bi có nhiều màu sắc bắt mắt giúp bé có thể kích thích thị giác của mình và phát triển tư duy nhanh nhạy, khả năng khéo léo, tập trung của mình.",
+                    "promotion_desc": "tiết kiệm 93.000 đồng, giảm 31%.",
+                    "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                    "viewcount": 902,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Khi được nhìn thấy các viên bi nhiều màu sắc rượt đuổi nhau trên đường quanh co đầy uốn lượn sẽ mang lại sự thích thú và lôi cuốn đối với bé.&nbsp;</p>\n<p>Qua đó bé sẽ được khám phá tìm hiểu về các màu sắc biết tên gọi và có thể nhận biết và phân biệt được các màu sắc khác nhau. Bộ sản phẩm này bao gồm các viên bi với nhiều màu sắc như đỏ, vàng, xanh…&nbsp;</p>\n<p>Có một chiếc bảng gỗ to có những đường quanh co uốn lượn được thiết kế để những viên bi có thể di chuyển được trên đó.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 206000,
+                        "listed_price_with_vat": 299000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540d4",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x15185f",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be27",
+                            "collection_name": "Mẹ, Bé & Đồ chơi",
+                            "collection_image": "collection_images/0x13be27.jpg"
+                        },
+                        {
+                            "uid": "0x13be58",
+                            "collection_name": "Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e1",
+                        "brand_name": "Colligo"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155667/thumb_1590838644090.jpeg",
+                            "source": "images/products/0x155667/source_1590838644194.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x15568e",
+                    "sku_id": "10000690",
+                    "product_name": "Citiblocs 100pcs (Xếp hình 100 chi tiết màu gỗ tự nhiên) ",
+                    "display_name": "Xếp hình 100 chi tiết màu gỗ tự nhiên",
+                    "display_name_detail": "Citiblocs xếp hình 100 chi tiết màu gỗ tự nhiên tặng thêm 50 thanh",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x15568e/image_cover_1590838917861.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Phát triển kĩ năng vận động thô tốt hơn. Kích thích tư duy logic. Cải thiện tính sáng tạo. Khuyến khích tương tác tích cực với xã hội (Khuyến khích giao tiếp).",
+                    "promotion_desc": "tặng 50 thanh cùng loại, tiết kiệm 30.000 đồng, giảm 14%.",
+                    "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                    "viewcount": 199,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Phát triển kĩ năng vận động thô tốt hơn.</p>\n<p>Kích thích tư duy logic.</p>\n<p>Cải thiện tính sáng tạo.</p>\n<p>Khuyến khích tương tác tích cực với xã hội (Khuyến khích giao tiếp).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 179000,
+                        "listed_price_with_vat": 209000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540d4",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff6",
+                        "supplier_name": "CÔNG TY TNHH MTV XNK TM DV HELLOCARE VIETNAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be27",
+                            "collection_name": "Mẹ, Bé & Đồ chơi",
+                            "collection_image": "collection_images/0x13be27.jpg"
+                        },
+                        {
+                            "uid": "0x13be58",
+                            "collection_name": "Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e1",
+                        "brand_name": "Colligo"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15568e/thumb_1590838917934.jpeg",
+                            "source": "images/products/0x15568e/source_1590838917960.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1556b5",
+                    "sku_id": "10000691",
+                    "product_name": "Building blocks 100pcs (Xếp hình 100 chi tiết màu 4 màu)",
+                    "display_name": "Xếp hình 100 chi tiết 4 màu",
+                    "display_name_detail": "Building blocks - Xếp hình 100 chi tiết 4 màu tặng thêm 50 thanh",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1556b5/image_cover_1590838876274.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Màu sắc: Như thiết kế. Vật liệu: Gỗ tự nhiên. Đóng gói: Hộp giấy. Độ tuổi: 36 tháng +",
+                    "promotion_desc": "tặng 50 thanh cùng loại, tiết kiệm 60.000 đồng, giảm 20%.",
+                    "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                    "viewcount": 57,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Đồ chơi trí tuệ bộ xếp hình 100 chi tiết 4 màu GHB-858 luôn là một món đồ chơi không thể thiếu được trong tuổi thơ của mọi trẻ nhỏ. Bộ đồ chơi trí tuệ xếp hình bao gồm 100 miếng gỗ mang màu sắc khác nhau sẽ cùng bé sáng tạo ra vô vàn mô hình khác nhau, qua đó kích thích sự phát triển về tư duy và rèn luyện đôi bàn tay khéo léo của bé.</p>\n<p>Thông tin chi tiết về đồ chơi trí tuệ bộ xếp hình 100 chi tiết 4 màu GHB-858.</p>\n<p>Mã sản phẩm: GHB-858.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 239000,
+                        "listed_price_with_vat": 299000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540d4",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x15185f",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be27",
+                            "collection_name": "Mẹ, Bé & Đồ chơi",
+                            "collection_image": "collection_images/0x13be27.jpg"
+                        },
+                        {
+                            "uid": "0x13be58",
+                            "collection_name": "Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e1",
+                        "brand_name": "Colligo"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [],
+                    "videos": []
+                },
+                {
+                    "uid": "0x155751",
+                    "sku_id": "10000692",
+                    "product_name": "Ice-cream shop toy (Xe bán kem)",
+                    "display_name": "Xe bán kem đồ chơi",
+                    "display_name_detail": "Ice-cream shop toy - Xe bán kem",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x155751/image_cover_1590839510192.png",
+                    "image_highlight": "images/products/0x155751/image_highlight_1590839510236.png",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Lấy cảm hứng từ bộ phim hoạt hình nổi tiếng Frozen 2. Chất liệu an toàn cho bé. Độ tuổi phù hợp 3+",
+                    "promotion_desc": "tiết kiệm 137.000 đồng, giảm 25%.",
+                    "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                    "viewcount": 3126,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Xe bán kem là bộ đồ chơi mô phỏng xe bán kem di động, khi chơi trò này bé được làm quen với nhiều loại kem khác nhau, từ kem ốc quế, cho đến các loại kem trái cây, kem sô cô la,…với đa dạng về hình dáng và màu sắc bắt mắt, giúp bé vui chơi thỏa thích mà không chán.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 409000,
+                        "listed_price_with_vat": 546000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540d4",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x15185f",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be58",
+                            "collection_name": "Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e1",
+                        "brand_name": "Colligo"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155751/thumb_1590839510301.jpeg",
+                            "source": "images/products/0x155751/source_1590839510309.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x155805",
+                    "sku_id": "10000693",
+                    "product_name": "Trò chơi rút thanh (Unbalance game)",
+                    "display_name": "Trò chơi rút thanh",
+                    "display_name_detail": "Trò chơi rút thanh (Unbalance game)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x155805/image_cover_1590839586451.png",
+                    "image_highlight": "images/products/0x155805/image_highlight_1590839586503.png",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thỏa sức sáng tạo theo trí tưởng tượng. Chất liệu gỗ tự nhiên, an toàn cho bé. Được gia công tinh xảo, đẹp mắt và sinh động. Góp phần giáo dục trẻ bằng phương pháp trực quan sinh động.",
+                    "promotion_desc": "tiết kiệm 69.000 đồng, giảm 35%.",
+                    "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                    "viewcount": 4065,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Phụ huynh sẽ hướng dẫn các bé xây dựng tòa tháp thật cao từ 48 thanh gỗ màu sắc bằng cách rút và sắp xếp khéo léo các thanh gỗ chồng lên nhau xen kẽ một cách thẳng đứng và nằm ngang sao cho cao nhất có thể.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 129000,
+                        "listed_price_with_vat": 198000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540d4",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x15185f",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be27",
+                            "collection_name": "Mẹ, Bé & Đồ chơi",
+                            "collection_image": "collection_images/0x13be27.jpg"
+                        },
+                        {
+                            "uid": "0x13be58",
+                            "collection_name": "Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e1",
+                        "brand_name": "Colligo"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155805/thumb_1590839586545.jpeg",
+                            "source": "images/products/0x155805/source_1590839586570.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x155811",
+                    "sku_id": "10000694",
+                    "product_name": "Hộp đạp banh (Ton ton ball box)",
+                    "display_name": "Hộp đạp banh - Ton ton ball box",
+                    "display_name_detail": "Hộp đạp banh (Ton ton ball box)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x155811/image_cover_1590839332947.png",
+                    "image_highlight": "images/products/0x155811/image_highlight_1590839333033.png",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Đồ Chơi Gỗ Colligo - Đập Banh 2 Tầng 90105 với thiết kế độc đáo và màu sắc bắt mắt là quà tặng thú vị dành cho bé thích vận động.",
+                    "promotion_desc": "tiết kiệm 79.000 đồng, giảm 29%.",
+                    "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                    "viewcount": 3093,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bằng chất liệu gỗ tự nhiên an toàn đã qua xử lý giúp bố mẹ an toàn hơn khi cho bé chơi. Đồ chơi giúp bé định hướng không gian và vận động tay chân tốt nhất.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 189000,
+                        "listed_price_with_vat": 268000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540d4",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x15185f",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be27",
+                            "collection_name": "Mẹ, Bé & Đồ chơi",
+                            "collection_image": "collection_images/0x13be27.jpg"
+                        },
+                        {
+                            "uid": "0x13be58",
+                            "collection_name": "Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e1",
+                        "brand_name": "Colligo"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155811/thumb_1590839333139.jpeg",
+                            "source": "images/products/0x155811/source_1590839333196.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155811/thumb_1590839333157.jpeg",
+                            "source": "images/products/0x155811/source_1590839333217.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155811/thumb_1590839333168.jpeg",
+                            "source": "images/products/0x155811/source_1590839333247.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be59",
+            "collection_name": "Tã & Bỉm",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be5a",
+            "collection_name": "Đồ dùng cho mẹ",
+            "count_items": 0
+        }
+    ],
+    "Hotdeals": {
+        "products": [
+            {
+                "uid": "0x155811",
+                "sku_id": "10000694",
+                "product_name": "Hộp đạp banh (Ton ton ball box)",
+                "display_name": "Hộp đạp banh - Ton ton ball box",
+                "display_name_detail": "Hộp đạp banh (Ton ton ball box)",
+                "color": "#f48024",
+                "image_cover": "images/products/0x155811/image_cover_1590839332947.png",
+                "image_highlight": "images/products/0x155811/image_highlight_1590839333033.png",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Đồ Chơi Gỗ Colligo - Đập Banh 2 Tầng 90105 với thiết kế độc đáo và màu sắc bắt mắt là quà tặng thú vị dành cho bé thích vận động.",
+                "promotion_desc": "tiết kiệm 79.000 đồng, giảm 29%.",
+                "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                "viewcount": 3093,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Bằng chất liệu gỗ tự nhiên an toàn đã qua xử lý giúp bố mẹ an toàn hơn khi cho bé chơi. Đồ chơi giúp bé định hướng không gian và vận động tay chân tốt nhất.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 189000,
+                    "listed_price_with_vat": 268000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540d4",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                },
+                "product.supplier": {
+                    "uid": "0x15185f",
+                    "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be27",
+                        "collection_name": "Mẹ, Bé & Đồ chơi",
+                        "collection_image": "collection_images/0x13be27.jpg"
+                    },
+                    {
+                        "uid": "0x13be58",
+                        "collection_name": "Đồ chơi"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540e1",
+                    "brand_name": "Colligo"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155811/thumb_1590839333139.jpeg",
+                        "source": "images/products/0x155811/source_1590839333196.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155811/thumb_1590839333157.jpeg",
+                        "source": "images/products/0x155811/source_1590839333217.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155811/thumb_1590839333168.jpeg",
+                        "source": "images/products/0x155811/source_1590839333247.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x155751",
+                "sku_id": "10000692",
+                "product_name": "Ice-cream shop toy (Xe bán kem)",
+                "display_name": "Xe bán kem đồ chơi",
+                "display_name_detail": "Ice-cream shop toy - Xe bán kem",
+                "color": "#f48024",
+                "image_cover": "images/products/0x155751/image_cover_1590839510192.png",
+                "image_highlight": "images/products/0x155751/image_highlight_1590839510236.png",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Lấy cảm hứng từ bộ phim hoạt hình nổi tiếng Frozen 2. Chất liệu an toàn cho bé. Độ tuổi phù hợp 3+",
+                "promotion_desc": "tiết kiệm 137.000 đồng, giảm 25%.",
+                "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                "viewcount": 3126,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Xe bán kem là bộ đồ chơi mô phỏng xe bán kem di động, khi chơi trò này bé được làm quen với nhiều loại kem khác nhau, từ kem ốc quế, cho đến các loại kem trái cây, kem sô cô la,…với đa dạng về hình dáng và màu sắc bắt mắt, giúp bé vui chơi thỏa thích mà không chán.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 409000,
+                    "listed_price_with_vat": 546000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540d4",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                },
+                "product.supplier": {
+                    "uid": "0x15185f",
+                    "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be58",
+                        "collection_name": "Đồ chơi"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540e1",
+                    "brand_name": "Colligo"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155751/thumb_1590839510301.jpeg",
+                        "source": "images/products/0x155751/source_1590839510309.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x155805",
+                "sku_id": "10000693",
+                "product_name": "Trò chơi rút thanh (Unbalance game)",
+                "display_name": "Trò chơi rút thanh",
+                "display_name_detail": "Trò chơi rút thanh (Unbalance game)",
+                "color": "#f48024",
+                "image_cover": "images/products/0x155805/image_cover_1590839586451.png",
+                "image_highlight": "images/products/0x155805/image_highlight_1590839586503.png",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thỏa sức sáng tạo theo trí tưởng tượng. Chất liệu gỗ tự nhiên, an toàn cho bé. Được gia công tinh xảo, đẹp mắt và sinh động. Góp phần giáo dục trẻ bằng phương pháp trực quan sinh động.",
+                "promotion_desc": "tiết kiệm 69.000 đồng, giảm 35%.",
+                "keywords": "đồ chơi gỗ, đồ chơi, do choi, do choi go, colligo, nam hoa",
+                "viewcount": 4065,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Phụ huynh sẽ hướng dẫn các bé xây dựng tòa tháp thật cao từ 48 thanh gỗ màu sắc bằng cách rút và sắp xếp khéo léo các thanh gỗ chồng lên nhau xen kẽ một cách thẳng đứng và nằm ngang sao cho cao nhất có thể.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 129000,
+                    "listed_price_with_vat": 198000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540d4",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                },
+                "product.supplier": {
+                    "uid": "0x15185f",
+                    "supplier_name": "CÔNG TY CỔ PHẦN SẢN XUẤT VÀ THƯƠNG MẠI NAM HOA"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be27",
+                        "collection_name": "Mẹ, Bé & Đồ chơi",
+                        "collection_image": "collection_images/0x13be27.jpg"
+                    },
+                    {
+                        "uid": "0x13be58",
+                        "collection_name": "Đồ chơi"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540e1",
+                    "brand_name": "Colligo"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155805/thumb_1590839586545.jpeg",
+                        "source": "images/products/0x155805/source_1590839586570.jpeg"
+                    }
+                ],
+                "videos": []
+            }
+        ],
+        "count_products": 3
+    }
+}

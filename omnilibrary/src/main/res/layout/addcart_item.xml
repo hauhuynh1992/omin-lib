@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_content_addcart"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_8sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginRight="@dimen/_2sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_38sdp"
+            android:layout_height="@dimen/_38sdp"
+            android:background="@color/title_grey_f4f4f4">
+
+            <ImageView
+                android:id="@+id/image_addcart_item"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop">
+
+            </ImageView>
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/more_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="+5"
+                android:textColor="@color/title_green_2E9B93"
+                android:textSize="@dimen/_10ssp"
+                sfView:type="bold" />
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/tv_addcart_quantity"
+                android:layout_width="@dimen/_9sdp"
+                android:layout_height="@dimen/_9sdp"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="@dimen/_2sdp"
+                android:background="@mipmap/ic_green"
+                android:gravity="center"
+                android:text="1"
+                android:textColor="@color/title_white"
+                android:textSize="@dimen/_5sdp"
+                sfView:type="bold" />
+
+            <View
+                android:id="@+id/view_green"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_1sdp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/title_green_2E9B93"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</RelativeLayout>

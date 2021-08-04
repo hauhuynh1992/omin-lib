@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_5sdp"
+    android:orientation="vertical">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_detail_suggest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_24sdp"
+        android:text="@string/product_description"
+        android:textColor="@color/text_color_dark"
+        android:textSize="@dimen/_11ssp"
+        app:type="bold" />
+
+    <RelativeLayout
+        android:id="@+id/rl_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_18sdp"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:layout_marginEnd="@dimen/layout_padding"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+        <com.google.android.material.card.MaterialCardView
+            android:id="@+id/cardview_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginEnd="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:background="@color/color_transparent"
+            android:outlineAmbientShadowColor="@color/trans"
+            android:theme="@style/ItemStyle"
+            app:cardBackgroundColor="@color/color_transparent"
+            app:cardCornerRadius="@dimen/_6sdp"
+            app:cardElevation="@dimen/_1sdp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_item_background"
+                android:orientation="vertical">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/tv_description"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/color_transparent"
+                    android:ellipsize="end"
+                    android:lineSpacingExtra="@dimen/_2sdp"
+                    android:maxLines="3"
+                    android:paddingLeft="@dimen/_11sdp"
+                    android:paddingTop="@dimen/_11sdp"
+                    android:paddingRight="@dimen/_11sdp"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="regular" />
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_description"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentBottom="true"
+                    android:background="@color/color_transparent"
+                    android:paddingLeft="@dimen/_5sdp"
+                    android:paddingRight="@dimen/_22sdp"
+                    android:paddingBottom="@dimen/_5sdp"
+                    android:text="@string/watch_more"
+                    android:textColor="@color/start_color"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="medium" />
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:outlineSpotShadowColor="@color/text_black_70"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_214sdp"
+            android:layout_height="@dimen/_120sdp"
+            android:background="@color/color_item_background">
+
+            <RelativeLayout
+                android:id="@+id/layout_category"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_91sdp">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/app_name"
+                    android:textColor="@color/title_grey_a6a6a6"
+                    android:textSize="@dimen/_12ssp"
+                    app:type="bold" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/image_category"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitXY" />
+
+                <!--<RelativeLayout
+                    android:id="@+id/rl_discount"
+                    android:layout_width="@dimen/_27sdp"
+                    android:layout_height="@dimen/_26sdp"
+                    android:layout_alignParentEnd="true"
+                    android:layout_margin="@dimen/_6sdp"
+                    android:background="@drawable/ic_sale_persen">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/txt_discount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:breakStrategy="simple"
+                        android:ellipsize="end"
+
+                        android:maxLines="2"
+                        android:text="-70%"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="bold" />
+
+                </RelativeLayout>-->
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/tv_rippon"
+                    android:layout_width="@dimen/_115sdp"
+                    android:layout_height="@dimen/_14sdp"
+                    android:layout_margin="@dimen/_6sdp"
+                    android:scaleType="centerCrop"
+                    android:visibility="visible"
+                    app:srcCompat="@mipmap/ic_certificated" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/layout_category"
+                android:layout_marginStart="@dimen/_6sdp"
+                android:layout_marginBottom="@dimen/_3sdp"
+                android:orientation="vertical">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_3sdp"
+                    android:layout_marginEnd="@dimen/_46sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_10ssp"
+                    app:type="bold" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:orientation="horizontal">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/text_product"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:ellipsize="end"
+                        android:gravity="bottom"
+                        android:text="@string/san_pham_2_cham"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="regular" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/product_count"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_2sdp"
+                        android:layout_toEndOf="@+id/text_product"
+                        android:maxLines="1"
+                        android:textColor="@color/color_orange_start"
+                        android:textSize="@dimen/_8ssp"
+                        android:visibility="visible"
+                        app:type="regular" />
+
+                    <RatingBar
+                        android:id="@+id/rating"
+                        style="?android:attr/ratingBarStyleSmall"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/_9sdp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginEnd="@dimen/_6sdp"
+                        android:isIndicator="true"
+                        android:numStars="5"
+                        android:rating="3"
+                        android:stepSize="1"
+                        android:theme="@style/RatingBar"
+                        android:visibility="gone" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginEnd="@dimen/_2sdp"
+                        android:layout_toStartOf="@+id/rating"
+                        android:ellipsize="end"
+                        android:text="@string/danh_gia_2_cham"
+                        android:textColor="@color/text_color_dark"
+                        android:textSize="@dimen/_8ssp"
+                        android:visibility="gone"
+                        app:type="regular" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="@dimen/_34sdp"
+                android:layout_height="@dimen/_34sdp"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginEnd="@dimen/_6sdp"
+                android:layout_marginBottom="@dimen/_18sdp"
+                android:background="@mipmap/ic_avatar">
+                <!-- <ImageView
+                     android:layout_width="match_parent"
+                     android:layout_height="match_parent"
+                     app:srcCompat="@drawable/ic_avatar"/>-->
+
+                <de.hdodenhof.circleimageview.CircleImageView
+                    android:id="@+id/profile_image"
+                    android:layout_width="@dimen/_31sdp"
+                    android:layout_height="@dimen/_31sdp"
+                    android:layout_centerInParent="true"
+                    android:scaleType="centerCrop" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

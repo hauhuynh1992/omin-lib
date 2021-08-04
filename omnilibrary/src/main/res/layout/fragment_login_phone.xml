@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/text_guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_22sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:text="@string/text_input_phone_login"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="@dimen/_7ssp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+    <com.bda.omnilibrary.views.SfEditText
+        android:id="@+id/edt_phone__"
+        android:layout_width="@dimen/_155sdp"
+        android:layout_height="@dimen/_47sdp"
+        android:layout_below="@+id/text_guide"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_minus13sdp"
+        android:layout_marginTop="@dimen/_minus12sdp"
+        android:layout_toRightOf="@+id/tv_phone_title"
+        android:background="@drawable/strock_round_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:hint="@string/nhap_so_dien_thoai"
+        android:nextFocusDown="@+id/edt_email"
+        android:paddingLeft="@dimen/_50sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_7sdp"
+        SfView:type="bold" />
+
+    <com.bda.omnilibrary.views.SfEditText
+        android:id="@+id/edt_password"
+        android:layout_width="@dimen/_155sdp"
+        android:layout_height="@dimen/_47sdp"
+        android:layout_below="@+id/edt_phone__"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_minus13sdp"
+        android:layout_marginTop="@dimen/_minus22sdp"
+        android:layout_toRightOf="@+id/tv_phone_title"
+        android:background="@drawable/strock_round_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:hint="@string/password"
+        android:paddingLeft="@dimen/_54sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_7sdp"
+        SfView:type="bold" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_minus12sdp"
+        android:orientation="horizontal">
+
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_login"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/_80sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:layout_below="@id/ll_select_address"
+            android:layout_marginRight="@dimen/_minus8sdp"
+            android:background="@drawable/ic_login_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:textSize="@dimen/_8ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="medium" />
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_forgot_pass"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/_92sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:layout_marginLeft="@dimen/_minus8sdp"
+            android:background="@drawable/ic_forgot_pass_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:nextFocusRight="@+id/bn_update_profile"
+            android:textSize="@dimen/_8ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="medium" />
+
+    </LinearLayout>
+
+</RelativeLayout>

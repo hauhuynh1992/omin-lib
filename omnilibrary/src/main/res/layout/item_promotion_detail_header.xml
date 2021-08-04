@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_product_detail">
+
+    <include
+        android:id="@+id/image_header"
+        layout="@layout/item_header_screen" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/rl_image_cover"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_8sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:focusable="false"
+        android:focusableInTouchMode="false"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:outlineSpotShadowColor="@color/text_black_70"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="0dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_483sdp"
+            android:layout_height="@dimen/_151sdp">
+
+            <ImageView
+                android:id="@+id/imageBanner"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:nextFocusLeft="@+id/imageSlider"
+                android:nextFocusRight="@+id/imageSlider" />
+
+        </RelativeLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/title_grey_d1d1d1">
+
+
+<!--    <com.github.islamkhsh.CardSliderViewPager-->
+<!--        android:id="@+id/viewPagerImage"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        app:cardSlider_otherPagesWidth="@dimen/_50sdp"-->
+<!--        app:cardSlider_pageMargin="@dimen/_20sdp"-->
+<!--        app:cardSlider_smallAlphaFactor="0.1" />-->
+
+    <ImageView
+        android:id="@+id/ic_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="@dimen/_20sdp"
+        android:src="@mipmap/ic_baseline_arrow_back" />
+
+    <ImageView
+        android:id="@+id/ic_forward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:src="@mipmap/ic_baseline_arrow_forward" />
+
+</RelativeLayout>

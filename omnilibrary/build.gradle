@@ -1,0 +1,119 @@
+plugins {
+    id 'com.android.library'
+    id 'kotlin-android'
+    id 'kotlin-android-extensions'
+    id 'kotlin-kapt'
+
+}
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        minSdkVersion 23
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        consumerProguardFiles "consumer-rules.pro"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
+dependencies {
+
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.core:core-ktx:1.3.2'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    implementation "androidx.viewpager2:viewpager2:1.0.0"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test:runner:1.3.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation "org.jetbrains.kotlin:kotlin-reflect:$kotlin_version"
+    implementation 'androidx.multidex:multidex:2.0.1'
+    ///google
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation "androidx.recyclerview:recyclerview:1.2.0"
+    implementation 'com.google.android.material:material:1.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+
+
+    implementation 'androidx.leanback:leanback:1.0.0'
+    implementation 'androidx.leanback:leanback:1.0.0'
+    // implementation 'androidx.tvprovider:tvprovider:1.0.0'
+    // implementation 'androidx.preference:preference:1.0.0'
+    // implementation 'androidx.leanback:leanback-preference:1.0.0'
+    implementation 'androidx.legacy:legacy-preference-v14:1.0.0'
+
+    //implementation 'com.google.android.exoplayer:exoplayer:2.11.4'
+    implementation 'com.amazon.android:exoplayer:2.10.6'
+    implementation 'com.amazon.android:extension-leanback:2.10.6'
+    implementation 'com.amazon.android:extension-mediasession:2.10.6'
+
+    ///orther
+    implementation 'com.intuit.sdp:sdp-android:1.0.5'
+    implementation 'com.intuit.ssp:ssp-android:1.0.5'
+    /////retrofit
+    implementation 'com.squareup.retrofit2:retrofit:2.6.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.6.1'
+    implementation 'com.squareup.retrofit2:adapter-rxjava2:2.6.1'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.12.1'
+    implementation("com.squareup.okhttp3:okhttp:3.12.1") {
+        force = true //API 19 support
+    }
+
+    ////rx Java
+    implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
+    implementation 'io.reactivex.rxjava2:rxjava:2.2.17'
+    ///circle Imageview
+    implementation 'de.hdodenhof:circleimageview:3.0.1'
+    implementation 'com.makeramen:roundedimageview:2.3.0'
+    ////card badge
+    implementation 'com.nex3z:notification-badge:1.0.2'
+    implementation 'com.google.android.gms:play-services-location:18.0.0'
+    implementation 'io.nlopez.smartlocation:library:3.3.3'
+    implementation 'com.github.pwittchen:networkevents:2.1.6'
+//    implementation 'com.github.mr-sarsarabi:lockableViewPager:1.0'
+//    implementation 'com.github.IslamKhSh:CardSlider:1.0.1'
+    implementation 'com.google.firebase:firebase-analytics:18.0.2'
+    implementation 'com.google.firebase:firebase-crashlytics:17.4.1'
+    implementation 'com.google.firebase:firebase-core:18.0.2'
+    implementation 'com.google.firebase:firebase-config:20.0.4'
+
+    implementation 'me.toptas.fancyshowcase:fancyshowcaseview:1.3.0'
+    implementation 'com.airbnb.android:lottie:3.4.0'
+    implementation files('libs/SDMCPlatformAPI_FPT_SDK9.0_V1.0.2.jar')
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
+    implementation('com.github.bumptech.glide:okhttp3-integration:4.7.1') {
+        exclude group: 'glide-parent'
+    }
+
+    implementation 'com.google.android.material:material:1.3.0'
+    // OAuth2 for Google API
+    implementation('com.google.auth:google-auth-library-oauth2-http:0.20.0') {
+    }
+    // add these dependencies for the speech client
+    implementation 'io.grpc:grpc-okhttp:1.30.0'
+    implementation 'com.google.cloud:google-cloud-speech:1.24.0'
+    implementation 'com.google.api.grpc:grpc-google-cloud-speech-v1:1.23.0'
+//    implementation 'com.github.GrenderG:Toasty:1.5.0'
+}

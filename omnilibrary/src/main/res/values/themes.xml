@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Example.Leanback" parent="Theme.Leanback">
+        <item name="android:colorPrimary" tools:targetApi="lollipop">#00A2B8</item>
+        <item name="android:textColorHint">@color/text_color_gray</item>
+
+        <item name="android:colorAccent" tools:targetApi="lollipop">@color/color_41AE96</item>
+        <item name="preferenceTheme">@style/PreferenceThemeOverlay.v14</item>
+
+        <item name="android:radioButtonStyle">@style/RadioButton.Normal</item>
+        <item name="android:checkboxStyle">@style/RadioButton.Normal</item>
+
+    </style>
+
+    <style name="Theme.Example.LeanbackLauncher" parent="Theme.Example.Leanback">
+        <!--<item name="android:windowBackground">@drawable/bg_living_room_wide</item>-->
+        <item name="browseRowsMarginTop">275dp</item>
+        <item name="browsePaddingStart">44dp</item>
+        <item name="browsePaddingEnd">44dp</item>
+
+    </style>
+
+    <style name="RadioButton.Normal" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textColor">@drawable/text_radio_button_color</item>
+        <item name="buttonTint">@color/text_color_gray</item>
+    </style>
+
+
+</resources>

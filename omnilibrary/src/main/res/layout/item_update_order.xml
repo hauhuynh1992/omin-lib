@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/color_item_background">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/tv_status"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_margin="@dimen/_4sdp"
+                android:background="@drawable/background_blue_focus"
+                android:gravity="center"
+                android:letterSpacing="0.05"
+                android:lineSpacingExtra="@dimen/_3sdp"
+                android:maxLines="1"
+                android:paddingLeft="@dimen/_11sdp"
+                android:paddingTop="@dimen/_2sdp"
+                android:paddingRight="@dimen/_11sdp"
+                android:paddingBottom="@dimen/_2sdp"
+                android:textColor="@color/color_white"
+                android:textSize="@dimen/_6ssp"
+                SfView:type="bold" />
+
+            <ImageView
+                android:id="@+id/img_product"
+                android:layout_width="@dimen/_33sdp"
+                android:layout_height="@dimen/_33sdp"
+                android:layout_marginLeft="@dimen/_8sdp"
+                android:layout_marginTop="@dimen/_8sdp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_33sdp"
+                android:layout_marginLeft="@dimen/_6sdp"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:layout_marginRight="@dimen/_6sdp"
+                android:layout_toRightOf="@+id/img_product"
+                android:gravity="center_vertical"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/rl_name">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_order_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:ellipsize="end"
+                        android:letterSpacing="0.05"
+                        android:maxWidth="@dimen/_90sdp"
+                        android:maxLines="1"
+                        android:text="@string/don_hang__"
+                        android:textColor="@color/title_black"
+                        android:textSize="@dimen/_6ssp"
+                        SfView:type="medium" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_order_id"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/tv_order_title"
+                        android:ellipsize="end"
+                        android:letterSpacing="0.05"
+                        android:maxLines="2"
+                        android:textColor="#56CCF2"
+                        android:textSize="@dimen/_6ssp"
+                        android:textStyle="bold"
+                        SfView:type="bold" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_delivery_date_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/tv_order_id"
+                        android:ellipsize="end"
+                        android:letterSpacing="0.05"
+                        android:maxLines="1"
+                        android:text="@string/da_duoc_giao_thanh_cong"
+                        android:textColor="@color/title_black"
+                        android:textSize="@dimen/_6ssp"
+                        SfView:type="medium" />
+
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_order_date"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_toRightOf="@+id/tv_delivery_date_title"
+                        android:ellipsize="end"
+                        android:letterSpacing="0.05"
+                        android:maxLines="1"
+                        android:textColor="@color/title_black"
+                        android:textSize="@dimen/_6ssp"
+                        android:textStyle="bold"
+                        SfView:type="bold" />
+                </RelativeLayout>
+
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/tv_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/tv_order_id"
+                    android:ellipsize="end"
+                    android:letterSpacing="0.05"
+                    android:maxLines="1"
+                    android:text="@string/vui_long_de_lai_danh_gia_cua_ban"
+                    android:textColor="@color/title_black"
+                    android:textSize="@dimen/_6ssp"
+                    SfView:type="medium" />
+
+            </LinearLayout>
+
+            <View
+                android:id="@+id/line"
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_below="@+id/img_product"
+                android:layout_marginLeft="@dimen/_8sdp"
+                android:layout_marginTop="@dimen/_9sdp"
+                android:layout_marginRight="@dimen/_8sdp"
+                android:background="#C4C4C4" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/line"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_5sdp"
+                android:layout_marginBottom="@dimen/_5sdp">
+
+                <TextView
+                    android:id="@+id/tv_view_detail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:letterSpacing="0.05"
+                    android:text="@string/danh_gia_san_pham_all_caps"
+                    android:textColor="@color/title_black"
+                    android:textSize="@dimen/_7ssp"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/ic_right"
+                    android:layout_width="@dimen/_4sdp"
+                    android:layout_height="@dimen/_4sdp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_6sdp"
+                    android:layout_toRightOf="@+id/tv_view_detail"
+                    android:src="@drawable/ic_right_black" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

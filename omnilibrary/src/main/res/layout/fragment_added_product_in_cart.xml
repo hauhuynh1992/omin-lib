@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_17sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:layout_marginBottom="@dimen/_17sdp"
+        app:cardBackgroundColor="@color/trans"
+        app:cardCornerRadius="@dimen/_14sdp"
+        app:cardElevation="0dp"
+        app:cardMaxElevation="0dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:orientation="vertical">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:layout_marginTop="@dimen/_11sdp"
+                android:layout_marginEnd="@dimen/_8sdp"
+                android:text="@string/aldready_add_to_cart"
+                android:textColor="@color/color_484848"
+                android:textSize="@dimen/_8ssp"
+                app:type="bold" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/voucher_list"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:clipToPadding="false"
+                android:focusable="false"
+                android:focusableInTouchMode="false"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:verticalMargin="@dimen/_3sdp" />
+            <!--            app:verticalMargin="@dimen/_3sdp"-->
+
+            <RelativeLayout
+                android:id="@+id/bn_detail"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_19sdp"
+                android:layout_marginStart="@dimen/_11sdp"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:layout_marginEnd="@dimen/_11sdp"
+                android:layout_marginBottom="@dimen/_6sdp"
+                android:nextFocusLeft="@id/bn_detail"
+                android:nextFocusRight="@id/bn_detail"
+                android:nextFocusUp="@id/bn_detail"
+                android:nextFocusDown="@id/bn_detail">
+                <!--android:background="@drawable/bn_view_detail_live_stream"-->
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:orientation="horizontal">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/text_bn_detail"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_2sdp"
+                        android:text="@string/view_detail_favourtite_product"
+                        android:textColor="@color/text_color_gray"
+                        android:textSize="@dimen/_6ssp"
+                        android:visibility="visible"
+                        app:type="medium" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

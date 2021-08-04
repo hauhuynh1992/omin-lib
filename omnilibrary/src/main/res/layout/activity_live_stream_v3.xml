@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/m_motion_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_E8E8E8"
+    app:layoutDescription="@xml/activity_live_stream_v3_scene"
+    tools:context=".ui.liveStreamActivity.LiveStreamLandscapeActivity">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="0dp"
+        app:cardElevation="0dp"
+        app:cardMaxElevation="0dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/image_cover"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop" />
+
+        <!--<fragment
+            android:id="@+id/video"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:tag="VideoExoPlayerFragment"
+            android:name="com.bda.omnilibrary.ui.liveStreamActivity.playbackExo.VideoConsumptionWithExoPlayerFragment"/>-->
+
+    </androidx.cardview.widget.CardView>
+
+    <LinearLayout
+        android:id="@+id/layout2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_125sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:orientation="vertical"
+        android:translationY="@dimen/_125sdp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_view_cout_live_stream"
+            android:orientation="horizontal"
+            android:paddingTop="@dimen/_4sdp"
+            android:paddingBottom="@dimen/_4sdp">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/name_livestram"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/_8sdp"
+                android:textColor="@color/color_666666"
+                android:textSize="@dimen/_8ssp"
+                app:type="medium" />
+
+            <ImageView
+                android:layout_width="@dimen/_3sdp"
+                android:layout_height="@dimen/_6sdp"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="@dimen/_2sdp"
+                android:layout_marginEnd="@dimen/_8sdp"
+                android:scaleType="fitXY"
+                android:src="@mipmap/ic_next_gay_live" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:background="@drawable/background_corner_top">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/list_tab"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_22sdp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_3sdp"
+                android:orientation="horizontal"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                app:rowHeight="wrap_content" />
+
+            <View
+                android:id="@+id/view_gray"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/list_tab"
+                android:layout_marginStart="@dimen/_17sdp"
+                android:layout_marginEnd="@dimen/_17sdp"
+                android:background="@color/color_C6C6C6" />
+
+            <androidx.leanback.widget.HorizontalGridView
+                android:id="@+id/product_list_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/view_gray"
+                android:layout_marginTop="@dimen/_minus5sdp"
+                android:focusedByDefault="true"
+                android:paddingStart="@dimen/_3sdp"
+                android:paddingEnd="@dimen/_3sdp"
+                app:rowHeight="wrap_content" />
+
+            <View
+                android:id="@+id/dummy_view"
+                android:layout_width="1dp"
+                android:layout_height="1dp"
+                android:layout_below="@+id/product_list_view"
+                android:background="@color/trans"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:nextFocusLeft="@id/dummy_view"
+                android:nextFocusRight="@id/dummy_view"
+                android:nextFocusUp="@id/dummy_view"
+                android:nextFocusDown="@id/dummy_view" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/layout_tab"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_28sdp"
+        android:layout_marginStart="@dimen/_25sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:background="@drawable/background_corner_top_white_50"
+        android:translationY="@dimen/_28sdp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/tab_recycler"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:orientation="horizontal"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:rowHeight="wrap_content" />
+
+    </RelativeLayout>
+
+    <FrameLayout
+        android:id="@+id/layout3"
+        android:layout_width="@dimen/_153sdp"
+        android:layout_height="match_parent"
+        android:translationX="@dimen/_153sdp"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:id="@+id/animation_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_11sdp"
+        app:lottie_fileName="lottie_livestream.json"
+        app:layout_constraintStart_toStartOf="parent"
+        app:lottie_loop="false"
+        app:lottie_autoPlay="true"
+        app:lottie_speed="1" />
+
+</androidx.constraintlayout.motion.widget.MotionLayout>

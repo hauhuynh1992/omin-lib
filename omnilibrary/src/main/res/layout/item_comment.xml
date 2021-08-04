@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/selector_edittext">
+
+    <CheckBox
+        android:id="@+id/name"
+        android:layout_width="@dimen/_86sdp"
+        android:layout_height="@dimen/_22sdp"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/_1sdp"
+        android:ellipsize="end"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:maxLines="1"
+        android:paddingLeft="@dimen/_8sdp"
+        android:paddingRight="@dimen/_8sdp"
+        android:textSize="@dimen/_6ssp" />
+</RelativeLayout>

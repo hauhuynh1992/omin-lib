@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_144sdp"
+            android:layout_height="@dimen/_81sdp"
+            android:background="@color/color_item_background">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/app_name"
+                android:textColor="@color/title_grey_a6a6a6"
+                android:textSize="@dimen/_8ssp"
+                app:type="bold" />
+
+            <ImageView
+                android:id="@+id/image_category"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop" />
+
+            <RelativeLayout
+                android:id="@+id/ln_view_count"
+                android:layout_width="@dimen/_36sdp"
+                android:layout_height="@dimen/_14sdp"
+                android:layout_alignParentEnd="true"
+                android:layout_margin="@dimen/_6sdp"
+                android:background="@mipmap/ic_view"
+                android:visibility="visible">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/txt_view"
+                    android:layout_width="@dimen/_14sdp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginTop="@dimen/_minus2sdp"
+                    android:layout_marginEnd="@dimen/_6sdp"
+                    android:gravity="center"
+                    android:maxLines="1"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_6ssp"
+                    android:visibility="visible"
+                    app:type="bold" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/gradiant_black_highlight" />
+
+            <com.bda.omnilibrary.custome.VideoPlayer
+                android:id="@+id/videoPlayer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_margin="@dimen/_6sdp">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:gravity="start"
+                    android:maxLines="1"
+                    android:textColor="@color/title_white"
+                    android:textSize="@dimen/_8ssp"
+                    android:visibility="visible"
+                    app:type="bold" />
+            </RelativeLayout>
+
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

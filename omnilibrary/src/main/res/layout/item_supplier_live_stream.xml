@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:id="@+id/bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_6sdp"
+        android:layout_marginTop="@dimen/_3sdp"
+        android:layout_marginEnd="@dimen/_6sdp"
+        android:layout_marginBottom="@dimen/_3sdp"
+        android:background="@drawable/live_stream_detail_product_bg"
+        android:orientation="vertical">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/supplier_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_6sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:layout_marginEnd="@dimen/_6sdp"
+            android:drawableEnd="@mipmap/ic_supplier_ticked"
+            android:drawablePadding="1dp"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/color_484848"
+            android:textSize="@dimen/_6ssp"
+            android:visibility="visible"
+            app:type="medium" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginStart="@dimen/_6sdp"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:layout_marginEnd="@dimen/_6sdp"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:background="@color/color_CCCCCC" />
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/productList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:clipToPadding="false" />
+
+    </LinearLayout>
+
+</RelativeLayout>

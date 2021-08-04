@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_EAEAEA"
+    tools:context=".ui.searchActivity.SearchActivity">
+
+    <androidx.leanback.widget.VerticalGridView
+        android:id="@+id/rv_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:paddingBottom="@dimen/_20sdp"
+        SfView:verticalMargin="@dimen/_2sdp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/_40sdp"
+        android:background="@null"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/tip"
+        android:layout_width="@dimen/_323sdp"
+        android:layout_height="@dimen/_121sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerCrop"
+        android:visibility="invisible"
+        android:src="@mipmap/tip_search" />
+
+</RelativeLayout>

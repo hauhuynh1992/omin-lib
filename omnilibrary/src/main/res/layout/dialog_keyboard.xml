@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bda.omnilibrary.custome.BDAKeyboardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/keyboard"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/rl_resend"
+    android:layout_gravity="bottom"
+    android:background="#0A0F06"
+    android:gravity="bottom"
+    android:nextFocusRight="@+id/keyboard" />

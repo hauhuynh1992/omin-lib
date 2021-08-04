@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_12sdp"
+            android:text="@string/danh_gia_san_pham_theo_don_hang"
+            android:textAllCaps="true"
+            android:textColor="@color/title_black"
+            app:type="bold" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/tv_order_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_1sdp"
+            android:layout_toRightOf="@+id/title"
+            android:gravity="center"
+            android:textColor="#2D9CDB"
+            android:textStyle="bold"
+            app:type="bold" />
+
+    </RelativeLayout>
+
+
+    <androidx.leanback.widget.VerticalGridView
+        android:id="@+id/rv_review_order"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl_title"
+        android:layout_marginLeft="@dimen/_12sdp"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_12sdp"
+        android:clipToPadding="false"
+        android:orientation="vertical" />
+
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+</RelativeLayout>

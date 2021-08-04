@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/_300sdp"
+    android:background="@mipmap/bg_background">
+
+    <VideoView
+        android:id="@+id/videoview"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_300sdp"
+        android:visibility="visible" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_300sdp"
+        android:visibility="visible" />
+
+    <View
+        android:id="@+id/view_trans"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_200sdp"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:background="@drawable/gradient_video" />
+
+    <LinearLayout
+        android:id="@+id/ll_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        android:orientation="vertical"
+        android:weightSum="10">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/tv_product_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_19sdp"
+                android:ellipsize="end"
+                android:lineSpacingExtra="@dimen/_2sdp"
+                android:maxLines="1"
+                android:padding="@dimen/_2ssp"
+                android:textColor="@color/color_white"
+                android:textSize="@dimen/_12ssp"
+                sfView:type="bold" />
+        </RelativeLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="10">
+
+            <androidx.leanback.widget.HorizontalGridView
+                android:id="@+id/rv_detail_video"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_weight="6"
+                android:clipToPadding="false"
+                android:gravity="top"
+                android:paddingLeft="@dimen/_17sdp"
+                android:paddingRight="@dimen/_17sdp"
+                tools:listitem="@layout/product_video_item" />
+
+            <RelativeLayout
+                android:id="@+id/rl_buy_now"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:layout_marginRight="@dimen/_19sdp"
+                android:layout_toRightOf="@+id/rv_detail_video"
+                android:layout_weight="4"
+                android:gravity="right">
+
+                <androidx.cardview.widget.CardView
+                    android:id="@+id/bn_go_cart"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="@dimen/_8sdp"
+                    android:layout_weight="4"
+                    android:background="@color/color_transparent"
+                    card_view:cardBackgroundColor="@color/color_transparent"
+                    card_view:cardElevation="@dimen/_1sdp"
+                    card_view:cardPreventCornerOverlap="true"
+                    card_view:cardUseCompatPadding="true">
+
+                    <LinearLayout
+                        android:id="@+id/btn_buy_now"
+                        android:layout_width="@dimen/_100sdp"
+                        android:layout_height="@dimen/_31sdp"
+                        android:layout_gravity="bottom"
+                        android:background="@drawable/main_button_selector"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:gravity="center"
+                        android:orientation="vertical"
+                        android:paddingLeft="@dimen/_20sdp"
+                        android:paddingTop="@dimen/_4sdp"
+                        android:paddingRight="@dimen/_20sdp"
+                        android:paddingBottom="@dimen/_4sdp">
+
+                        <com.bda.omnilibrary.views.SfStrikeTextView
+                            android:id="@+id/list_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="center"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/_6ssp"
+                            sfView:type="bold" />
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/txt_price"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textAlignment="center"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/_8ssp"
+                            sfView:type="bold" />
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <!--<ImageView
+            android:id="@+id/ic_toggle"
+            android:layout_width="@dimen/_10sdp"
+            android:layout_height="@dimen/_10sdp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:src="@drawable/ic_down_arrow" />-->
+    </LinearLayout>
+</RelativeLayout>

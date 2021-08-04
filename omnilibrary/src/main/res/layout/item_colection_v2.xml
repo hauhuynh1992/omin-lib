@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_cons"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_content_collection"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_2sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_4sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:outlineSpotShadowColor="@color/trans"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_white"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_3sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:id="@+id/rl_con"
+            android:layout_width="@dimen/_144sdp"
+            android:layout_height="@dimen/_81sdp">
+
+            <ImageView
+                android:id="@+id/image_category"
+                android:layout_width="@dimen/_32sdp"
+                android:layout_height="@dimen/_32sdp"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:scaleType="centerCrop" />
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/image_category"
+                android:layout_marginTop="@dimen/_8sdp"
+                android:ellipsize="end"
+                android:gravity="center"
+                android:maxLines="3"
+                android:textColor="@color/start_color"
+                android:textSize="@dimen/_9ssp"
+                app:type="bold" />
+
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

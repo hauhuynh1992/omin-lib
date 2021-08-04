@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    android:layout_width="@dimen/_146sdp"
+    android:layout_height="@dimen/_169sdp"
+    android:layout_marginStart="@dimen/_6sdp"
+    android:background="@drawable/background_delivery_selection"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_7sdp"
+        android:layout_marginTop="@dimen/_7sdp"
+        android:layout_marginEnd="@dimen/_7sdp">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_toStartOf="@+id/order_id"
+            android:background="@android:color/transparent"
+            android:ellipsize="end"
+            android:textColor="@color/color_363636"
+            android:textSize="@dimen/_6ssp"
+            android:visibility="visible"
+            app:type="bold" />
+
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/order_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/transparent"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="@color/color_363636"
+            android:textSize="@dimen/_6ssp"
+            android:visibility="visible"
+            app:type="medium" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_7sdp"
+        android:layout_marginEnd="@dimen/_7sdp">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/delivery_day"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/transparent"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:textColor="@color/gray_AAAAAA"
+            android:textSize="@dimen/_6ssp"
+            android:visibility="visible"
+            app:type="medium" />
+
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/product_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/transparent"
+            android:ellipsize="end"
+            android:maxLines="2"
+            android:text="@string/text_number_item"
+            android:textColor="@color/gray_AAAAAA"
+            android:textSize="@dimen/_6ssp"
+            android:visibility="visible"
+            app:type="medium" />
+    </RelativeLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:id="@+id/nested"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/_6sdp">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/vg_product"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginVertical="0dp"
+            android:clipToPadding="false"
+            android:nestedScrollingEnabled="false"
+            android:orientation="vertical"
+            android:paddingBottom="@dimen/_3sdp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:rowHeight="wrap_content" />
+
+    </androidx.core.widget.NestedScrollView>
+
+
+</LinearLayout>

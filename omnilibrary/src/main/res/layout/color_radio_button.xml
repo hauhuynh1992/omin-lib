@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bda.omnilibrary.views.ColorPickerView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/ColorSelectorButton"
+    android:layout_width="@dimen/_18sdp"
+    android:layout_height="@dimen/_18sdp"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    app:color="@color/white" />

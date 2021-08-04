@@ -1,0 +1,1368 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "uid": "0x13be5b",
+            "collection_name": "Chăn, ga, gối, nệm",
+            "count_items": 9,
+            "products": [
+                {
+                    "uid": "0x1540f9",
+                    "sku_id": "10000710",
+                    "product_name": "Nệm Cao Su Non SOFTNICE 1M60 X 2M00 - 15CM",
+                    "display_name": "Nệm Cao Su Non SOFTNICE 1M60",
+                    "display_name_detail": "Nệm Cao Su Non SOFTNICE 1M60 X 2M00 - 15CM",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1540f9/image_cover_1591248427973.jpeg",
+                    "image_highlight": "images/products/0x1540f9/image_highlight_1591248428073.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thương hiệu: SOFTNICE. Nguồn gốc: Việt Nam. Thành phần: P.U Foam Massage và mouse ép. Bảo hành: 10 năm.",
+                    "promotion_desc": "tặng bộ 2 gối kê Memory Foam ASC Premium, giảm 37%.",
+                    "keywords": "nệm, nệm cao su, nệm cao su non, softnice",
+                    "viewcount": 2,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Cao Su Non SOFTNICE</p>\n<p>*Với khả năng siêu nâng đỡ của vật liệu cấu thành đem đến cho sản phẩm nệm cao su non sự mềm mại mà khó có sản phẩm nệm nào trên thị trường có thể so sánh được. Bề mặt nệm sẽ biến đổi tương thích với những đường cong của cơ thể mang đến một trải nghiệm êm ái tuyệt vời cho giấc ngủ của bạn. Ngoài ra nệm cao su non còn có nhiều ưu điểm vượt trội khác như độ bền cao, thoáng mát bởi khung vải lưới tản nhiệt trên dưới. Ngoài ra, nệm có giá bán hợp lý cho nên được xem như một sự lựa chọn tối ưu về giải pháp chăm sóc giấc ngủ.</p>\n<p>- Thương hiệu: SOFTNICE</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: P.U Foam Massage và mouse ép</p>\n<p>- Bảo hành: 10 năm</p>\n<p>* Đặc điểm sản phẩm:</p>\n<p>-Được chế tạo từ nguyên liệu PU foam mật độ cao cho nên sản phẩm nệm cao su non Softnice có đặc tính cực kỳ mềm mại. Khi bạn nằm ngủ thì bề mặt nệm nhanh chóng biến dạng theo hình dáng cơ thể qua đó phân bổ trọng lực một cách đồng đều tạo nên cảm giác thỏa mái trong suốt quá trình ngủ.</p>\n<p>- Nệm cao su non Softnice với đặc tính êm ái của mình giúp giảm các hiện đau nhức ở các bộ phận cơ thể cũng như giúp cơ thể phục hồi nhanh hơn sau chấn thương.&nbsp;</p>\n<p>- Vật liệu PU Foam có khả năng ngăn các bụi bẩn bám trên bề mặt nệm cho nên hạn chế được hiện tượng kích ứng da hay di ứng trong quá trình sử dụng. Đặc biệt nệm có khả năng kháng vi sinh vật và nấm mốc tốt đảm bảo sự an toàn tuyệt đối cho sức khỏe người dùng.</p>\n<p>-Với đặc điểm cấu trúc của PU Foam mật độ cao đảm bảo không phát ra bất kỳ âm thanh nào khi bạn trở mình hoặc khi thức dậy. Sản phẩm nệm cao su non là một lựa chọn hợp lý cho những khách hàng khó ngủ hay yêu câu sự tĩnh lặng tuyệt đối trong khi ngủ.</p>\n<p>* Hướng dẫn sử dụng:</p>\n<p>- Tránh để nệm bị thấm nước vì sẽ phá vỡ kết cấu sản phẩm, nệm sẽ mất độ đàn hồi và độ bền vốn có.</p>\n<p>- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho mọi đối tượng người dùng</p>\n<p>* Lưu ý:</p>\n<p>- Nệm giao hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Nệm luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p>*Sản phẩm đi kèm:</p>\n<p>- Túi nilon đựng sản phẩm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 2499000,
+                        "listed_price_with_vat": 3990000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540d8",
+                        "brand_name": "Softnice"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1540f9/thumb_1591179458363.jpeg",
+                            "source": "images/products/0x1540f9/source_1591179458192.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1540f9/thumb_1591179458378.jpeg",
+                            "source": "images/products/0x1540f9/source_1591179458244.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1540f9/thumb_1591179458331.jpeg",
+                            "source": "images/products/0x1540f9/source_1591179457883.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1540f9/thumb_1591179458337.jpeg",
+                            "source": "images/products/0x1540f9/source_1591179457948.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1540f9/thumb_1591179458353.jpeg",
+                            "source": "images/products/0x1540f9/source_1591179458070.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x154901",
+                    "sku_id": "10000711",
+                    "product_name": "Nệm Cao Su Non SOFTNICE 1M80 X 2M00 - 15CM",
+                    "display_name": "Nệm Cao Su Non SOFTNICE 1M80",
+                    "display_name_detail": "Nệm Cao Su Non SOFTNICE 1M80 X 2M00 - 15CM",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x154901/image_cover_1591248220248.jpeg",
+                    "image_highlight": "images/products/0x154901/image_highlight_1591248220307.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thương hiệu: SOFTNICE. Nguồn gốc: Việt Nam.Thành phần: P.U Foam Massage và mouse ép. Bảo hành: 10 năm.",
+                    "promotion_desc": "tặng bộ 2 gối kê Memory Foam ASC Premium, giảm 37%.",
+                    "keywords": "nệm, nệm cao su, nệm cao su non, softnice",
+                    "viewcount": 3,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Cao Su Non SOFTNICE</p>\n<p>*Với khả năng siêu nâng đỡ của vật liệu cấu thành đem đến cho sản phẩm nệm cao su non sự mềm mại mà khó có sản phẩm nệm nào trên thị trường có thể so sánh được. Bề mặt nệm sẽ biến đổi tương thích với những đường cong của cơ thể mang đến một trải nghiệm êm ái tuyệt vời cho giấc ngủ của bạn. Ngoài ra nệm cao su non còn có nhiều ưu điểm vượt trội khác như độ bền cao, thoáng mát bởi khung vải lưới tản nhiệt trên dưới. Ngoài ra, nệm có giá bán hợp lý cho nên được xem như một sự lựa chọn tối ưu về giải pháp chăm sóc giấc ngủ.</p>\n<p>- Thương hiệu: SOFTNICE</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: P.U Foam Massage và mouse ép</p>\n<p>- Bảo hành: 10 năm</p>\n<p>* Đặc điểm sản phẩm:</p>\n<p>-Được chế tạo từ nguyên liệu PU foam mật độ cao cho nên sản phẩm nệm cao su non Softnice có đặc tính cực kỳ mềm mại. Khi bạn nằm ngủ thì bề mặt nệm nhanh chóng biến dạng theo hình dáng cơ thể qua đó phân bổ trọng lực một cách đồng đều tạo nên cảm giác thỏa mái trong suốt quá trình ngủ.</p>\n<p>- Nệm cao su non Softnice với đặc tính êm ái của mình giúp giảm các hiện đau nhức ở các bộ phận cơ thể cũng như giúp cơ thể phục hồi nhanh hơn sau chấn thương.&nbsp;</p>\n<p>- Vật liệu PU Foam có khả năng ngăn các bụi bẩn bám trên bề mặt nệm cho nên hạn chế được hiện tượng kích ứng da hay di ứng trong quá trình sử dụng. Đặc biệt nệm có khả năng kháng vi sinh vật và nấm mốc tốt đảm bảo sự an toàn tuyệt đối cho sức khỏe người dùng.</p>\n<p>-Với đặc điểm cấu trúc của PU Foam mật độ cao đảm bảo không phát ra bất kỳ âm thanh nào khi bạn trở mình hoặc khi thức dậy. Sản phẩm nệm cao su non là một lựa chọn hợp lý cho những khách hàng khó ngủ hay yêu câu sự tĩnh lặng tuyệt đối trong khi ngủ.</p>\n<p>* Hướng dẫn sử dụng:</p>\n<p>- Tránh để nệm bị thấm nước vì sẽ phá vỡ kết cấu sản phẩm, nệm sẽ mất độ đàn hồi và độ bền vốn có.</p>\n<p>- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho mọi đối tượng người dùng</p>\n<p>* Lưu ý:</p>\n<p>- Nệm giao hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Nệm luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p>*Sản phẩm đi kèm:</p>\n<p>- Túi nilon đựng sản phẩm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 2799000,
+                        "listed_price_with_vat": 4450000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540d8",
+                        "brand_name": "Softnice"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154901/thumb_1591177086880.jpeg",
+                            "source": "images/products/0x154901/source_1591177086521.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154901/thumb_1591177086914.jpeg",
+                            "source": "images/products/0x154901/source_1591177086687.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154901/thumb_1591177086796.jpeg",
+                            "source": "images/products/0x154901/source_1591177086255.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154901/thumb_1591177086838.jpeg",
+                            "source": "images/products/0x154901/source_1591177086329.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154901/thumb_1591177086851.jpeg",
+                            "source": "images/products/0x154901/source_1591177086435.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x154938",
+                    "sku_id": "10000712",
+                    "product_name": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M60 X 2M00 - 5CM",
+                    "display_name": "Nệm Gòn Ép ASC Premium 1M60",
+                    "display_name_detail": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M60 X 2M00 - 5CM",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x154938/image_cover_1591177150065.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu.",
+                    "promotion_desc": "tiết kiệm 990.000 đồng, giảm 50%.",
+                    "keywords": "nệm, nệm gòn ép, xuất khẩu, asc premium",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Gòn Ép Xuất Khẩu ASC Premium</p>\n<p>* Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. &nbsp;Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu. Nệm thích hợp cho người dùng thích nằm nệm không bị xẹp lún, bảo vệ cột sống người nằm một cách tốt nhất.</p>\n<p>*Thông tin sản phẩm:</p>\n<p>- Thương hiệu: ASC Premium.</p>\n<p>- Nguồn gốc: Việt Nam.</p>\n<p>- Thành phần: 100% bông polyester.</p>\n<p>- Bảo hành: 10 năm xẹp lún.</p>\n<p>*Đặc điểm sản phẩm:</p>\n<p>- Ruột nệm bông ép truyền thống ASC sử dụng 100% bông polyester, trải qua quá trình ép cách nhiệt hoàn hảo hàm lượng bông này đã liên kết chặt chẽ với nhau tạo độ cứng và độ phẳng tối ưu cho nệm. Chính vì vậy sản phẩm này luôn nằm đầu bảng khuyến cáo nên dùng cho những người bệnh về xương khớp,..</p>\n<p>- Điều đặc biệt với những chiếc nệm bông ép là khả năng duy trì được độ bền cực cao. Sau nhiều năm sử dụng nệm không hề bị xẹp lún như những sản phẩm thông thường mà vẫn bảo toàn nguyên vẹn chất lượng của mình để nâng.</p>\n<p>*Hướng dẫn sử dụng:</p>\n<p>- Đặt chiếu trên bề mặt phẳng.</p>\n<p>- Không tự ý cắt rời vỏ bọc ngoài.</p>\n<p>- Không tự ý thay đổi kích thước sản phẩm.</p>\n<p>- Không phơi trực tiếp dưới nắng gắt - Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng.</p>\n<p>- An toàn tuyệt đối cho người dùng.</p>\n<p>*Lưu ý:</p>\n<p>- Không bảo hành viền, chỉ, vải rách trong thời gian dài sử dụng.</p>\n<p>- Hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao).</p>\n<p>- Luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00).</p>\n<p>Sản phẩm đi kèm: Không.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 990000,
+                        "listed_price_with_vat": 1980000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540dc",
+                        "brand_name": "ASC Premium"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154938/thumb_1591177150346.jpeg",
+                            "source": "images/products/0x154938/source_1591177150092.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154938/thumb_1591177150359.jpeg",
+                            "source": "images/products/0x154938/source_1591177150144.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154938/thumb_1591177150391.jpeg",
+                            "source": "images/products/0x154938/source_1591177150200.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x154938/thumb_1591177150402.jpeg",
+                            "source": "images/products/0x154938/source_1591177150293.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1555e1",
+                    "sku_id": "10000713",
+                    "product_name": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M80 X 2M00 - 5CM",
+                    "display_name": "Nệm Gòn Ép ASC Premium 1M80",
+                    "display_name_detail": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M80 X 2M00 - 5CM",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1555e1/image_cover_1591248141761.jpeg",
+                    "image_highlight": "images/products/0x1555e1/image_highlight_1591248141809.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại.  Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu.",
+                    "promotion_desc": "tiết kiệm 1.099.000 đồng, giảm 50%.",
+                    "keywords": "nệm, nệm gòn ép, xuất khẩu, asc premium",
+                    "viewcount": 81,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Gòn Ép Xuất Khẩu ASC Premium</p>\n<p>* Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. &nbsp;Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu. Nệm thích hợp cho người dùng thích nằm nệm không bị xẹp lún, bảo vệ cột sống người nằm một cách tốt nhất.</p>\n<p><br></p>\n<p>*Thông tin sản phẩm:</p>\n<p>- Thương hiệu: ASC Premium</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: 100% bông polyester</p>\n<p>- Bảo hành: 10 năm xẹp lún</p>\n<p><br></p>\n<p>*Đặc điểm sản phẩm:</p>\n<p>- Ruột nệm bông ép truyền thống ASC sử dụng 100% bông polyester, trải qua quá trình ép cách nhiệt hoàn hảo hàm lượng bông này đã liên kết chặt chẽ với nhau tạo độ cứng và độ phẳng tối ưu cho nệm. Chính vì vậy sản phẩm này luôn nằm đầu bảng khuyến cáo nên dùng cho những người bệnh về xương khớp,..</p>\n<p>- Điều đặc biệt với những chiếc nệm bông ép là khả năng duy trì được độ bền cực cao. Sau nhiều năm sử dụng nệm không hề bị xẹp lún như những sản phẩm thông thường mà vẫn bảo toàn nguyên vẹn chất lượng của mình để nâng&nbsp;</p>\n<p><br></p>\n<p>*Hướng dẫn sử dụng:</p>\n<p>- Đặt chiếu trên bề mặt phẳng</p>\n<p>- Không tự ý cắt rời vỏ bọc ngoài.</p>\n<p>- Không tự ý thay đổi kích thước sản phẩm</p>\n<p>- Không phơi trực tiếp dưới nắng gắt - Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho người dùng</p>\n<p><br></p>\n<p>*Lưu ý:</p>\n<p>- Không bảo hành viền, chỉ, vải rách trong thời gian dài sử dụng.</p>\n<p>- Hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p><br></p>\n<p>Sản phẩm đi kèm: không.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1099000,
+                        "listed_price_with_vat": 2198000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540dc",
+                        "brand_name": "ASC Premium"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1555e1/thumb_1591179655640.jpeg",
+                            "source": "images/products/0x1555e1/source_1591179655431.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1555e1/thumb_1591179655649.jpeg",
+                            "source": "images/products/0x1555e1/source_1591179655452.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1555e1/thumb_1591179655657.jpeg",
+                            "source": "images/products/0x1555e1/source_1591179655487.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1555e1/thumb_1591179655667.jpeg",
+                            "source": "images/products/0x1555e1/source_1591179655597.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x155622",
+                    "sku_id": "10000714",
+                    "product_name": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M60 X 2M00 - 9CM",
+                    "display_name": "Nệm Gòn Ép ASC Premium 1M60",
+                    "display_name_detail": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M60 X 2M00 - 9CM",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x155622/image_cover_1591248179673.jpeg",
+                    "image_highlight": "images/products/0x155622/image_highlight_1591248179739.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại.  Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu.",
+                    "promotion_desc": "tiết kiệm 1.499.000 đồng, giảm 50%.",
+                    "keywords": "nệm, nệm gòn ép, xuất khẩu, asc premium",
+                    "viewcount": 2,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Gòn Ép Xuất Khẩu ASC Premium</p>\n<p>* Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. &nbsp;Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu. Nệm thích hợp cho người dùng thích nằm nệm không bị xẹp lún, bảo vệ cột sống người nằm một cách tốt nhất.</p>\n<p><br></p>\n<p>*Thông tin sản phẩm:</p>\n<p>- Thương hiệu: ASC Premium</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: 100% bông polyester</p>\n<p>- Bảo hành: 10 năm xẹp lún</p>\n<p><br></p>\n<p>*Đặc điểm sản phẩm:</p>\n<p>- Ruột nệm bông ép truyền thống ASC sử dụng 100% bông polyester, trải qua quá trình ép cách nhiệt hoàn hảo hàm lượng bông này đã liên kết chặt chẽ với nhau tạo độ cứng và độ phẳng tối ưu cho nệm. Chính vì vậy sản phẩm này luôn nằm đầu bảng khuyến cáo nên dùng cho những người bệnh về xương khớp,..</p>\n<p>- Điều đặc biệt với những chiếc nệm bông ép là khả năng duy trì được độ bền cực cao. Sau nhiều năm sử dụng nệm không hề bị xẹp lún như những sản phẩm thông thường mà vẫn bảo toàn nguyên vẹn chất lượng của mình để nâng&nbsp;</p>\n<p><br></p>\n<p>*Hướng dẫn sử dụng:</p>\n<p>- Đặt chiếu trên bề mặt phẳng</p>\n<p>- Không tự ý cắt rời vỏ bọc ngoài.</p>\n<p>- Không tự ý thay đổi kích thước sản phẩm</p>\n<p>- Không phơi trực tiếp dưới nắng gắt - Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho người dùng</p>\n<p><br></p>\n<p>*Lưu ý:</p>\n<p>- Không bảo hành viền, chỉ, vải rách trong thời gian dài sử dụng.</p>\n<p>- Hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p><br></p>\n<p>Sản phẩm đi kèm: không.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1499000,
+                        "listed_price_with_vat": 2998000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540dc",
+                        "brand_name": "ASC Premium"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155622/thumb_1591179937999.jpeg",
+                            "source": "images/products/0x155622/source_1591179937891.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155622/thumb_1591179938009.jpeg",
+                            "source": "images/products/0x155622/source_1591179937952.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155622/thumb_1591179937985.jpeg",
+                            "source": "images/products/0x155622/source_1591179937839.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155622/thumb_1591179937993.jpeg",
+                            "source": "images/products/0x155622/source_1591179937861.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x15564c",
+                    "sku_id": "10000715",
+                    "product_name": "Nệm gòn ép xuất khẩu ASC Premium 1M80 X 2M00 - 9CM",
+                    "display_name": "Nệm gòn ép ASC Premium 1M80",
+                    "display_name_detail": "Nệm gòn ép xuất khẩu ASC Premium 1M80 X 2M00 - 9CM",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x15564c/image_cover_1591248087395.jpeg",
+                    "image_highlight": "images/products/0x15564c/image_highlight_1591248087461.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại.  Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu.",
+                    "promotion_desc": "tiết kiệm 1.699.000 đồng, giảm 50%.",
+                    "keywords": "nệm, nệm gòn ép, xuất khẩu, asc premium",
+                    "viewcount": 1,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Gòn Ép Xuất Khẩu ASC Premium</p>\n<p>* Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. &nbsp;Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu. Nệm thích hợp cho người dùng thích nằm nệm không bị xẹp lún, bảo vệ cột sống người nằm một cách tốt nhất.</p>\n<p><br></p>\n<p>*Thông tin sản phẩm:</p>\n<p>- Thương hiệu: ASC Premium</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: 100% bông polyester</p>\n<p>- Bảo hành: 10 năm xẹp lún</p>\n<p><br></p>\n<p>*Đặc điểm sản phẩm:</p>\n<p>- Ruột nệm bông ép truyền thống ASC sử dụng 100% bông polyester, trải qua quá trình ép cách nhiệt hoàn hảo hàm lượng bông này đã liên kết chặt chẽ với nhau tạo độ cứng và độ phẳng tối ưu cho nệm. Chính vì vậy sản phẩm này luôn nằm đầu bảng khuyến cáo nên dùng cho những người bệnh về xương khớp,..</p>\n<p>- Điều đặc biệt với những chiếc nệm bông ép là khả năng duy trì được độ bền cực cao. Sau nhiều năm sử dụng nệm không hề bị xẹp lún như những sản phẩm thông thường mà vẫn bảo toàn nguyên vẹn chất lượng của mình để nâng&nbsp;</p>\n<p><br></p>\n<p>*Hướng dẫn sử dụng:</p>\n<p>- Đặt chiếu trên bề mặt phẳng</p>\n<p>- Không tự ý cắt rời vỏ bọc ngoài.</p>\n<p>- Không tự ý thay đổi kích thước sản phẩm</p>\n<p>- Không phơi trực tiếp dưới nắng gắt - Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho người dùng</p>\n<p><br></p>\n<p>*Lưu ý:</p>\n<p>- Không bảo hành viền, chỉ, vải rách trong thời gian dài sử dụng.</p>\n<p>- Hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p><br></p>\n<p>Sản phẩm đi kèm: không.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1699000,
+                        "listed_price_with_vat": 3398000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540dc",
+                        "brand_name": "ASC Premium"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15564c/thumb_1591177230630.jpeg",
+                            "source": "images/products/0x15564c/source_1591177230415.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15564c/thumb_1591177230638.jpeg",
+                            "source": "images/products/0x15564c/source_1591177230456.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15564c/thumb_1591177230662.jpeg",
+                            "source": "images/products/0x15564c/source_1591177230504.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15564c/thumb_1591177230671.jpeg",
+                            "source": "images/products/0x15564c/source_1591177230560.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x15ae10",
+                    "sku_id": "10000706",
+                    "product_name": "Bộ 2 gối kê cao su thiên nhiên Oval wean",
+                    "display_name": "Bộ 2 gối kê cao su thiên nhiên (40x20x25cm)",
+                    "display_name_detail": "Bộ 2 gối kê cao su thiên nhiên Oval wean (40x20x25cm)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x15ae10/image_cover_1591248834143.jpeg",
+                    "image_highlight": "images/products/0x15ae10/image_highlight_1591248834243.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Là sản phẩm lâu năm của WEAN, gối được chú trọng đầu tư vào chất lượng và độ bền tuyệt đối. Với cấu tạo độ cao gối đúng tiêu chuẩn, gối nằm cao su thích hợp cho mọi đối tượng.",
+                    "promotion_desc": " tiết kiệm 461.000 đồng, giảm 39%.",
+                    "keywords": "gối, gối kê, cao su, oval wean",
+                    "viewcount": 34,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>* &nbsp;Thông tin sản phẩm:<br>\n- Thương hiệu: WEAN<br>\n- Nguồn gốc: Việt Nam<br>\n- Thành phần: 100% nguyên chất cao su thiên nhiên, không pha tạp chất<br>\n- Bảo hành: 03 năm chính hãng<br>\n* Đặc điểm sản phẩm:<br>\n- Gối nằm cao su thiên nhiên Oval WEAN với cấu tạo 2 mặt lỗ tròn được làm từ &nbsp;100% nguyên liệu cao su thiên nhiên không gây ra tình trạng chảy xẹp, đặc &nbsp;nguyên khối với trọng lượng và chất lượng cao su tăng gấp đôi so với các sản phẩm khác, tạo nên sự thông thoáng nên có thể sử dụng cho tất cả các mùa.<br>\n- Thiết kế hình oval mang lại không gian ngủ rộng hơn, thoải mái hơn.<br>\n- Sản phẩm đã được xử lý kháng khuẩn, vi nấm và kí sinh trùng. Tạp chất gây dị ứng đã được tẩy khử ra khỏi bề mặt nên luôn an toàn ngay cả với người mẫn cảm dị ứng.<br>\n- Các lỗ thoát khí được thiết kế trên mặt gối giúp thúc đẩy lưu thông không khí và cải thiện lưu thông máu trong suốt giấc ngủ của bạn. Ngoài ra, cấu trúc này luôn tạo sự thoáng mát, không gây hầm nóng.<br>\n- Gối được tặng kèm áo bọc bằng vải thun jersey cực kì mềm mại và thoáng mát hoặc áo lưới chống khuẩn, giúp bảo vệ ruột gối tránh các tác động trực tiếp khi sử dụng.<br>\n- Áo có dây khóa kéo dễ dàng tháo gỡ vệ sinh khi cần<br>\n- Độ bền cực cao với cấu tạo hàng ngàn lỗ trên bề mặt gối thông hơi, tạo độ êm dễ chịu cho giấc ngủ.<br>\n* Hướng dẫn sử dụng:<br>\n- Không phơi trực tiếp dưới nắng gắt<br>\n- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng<br>\n- An toàn tuyệt đối cho người dùng<br>\n- Đặc biệt gối nằm cao su thiên nhiên Oval WEAN cung cấp khả năng nâng đỡ &nbsp;và hỗ trợ hoàn hảo cho toàn bộ hệ thống xương khớp và dây chằng khu vực đầu &nbsp;cổ của người dùng.<br>\n* Lưu ý:<br>\n- KHÔNG ngân nước<br>\n- KHÔNG phơi nắng gắt<br>\n- KHÔNG dùng lực kéo mạnh tác động lên gối<br>\n *Sản phẩm đi kèm: Áo lưới hoăc áo dâu bảo vệ gối, giúp thoáng khí, kháng khuẩn. &nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 719000,
+                        "listed_price_with_vat": 1180000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540dc",
+                        "brand_name": "ASC Premium"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643658.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176642837.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643742.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176642963.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643773.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176643067.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643800.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176643143.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643865.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176643353.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643876.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176643461.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643925.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176643570.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643831.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176643262.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15ae10/thumb_1591176643845.jpeg",
+                            "source": "images/products/0x15ae10/source_1591176643305.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x15af26",
+                    "sku_id": "10000708",
+                    "product_name": "Nệm Cao Su Non SOFTNICE 1M60 X 2M00 - 10CM",
+                    "display_name": "Nệm cao su non SOFTNICE 1m6",
+                    "display_name_detail": "Nệm cao su non SOFTNICE 1m6 x 2m - 10cm",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x15af26/image_cover_1591176998490.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thương hiệu: SOFTNICE - Nguồn gốc: Việt Nam - Thành phần: P.U Foam Massage và mouse ép - Bảo hành: 10 năm.",
+                    "promotion_desc": "tặng bộ 2 gối kê Memory Foam ASC Premium, giảm 20%.",
+                    "keywords": "nệm, nệm cao su, nệm cao su non, softnice",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Cao Su Non SOFTNICE</p>\n<p>*Với khả năng siêu nâng đỡ của vật liệu cấu thành đem đến cho sản phẩm nệm cao su non sự mềm mại mà khó có sản phẩm nệm nào trên thị trường có thể so sánh được. Bề mặt nệm sẽ biến đổi tương thích với những đường cong của cơ thể mang đến một trải nghiệm êm ái tuyệt vời cho giấc ngủ của bạn. Ngoài ra nệm cao su non còn có nhiều ưu điểm vượt trội khác như độ bền cao, thoáng mát bởi khung vải lưới tản nhiệt trên dưới. Ngoài ra, nệm có giá bán hợp lý cho nên được xem như một sự lựa chọn tối ưu về giải pháp chăm sóc giấc ngủ.</p>\n<p>- Thương hiệu: SOFTNICE</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: P.U Foam Massage và mouse ép</p>\n<p>- Bảo hành: 10 năm</p>\n<p>* Đặc điểm sản phẩm:</p>\n<p>-Được chế tạo từ nguyên liệu PU foam mật độ cao cho nên sản phẩm nệm cao su non Softnice có đặc tính cực kỳ mềm mại. Khi bạn nằm ngủ thì bề mặt nệm nhanh chóng biến dạng theo hình dáng cơ thể qua đó phân bổ trọng lực một cách đồng đều tạo nên cảm giác thỏa mái trong suốt quá trình ngủ.</p>\n<p>- Nệm cao su non Softnice với đặc tính êm ái của mình giúp giảm các hiện đau nhức ở các bộ phận cơ thể cũng như giúp cơ thể phục hồi nhanh hơn sau chấn thương.&nbsp;</p>\n<p>- Vật liệu PU Foam có khả năng ngăn các bụi bẩn bám trên bề mặt nệm cho nên hạn chế được hiện tượng kích ứng da hay di ứng trong quá trình sử dụng. Đặc biệt nệm có khả năng kháng vi sinh vật và nấm mốc tốt đảm bảo sự an toàn tuyệt đối cho sức khỏe người dùng.</p>\n<p>-Với đặc điểm cấu trúc của PU Foam mật độ cao đảm bảo không phát ra bất kỳ âm thanh nào khi bạn trở mình hoặc khi thức dậy. Sản phẩm nệm cao su non là một lựa chọn hợp lý cho những khách hàng khó ngủ hay yêu câu sự tĩnh lặng tuyệt đối trong khi ngủ.</p>\n<p>* Hướng dẫn sử dụng:</p>\n<p>- Tránh để nệm bị thấm nước vì sẽ phá vỡ kết cấu sản phẩm, nệm sẽ mất độ đàn hồi và độ bền vốn có.</p>\n<p>- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho mọi đối tượng người dùng</p>\n<p>* Lưu ý:</p>\n<p>- Nệm giao hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Nệm luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p>*Sản phẩm đi kèm:</p>\n<p>- Túi nilon đựng sản phẩm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1999000,
+                        "listed_price_with_vat": 2490000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540d8",
+                        "brand_name": "Softnice"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15af26/thumb_1591176999191.jpeg",
+                            "source": "images/products/0x15af26/source_1591176998543.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15af26/thumb_1591176999238.jpeg",
+                            "source": "images/products/0x15af26/source_1591176998654.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15af26/thumb_1591176999284.jpeg",
+                            "source": "images/products/0x15af26/source_1591176998794.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15af26/thumb_1591176999311.jpeg",
+                            "source": "images/products/0x15af26/source_1591176998894.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15af26/thumb_1591176999324.jpeg",
+                            "source": "images/products/0x15af26/source_1591176999032.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x15b4b4",
+                    "sku_id": "10000709",
+                    "product_name": "Nệm Cao Su Non SOFTNICE 1M80 X 2M00 - 10CM",
+                    "display_name": "Nệm cao su non SOFTNICE 1m8",
+                    "display_name_detail": "Nệm cao su non SOFTNICE 1m8 X 2m - 10cm",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x15b4b4/image_cover_1591248394197.jpeg",
+                    "image_highlight": "images/products/0x15b4b4/image_highlight_1591248394280.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thương hiệu: SOFTNICE - Nguồn gốc: Việt Nam - Thành phần: P.U Foam Massage và mouse ép - Bảo hành: 10 năm.",
+                    "promotion_desc": "tặng bộ 2 gối kê Memory Foam ASC Premium, giảm 21%.",
+                    "keywords": "nệm, nệm cao su, nệm cao su non, softnice",
+                    "viewcount": 5,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nệm Cao Su Non SOFTNICE</p>\n<p>*Với khả năng siêu nâng đỡ của vật liệu cấu thành đem đến cho sản phẩm nệm cao su non sự mềm mại mà khó có sản phẩm nệm nào trên thị trường có thể so sánh được. Bề mặt nệm sẽ biến đổi tương thích với những đường cong của cơ thể mang đến một trải nghiệm êm ái tuyệt vời cho giấc ngủ của bạn. Ngoài ra nệm cao su non còn có nhiều ưu điểm vượt trội khác như độ bền cao, thoáng mát bởi khung vải lưới tản nhiệt trên dưới. Ngoài ra, nệm có giá bán hợp lý cho nên được xem như một sự lựa chọn tối ưu về giải pháp chăm sóc giấc ngủ.</p>\n<p>- Thương hiệu: SOFTNICE</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: P.U Foam Massage và mouse ép</p>\n<p>- Bảo hành: 10 năm</p>\n<p>* Đặc điểm sản phẩm:</p>\n<p>-Được chế tạo từ nguyên liệu PU foam mật độ cao cho nên sản phẩm nệm cao su non Softnice có đặc tính cực kỳ mềm mại. Khi bạn nằm ngủ thì bề mặt nệm nhanh chóng biến dạng theo hình dáng cơ thể qua đó phân bổ trọng lực một cách đồng đều tạo nên cảm giác thỏa mái trong suốt quá trình ngủ.</p>\n<p>- Nệm cao su non Softnice với đặc tính êm ái của mình giúp giảm các hiện đau nhức ở các bộ phận cơ thể cũng như giúp cơ thể phục hồi nhanh hơn sau chấn thương.&nbsp;</p>\n<p>- Vật liệu PU Foam có khả năng ngăn các bụi bẩn bám trên bề mặt nệm cho nên hạn chế được hiện tượng kích ứng da hay di ứng trong quá trình sử dụng. Đặc biệt nệm có khả năng kháng vi sinh vật và nấm mốc tốt đảm bảo sự an toàn tuyệt đối cho sức khỏe người dùng.</p>\n<p>-Với đặc điểm cấu trúc của PU Foam mật độ cao đảm bảo không phát ra bất kỳ âm thanh nào khi bạn trở mình hoặc khi thức dậy. Sản phẩm nệm cao su non là một lựa chọn hợp lý cho những khách hàng khó ngủ hay yêu câu sự tĩnh lặng tuyệt đối trong khi ngủ.</p>\n<p>* Hướng dẫn sử dụng:</p>\n<p>- Tránh để nệm bị thấm nước vì sẽ phá vỡ kết cấu sản phẩm, nệm sẽ mất độ đàn hồi và độ bền vốn có.</p>\n<p>- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho mọi đối tượng người dùng</p>\n<p>* Lưu ý:</p>\n<p>- Nệm giao hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Nệm luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p>*Sản phẩm đi kèm:</p>\n<p>- Túi nilon đựng sản phẩm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 2199000,
+                        "listed_price_with_vat": 2790000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1540c8",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1517f0",
+                        "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be28",
+                            "collection_name": "May mặc & Thời trang",
+                            "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                        },
+                        {
+                            "uid": "0x13be5b",
+                            "collection_name": "Chăn, ga, gối, nệm"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540d8",
+                        "brand_name": "Softnice"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15b4b4/thumb_1591179388168.jpeg",
+                            "source": "images/products/0x15b4b4/source_1591179388022.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15b4b4/thumb_1591179388107.jpeg",
+                            "source": "images/products/0x15b4b4/source_1591179387697.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15b4b4/thumb_1591179388121.jpeg",
+                            "source": "images/products/0x15b4b4/source_1591179387728.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15b4b4/thumb_1591179388138.jpeg",
+                            "source": "images/products/0x15b4b4/source_1591179387861.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15b4b4/thumb_1591179388156.jpeg",
+                            "source": "images/products/0x15b4b4/source_1591179387952.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be5c",
+            "collection_name": "Giày dép",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be5d",
+            "collection_name": "Trang phục nam",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be5e",
+            "collection_name": "Trang phục nữ",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be5f",
+            "collection_name": "Trang phục trẻ em",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be60",
+            "collection_name": "Phụ kiện thời trang",
+            "count_items": 0
+        }
+    ],
+    "Hotdeals": {
+        "products": [
+            {
+                "uid": "0x15b4b4",
+                "sku_id": "10000709",
+                "product_name": "Nệm Cao Su Non SOFTNICE 1M80 X 2M00 - 10CM",
+                "display_name": "Nệm cao su non SOFTNICE 1m8",
+                "display_name_detail": "Nệm cao su non SOFTNICE 1m8 X 2m - 10cm",
+                "color": "#f48024",
+                "image_cover": "images/products/0x15b4b4/image_cover_1591248394197.jpeg",
+                "image_highlight": "images/products/0x15b4b4/image_highlight_1591248394280.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thương hiệu: SOFTNICE - Nguồn gốc: Việt Nam - Thành phần: P.U Foam Massage và mouse ép - Bảo hành: 10 năm.",
+                "promotion_desc": "tặng bộ 2 gối kê Memory Foam ASC Premium, giảm 21%.",
+                "keywords": "nệm, nệm cao su, nệm cao su non, softnice",
+                "viewcount": 5,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nệm Cao Su Non SOFTNICE</p>\n<p>*Với khả năng siêu nâng đỡ của vật liệu cấu thành đem đến cho sản phẩm nệm cao su non sự mềm mại mà khó có sản phẩm nệm nào trên thị trường có thể so sánh được. Bề mặt nệm sẽ biến đổi tương thích với những đường cong của cơ thể mang đến một trải nghiệm êm ái tuyệt vời cho giấc ngủ của bạn. Ngoài ra nệm cao su non còn có nhiều ưu điểm vượt trội khác như độ bền cao, thoáng mát bởi khung vải lưới tản nhiệt trên dưới. Ngoài ra, nệm có giá bán hợp lý cho nên được xem như một sự lựa chọn tối ưu về giải pháp chăm sóc giấc ngủ.</p>\n<p>- Thương hiệu: SOFTNICE</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: P.U Foam Massage và mouse ép</p>\n<p>- Bảo hành: 10 năm</p>\n<p>* Đặc điểm sản phẩm:</p>\n<p>-Được chế tạo từ nguyên liệu PU foam mật độ cao cho nên sản phẩm nệm cao su non Softnice có đặc tính cực kỳ mềm mại. Khi bạn nằm ngủ thì bề mặt nệm nhanh chóng biến dạng theo hình dáng cơ thể qua đó phân bổ trọng lực một cách đồng đều tạo nên cảm giác thỏa mái trong suốt quá trình ngủ.</p>\n<p>- Nệm cao su non Softnice với đặc tính êm ái của mình giúp giảm các hiện đau nhức ở các bộ phận cơ thể cũng như giúp cơ thể phục hồi nhanh hơn sau chấn thương.&nbsp;</p>\n<p>- Vật liệu PU Foam có khả năng ngăn các bụi bẩn bám trên bề mặt nệm cho nên hạn chế được hiện tượng kích ứng da hay di ứng trong quá trình sử dụng. Đặc biệt nệm có khả năng kháng vi sinh vật và nấm mốc tốt đảm bảo sự an toàn tuyệt đối cho sức khỏe người dùng.</p>\n<p>-Với đặc điểm cấu trúc của PU Foam mật độ cao đảm bảo không phát ra bất kỳ âm thanh nào khi bạn trở mình hoặc khi thức dậy. Sản phẩm nệm cao su non là một lựa chọn hợp lý cho những khách hàng khó ngủ hay yêu câu sự tĩnh lặng tuyệt đối trong khi ngủ.</p>\n<p>* Hướng dẫn sử dụng:</p>\n<p>- Tránh để nệm bị thấm nước vì sẽ phá vỡ kết cấu sản phẩm, nệm sẽ mất độ đàn hồi và độ bền vốn có.</p>\n<p>- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho mọi đối tượng người dùng</p>\n<p>* Lưu ý:</p>\n<p>- Nệm giao hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Nệm luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p>*Sản phẩm đi kèm:</p>\n<p>- Túi nilon đựng sản phẩm.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 2199000,
+                    "listed_price_with_vat": 2790000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540c8",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.supplier": {
+                    "uid": "0x1517f0",
+                    "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be28",
+                        "collection_name": "May mặc & Thời trang",
+                        "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                    },
+                    {
+                        "uid": "0x13be5b",
+                        "collection_name": "Chăn, ga, gối, nệm"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540d8",
+                    "brand_name": "Softnice"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15b4b4/thumb_1591179388168.jpeg",
+                        "source": "images/products/0x15b4b4/source_1591179388022.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15b4b4/thumb_1591179388107.jpeg",
+                        "source": "images/products/0x15b4b4/source_1591179387697.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15b4b4/thumb_1591179388121.jpeg",
+                        "source": "images/products/0x15b4b4/source_1591179387728.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15b4b4/thumb_1591179388138.jpeg",
+                        "source": "images/products/0x15b4b4/source_1591179387861.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15b4b4/thumb_1591179388156.jpeg",
+                        "source": "images/products/0x15b4b4/source_1591179387952.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1540f9",
+                "sku_id": "10000710",
+                "product_name": "Nệm Cao Su Non SOFTNICE 1M60 X 2M00 - 15CM",
+                "display_name": "Nệm Cao Su Non SOFTNICE 1M60",
+                "display_name_detail": "Nệm Cao Su Non SOFTNICE 1M60 X 2M00 - 15CM",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1540f9/image_cover_1591248427973.jpeg",
+                "image_highlight": "images/products/0x1540f9/image_highlight_1591248428073.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thương hiệu: SOFTNICE. Nguồn gốc: Việt Nam. Thành phần: P.U Foam Massage và mouse ép. Bảo hành: 10 năm.",
+                "promotion_desc": "tặng bộ 2 gối kê Memory Foam ASC Premium, giảm 37%.",
+                "keywords": "nệm, nệm cao su, nệm cao su non, softnice",
+                "viewcount": 2,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nệm Cao Su Non SOFTNICE</p>\n<p>*Với khả năng siêu nâng đỡ của vật liệu cấu thành đem đến cho sản phẩm nệm cao su non sự mềm mại mà khó có sản phẩm nệm nào trên thị trường có thể so sánh được. Bề mặt nệm sẽ biến đổi tương thích với những đường cong của cơ thể mang đến một trải nghiệm êm ái tuyệt vời cho giấc ngủ của bạn. Ngoài ra nệm cao su non còn có nhiều ưu điểm vượt trội khác như độ bền cao, thoáng mát bởi khung vải lưới tản nhiệt trên dưới. Ngoài ra, nệm có giá bán hợp lý cho nên được xem như một sự lựa chọn tối ưu về giải pháp chăm sóc giấc ngủ.</p>\n<p>- Thương hiệu: SOFTNICE</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: P.U Foam Massage và mouse ép</p>\n<p>- Bảo hành: 10 năm</p>\n<p>* Đặc điểm sản phẩm:</p>\n<p>-Được chế tạo từ nguyên liệu PU foam mật độ cao cho nên sản phẩm nệm cao su non Softnice có đặc tính cực kỳ mềm mại. Khi bạn nằm ngủ thì bề mặt nệm nhanh chóng biến dạng theo hình dáng cơ thể qua đó phân bổ trọng lực một cách đồng đều tạo nên cảm giác thỏa mái trong suốt quá trình ngủ.</p>\n<p>- Nệm cao su non Softnice với đặc tính êm ái của mình giúp giảm các hiện đau nhức ở các bộ phận cơ thể cũng như giúp cơ thể phục hồi nhanh hơn sau chấn thương.&nbsp;</p>\n<p>- Vật liệu PU Foam có khả năng ngăn các bụi bẩn bám trên bề mặt nệm cho nên hạn chế được hiện tượng kích ứng da hay di ứng trong quá trình sử dụng. Đặc biệt nệm có khả năng kháng vi sinh vật và nấm mốc tốt đảm bảo sự an toàn tuyệt đối cho sức khỏe người dùng.</p>\n<p>-Với đặc điểm cấu trúc của PU Foam mật độ cao đảm bảo không phát ra bất kỳ âm thanh nào khi bạn trở mình hoặc khi thức dậy. Sản phẩm nệm cao su non là một lựa chọn hợp lý cho những khách hàng khó ngủ hay yêu câu sự tĩnh lặng tuyệt đối trong khi ngủ.</p>\n<p>* Hướng dẫn sử dụng:</p>\n<p>- Tránh để nệm bị thấm nước vì sẽ phá vỡ kết cấu sản phẩm, nệm sẽ mất độ đàn hồi và độ bền vốn có.</p>\n<p>- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho mọi đối tượng người dùng</p>\n<p>* Lưu ý:</p>\n<p>- Nệm giao hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Nệm luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p>*Sản phẩm đi kèm:</p>\n<p>- Túi nilon đựng sản phẩm.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 2499000,
+                    "listed_price_with_vat": 3990000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540c8",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.supplier": {
+                    "uid": "0x1517f0",
+                    "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be28",
+                        "collection_name": "May mặc & Thời trang",
+                        "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                    },
+                    {
+                        "uid": "0x13be5b",
+                        "collection_name": "Chăn, ga, gối, nệm"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540d8",
+                    "brand_name": "Softnice"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1540f9/thumb_1591179458363.jpeg",
+                        "source": "images/products/0x1540f9/source_1591179458192.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1540f9/thumb_1591179458378.jpeg",
+                        "source": "images/products/0x1540f9/source_1591179458244.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1540f9/thumb_1591179458331.jpeg",
+                        "source": "images/products/0x1540f9/source_1591179457883.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1540f9/thumb_1591179458337.jpeg",
+                        "source": "images/products/0x1540f9/source_1591179457948.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1540f9/thumb_1591179458353.jpeg",
+                        "source": "images/products/0x1540f9/source_1591179458070.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1555e1",
+                "sku_id": "10000713",
+                "product_name": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M80 X 2M00 - 5CM",
+                "display_name": "Nệm Gòn Ép ASC Premium 1M80",
+                "display_name_detail": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M80 X 2M00 - 5CM",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1555e1/image_cover_1591248141761.jpeg",
+                "image_highlight": "images/products/0x1555e1/image_highlight_1591248141809.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại.  Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu.",
+                "promotion_desc": "tiết kiệm 1.099.000 đồng, giảm 50%.",
+                "keywords": "nệm, nệm gòn ép, xuất khẩu, asc premium",
+                "viewcount": 81,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nệm Gòn Ép Xuất Khẩu ASC Premium</p>\n<p>* Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. &nbsp;Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu. Nệm thích hợp cho người dùng thích nằm nệm không bị xẹp lún, bảo vệ cột sống người nằm một cách tốt nhất.</p>\n<p><br></p>\n<p>*Thông tin sản phẩm:</p>\n<p>- Thương hiệu: ASC Premium</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: 100% bông polyester</p>\n<p>- Bảo hành: 10 năm xẹp lún</p>\n<p><br></p>\n<p>*Đặc điểm sản phẩm:</p>\n<p>- Ruột nệm bông ép truyền thống ASC sử dụng 100% bông polyester, trải qua quá trình ép cách nhiệt hoàn hảo hàm lượng bông này đã liên kết chặt chẽ với nhau tạo độ cứng và độ phẳng tối ưu cho nệm. Chính vì vậy sản phẩm này luôn nằm đầu bảng khuyến cáo nên dùng cho những người bệnh về xương khớp,..</p>\n<p>- Điều đặc biệt với những chiếc nệm bông ép là khả năng duy trì được độ bền cực cao. Sau nhiều năm sử dụng nệm không hề bị xẹp lún như những sản phẩm thông thường mà vẫn bảo toàn nguyên vẹn chất lượng của mình để nâng&nbsp;</p>\n<p><br></p>\n<p>*Hướng dẫn sử dụng:</p>\n<p>- Đặt chiếu trên bề mặt phẳng</p>\n<p>- Không tự ý cắt rời vỏ bọc ngoài.</p>\n<p>- Không tự ý thay đổi kích thước sản phẩm</p>\n<p>- Không phơi trực tiếp dưới nắng gắt - Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho người dùng</p>\n<p><br></p>\n<p>*Lưu ý:</p>\n<p>- Không bảo hành viền, chỉ, vải rách trong thời gian dài sử dụng.</p>\n<p>- Hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p><br></p>\n<p>Sản phẩm đi kèm: không.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1099000,
+                    "listed_price_with_vat": 2198000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540c8",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.supplier": {
+                    "uid": "0x1517f0",
+                    "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be28",
+                        "collection_name": "May mặc & Thời trang",
+                        "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                    },
+                    {
+                        "uid": "0x13be5b",
+                        "collection_name": "Chăn, ga, gối, nệm"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540dc",
+                    "brand_name": "ASC Premium"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1555e1/thumb_1591179655640.jpeg",
+                        "source": "images/products/0x1555e1/source_1591179655431.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1555e1/thumb_1591179655649.jpeg",
+                        "source": "images/products/0x1555e1/source_1591179655452.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1555e1/thumb_1591179655657.jpeg",
+                        "source": "images/products/0x1555e1/source_1591179655487.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1555e1/thumb_1591179655667.jpeg",
+                        "source": "images/products/0x1555e1/source_1591179655597.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x154901",
+                "sku_id": "10000711",
+                "product_name": "Nệm Cao Su Non SOFTNICE 1M80 X 2M00 - 15CM",
+                "display_name": "Nệm Cao Su Non SOFTNICE 1M80",
+                "display_name_detail": "Nệm Cao Su Non SOFTNICE 1M80 X 2M00 - 15CM",
+                "color": "#f48024",
+                "image_cover": "images/products/0x154901/image_cover_1591248220248.jpeg",
+                "image_highlight": "images/products/0x154901/image_highlight_1591248220307.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thương hiệu: SOFTNICE. Nguồn gốc: Việt Nam.Thành phần: P.U Foam Massage và mouse ép. Bảo hành: 10 năm.",
+                "promotion_desc": "tặng bộ 2 gối kê Memory Foam ASC Premium, giảm 37%.",
+                "keywords": "nệm, nệm cao su, nệm cao su non, softnice",
+                "viewcount": 3,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nệm Cao Su Non SOFTNICE</p>\n<p>*Với khả năng siêu nâng đỡ của vật liệu cấu thành đem đến cho sản phẩm nệm cao su non sự mềm mại mà khó có sản phẩm nệm nào trên thị trường có thể so sánh được. Bề mặt nệm sẽ biến đổi tương thích với những đường cong của cơ thể mang đến một trải nghiệm êm ái tuyệt vời cho giấc ngủ của bạn. Ngoài ra nệm cao su non còn có nhiều ưu điểm vượt trội khác như độ bền cao, thoáng mát bởi khung vải lưới tản nhiệt trên dưới. Ngoài ra, nệm có giá bán hợp lý cho nên được xem như một sự lựa chọn tối ưu về giải pháp chăm sóc giấc ngủ.</p>\n<p>- Thương hiệu: SOFTNICE</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: P.U Foam Massage và mouse ép</p>\n<p>- Bảo hành: 10 năm</p>\n<p>* Đặc điểm sản phẩm:</p>\n<p>-Được chế tạo từ nguyên liệu PU foam mật độ cao cho nên sản phẩm nệm cao su non Softnice có đặc tính cực kỳ mềm mại. Khi bạn nằm ngủ thì bề mặt nệm nhanh chóng biến dạng theo hình dáng cơ thể qua đó phân bổ trọng lực một cách đồng đều tạo nên cảm giác thỏa mái trong suốt quá trình ngủ.</p>\n<p>- Nệm cao su non Softnice với đặc tính êm ái của mình giúp giảm các hiện đau nhức ở các bộ phận cơ thể cũng như giúp cơ thể phục hồi nhanh hơn sau chấn thương.&nbsp;</p>\n<p>- Vật liệu PU Foam có khả năng ngăn các bụi bẩn bám trên bề mặt nệm cho nên hạn chế được hiện tượng kích ứng da hay di ứng trong quá trình sử dụng. Đặc biệt nệm có khả năng kháng vi sinh vật và nấm mốc tốt đảm bảo sự an toàn tuyệt đối cho sức khỏe người dùng.</p>\n<p>-Với đặc điểm cấu trúc của PU Foam mật độ cao đảm bảo không phát ra bất kỳ âm thanh nào khi bạn trở mình hoặc khi thức dậy. Sản phẩm nệm cao su non là một lựa chọn hợp lý cho những khách hàng khó ngủ hay yêu câu sự tĩnh lặng tuyệt đối trong khi ngủ.</p>\n<p>* Hướng dẫn sử dụng:</p>\n<p>- Tránh để nệm bị thấm nước vì sẽ phá vỡ kết cấu sản phẩm, nệm sẽ mất độ đàn hồi và độ bền vốn có.</p>\n<p>- Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho mọi đối tượng người dùng</p>\n<p>* Lưu ý:</p>\n<p>- Nệm giao hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Nệm luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p>*Sản phẩm đi kèm:</p>\n<p>- Túi nilon đựng sản phẩm.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 2799000,
+                    "listed_price_with_vat": 4450000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540c8",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.supplier": {
+                    "uid": "0x1517f0",
+                    "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be28",
+                        "collection_name": "May mặc & Thời trang",
+                        "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                    },
+                    {
+                        "uid": "0x13be5b",
+                        "collection_name": "Chăn, ga, gối, nệm"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540d8",
+                    "brand_name": "Softnice"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x154901/thumb_1591177086880.jpeg",
+                        "source": "images/products/0x154901/source_1591177086521.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x154901/thumb_1591177086914.jpeg",
+                        "source": "images/products/0x154901/source_1591177086687.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x154901/thumb_1591177086796.jpeg",
+                        "source": "images/products/0x154901/source_1591177086255.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x154901/thumb_1591177086838.jpeg",
+                        "source": "images/products/0x154901/source_1591177086329.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x154901/thumb_1591177086851.jpeg",
+                        "source": "images/products/0x154901/source_1591177086435.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x155622",
+                "sku_id": "10000714",
+                "product_name": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M60 X 2M00 - 9CM",
+                "display_name": "Nệm Gòn Ép ASC Premium 1M60",
+                "display_name_detail": "Nệm Gòn Ép Xuất Khẩu ASC Premium 1M60 X 2M00 - 9CM",
+                "color": "#f48024",
+                "image_cover": "images/products/0x155622/image_cover_1591248179673.jpeg",
+                "image_highlight": "images/products/0x155622/image_highlight_1591248179739.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại.  Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu.",
+                "promotion_desc": "tiết kiệm 1.499.000 đồng, giảm 50%.",
+                "keywords": "nệm, nệm gòn ép, xuất khẩu, asc premium",
+                "viewcount": 2,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nệm Gòn Ép Xuất Khẩu ASC Premium</p>\n<p>* Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. &nbsp;Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu. Nệm thích hợp cho người dùng thích nằm nệm không bị xẹp lún, bảo vệ cột sống người nằm một cách tốt nhất.</p>\n<p><br></p>\n<p>*Thông tin sản phẩm:</p>\n<p>- Thương hiệu: ASC Premium</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: 100% bông polyester</p>\n<p>- Bảo hành: 10 năm xẹp lún</p>\n<p><br></p>\n<p>*Đặc điểm sản phẩm:</p>\n<p>- Ruột nệm bông ép truyền thống ASC sử dụng 100% bông polyester, trải qua quá trình ép cách nhiệt hoàn hảo hàm lượng bông này đã liên kết chặt chẽ với nhau tạo độ cứng và độ phẳng tối ưu cho nệm. Chính vì vậy sản phẩm này luôn nằm đầu bảng khuyến cáo nên dùng cho những người bệnh về xương khớp,..</p>\n<p>- Điều đặc biệt với những chiếc nệm bông ép là khả năng duy trì được độ bền cực cao. Sau nhiều năm sử dụng nệm không hề bị xẹp lún như những sản phẩm thông thường mà vẫn bảo toàn nguyên vẹn chất lượng của mình để nâng&nbsp;</p>\n<p><br></p>\n<p>*Hướng dẫn sử dụng:</p>\n<p>- Đặt chiếu trên bề mặt phẳng</p>\n<p>- Không tự ý cắt rời vỏ bọc ngoài.</p>\n<p>- Không tự ý thay đổi kích thước sản phẩm</p>\n<p>- Không phơi trực tiếp dưới nắng gắt - Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho người dùng</p>\n<p><br></p>\n<p>*Lưu ý:</p>\n<p>- Không bảo hành viền, chỉ, vải rách trong thời gian dài sử dụng.</p>\n<p>- Hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p><br></p>\n<p>Sản phẩm đi kèm: không.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1499000,
+                    "listed_price_with_vat": 2998000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540c8",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.supplier": {
+                    "uid": "0x1517f0",
+                    "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be28",
+                        "collection_name": "May mặc & Thời trang",
+                        "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                    },
+                    {
+                        "uid": "0x13be5b",
+                        "collection_name": "Chăn, ga, gối, nệm"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540dc",
+                    "brand_name": "ASC Premium"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155622/thumb_1591179937999.jpeg",
+                        "source": "images/products/0x155622/source_1591179937891.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155622/thumb_1591179938009.jpeg",
+                        "source": "images/products/0x155622/source_1591179937952.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155622/thumb_1591179937985.jpeg",
+                        "source": "images/products/0x155622/source_1591179937839.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155622/thumb_1591179937993.jpeg",
+                        "source": "images/products/0x155622/source_1591179937861.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x15564c",
+                "sku_id": "10000715",
+                "product_name": "Nệm gòn ép xuất khẩu ASC Premium 1M80 X 2M00 - 9CM",
+                "display_name": "Nệm gòn ép ASC Premium 1M80",
+                "display_name_detail": "Nệm gòn ép xuất khẩu ASC Premium 1M80 X 2M00 - 9CM",
+                "color": "#f48024",
+                "image_cover": "images/products/0x15564c/image_cover_1591248087395.jpeg",
+                "image_highlight": "images/products/0x15564c/image_highlight_1591248087461.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại.  Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu.",
+                "promotion_desc": "tiết kiệm 1.699.000 đồng, giảm 50%.",
+                "keywords": "nệm, nệm gòn ép, xuất khẩu, asc premium",
+                "viewcount": 1,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nệm Gòn Ép Xuất Khẩu ASC Premium</p>\n<p>* Thiết kế gấp 3 tiện lợi, nguyên liệu bông cao cấp cùng công nghệ ép cách nhiệt hiện đại. &nbsp;Nệm Gòn Ép ASC Premium đạt chuẩn gòn xử lý đa khâu quốc tế, đủ chỉ tiêu xuất khẩu. Nệm thích hợp cho người dùng thích nằm nệm không bị xẹp lún, bảo vệ cột sống người nằm một cách tốt nhất.</p>\n<p><br></p>\n<p>*Thông tin sản phẩm:</p>\n<p>- Thương hiệu: ASC Premium</p>\n<p>- Nguồn gốc: Việt Nam</p>\n<p>- Thành phần: 100% bông polyester</p>\n<p>- Bảo hành: 10 năm xẹp lún</p>\n<p><br></p>\n<p>*Đặc điểm sản phẩm:</p>\n<p>- Ruột nệm bông ép truyền thống ASC sử dụng 100% bông polyester, trải qua quá trình ép cách nhiệt hoàn hảo hàm lượng bông này đã liên kết chặt chẽ với nhau tạo độ cứng và độ phẳng tối ưu cho nệm. Chính vì vậy sản phẩm này luôn nằm đầu bảng khuyến cáo nên dùng cho những người bệnh về xương khớp,..</p>\n<p>- Điều đặc biệt với những chiếc nệm bông ép là khả năng duy trì được độ bền cực cao. Sau nhiều năm sử dụng nệm không hề bị xẹp lún như những sản phẩm thông thường mà vẫn bảo toàn nguyên vẹn chất lượng của mình để nâng&nbsp;</p>\n<p><br></p>\n<p>*Hướng dẫn sử dụng:</p>\n<p>- Đặt chiếu trên bề mặt phẳng</p>\n<p>- Không tự ý cắt rời vỏ bọc ngoài.</p>\n<p>- Không tự ý thay đổi kích thước sản phẩm</p>\n<p>- Không phơi trực tiếp dưới nắng gắt - Không để nệm trong môi trường ẩm ướt, thiếu thông thoáng</p>\n<p>- An toàn tuyệt đối cho người dùng</p>\n<p><br></p>\n<p>*Lưu ý:</p>\n<p>- Không bảo hành viền, chỉ, vải rách trong thời gian dài sử dụng.</p>\n<p>- Hoa văn, màu sắc ngẫu nhiên (liên hệ chọn hoa văn, màu sắc trước khi giao)</p>\n<p>- Luôn có sai số kích thước thực tế ±3cm tất cả các chiều (lọt lòng giường 2m00)</p>\n<p><br></p>\n<p>Sản phẩm đi kèm: không.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1699000,
+                    "listed_price_with_vat": 3398000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540c8",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.supplier": {
+                    "uid": "0x1517f0",
+                    "supplier_name": "CÔNG TY CỔ PHẦN TẬP ĐOÀN ĐẦU TƯ QUỐC TẾ NEWA GROUP"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be28",
+                        "collection_name": "May mặc & Thời trang",
+                        "collection_image": "images/collection_images/collection_image_1591158634382.jpeg"
+                    },
+                    {
+                        "uid": "0x13be5b",
+                        "collection_name": "Chăn, ga, gối, nệm"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540dc",
+                    "brand_name": "ASC Premium"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15564c/thumb_1591177230630.jpeg",
+                        "source": "images/products/0x15564c/source_1591177230415.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15564c/thumb_1591177230638.jpeg",
+                        "source": "images/products/0x15564c/source_1591177230456.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15564c/thumb_1591177230662.jpeg",
+                        "source": "images/products/0x15564c/source_1591177230504.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15564c/thumb_1591177230671.jpeg",
+                        "source": "images/products/0x15564c/source_1591177230560.jpeg"
+                    }
+                ],
+                "videos": []
+            }
+        ],
+        "count_products": 6
+    }
+}

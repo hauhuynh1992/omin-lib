@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <androidx.leanback.widget.HorizontalGridView
+        android:id="@+id/rv_menu"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_46sdp"
+        android:layout_marginLeft="@dimen/_2sdp"
+        android:clipToPadding="false"
+        android:fadingEdge="horizontal"
+        android:fadingEdgeLength="@dimen/_30sdp"
+        android:fillViewport="false"
+        android:paddingRight="@dimen/_27sdp"
+        android:requiresFadingEdge="vertical" />
+
+
+    <androidx.leanback.widget.VerticalGridView
+        android:id="@+id/rv_delivery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rv_menu"
+        android:layout_marginLeft="@dimen/_minus3sdp"
+        android:layout_marginTop="@dimen/_minus15sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:clipToPadding="false"
+        android:nextFocusRight="@+id/rv_delivery"
+        android:nextFocusDown="@+id/rv_delivery"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/_20sdp" />
+
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone" />
+</RelativeLayout>

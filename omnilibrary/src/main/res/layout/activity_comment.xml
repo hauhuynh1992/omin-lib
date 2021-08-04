@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_17sdp"
+        android:layout_marginRight="@dimen/_25sdp"
+        android:letterSpacing="0.05"
+        android:text="@string/text_them_nhan_xet_cua_ban"
+        android:textAlignment="center"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_11ssp"
+        sfView:type="bold" />
+
+    <androidx.leanback.widget.HorizontalGridView
+        android:id="@+id/rv_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_title"
+        android:layout_marginLeft="@dimen/_25sdp"
+        android:layout_marginTop="@dimen/_6sdp"
+        android:layout_marginRight="@dimen/_25sdp" />
+
+    <RelativeLayout
+        android:id="@+id/rl_other_comment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rv_comment"
+        android:layout_marginTop="@dimen/_17sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        android:gravity="center">
+
+
+        <EditText
+            android:id="@+id/edt_comment"
+            android:layout_width="@dimen/_220sdp"
+            android:layout_height="@dimen/_22sdp"
+            android:layout_marginStart="2sp"
+            android:layout_marginTop="2sp"
+            android:layout_marginBottom="2sp"
+            android:background="@drawable/selector_edittext"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="left"
+            android:hint="@string/text_nhan_xet_khac"
+            android:paddingLeft="@dimen/_7sdp"
+            android:paddingTop="@dimen/_4sdp"
+            android:paddingRight="@dimen/_7sdp"
+            android:paddingBottom="@dimen/_4sdp"
+            android:textColor="@color/title_black" />
+
+
+        <ImageButton
+            android:id="@+id/bn_voice"
+            android:layout_width="@dimen/_22sdp"
+            android:layout_height="@dimen/_22sdp"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_toRightOf="@+id/edt_comment"
+            android:background="@drawable/selector_button_product_detail"
+            android:src="@drawable/ic_voice_selector" />
+
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_delete"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/_28sdp"
+            android:layout_height="@dimen/_22sdp"
+            android:layout_marginLeft="@dimen/_5sdp"
+            android:layout_toRightOf="@+id/bn_voice"
+            android:background="@drawable/selector_button_product_detail"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:text="@string/text_xoa"
+            android:textColor="@drawable/text_button_selector"
+            android:textSize="@dimen/_8ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="medium" />
+    </RelativeLayout>
+
+    <com.bda.omnilibrary.views.SfButton
+        android:id="@+id/bn_review"
+        android:layout_width="@dimen/_90sdp"
+        android:layout_height="@dimen/_22sdp"
+        android:layout_below="@+id/rl_other_comment"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/_1sdp"
+        android:background="@drawable/selector_button_product_detail"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:text="@string/text_hoan_tat"
+        android:textColor="@drawable/text_button_selector"
+        android:textSize="@dimen/_7ssp" />
+
+</RelativeLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/_17sdp"
+        android:layout_marginEnd="@dimen/_25sdp"
+        android:layout_marginBottom="@dimen/_17sdp"
+        app:cardBackgroundColor="@color/trans"
+        app:cardCornerRadius="@dimen/_14sdp"
+        app:cardElevation="0dp"
+        app:cardMaxElevation="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_above="@+id/bn_detail_quickpay"
+                android:orientation="vertical">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_11sdp"
+                    android:layout_marginTop="@dimen/_11sdp"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:text="Đã thêm vào giỏ hàng"
+                    android:textColor="@color/color_484848"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="bold" />
+
+                <androidx.leanback.widget.VerticalGridView
+                    android:id="@+id/list"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="@dimen/_3ssp"
+                    android:focusable="false"
+                    android:focusableInTouchMode="false" />
+            </LinearLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/bn_detail_quickpay"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_19sdp"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="@dimen/_11sdp"
+                android:layout_marginTop="@dimen/_11sdp"
+                android:layout_marginEnd="@dimen/_11sdp"
+                android:layout_marginBottom="@dimen/_11sdp"
+                android:background="@drawable/bn_fast_pay_live_stream_selector"
+                android:focusedByDefault="true"
+                android:nextFocusLeft="@id/bn_detail_quickpay"
+                android:nextFocusRight="@id/bn_detail_quickpay"
+                android:nextFocusUp="@id/bn_detail_quickpay"
+                android:nextFocusDown="@id/bn_detail_quickpay">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/image_bn_detail_quickpay"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:src="@mipmap/ic_fast" />
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/text_bn_detail_quickpay"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_2sdp"
+                        android:text="Mua hàng nhanh"
+                        android:textColor="@color/color_A1B753"
+                        android:textSize="@dimen/_6ssp"
+                        android:visibility="visible"
+                        app:type="medium" />
+                </LinearLayout>
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

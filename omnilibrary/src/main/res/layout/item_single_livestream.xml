@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:video="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingLeft="@dimen/_6sdp">
+
+    <include
+        android:id="@+id/layout_product"
+        layout="@layout/item_thumbnail_livestream" />
+
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/layout_product">
+
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="@dimen/_3sdp"
+            android:layout_marginTop="@dimen/_minus1sdp"
+            android:layout_marginEnd="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_8sdp"
+            android:background="@color/color_transparent"
+            android:outlineAmbientShadowColor="@color/trans"
+            android:outlineSpotShadowColor="@color/end_color"
+            android:theme="@style/ItemStyle"
+            app:cardBackgroundColor="@color/color_transparent"
+            app:cardCornerRadius="@dimen/_6sdp"
+            app:cardElevation="@dimen/_4sdp"
+            app:cardPreventCornerOverlap="true"
+            app:cardUseCompatPadding="true">
+
+            <RelativeLayout
+                android:layout_width="@dimen/_326sdp"
+                android:layout_height="@dimen/_194sdp"
+                android:background="@color/color_item_background">
+
+                <com.bda.omnilibrary.custome.VideoPlayer
+                    android:id="@+id/video"
+                    android:layout_width="@dimen/_326sdp"
+                    android:layout_height="@dimen/_194sdp"
+                    android:layout_centerInParent="true"
+                    video:muted="false"
+                    video:showProgress="true"
+                    video:showSpinner="true"
+                    video:showTimeStick="true">
+                </com.bda.omnilibrary.custome.VideoPlayer>
+
+                <ImageView
+                    android:id="@+id/bg_thumb"
+                    android:layout_width="@dimen/_326sdp"
+                    android:layout_height="@dimen/_184sdp"
+                    android:layout_centerInParent="true"
+                    android:scaleType="centerCrop" />
+
+                <ImageView
+                    android:visibility="gone"
+                    android:id="@+id/ic_play"
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"
+                    android:layout_centerInParent="true"
+                    android:scaleType="centerCrop"
+                    android:src="@mipmap/ic_play_button_black" />
+
+                <ProgressBar
+                    android:id="@+id/progressBar7"
+                    style="?android:attr/progressBarStyle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:visibility="gone" />
+            </RelativeLayout>
+        </com.google.android.material.card.MaterialCardView>
+    </RelativeLayout>
+
+</RelativeLayout>

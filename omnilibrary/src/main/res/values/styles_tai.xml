@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="KeyButtonStyle" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@drawable/key_color_selector</item>
+        <item name="android:background">@drawable/touch_selector</item>
+        <item name="android:textSize">@dimen/_9ssp</item>
+    </style>
+
+    <style name="ColorSelectorButton">
+        <item name="android:background">@drawable/background_selector_color</item>
+        <!-- <item name="android:paddingBottom">10dp</item>-->
+        <item name="android:clickable">true</item>
+        <!--<item name="android:padding">10dp</item>-->
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="CountSelectorButton">
+        <item name="android:background">@drawable/background_selector_count</item>
+        <!-- <item name="android:paddingBottom">10dp</item>-->
+        <item name="android:clickable">true</item>
+        <!--<item name="android:padding">10dp</item>-->
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="Theme.AppCompat.Translucent" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@color/trans</item> <!-- Or any transparency or color you need -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+
+</resources>

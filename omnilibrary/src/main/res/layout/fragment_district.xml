@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_transparent">
+
+    <!--<ImageView
+        android:id="@+id/image_header"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_39sdp"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/image_header_3" />-->
+
+    <include
+        android:id="@+id/image_header"
+        layout="@layout/item_header_screen" />
+
+    <LinearLayout
+        android:id="@+id/cover_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_header"
+        android:orientation="vertical">
+
+        <!--<ImageView
+            android:id="@+id/ic_status"
+            android:layout_width="@dimen/_472sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:layout_below="@+id/image_top"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_12sdp"
+            android:src="@mipmap/ic_input_address_delivery" />-->
+
+        <include
+            android:id="@+id/ic_status"
+            layout="@layout/milestone_3_step" />
+
+        <include
+            android:id="@+id/ic_new_user"
+            layout="@layout/milestone_4_step"
+            android:visibility="gone" />
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:text="@string/text_vui_long_chon_quan_huyen"
+            android:textAllCaps="true"
+            android:textColor="@color/title_black"
+            android:textSize="@dimen/_7ssp"
+            android:textStyle="bold"
+            sfView:type="bold" />
+
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_province"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cover_phone"
+        android:clipToPadding="false"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:nextFocusDown="@+id/rl_bn_next"
+        android:paddingLeft="@dimen/_12sdp"
+        android:paddingRight="@dimen/_12sdp"
+        android:paddingBottom="@dimen/_20sdp"
+        app:horizontalMargin="@dimen/_5sdp"
+        app:rowHeight="wrap_content" />
+
+
+    <RelativeLayout
+        android:id="@+id/rl_bn_next"
+        android:layout_width="@dimen/_150sdp"
+        android:layout_height="@dimen/_46sdp"
+        android:layout_below="@id/rv_province"
+        android:layout_centerHorizontal="true"
+        android:layout_marginRight="@dimen/_minus8sdp"
+        android:background="@drawable/btn_omi_buttn_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:padding="0dp">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/bn_next"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/_15sdp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:gravity="center_horizontal"
+            android:text="@string/tiep_theo_nhap_dai_chi"
+            android:textAllCaps="true"
+            android:textColor="@drawable/text_button_selector"
+            android:textSize="@dimen/_7ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="bold" />
+    </RelativeLayout>
+</RelativeLayout>

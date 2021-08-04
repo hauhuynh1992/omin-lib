@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_product_detail"
+    tools:context=".ui.productDetailActivity.ProductDetailActivity">
+
+    <androidx.leanback.widget.VerticalGridView
+        android:id="@+id/rv_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clipToPadding="false"
+        android:paddingBottom="@dimen/_30sdp" />
+
+    <View
+        android:id="@+id/dim"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#99363636"
+        android:visibility="gone" />
+
+    <View
+        android:id="@+id/dummy_view"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/trans" />
+
+    <FrameLayout
+        android:id="@+id/ln_product"
+        android:layout_width="@dimen/_153sdp"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:visibility="invisible" />
+
+</RelativeLayout>
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ic_login"
+        android:layout_width="@dimen/_111sdp"
+        android:layout_height="@dimen/_83sdp"
+        android:layout_below="@+id/image_top"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_26sdp"
+        android:src="@drawable/ic_login" />
+
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/text_guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ic_login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:text="@string/text_login_guild"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="@dimen/_7ssp"
+        app:type="regular" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_guide"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_login_google"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/_110sdp"
+            android:layout_height="@dimen/_50sdp"
+        android:textAllCaps="false"
+            android:paddingBottom="@dimen/_4sdp"
+            android:background="@mipmap/ic_btn_google"
+            android:focusable="true"
+            android:textColor="@color/title_white"
+            android:text="Log-in with google"
+            android:focusableInTouchMode="true"
+            android:nextFocusRight="@+id/bn_sign_in_by_phone"
+            android:textSize="@dimen/_8ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="bold" />
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_sign_in_by_phone"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/_149sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:layout_marginLeft="@dimen/_minus10sdp"
+            android:layout_marginRight="@dimen/_minus6sdp"
+            android:paddingTop="@dimen/_12sdp"
+            android:background="@drawable/ic_login_phone_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:nextFocusRight="@+id/bn_sign_up"
+            android:textSize="@dimen/_8ssp"
+            android:visibility="gone"
+            android:theme="@style/ItemStyle"
+            sfView:type="medium" />
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_sign_up"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="@dimen/_62sdp"
+            android:layout_height="@dimen/_42sdp"
+            android:layout_marginLeft="@dimen/_minus10sdp"
+            android:visibility="gone"
+            android:paddingTop="@dimen/_12sdp"
+            android:background="@drawable/ic_register_selector"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:textSize="@dimen/_8ssp"
+            android:theme="@style/ItemStyle"
+            sfView:type="medium" />
+
+    </LinearLayout>
+
+</RelativeLayout>

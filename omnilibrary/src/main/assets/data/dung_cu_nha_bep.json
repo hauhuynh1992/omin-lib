@@ -1,0 +1,2721 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "uid": "0x13be2c",
+            "collection_name": "Nồi & Xoong & Chảo",
+            "count_items": 11,
+            "products": [
+                {
+                    "uid": "0x1444af",
+                    "sku_id": "10000612",
+                    "product_name": "Bộ nồi chảo chống dính Elmich EL- 1162 đáy từ (16,20, 24cm)",
+                    "display_name": "Bộ nồi chảo chống dính Elmich đáy từ",
+                    "display_name_detail": "Bộ nồi chảo chống dính Elmich EL- 1162 đáy từ (16,20, 24cm)",
+                    "color": "#f48024",
+                    "image_cover": "images/0x1444af/image_cover_1589539486837.jpeg",
+                    "image_highlight": "images/0x1444af/image_highlight_1589539486838.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Sử dụng tốt trên tất cả các loại bếp. Truyền nhiệt đều, giữ nhiệt lâu, chống cháy khét cục bộ, giúp bảo toàn vitamin và dinh dưỡng trong quá trình nấu.",
+                    "promotion_desc": "tiết kiệm 800.000 đồng, giảm 40%.",
+                    "keywords": "bộ nồi, chảo chống dính, elmich",
+                    "viewcount": 40,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Lòng trong phủ chống dính Greblon C2 an toàn cho sức khỏe số 1 của Đức.</p>\n<p>Tay cầm chống nóng, an toàn cho người sử dụng.</p>\n<p>Thiết kế sang trọng, hiện đại mang phong cách châu Âu.</p>\n<p>Sản phẩm được sản xuất trên dây chuyền công nghệ và đạt tiêu chuẩn chất lượng châu Âu.&nbsp;</p>\n<p>Bộ nồi chảo EL-1162 gồm: 3 nồi đường kính 16, 20 và 24 cm và 1 chảo đường kính 26cm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1190000,
+                        "listed_price_with_vat": 1690000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14433d",
+                        "manufacturer_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                    },
+                    "product.supplier": {
+                        "uid": "0x144329",
+                        "supplier_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be22",
+                            "collection_name": "Dụng cụ Nhà bếp",
+                            "collection_image": "collection_images/0x13be22.jpg"
+                        },
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x14430c",
+                        "brand_name": "Elmich"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444af/thumb_1589861458531.jpeg",
+                            "source": "images/products/0x1444af/source_1589861458534.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444af/thumb_1589861458532.jpeg",
+                            "source": "images/products/0x1444af/source_1589861458535.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444af/thumb_1589861458533.jpeg",
+                            "source": "images/products/0x1444af/source_1589861458536.jpeg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "media_type": "video",
+                            "thumb": "images/products/0x1444af/thumb_1592548666066.jpeg",
+                            "source": "videos/products/0x1444af/source_1592548664761.mp4"
+                        }
+                    ]
+                },
+                {
+                    "uid": "0x1444e7",
+                    "sku_id": "10000488",
+                    "product_name": "Bộ nồi phủ sứ an toàn đáy từ Elmich Royal Classic  EL-3700 Size 16, 20, 24cm",
+                    "display_name": "Bộ nồi phủ sứ an toàn đáy từ Elmich",
+                    "display_name_detail": "Bộ nồi phủ sứ an toàn đáy từ Elmich Royal Classic  EL-3700 Size 16, 20, 24cm",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1444e7/image_cover_1590038307858.jpeg",
+                    "image_highlight": "images/products/0x1444e7/image_highlight_1590038307896.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Phủ sứ tự nhiên 100%, tuyệt đối an toàn, có thể sử dụng dụng cụ nấu bằng kim loại mà không lo bong tróc. Đáy từ công nghệ cao, bắt nhiệt nhanh và tiết kiệm nhiên liệu tối ưu.",
+                    "keywords": "bộ nồi, sứ, đáy từ, elmich",
+                    "viewcount": 15,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bộ nồi 3 chiếc size 16cm, 20cm, 24cm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1835000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14433d",
+                        "manufacturer_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                    },
+                    "product.supplier": {
+                        "uid": "0x144329",
+                        "supplier_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be22",
+                            "collection_name": "Dụng cụ Nhà bếp",
+                            "collection_image": "collection_images/0x13be22.jpg"
+                        },
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x14430c",
+                        "brand_name": "Elmich"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444e7/thumb_1590038307975.jpeg",
+                            "source": "images/products/0x1444e7/source_1590038307932.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444e7/thumb_1590038308027.jpeg",
+                            "source": "images/products/0x1444e7/source_1590038307997.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444e7/thumb_1590038308062.jpeg",
+                            "source": "images/products/0x1444e7/source_1590038308036.jpeg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "media_type": "video",
+                            "thumb": "images/products/0x1444e7/thumb_1592548646236.jpeg",
+                            "source": "videos/products/0x1444e7/source_1592548639556.mp4"
+                        }
+                    ]
+                },
+                {
+                    "uid": "0x1444ec",
+                    "sku_id": "10000485",
+                    "product_name": "Bộ nồi chảo CD Baby  Elmich  EL- 1167 (16cm)",
+                    "display_name": "Bộ nồi chảo CD Baby  Elmich ",
+                    "display_name_detail": "Bộ nồi chảo CD Baby  Elmich  EL- 1167 (16cm)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1444ec/image_cover_1590041526889.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Làm bằng hợp kim nhôm nguyên chất, bên trong phủ 2 lớp chống dính cao cấp an toàn và siêu bền, không giải phóng chất PFOA gây ung thư, chịu nhiệt lên đến 250 độ C.",
+                    "keywords": "bộ nồi chảo, nồi, elmich",
+                    "viewcount": 10,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Cán chảo bakelit ốp inox cách điệu, chịu nhiệt lên đến 180 độ C.</p>\n<p>Độ dày đáy là 2,4mm.</p>\n<p>Sử dụng trên tất cả các loại bếp: Bếp ga, bếp từ, bếp điện,...</p>\n<p>Sản phẩm của Tập đoàn Elmich Cộng hòa Séc.</p>\n<p>Bộ nồi chảo Baby EL-1167 gồm 1 quánh đường kính 16cm và 1 chảo đường kính 16cm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 485000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14433d",
+                        "manufacturer_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                    },
+                    "product.supplier": {
+                        "uid": "0x144329",
+                        "supplier_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be22",
+                            "collection_name": "Dụng cụ Nhà bếp",
+                            "collection_image": "collection_images/0x13be22.jpg"
+                        },
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x14430c",
+                        "brand_name": "Elmich"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444ec/thumb_1590041526989.jpeg",
+                            "source": "images/products/0x1444ec/source_1590041526967.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444ec/thumb_1590041527036.jpeg",
+                            "source": "images/products/0x1444ec/source_1590041527002.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444ec/thumb_1590041527063.jpeg",
+                            "source": "images/products/0x1444ec/source_1590041527097.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444ec/thumb_1590041527112.jpeg",
+                            "source": "images/products/0x1444ec/source_1590041527166.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1444ec/thumb_1590041527184.jpeg",
+                            "source": "images/products/0x1444ec/source_1590041527219.jpeg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "media_type": "video",
+                            "thumb": "images/products/0x1444ec/thumb_1592548622547.jpeg",
+                            "source": "videos/products/0x1444ec/source_1592548620756.mp4"
+                        }
+                    ]
+                },
+                {
+                    "uid": "0x144eba",
+                    "sku_id": "10000565",
+                    "parent_sku_id": "",
+                    "product_name": "Bộ nồi nhà bếp Ceramic PoongNyun FACPT",
+                    "display_name": "Bộ nồi nhà bếp Ceramic PoongNyun ",
+                    "display_name_detail": "Bộ nồi nhà bếp Ceramic PoongNyun FACPT",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x144eba/image_cover_1591006723532.jpeg",
+                    "image_highlight": "images/0x144eba/image_highlight_1589539601979.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ nồi nhà bếp Ceramic cao cấp dày 2.5mm chống dính, chống trầy xước màu cam hoa văn hiệu PoongNyun Series Fosya với công nghệ tráng men hiện đại nhất \"Hard Anodized\".",
+                    "promotion_desc": "",
+                    "keywords": "bộ nồi, nhà bếp, poongnyun",
+                    "viewcount": 67,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Không tróc men, chống gỉ sét, chống ăn mòn, giữ và gia nhiệt lâu hơn giúp thức ăn mau chín tiết kiệm thời gian và nhiên liệu, thiết kế nắp kiếng chịu nhiệt chống trào, tay cầm chống nóng, sử dụng trên bếp gas, bếp hồng ngoại.</p>\n<p>Gồm 10 món:&nbsp;</p>\n<p>1 nồi quánh&nbsp;</p>\n<p>1 nắp kiếng 16cm</p>\n<p>1 nồi nhỏ&nbsp;</p>\n<p>1 nắp kiếng 18cm</p>\n<p>1 nồi trung&nbsp;</p>\n<p>1 nắp kiếng 20cm</p>\n<p>1 nồi lớn&nbsp;</p>\n<p>1 nắp kiếng 24cm</p>\n<p>1 nồi lẩu&nbsp;</p>\n<p>1 nắp kiếng 24cm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 5800000,
+                        "listed_price_with_vat": 5800000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b679",
+                        "manufacturer_name": "CTY TNHH TMDV XNK Đại Phúc Lộc Thọ"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffa",
+                        "supplier_name": "CTy TNHH TMDV XNK ĐẠI PHÚC LỘC THỌ"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b68a"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x144eba/thumb_1589861528957.jpeg",
+                            "source": "images/products/0x144eba/source_1589861528958.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1daabd",
+                    "sku_id": "10000807",
+                    "product_name": "THỐ TT LUMINARC GRANITY 1.5L",
+                    "display_name": "Thố thủy tinh Luminarc có nắp 1.5L",
+                    "display_name_detail": "Thố thủy tinh Luminarc Granity 1,5 lít có nắp",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1daabd/image_cover_1591785844094.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Chất liệu: Thủy tinh. Kích thước: 22 x 12 x 13,5 cm. Dung tích: 1.5L. Dùng để đựng đồ ăn, bảo quản thực phẩm.",
+                    "promotion_desc": "",
+                    "keywords": "thố thủy tinh, đựng thức ăn, Luminarc, thố Luminarc",
+                    "viewcount": 2,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thố thủy tinh Luminarc Granity 1,5 lít có nắp có nắp được sản xuất trên quy trình hiện đại, có sự giám sát nghiêm ngặt của chuyên gia, đảm bảo đưa đến tay người tiêu dùng một sản phẩm chất lượng và an toàn nhất.</p>\n<p>Được làm từ chất liệu thủy tinh cao cấp, có khả năng chịu nhiệt tốt, không độc hại, an toàn với các loại thức ăn nóng hoặc lạnh. Chất liệu thủy tinh sáng bóng, thiết kế trơn đơn giản mà không kém phần tinh tế.</p>\n<p>Sản phẩm được thiết kế đẹp mắt, trong suốt, hiện đại và hợp thời trang. Thố đựng được các loại hoa quả, trái cây, tạo dáng vẻ sang trọng và lịch lãm cho không gian gia đình.</p>\n<p>Với dung tích nhỏ gọn là 1,5 lít, sản phẩm dùng để đựng một lượng trái cây phù hợp để sử dụng trong các bữa ăn hoặc bữa tiệc gia đình. Bạn có thể dùng trong lò vi sóng hoặc máy rửa chén, vô cùng tiết kiệm thời gian.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 190000,
+                        "listed_price_with_vat": 352000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da997",
+                        "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1190c7",
+                        "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be22",
+                            "collection_name": "Dụng cụ Nhà bếp",
+                            "collection_image": "collection_images/0x13be22.jpg"
+                        },
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a1",
+                        "brand_name": "Luminarc"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1daabd/thumb_1591785844280.jpeg",
+                            "source": "images/products/0x1daabd/source_1591785844129.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1daabd/thumb_1591785844299.jpeg",
+                            "source": "images/products/0x1daabd/source_1591785844173.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1daabd/thumb_1591785844308.jpeg",
+                            "source": "images/products/0x1daabd/source_1591785844220.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1daabd/thumb_1591785844318.jpeg",
+                            "source": "images/products/0x1daabd/source_1591785844253.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1daabd/thumb_1591785844272.jpeg",
+                            "source": "images/products/0x1daabd/source_1591785844114.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1dd864",
+                    "sku_id": "10000783",
+                    "product_name": "Bộ nồi inox 5 đáy liên doanh KG864",
+                    "display_name": "Bộ nồi inox 5 đáy liên doanh KG864",
+                    "display_name_detail": "Bộ nồi inox 5 đáy liên doanh Kangaroo KG864",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dd864/image_cover_1591764870558.jpeg",
+                    "image_highlight": "images/products/0x1dd864/image_highlight_1591764870600.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thân nồi bằng chất liệu inox cao cấp, sáng bóng. Nắp kính dày, chịu lực chịu nhiệt, có lỗ thông hơi chống tràn khi đun sôi.",
+                    "promotion_desc": " tiết kiệm 781.000 đồng, giảm 57%.",
+                    "keywords": "bộ nồi, inox,  kangaroo",
+                    "viewcount": 151,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Đáy nồi với công nghệ đáy 5 lớp (Inox cao cấp, nhôm nguyên chất, kim loại, nhôm nguyên chất, Inox 430</p>\n<p>• Lòng nồi sáng bóng, chống trầy xước, giảm cháy và dính thức ăn</p>\n<p>• Quai nồi mạ màu vàng sang trọng.</p>\n<p>• Kích thước nồi : 16 cm, 20 cm, 24 cm</p>\n<p>• Dùng được cho mọi loại bếp.</p>\n<p>– &nbsp;Chất liệu: Inox cao cấp</p>\n<p>– &nbsp;Cấu tạo đáy: 5 lớp</p>\n<p>– &nbsp;Kích thước sản phẩm: 16 cm, 20 cm, 24 cm</p>\n<p>– &nbsp;Khối lượng: 3,1 kg</p>\n<p>– &nbsp;Kích thước: 270x270x270 (mm).</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 599000,
+                        "listed_price_with_vat": 1380000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dd7bd",
+                        "manufacturer_name": "CN CT CỔ PHẦN TẬP ĐOÀN ĐIỆN LẠNH ĐIỆN MÁY VIỆT ÚC"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff8",
+                        "supplier_name": "CN CT CỔ PHẦN TẬP ĐOÀN ĐIỆN LẠNH ĐIỆN MÁY VIỆT ÚC"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e0",
+                        "brand_name": "KAGAROO"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd864/thumb_1591782305196.jpeg",
+                            "source": "images/products/0x1dd864/source_1591782305400.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd864/thumb_1591782305246.jpeg",
+                            "source": "images/products/0x1dd864/source_1591782305426.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd864/thumb_1591782305057.jpeg",
+                            "source": "images/products/0x1dd864/source_1591782305257.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd864/thumb_1591782305076.jpeg",
+                            "source": "images/products/0x1dd864/source_1591782305291.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd864/thumb_1591782305175.jpeg",
+                            "source": "images/products/0x1dd864/source_1591782305330.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1dd890",
+                    "sku_id": "10000786",
+                    "product_name": "Bộ nồi chảo nhôm vung kính đáy từ size 18, 24, 26cm KG992M",
+                    "display_name": "Bộ nồi chảo nhôm vung kính đáy từ 3 size",
+                    "display_name_detail": "Bộ nồi chảo nhôm vung kính đáy từ size 18, 24, 26cm Kangaroo KG992M",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dd890/image_cover_1591782458134.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ combo nồi chảo Kangaroo KG992M làm bằng chất liệu nhôm cao cấp, truyền nhiệt nhanh hấp thu nhiệt tốt giúp bạn có thể chế biến đa dạng các món ăn một cách nhanh chóng và tiện lợi.",
+                    "promotion_desc": " tiết kiệm 1.710.000 đồng, giảm 55%.",
+                    "keywords": "bộ nồi , chảo, nồi chảo, chảo nhôm, kangaroo",
+                    "viewcount": 28,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Dẫn nhiệt nhanh</p>\n<p>Bộ combo nồi chảo Kangaroo KG992M làm từ chất liệu nhôm có khả năng gia truyền nhiệt nhanh, hấp thu nhiệt tốt, làm thức ăn mau chính, giúp bạn tiết kiệm khá nhiều thời gian</p>\n<p>Chảo vân đá hoa cương</p>\n<p>Chảo vân đá hoa cương siêu bền, có khả năng chống dính, chống trầy xước. Tay cầm silicon cách nhiệt, giúp bạn không bị bỏng tay.</p>\n<p>Nắp kính thủy tinh</p>\n<p>Bộ 3 nồi Kangaroo KG992M sử dụng nắp kính thủy tinh, dễ dàng quan sát quá trình nấu chín thực phẩm và lỗ thông hơi chống trào rất tiện lợi.</p>\n<p>Vệ sinh dễ dàng</p>\n<p>Để nồi nguội hẳn rồi dùng miếng rửa chén mềm chà xát nhẹ nhàng tránh làm trầy xước bề mặt chống dính của nồi. Không nên rửa ngay sau khi sử dụng hay để thức ăn bám vào nồi quá lâu gây khó rửa.</p>\n<p>Đối với các vết bẩn cứng đầu, bạn có thể dùng các nguyên liệu sẵn có trong nhà bếp như muối, chanh, dấm, bột baking soda,… để làm sạch mà rất an toàn. Các mẹo này đã được rất nhiều chị em nội trợ áp dụng và chia sẻ.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1390000,
+                        "listed_price_with_vat": 3100000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dd7bd",
+                        "manufacturer_name": "CN CT CỔ PHẦN TẬP ĐOÀN ĐIỆN LẠNH ĐIỆN MÁY VIỆT ÚC"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff8",
+                        "supplier_name": "CN CT CỔ PHẦN TẬP ĐOÀN ĐIỆN LẠNH ĐIỆN MÁY VIỆT ÚC"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1540e0",
+                        "brand_name": "KAGAROO"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd890/thumb_1591782458189.jpeg",
+                            "source": "images/products/0x1dd890/source_1591782458327.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd890/thumb_1591782458260.jpeg",
+                            "source": "images/products/0x1dd890/source_1591782458351.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dd890/thumb_1591782458315.jpeg",
+                            "source": "images/products/0x1dd890/source_1591782458391.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1dda7e",
+                    "sku_id": "10000802",
+                    "product_name": "NỒI TT LUMINARC AMBERLINE TRIANON 1.5L,3.5L",
+                    "display_name": "Bộ 2 nồi thủy tinh Luminarc Amberline",
+                    "display_name_detail": "Bộ 2 nồi thủy tinh Luminarc Amberline Trianon Eclipse (1.5L - 3.5L)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dda7e/image_cover_1591787227880.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dung tích 1.5L, 3.5 lít Độ bền cao, chịu nhiệt 400 độ C. Tiết kiệm năng lượng, tiện dụng cao, chất liệu thủy tinh trong suốt, không bám mùi và dễ chùi rửa Xuất xứ : Pháp BẢO HÀNH 10 NĂM.",
+                    "promotion_desc": " tiết kiệm 983.000 đồng, giảm 37%.",
+                    "keywords": "nồi thủy tinh, Luminarc, nồi Luminarc, nồi, quánh, thủy tinh, nồi tay cầm",
+                    "viewcount": 9,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Độ bền cao, chịu nhiệt 400 độ C</p>\n<p>Bộ 2 Nồi Thủy Tinh Amberline Trianon Luminarc có thể chịu được các sốc nhiệt nên không dễ vỡ khi có sự thay đổi nhiệt độ đột ngột. Nồi chịu được độ nóng lên đến 400 độ C.</p>\n<p>Tiết kiệm năng lượng, tiện dụng cao</p>\n<p>Ta nên đun nồi bằng lửa nhỏ hay lửa vừa để tiết kiệm thời gian và năng lượng vì nồi thủy tinh nhanh nóng và giữ nhiệt rất tốt. Ngoài ra, ta có thể dùng sản phẩm trong lò nướng, lò vi sóng, tủ lạnh hay máy rửa chén dĩa.</p>\n<p>Chất liệu thủy tinh trong suốt</p>\n<p>Sản phẩm được làm bằng chất liệu thủy tinh cao cấp đế có thể giúp người dùng quan sát được quá trình đun nấu và tránh được việc thức ăn bị sôi trào hay khô cạn nước.</p>\n<p>Không bám mùi và dễ chùi rửa</p>\n<p>Bộ nồi này do có chất liệu thủy tinh nên không gây phản ứng hoá học, không hấp thụ mùi vị hay vết bẩn từ thực phẩm, giữ vệ sinh và độ sáng bóng cao cho nồi.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1690000,
+                        "listed_price_with_vat": 2673000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da997",
+                        "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1190c7",
+                        "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a1",
+                        "brand_name": "Luminarc"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda7e/thumb_1591787228282.jpeg",
+                            "source": "images/products/0x1dda7e/source_1591787227927.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda7e/thumb_1591787228333.jpeg",
+                            "source": "images/products/0x1dda7e/source_1591787227970.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda7e/thumb_1591787228353.jpeg",
+                            "source": "images/products/0x1dda7e/source_1591787228094.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda7e/thumb_1591787228371.jpeg",
+                            "source": "images/products/0x1dda7e/source_1591787228165.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dda7e/thumb_1591787228408.jpeg",
+                            "source": "images/products/0x1dda7e/source_1591787228211.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1de519",
+                    "sku_id": "10000799",
+                    "product_name": "NỒI TT CAO LUMINARC AMBERLINE 1.5L TAY CẦM ",
+                    "display_name": "Nồi thủy tinh tay cầm Luminarc Amberline",
+                    "display_name_detail": "Nồi thủy tinh một tay cầm Luminarc Vitro Amberline thân cao 1.5L L3358",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de519/image_cover_1591783169168.jpeg",
+                    "image_highlight": "images/products/0x1de519/image_highlight_1591783169219.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dung tích: 1.5L - Chất liệu thủy tinh cao cấp - Không hấp thụ mùi, vết thực phẩm - Độ bền cao và không bị biến dạng với đặc tính giữ nhiệt tuyệt vời - Nhanh nóng, lâu nguội, đảm bảo an toàn",
+                    "promotion_desc": " tiết kiệm 510.000 đồng, giảm 39%.",
+                    "keywords": "nồi thủy tinh, Luminarc, nồi Luminarc, nồi, quánh, thủy tinh, nồi tay cầm",
+                    "viewcount": 36,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;Loại : Nồi thủy tinh cao cấp, bền đẹp</p>\n<p>- Dung tích : 1.5L</p>\n<p>- Màu: Hổ phách</p>\n<p>- Chất liệu thủy tinh trong suốt</p>\n<p>- Tiết kiệm năng lượng và giữ nhiệt lâu</p>\n<p>- Sử dụng được trong lò vi sóng, máy rửa chén...</p>\n<p>- Độ bền cao và dễ chùi rửa khi sử dụng</p>\n<p>- Thiết kế mới với thành miệng chống tràn và tay cầm an toàn</p>\n<p>- Chịu được nhiệt độ cao, hạn chế sự nứt vỡ do tác động của nhiệt</p>\n<p>- Có thể nấu trên bếp, bày thức ăn trên bàn ăn, và chứa thực phẩm trong tủ lạnh</p>\n<p>- Lớp men láng mịn, không hấp thụ mùi thức ăn và không có bất kỳ chất tác dụng phụ nào</p>\n<p>- Có thể sử dụng được: bếp điện, bếp hồng ngoại, bếp gas, lò vi sóng và các lò nấu thông thường khác</p>\n<p>- Thương hiệu Luminarc : Pháp - France</p>\n<p>- Sản xuất : Pháp - France</p>\n<p>- Bảo hành chính hãng : 120 tháng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 799000,
+                        "listed_price_with_vat": 1309000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da997",
+                        "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1190c7",
+                        "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a1",
+                        "brand_name": "Luminarc"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de519/thumb_1591787139492.jpeg",
+                            "source": "images/products/0x1de519/source_1591787139390.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de519/thumb_1591787139524.jpeg",
+                            "source": "images/products/0x1de519/source_1591787139420.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de519/thumb_1591787139593.jpeg",
+                            "source": "images/products/0x1de519/source_1591787139453.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1dea0b",
+                    "sku_id": "10000768",
+                    "product_name": "Combo nồi nắp sứ - Màu nâu",
+                    "display_name": "Combo nồi chảo NOVIcook màu nâu +1 ly sứ",
+                    "display_name_detail": "Combo nồi chảo NOVIcook (1 chảo 26cm, 1 nồi 1.5L, 1 nồi 2L) màu nâu, nắp be",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dea0b/image_cover_1591865741869.jpeg",
+                    "image_highlight": "images/products/0x1dea0b/image_highlight_1591865741920.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bao gồm: 1 nồi sâu 1,5L; 1 nồi sâu 2L; 1 chảo lớn 26cm Nguyên liệu thiên nhiên, an toàn sức khỏe. Giữ nhiệt tốt và tăng hương vị món ăn. Sử dụng được trên: bếp gas, bếp hồng ngoại, lò vi ba, lò nướng.",
+                    "promotion_desc": "tặng 1 ly sứ, tiết kiệm 209.900 đồng, giảm 27%.",
+                    "keywords": "Bộ nồi cao cấp, Bộ nồi nhà bếp,Chảo sứ, Nhà bếp, Nồi cạn, Nồi đất, Nồi đất NOVIcook, Nồi phát tài",
+                    "viewcount": 4,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>NỒI ĐẤT NOVIcook được sản xuất trên dây chuyền công nghệ hiện đại, lựa chọn từ nguồn nguyên liệu tốt nhất trên thế giới để cho ra đời những dòng sản phẩm đẹp mà giá cả phải chăng &amp; an toàn với sức khỏe của người dùng.</p>\n<p>Nồi đất là loại nồi làm từ đất sét do đó nó có khả năng giữ nhiệt tốt và mang lại hương vị thơm ngon cho món ăn, ngon hơn khi nấu bằng các loại nồi nhôm, inox, đây là lý do mà các bà mẹ luôn phải trữ ít nhất một chiếc nồi đất cho mình... Nồi đất thích hợp để nấu các món ăn như: cá kho tộ, thịt kho… Nồi đất rất an toàn cho sức khỏe, không lo tình trạng hoen rỉ như những loại nồi kim loại kém chất lượng trên thị trường.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 559000,
+                        "listed_price_with_vat": 768900
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea4c",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x149885",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de6ff",
+                        "brand_name": "Minh Châu"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea0b/thumb_1591777522263.jpeg",
+                            "source": "images/products/0x1dea0b/source_1591777522979.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea0b/thumb_1591777522301.jpeg",
+                            "source": "images/products/0x1dea0b/source_1591777523036.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea0b/thumb_1591777522834.jpeg",
+                            "source": "images/products/0x1dea0b/source_1591777523077.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea0b/thumb_1591777522899.jpeg",
+                            "source": "images/products/0x1dea0b/source_1591777523275.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea0b/thumb_1591777522956.jpeg",
+                            "source": "images/products/0x1dea0b/source_1591777523351.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1dea1b",
+                    "sku_id": "10000769",
+                    "product_name": "Combo nồi nắp sứ - Màu be",
+                    "display_name": "Combo nồi NOVIcook màu be + 1 ly sứ",
+                    "display_name_detail": "Combo nồi NOVIcook (nồi cạn, nồi sâu 1.5L, nồi sâu 2L) màu be, nắp nâu",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dea1b/image_cover_1591851173347.jpeg",
+                    "image_highlight": "images/products/0x1dea1b/image_highlight_1591768336315.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bao gồm: 1 nồi cạn1,2L; 1 nồi  1,5L; 1 nồi sâu 2L Nguyên liệu thiên nhiên, an toàn sức khỏe. Giữ nhiệt tốt và tăng hương vị món ăn. Sử dụng được trên: bếp gas, bếp hồng ngoại, lò vi ba, lò nướng.",
+                    "promotion_desc": "tặng 1 ly sứ, tiết kiệm 270.000 đồng, giảm 35%.",
+                    "keywords": "Bộ nồi cao cấp, Bộ nồi nhà bếp,Chảo sứ, Nhà bếp, Nồi cạn, Nồi đất, Nồi đất NOVIcook, Nồi phát tài",
+                    "viewcount": 3,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>NỒI ĐẤT NOVIcook được sản xuất trên dây chuyền công nghệ hiện đại, lựa chọn từ nguồn nguyên liệu tốt nhất trên thế giới để cho ra đời những dòng sản phẩm đẹp mà giá cả phải chăng &amp; an toàn với sức khỏe của người dùng.</p>\n<p>Nồi đất là loại nồi làm từ đất sét do đó nó có khả năng giữ nhiệt tốt và mang lại hương vị thơm ngon cho món ăn, ngon hơn khi nấu bằng các loại nồi nhôm, inox, đây là lý do mà các bà mẹ luôn phải trữ ít nhất một chiếc nồi đất cho mình... Nồi đất thích hợp để nấu các món ăn như: cá kho tộ, thịt kho… Nồi đất rất an toàn cho sức khỏe, không lo tình trạng hoen rỉ như những loại nồi kim loại kém chất lượng trên thị trường</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 509000,
+                        "listed_price_with_vat": 726000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea4c",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x149885",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2c",
+                            "collection_name": "Nồi & Xoong & Chảo"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de6ff",
+                        "brand_name": "Minh Châu"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea1b/thumb_1591777647524.jpeg",
+                            "source": "images/products/0x1dea1b/source_1591777647659.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea1b/thumb_1591777647546.jpeg",
+                            "source": "images/products/0x1dea1b/source_1591777647693.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea1b/thumb_1591777647580.jpeg",
+                            "source": "images/products/0x1dea1b/source_1591777647779.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea1b/thumb_1591777647600.jpeg",
+                            "source": "images/products/0x1dea1b/source_1591777647830.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea1b/thumb_1591777647610.jpeg",
+                            "source": "images/products/0x1dea1b/source_1591777647948.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be2d",
+            "collection_name": "Dao & Thớt & Kéo",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be2e",
+            "collection_name": "Hộp & Khay & Lọ",
+            "count_items": 3,
+            "products": [
+                {
+                    "uid": "0x1190e6",
+                    "sku_id": "10000070",
+                    "product_name": "Cà men cơm Tiger 3 ngăn LWU-B200",
+                    "display_name": "Hộp đựng thức ăn Tiger 3 ngăn ",
+                    "display_name_detail": "Hộp đựng thức ăn Tiger 3 ngăn LWU-B200",
+                    "color": "#f48024",
+                    "image_cover": "images/0x1190e6/image_cover.1589261466851.jpeg",
+                    "image_highlight": "images/0x1190e6/image_highlight.1589261466852.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Cà mèn cơm hiệu Tiger 3 ngăn: hộp chứa cơm được 3 chén cơm (0.8L), hộp chứa thức ăn (0.34L) và hộp chứa canh (0.27L).",
+                    "promotion_desc": "",
+                    "keywords": "Cà men cơm, cà men 3 ngăn, cà men Tiger",
+                    "viewcount": 227,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Vỏ ngoài của cà men được thiết kếchân không cách nhiệt giúp giữ ấm cơm và thức ăn còn nóng trong thời gian dài, công nghệ \"Super Clean Plus\" chống bám bẩn và khử mùi, kiểu dáng sang trọng, gọn nhẹ, tiện lợi, trong những hoạt động thường nhật hay trong những chuyến dã ngoại. <br>\nCác hộp chứa dùng được trong lò vi ba để hâm nóng, có túi xách và đũa kèm theo, màu bạc viền xám.</p>\n<p>• Lưu ý : Nắp của các hộp chứa không sử dụng trong lò vi ba được.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1450000,
+                        "listed_price_with_vat": 1450000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b679",
+                        "manufacturer_name": "CTY TNHH TMDV XNK Đại Phúc Lộc Thọ"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ffa",
+                        "supplier_name": "CTy TNHH TMDV XNK ĐẠI PHÚC LỘC THỌ"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2e",
+                            "collection_name": "Hộp & Khay & Lọ"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b68b",
+                        "brand_name": "Tiger Queen"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x1190e6/thumb.1586942625283.jpg",
+                            "source": "images/0x1190e6/source.1586942625284.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x14460a",
+                    "sku_id": "10000405",
+                    "parent_sku_id": "",
+                    "product_name": "Bộ 03 hộp thuỷ tinh 390ml+ Túi giữ nhiệt",
+                    "display_name": "Bộ 3 hộp thuỷ tinh Glasslock 390ml",
+                    "display_name_detail": "Bộ 3 hộp thủy tinh cường lực, chịu nhiệt Glasslock 390ml + túi giữ nhiệt",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x14460a/image_cover_1589861140282.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 3 hộp thủy tinh cường lực, chịu nhiệt Glasslock 390ml x3 + túi giữ nhiệt dung tích sản phẩm: 3 hộp thủy tinh cường lực, chịu nhiệt 390ml x3. Sản phẩm làm bằng thủy tinh cường lực, chịu nhiệt.",
+                    "promotion_desc": "tiết kiệm 207.000 đồng, giảm 38%.",
+                    "keywords": "hộp thủy tinh, glass lock",
+                    "viewcount": 27,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 339000,
+                        "listed_price_with_vat": 546000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14453f",
+                        "manufacturer_name": "CÔNG TY TNHH COMO VINA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x13c358",
+                        "supplier_name": "CÔNG TY TNHH COMMO VINA"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2e",
+                            "collection_name": "Hộp & Khay & Lọ"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x14430b",
+                        "brand_name": "Glasslock"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14460a/thumb_1589861140285.jpeg",
+                            "source": "images/products/0x14460a/source_1589861140288.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14460a/thumb_1589861140283.jpeg",
+                            "source": "images/products/0x14460a/source_1589861140286.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14460a/thumb_1589861140284.jpeg",
+                            "source": "images/products/0x14460a/source_1589861140287.jpeg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "media_type": "video",
+                            "thumb": "images/products/0x14460a/thumb_1591339325523.jpeg",
+                            "source": "videos/products/0x14460a/source_1591339325563.mp4"
+                        }
+                    ]
+                },
+                {
+                    "uid": "0x1446a8",
+                    "sku_id": "10000413",
+                    "product_name": "Bộ 03 hộp thủy tinh vuông 490ml + túi giữ nhiệt ",
+                    "display_name": "Bộ 3 hộp thủy tinh vuông (490ml)",
+                    "display_name_detail": "Bộ 03 hộp vuông (490ml) và túi giữ nhiệt Glasslock Lunch Set 03",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1446a8/image_cover_1589861225974.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ 03 hộp vuông (490ml) và túi giữ nhiệt Glasslock Lunch Set 03-V, hộp thủy tinh giúp bạn mang theo thức ăn khi đi làm, đi học, đến bệnh, đi dã ngoại… thật tiện lợi.",
+                    "promotion_desc": "tiết kiệm 220.000 đồng, giảm 39%.",
+                    "keywords": "hộp thủy tinh, glass lock",
+                    "viewcount": 45,
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "product.pricing": {
+                        "price_with_vat": 339000,
+                        "listed_price_with_vat": 559000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14453f",
+                        "manufacturer_name": "CÔNG TY TNHH COMO VINA"
+                    },
+                    "product.supplier": {
+                        "uid": "0x13c358",
+                        "supplier_name": "CÔNG TY TNHH COMMO VINA"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2e",
+                            "collection_name": "Hộp & Khay & Lọ"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x14430b",
+                        "brand_name": "Glasslock"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1446a8/thumb_1589861225975.jpeg",
+                            "source": "images/products/0x1446a8/source_1589861225980.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1446a8/thumb_1589861225976.jpeg",
+                            "source": "images/products/0x1446a8/source_1589861225981.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1446a8/thumb_1589861225977.jpeg",
+                            "source": "images/products/0x1446a8/source_1589861225982.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1446a8/thumb_1589861225978.jpeg",
+                            "source": "images/products/0x1446a8/source_1589861225983.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1446a8/thumb_1589861225979.jpeg",
+                            "source": "images/products/0x1446a8/source_1589861225984.jpeg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "media_type": "video",
+                            "thumb": "images/products/0x1446a8/thumb_1591339506684.jpeg",
+                            "source": "videos/products/0x1446a8/source_1591339508756.mp4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "uid": "0x13be2f",
+            "collection_name": "Ấm & Ly & Tách",
+            "count_items": 6,
+            "products": [
+                {
+                    "uid": "0x1de61b",
+                    "sku_id": "10000774",
+                    "product_name": "Bộ trà mẫu đơn vẽ sen xanh",
+                    "display_name": "Bộ bình trà mẫu đơn vẽ sen xanh",
+                    "display_name_detail": "Bộ bình trà Bát Tràng mẫu đơn vẽ sen xanh",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1de61b/image_cover_1591778086665.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ ấm trà vẽ sen xanh Minh Châu Bộ sản phẩm gồm: 7 đĩa lót, 6 chén, 1 ấm dung tích 700ml Bộ ấm chén Minh Châu vẽ sen xanh lấy ý tưởng từ những cành sen quốc hoa Việt Nam.",
+                    "promotion_desc": " tiết kiệm 390.000 đồng, giảm 36%.",
+                    "keywords": "Bộ bình trà, bộ ấm trà, Bát Tràng, bộ ấm chén",
+                    "viewcount": 223,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bộ trà trắng mẫu đơn vẽ sen xanh &nbsp;là sản phẩm được đánh giá cao vè thiết kế. Sản phẩm là sự kết hợp hài hòa của giá trị thẩm mỹ và giá trị sử dụng.</p>\n<p>Bộ trà trắng mẫu đơn vẽ sen xanh kẻ vàng kim là sản phẩm được đánh giá cao vè thiết kế. Sản phẩm là sự kết hợp hài hòa của giá trị thẩm mỹ và giá trị sử dụng.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 699000,
+                        "listed_price_with_vat": 1089000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea4c",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x149885",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2f",
+                            "collection_name": "Ấm & Ly & Tách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de6ff",
+                        "brand_name": "Minh Châu"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de61b/thumb_1591778086692.jpeg",
+                            "source": "images/products/0x1de61b/source_1591778086825.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de61b/thumb_1591778086722.jpeg",
+                            "source": "images/products/0x1de61b/source_1591778086909.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de61b/thumb_1591778086732.jpeg",
+                            "source": "images/products/0x1de61b/source_1591778086993.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de61b/thumb_1591778086743.jpeg",
+                            "source": "images/products/0x1de61b/source_1591778087045.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1de61b/thumb_1591778086784.jpeg",
+                            "source": "images/products/0x1de61b/source_1591778087081.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1dea44",
+                    "sku_id": "10000773",
+                    "product_name": "Bộ trà hỏa biến khắc sen",
+                    "display_name": "Bộ bình trà men họa biến khắc sen",
+                    "display_name_detail": "Bộ bình trà Bát Tràng men họa biến khắc sen",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1dea44/image_cover_1591765171866.jpeg",
+                    "image_highlight": "images/products/0x1dea44/image_highlight_1591765171934.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ ấm chén sen xanh men hỏa biến bao gồm một ấm trà 500ml và 6 cái chén được sản xuất tại làng gốm Bát Tràng. Sản phẩm có màu xanh hỏa biến kết hợp với họa tiết hoa sen được vẽ tay rất tỉ mỉ.",
+                    "promotion_desc": " tiết kiệm 219.900 đồng, giảm 25%.",
+                    "keywords": "Bộ bình trà, bộ ấm trà, Bát Tràng, bộ ấm chén",
+                    "viewcount": 8,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Xuất xứ: Sứ Minh Châu Cao Cấp</p>\n<p>Bộ sản phẩm gồm: 1 đĩa, 6 chén, 1 ấm dung tích 350ml.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 659000,
+                        "listed_price_with_vat": 878900
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1dea4c",
+                        "manufacturer_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.supplier": {
+                        "uid": "0x149885",
+                        "supplier_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2f",
+                            "collection_name": "Ấm & Ly & Tách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1de6ff",
+                        "brand_name": "Minh Châu"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea44/thumb_1591778026024.jpeg",
+                            "source": "images/products/0x1dea44/source_1591778026347.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea44/thumb_1591778026089.jpeg",
+                            "source": "images/products/0x1dea44/source_1591778026417.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea44/thumb_1591778026100.jpeg",
+                            "source": "images/products/0x1dea44/source_1591778026492.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea44/thumb_1591778026153.jpeg",
+                            "source": "images/products/0x1dea44/source_1591778026565.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1dea44/thumb_1591778026005.jpeg",
+                            "source": "images/products/0x1dea44/source_1591778026163.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1e4b2b",
+                    "sku_id": "10001002",
+                    "product_name": "BỘ BÌNH LY TT LUMINARC ARC FILLON 5 MÓN",
+                    "display_name": "Bộ bình Luminarc Arc Fillon 5 món",
+                    "display_name_detail": "Bộ bình ly thủy tinh Luminarc Arc Fillon 5 món",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1e4b2b/image_cover_1592448312456.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ bình ly thủy tinh 5 món Luminarc ARC Fillon - Bộ sản phẩm được làm từ chất liệu.thủy tinh cao cấp, chịu nhiệt cao, bảo đảm an toàn vệ sinh và mang.tính thẩm mỹ cao.",
+                    "promotion_desc": " tiết kiệm 86.000 đồng, giảm 35%.",
+                    "keywords": "đồ dùng uống nước, bình và lo, ly thủy tinh, bộ bình ly thủy tinh Luminarc",
+                    "viewcount": 1,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Chất liệu thủy tinh chống bám bẩn,.không gây ám mùi thực phẩm như chất liệu nhựa, nên việc vệ sinh sẽ.trở nên dễ dàng và nhanh chóng hơn..</p>\n<p>Thiết kế tiện.dụng.</p>\n<p>- Sản phẩm có thể dùng với máy rửa.chén, giúp việc chùi rửa trở nên dễ dàng hơn..</p>\n<p>- Bình nước dung tích 1.1 lít, thiết.kế dạng bầu cùng tay cầm lửng độc đáo. Ly nước dung tích 240 ml,.thiết kế vừa tay mang lại cảm giác chắc chắn, không trơn trượt khi.sử dụng..</p>\n<p>- Chất liệu thủy tinh dày, bền đẹp,.mang lại giá trị sử dụng lâu dài.</p>\n<p>- Bình chứa nước có nắp đậy, giữ cho.nước được sạch sẽ, đảm bảo an toàn cho sức khỏe gia đình bạn.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 159000,
+                        "listed_price_with_vat": 245000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da997",
+                        "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1190c7",
+                        "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2f",
+                            "collection_name": "Ấm & Ly & Tách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a1",
+                        "brand_name": "Luminarc"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4b2b/thumb_1592448312486.jpeg",
+                            "source": "images/products/0x1e4b2b/source_1592448312664.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4b2b/thumb_1592448312524.jpeg",
+                            "source": "images/products/0x1e4b2b/source_1592448312702.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4b2b/thumb_1592448312536.jpeg",
+                            "source": "images/products/0x1e4b2b/source_1592448312805.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4b2b/thumb_1592448312546.jpeg",
+                            "source": "images/products/0x1e4b2b/source_1592448312879.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1e4bf2",
+                    "sku_id": "10001003",
+                    "product_name": "BỘ BÌNH LY TT LUMINARC ROTTERDAM ICE BLUE 5 MÓN",
+                    "display_name": "Bộ ly Luminarc Rotterdam Ice Blue 5 món",
+                    "display_name_detail": "Bộ bình ly thủy tinh Luminarc Rotterdam Ice Blue 5 món",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1e4bf2/image_cover_1592553172875.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ sản phẩm bao gồm 1 bình   và 4 ly      + Dung tích bình: 1.1 lít      + Dung tích ly: 350 ml / 1 ly - Chống bám bẩn, dễ dàng chùi rửa, không bị ám mùi khó chịu.   ",
+                    "promotion_desc": " tiết kiệm 30.000 đồng, giảm 13%.",
+                    "keywords": "đồ dùng uống nước, bình và lo, ly thủy tinh, bộ bình ly thủy tinh Luminarc",
+                    "viewcount": 2,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>&nbsp;Chất liệu thủy tinh cao cấp, an toàn cho sức khỏe và có độ bền cao.</p>\n<p>- Chịu được nhiệt độ cao, hạn chế sự nứt vỡ do tác động của nhiệt, an toàn cho sức khỏe người dùng.</p>\n<p>- Bộ sản phẩm gồm 1 bình và 4 ly tiện ích</p>\n<p>- Chống bám bẩn, dễ dàng chùi rửa, không bị ám mùi khó chịu</p>\n<p>- Bình sử dụng đựng nước lọc, hoặc các loại thức uống khác như: nước ép trái cây, sữa, sinh tố,…</p>\n<p>- Dung tích bình 1.1 lít, phù hợp sử dụng cho gia đình đông người, hoặc sử dụng tại văn phòng làm quan, cơ quan,…</p>\n<p>- Thiết kế sang trọng, bề mặt sáng bóng, mang tính thẩm mỹ cao.</p>\n<p>- Có thể dùng cho máy rửa chén</p>\n<p>Bình thủy tinh Luminarc &nbsp;được làm bằng chất liệu thủy tinh cao cấp, trong suốt mang tính thẩm mỹ cao.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 199000,
+                        "listed_price_with_vat": 229000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da997",
+                        "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1190c7",
+                        "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2f",
+                            "collection_name": "Ấm & Ly & Tách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a1",
+                        "brand_name": "Luminarc"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4bf2/thumb_1592553173481.jpeg",
+                            "source": "images/products/0x1e4bf2/source_1592553173186.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4bf2/thumb_1592553173271.jpeg",
+                            "source": "images/products/0x1e4bf2/source_1592553172900.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4bf2/thumb_1592553173354.jpeg",
+                            "source": "images/products/0x1e4bf2/source_1592553173036.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4bf2/thumb_1592553173418.jpeg",
+                            "source": "images/products/0x1e4bf2/source_1592553173129.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1e4c17",
+                    "sku_id": "10001004",
+                    "product_name": "BÌNH CHỨA RƯỢU THỦY TINH LUMINARC INTUITO 1.7L",
+                    "display_name": "Bình chứa rượu Luminarc Intuito 1.7l",
+                    "display_name_detail": "Bình chứa rượu thủy tinh Luminarc Intuito 1.7l",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1e4c17/image_cover_1592448418834.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thương hiệu: Luminarc. Size: 1.75L. Chất liệu: Thuỷ tinh cao cấp. Bình thủy tinh Luminarc được làm bằng chất liệu thủy tinh cao cấp, trong suốt mang tính thẩm mỹ cao.",
+                    "promotion_desc": " tiết kiệm 200.000 đồng, giảm 14%.",
+                    "keywords": "đồ dùng uống nước, bình và lo, ly thủy tinh, bộ bình đựng rượuLuminarc",
+                    "viewcount": 3,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Chất liệu thủy tinh chống bám bẩn, không gây ám mùi thực phẩm như chất liệu nhựa, nên việc vệ sinh sẽ trở nên dễ dàng và nhanh chóng hơn.Hướng dẫn sử dụng, bảo quản đồ dùng, vật dụng thủy tinh</p>\n<p>Khi mới mua về, cho ly thủy tinh vào nồi đổ ngập nước rồi nấu đến khi sôi bùng lên. Để nguội lấy ra dùng bình thường để tránh trường hợp nứt ly khi sử dụng.</p>\n<p>Khi vệ sinh cốc, chén hay bất cứ đồ dùng gì bằng thủy tinh trong nhà, bạn cần phải thật nhẹ nhàng, hạn chế tối đa những va chạm, cọ xát nếu không, sản phẩm rất nhanh dễ bị vỡ, sứt mẻ hay rạn nứt.</p>\n<p>Sau một thời gian sử dụng, đồ thủy tinh sẽ trở nên xỉn màu. Nếu muốn trả lại cho chúng vẻ sáng trong như ban đầu, bạn hãy thử sử dụng vỏ trứng, chanh và giấm.</p>\n<p>Cách thực hiện: Vò nát khoảng 6 vỏ trứng rồi cho vào đồ dùng cần làm sạch, sau đó vắt hai quả chanh hoặc một nửa cốc giấm, ngâm qua một đêm đủ thời gian để cho vỏ trứng tan trong nước chanh hoặc giấm. Sau đó, rửa đồ dùng bằng nước nóng và úp khô.</p>\n<p>Thông tin thương hiệu:</p>\n<p>Luminarc là thương hiệu thủy tinh hàng đầu thế giới từ Pháp, thuộc tập đoàn ARC International, đã cung cấp hàng nghìn các sản phẩm thủy tinh, pha lê gia dụng chất lượng cao trên khắp thế giới. Các sản phẩm của Luminarc được thiết kế từ chất liệu thủy tinh cao cấp, với kiểu dáng sang trọng và hoa văn tinh xảo. Luminarc đã xuất khẩu trên 180 quốc gia, là trợ thủ đắc lực của các bà nội trợ và đầu bếp nổi tiếng trên thế giới.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1190000,
+                        "listed_price_with_vat": 1390000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da997",
+                        "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1190c7",
+                        "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2f",
+                            "collection_name": "Ấm & Ly & Tách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a1",
+                        "brand_name": "Luminarc"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4c17/thumb_1592448418925.jpeg",
+                            "source": "images/products/0x1e4c17/source_1592448418989.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4c17/thumb_1592448418953.jpeg",
+                            "source": "images/products/0x1e4c17/source_1592448419028.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4c17/thumb_1592448418965.jpeg",
+                            "source": "images/products/0x1e4c17/source_1592448419123.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e4c17/thumb_1592448418977.jpeg",
+                            "source": "images/products/0x1e4c17/source_1592448419163.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1e57b1",
+                    "sku_id": "10001005",
+                    "product_name": "BỘ BÌNH LY TT LUMINARC TIVOLI MAZE GOLD 7 MÓN ",
+                    "display_name": "Bộ ly Luminarc Tivoli Maze Gold 7 món ",
+                    "display_name_detail": "Bộ bình ly thủy tinh Luminarc Tivoli Maze Gold 7 món ",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1e57b1/image_cover_1592389577512.jpeg",
+                    "image_highlight": "images/products/0x1e57b1/image_highlight_1592389577552.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Bộ gồm 7 món Gồm 1 bình và 6 ly Chất liệu: Thuỷ tinh trong suốt Dung tích bình: 1.6 lít Dung tích ly: 270 ml Chống bám bẩn, dễ chùi rửa Màu sắc: Hoa văn Nhà sản xuất: Luminarc Xuất xứ: Ả Rập.",
+                    "promotion_desc": " tiết kiệm 90.000 đồng, giảm 30%.",
+                    "keywords": "đồ dùng bàn ăn, bộ bình ly, bộ bình ly thủy tinh Luminarc",
+                    "viewcount": 13,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bộ Bình Ly Thủy Tinh Luminarc 7 Món Maze Gold J6283 sở hữu vẻ ngoài sang trọng, nổi bật hơn với các chi tiết tứ giác màu vàng cánh hoa cách điệu đan xen trên nền thủy tinh trong suốt ấy. Bên cạnh đó, Luminarc Maze Gold J6283 có khả năng chống bám bụi và chịu va đập tốt, có thể dùng được trong lò vi sóng cũng như trong máy rửa chén bát nên tuyệt đối an toàn cho sức khỏe. Với sản phẩm này, nhà bếp hoặc phòng khách sẽ có thêm điểm nhấn thật bắt mắt, khiến không gian nội thất của bạn trở nên hiện đại hơn.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 209000,
+                        "listed_price_with_vat": 299000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x1da997",
+                        "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x1190c7",
+                        "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be2f",
+                            "collection_name": "Ấm & Ly & Tách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x1da9a1",
+                        "brand_name": "Luminarc"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e57b1/thumb_1592448486618.jpeg",
+                            "source": "images/products/0x1e57b1/source_1592448486781.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e57b1/thumb_1592448486631.jpeg",
+                            "source": "images/products/0x1e57b1/source_1592448486815.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e57b1/thumb_1592448486646.jpeg",
+                            "source": "images/products/0x1e57b1/source_1592448486860.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e57b1/thumb_1592448486718.jpeg",
+                            "source": "images/products/0x1e57b1/source_1592448486905.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1e57b1/thumb_1592448486554.jpeg",
+                            "source": "images/products/0x1e57b1/source_1592448486744.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be30",
+            "collection_name": "Màng bọc & Đồ dùng 1 lần",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be31",
+            "collection_name": "Dụng cụ làm bánh & chế biến",
+            "count_items": 0
+        },
+        {
+            "uid": "0x1433e7",
+            "collection_name": "test collection",
+            "collection_image": "collection_images/collection_image.1589269930244.jpeg",
+            "count_items": 0
+        },
+        {
+            "uid": "0x1e8ee0",
+            "collection_name": "Bình giữ nhiệt & Cà men & Bình đựng thức ăn",
+            "count_items": 0
+        },
+        {
+            "uid": "0x1e8ee1",
+            "collection_name": "Chén Đũa & Tô & Đĩa",
+            "count_items": 0
+        }
+    ],
+    "Hotdeals": {
+        "products": [
+            {
+                "uid": "0x144567",
+                "sku_id": "10000345",
+                "product_name": "Bộ sản phẩm vắt nước cam",
+                "display_name": "Bộ dụng cụ vắt nước cam Glasslock",
+                "display_name_detail": "Bộ dụng cụ vắt nước cam Glasslock GL1232",
+                "color": "#f48024",
+                "image_cover": "images/0x144567/image_cover_1589451142262.jpeg",
+                "image_highlight": "images/0x144567/image_highlight_1589451142263.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Sản phẩm đa năng với 2 đầu vắt cam và ép các loại trái cây mềm như: dâu, dưa hấu, lê, nho, dưa gang,… khay lọc bằng nhựa giúp bạn dễ dàng lắp ráp, rửa sạch sau khi sử dụng.",
+                "promotion_desc": "tiết kiệm 151.000 đồng, giảm 39%.",
+                "keywords": "vắt nước cam, glasslock",
+                "viewcount": 1019,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 239000,
+                    "listed_price_with_vat": 390000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14453f",
+                    "manufacturer_name": "CÔNG TY TNHH COMO VINA"
+                },
+                "product.supplier": {
+                    "uid": "0x13c358",
+                    "supplier_name": "CÔNG TY TNHH COMMO VINA"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be36",
+                        "collection_name": "Thiết bị & Dụng cụ trong nhà"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x14430b",
+                    "brand_name": "Glasslock"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144567/thumb_1589861794256.jpeg",
+                        "source": "images/products/0x144567/source_1589861794258.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144567/thumb_1589861794255.jpeg",
+                        "source": "images/products/0x144567/source_1589861794257.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x174226",
+                "sku_id": "10000753",
+                "product_name": "Bộ hộp cơm sứ có hoa văn cao cấp Dong Hwa B1505-01S302",
+                "display_name": "Bộ hộp cơm sứ Dong Hwa B1505-01S302",
+                "display_name_detail": "Bộ hộp cơm sứ Dong Hwa B1505-01S302",
+                "color": "#f48024",
+                "image_cover": "images/products/0x174226/image_cover_1591248770977.jpeg",
+                "image_highlight": "images/products/0x174226/image_highlight_1591248771043.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "hất liệu inox siêu bền: Thân và ruột bình đun siêu tốc Kangaroo KG15SK3 được làm bằng Inox SUS304 có khả năng chịu nhiệt cao, không mùi, không gây độc hại cho người tiêu dùng.",
+                "promotion_desc": "tiết kiệm 61.000 đồng, giảm 14%.",
+                "keywords": "Bộ hộp cơm sứ, lunch box",
+                "viewcount": 4,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 379000,
+                    "listed_price_with_vat": 440000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1540d5",
+                    "manufacturer_name": "CÔNG TY TNHH DONG HWA"
+                },
+                "product.supplier": {
+                    "uid": "0x145108",
+                    "supplier_name": "CÔNG TY TNHH DONG HWA"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x1e8ee1",
+                        "collection_name": "Chén Đũa & Tô & Đĩa"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540e6",
+                    "brand_name": "DONG HWA"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ]
+            },
+            {
+                "uid": "0x1dea44",
+                "sku_id": "10000773",
+                "product_name": "Bộ trà hỏa biến khắc sen",
+                "display_name": "Bộ bình trà men họa biến khắc sen",
+                "display_name_detail": "Bộ bình trà Bát Tràng men họa biến khắc sen",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1dea44/image_cover_1591765171866.jpeg",
+                "image_highlight": "images/products/0x1dea44/image_highlight_1591765171934.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ ấm chén sen xanh men hỏa biến bao gồm một ấm trà 500ml và 6 cái chén được sản xuất tại làng gốm Bát Tràng. Sản phẩm có màu xanh hỏa biến kết hợp với họa tiết hoa sen được vẽ tay rất tỉ mỉ.",
+                "promotion_desc": " tiết kiệm 219.900 đồng, giảm 25%.",
+                "keywords": "Bộ bình trà, bộ ấm trà, Bát Tràng, bộ ấm chén",
+                "viewcount": 8,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Xuất xứ: Sứ Minh Châu Cao Cấp</p>\n<p>Bộ sản phẩm gồm: 1 đĩa, 6 chén, 1 ấm dung tích 350ml.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 659000,
+                    "listed_price_with_vat": 878900
+                },
+                "product.manufacturer": {
+                    "uid": "0x1dea4c",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x149885",
+                    "supplier_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2f",
+                        "collection_name": "Ấm & Ly & Tách"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1de6ff",
+                    "brand_name": "Minh Châu"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea44/thumb_1591778026024.jpeg",
+                        "source": "images/products/0x1dea44/source_1591778026347.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea44/thumb_1591778026089.jpeg",
+                        "source": "images/products/0x1dea44/source_1591778026417.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea44/thumb_1591778026100.jpeg",
+                        "source": "images/products/0x1dea44/source_1591778026492.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea44/thumb_1591778026153.jpeg",
+                        "source": "images/products/0x1dea44/source_1591778026565.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea44/thumb_1591778026005.jpeg",
+                        "source": "images/products/0x1dea44/source_1591778026163.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1444af",
+                "sku_id": "10000612",
+                "product_name": "Bộ nồi chảo chống dính Elmich EL- 1162 đáy từ (16,20, 24cm)",
+                "display_name": "Bộ nồi chảo chống dính Elmich đáy từ",
+                "display_name_detail": "Bộ nồi chảo chống dính Elmich EL- 1162 đáy từ (16,20, 24cm)",
+                "color": "#f48024",
+                "image_cover": "images/0x1444af/image_cover_1589539486837.jpeg",
+                "image_highlight": "images/0x1444af/image_highlight_1589539486838.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Sử dụng tốt trên tất cả các loại bếp. Truyền nhiệt đều, giữ nhiệt lâu, chống cháy khét cục bộ, giúp bảo toàn vitamin và dinh dưỡng trong quá trình nấu.",
+                "promotion_desc": "tiết kiệm 800.000 đồng, giảm 40%.",
+                "keywords": "bộ nồi, chảo chống dính, elmich",
+                "viewcount": 40,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Lòng trong phủ chống dính Greblon C2 an toàn cho sức khỏe số 1 của Đức.</p>\n<p>Tay cầm chống nóng, an toàn cho người sử dụng.</p>\n<p>Thiết kế sang trọng, hiện đại mang phong cách châu Âu.</p>\n<p>Sản phẩm được sản xuất trên dây chuyền công nghệ và đạt tiêu chuẩn chất lượng châu Âu.&nbsp;</p>\n<p>Bộ nồi chảo EL-1162 gồm: 3 nồi đường kính 16, 20 và 24 cm và 1 chảo đường kính 26cm.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1190000,
+                    "listed_price_with_vat": 1690000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14433d",
+                    "manufacturer_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                },
+                "product.supplier": {
+                    "uid": "0x144329",
+                    "supplier_name": "CHI NHÁNH CÔNG TY TNHH THƯƠNG MẠI ELMICH"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be22",
+                        "collection_name": "Dụng cụ Nhà bếp",
+                        "collection_image": "collection_images/0x13be22.jpg"
+                    },
+                    {
+                        "uid": "0x13be2c",
+                        "collection_name": "Nồi & Xoong & Chảo"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x14430c",
+                    "brand_name": "Elmich"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1444af/thumb_1589861458531.jpeg",
+                        "source": "images/products/0x1444af/source_1589861458534.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1444af/thumb_1589861458532.jpeg",
+                        "source": "images/products/0x1444af/source_1589861458535.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1444af/thumb_1589861458533.jpeg",
+                        "source": "images/products/0x1444af/source_1589861458536.jpeg"
+                    }
+                ],
+                "videos": [
+                    {
+                        "media_type": "video",
+                        "thumb": "images/products/0x1444af/thumb_1592548666066.jpeg",
+                        "source": "videos/products/0x1444af/source_1592548664761.mp4"
+                    }
+                ]
+            },
+            {
+                "uid": "0x1dea1b",
+                "sku_id": "10000769",
+                "product_name": "Combo nồi nắp sứ - Màu be",
+                "display_name": "Combo nồi NOVIcook màu be + 1 ly sứ",
+                "display_name_detail": "Combo nồi NOVIcook (nồi cạn, nồi sâu 1.5L, nồi sâu 2L) màu be, nắp nâu",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1dea1b/image_cover_1591851173347.jpeg",
+                "image_highlight": "images/products/0x1dea1b/image_highlight_1591768336315.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bao gồm: 1 nồi cạn1,2L; 1 nồi  1,5L; 1 nồi sâu 2L Nguyên liệu thiên nhiên, an toàn sức khỏe. Giữ nhiệt tốt và tăng hương vị món ăn. Sử dụng được trên: bếp gas, bếp hồng ngoại, lò vi ba, lò nướng.",
+                "promotion_desc": "tặng 1 ly sứ, tiết kiệm 270.000 đồng, giảm 35%.",
+                "keywords": "Bộ nồi cao cấp, Bộ nồi nhà bếp,Chảo sứ, Nhà bếp, Nồi cạn, Nồi đất, Nồi đất NOVIcook, Nồi phát tài",
+                "viewcount": 3,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>NỒI ĐẤT NOVIcook được sản xuất trên dây chuyền công nghệ hiện đại, lựa chọn từ nguồn nguyên liệu tốt nhất trên thế giới để cho ra đời những dòng sản phẩm đẹp mà giá cả phải chăng &amp; an toàn với sức khỏe của người dùng.</p>\n<p>Nồi đất là loại nồi làm từ đất sét do đó nó có khả năng giữ nhiệt tốt và mang lại hương vị thơm ngon cho món ăn, ngon hơn khi nấu bằng các loại nồi nhôm, inox, đây là lý do mà các bà mẹ luôn phải trữ ít nhất một chiếc nồi đất cho mình... Nồi đất thích hợp để nấu các món ăn như: cá kho tộ, thịt kho… Nồi đất rất an toàn cho sức khỏe, không lo tình trạng hoen rỉ như những loại nồi kim loại kém chất lượng trên thị trường</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 509000,
+                    "listed_price_with_vat": 726000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1dea4c",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x149885",
+                    "supplier_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2c",
+                        "collection_name": "Nồi & Xoong & Chảo"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1de6ff",
+                    "brand_name": "Minh Châu"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea1b/thumb_1591777647524.jpeg",
+                        "source": "images/products/0x1dea1b/source_1591777647659.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea1b/thumb_1591777647546.jpeg",
+                        "source": "images/products/0x1dea1b/source_1591777647693.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea1b/thumb_1591777647580.jpeg",
+                        "source": "images/products/0x1dea1b/source_1591777647779.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea1b/thumb_1591777647600.jpeg",
+                        "source": "images/products/0x1dea1b/source_1591777647830.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea1b/thumb_1591777647610.jpeg",
+                        "source": "images/products/0x1dea1b/source_1591777647948.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1df480",
+                "sku_id": "10000803",
+                "product_name": "NỒI TT LUMINARC VITRO BLOOMING TRẮNG ĐẾ TỪ 1L",
+                "display_name": "Nồi thủy tinh Luminarc đáy từ 1L",
+                "display_name_detail": "Nồi Thủy Tinh Luminarc Vitro Blooming Trắng Đế Từ 1L",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1df480/image_cover_1591769721135.jpeg",
+                "image_highlight": "images/products/0x1df480/image_highlight_1591769721194.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Dung tích 1 lít. Chất liệu Vitroceramic của hãng Luminarc. Dễ dàng vệ sinh do men nồi được làm mịn. Thiết kế đẹp, bắt mắt với các bà nội trợ, phù hợp với không gian bếp. Sử dụng được bếp từ.",
+                "promotion_desc": " tiết kiệm 684.300 đồng, giảm 39%.",
+                "keywords": "nồi thủy tinh, Luminarc, nồi Luminarc, nồi, quánh, thủy tinh, nồi tay cầm, đáy từ, nồi đáy từ",
+                "viewcount": 1,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nồi Thủy Tinh Luminarc Blooming Vitro H6009 - (1L) dung tích 1 lít sẽ là sợ trợ thủ đắc lực và đáng tin cậy của các bà nội trợ. Nồi được sản xuất từ nguyên liệu Vitroceramic cao cấp, chịu nhiệt độ cao và sự va đập nhẹ. Nồi có thể dùng được cho cả bếp gas, lò vi sóng và cả lò thông thường.</p>\n<p>Các tính năng nổi bật</p>\n<p>- Dung tích 1 lít</p>\n<p>- Chất liệu Vitroceramic của hãng Luminarc</p>\n<p>- Khả năng giữ nhiệt tốt.</p>\n<p>- Dễ dàng vệ sinh do men nồi được làm mịn.</p>\n<p>- Thiết kế đẹp, bắt mắt với các bà nội trợ, phù hợp với không gian bếp.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1090000,
+                    "listed_price_with_vat": 1774300
+                },
+                "product.manufacturer": {
+                    "uid": "0x1da997",
+                    "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                },
+                "product.supplier": {
+                    "uid": "0x1190c7",
+                    "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2c",
+                        "collection_name": "Nồi & Xoong & Chảo"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1da9a1",
+                    "brand_name": "Luminarc"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1df480/thumb_1591787305728.jpeg",
+                        "source": "images/products/0x1df480/source_1591787305519.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1df480/thumb_1591787305738.jpeg",
+                        "source": "images/products/0x1df480/source_1591787305580.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1df480/thumb_1591787305748.jpeg",
+                        "source": "images/products/0x1df480/source_1591787305638.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1df480/thumb_1591787305779.jpeg",
+                        "source": "images/products/0x1df480/source_1591787305651.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1df480/thumb_1591787305719.jpeg",
+                        "source": "images/products/0x1df480/source_1591787305486.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1e57b1",
+                "sku_id": "10001005",
+                "product_name": "BỘ BÌNH LY TT LUMINARC TIVOLI MAZE GOLD 7 MÓN ",
+                "display_name": "Bộ ly Luminarc Tivoli Maze Gold 7 món ",
+                "display_name_detail": "Bộ bình ly thủy tinh Luminarc Tivoli Maze Gold 7 món ",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1e57b1/image_cover_1592389577512.jpeg",
+                "image_highlight": "images/products/0x1e57b1/image_highlight_1592389577552.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ gồm 7 món Gồm 1 bình và 6 ly Chất liệu: Thuỷ tinh trong suốt Dung tích bình: 1.6 lít Dung tích ly: 270 ml Chống bám bẩn, dễ chùi rửa Màu sắc: Hoa văn Nhà sản xuất: Luminarc Xuất xứ: Ả Rập.",
+                "promotion_desc": " tiết kiệm 90.000 đồng, giảm 30%.",
+                "keywords": "đồ dùng bàn ăn, bộ bình ly, bộ bình ly thủy tinh Luminarc",
+                "viewcount": 13,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Bộ Bình Ly Thủy Tinh Luminarc 7 Món Maze Gold J6283 sở hữu vẻ ngoài sang trọng, nổi bật hơn với các chi tiết tứ giác màu vàng cánh hoa cách điệu đan xen trên nền thủy tinh trong suốt ấy. Bên cạnh đó, Luminarc Maze Gold J6283 có khả năng chống bám bụi và chịu va đập tốt, có thể dùng được trong lò vi sóng cũng như trong máy rửa chén bát nên tuyệt đối an toàn cho sức khỏe. Với sản phẩm này, nhà bếp hoặc phòng khách sẽ có thêm điểm nhấn thật bắt mắt, khiến không gian nội thất của bạn trở nên hiện đại hơn.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 209000,
+                    "listed_price_with_vat": 299000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1da997",
+                    "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                },
+                "product.supplier": {
+                    "uid": "0x1190c7",
+                    "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2f",
+                        "collection_name": "Ấm & Ly & Tách"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1da9a1",
+                    "brand_name": "Luminarc"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e57b1/thumb_1592448486618.jpeg",
+                        "source": "images/products/0x1e57b1/source_1592448486781.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e57b1/thumb_1592448486631.jpeg",
+                        "source": "images/products/0x1e57b1/source_1592448486815.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e57b1/thumb_1592448486646.jpeg",
+                        "source": "images/products/0x1e57b1/source_1592448486860.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e57b1/thumb_1592448486718.jpeg",
+                        "source": "images/products/0x1e57b1/source_1592448486905.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e57b1/thumb_1592448486554.jpeg",
+                        "source": "images/products/0x1e57b1/source_1592448486744.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1e154f",
+                "sku_id": "10000940",
+                "product_name": "MISHIO - BỘ NỒI INOX",
+                "display_name": "Bộ nồi inox Mishio",
+                "display_name_detail": "Bộ nồi inox Mishio",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1e154f/image_cover_1592543642136.jpeg",
+                "image_highlight": "images/products/0x1e154f/image_highlight_1592543642175.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Gồm 4 nồi inox có nắp với các kích thước: 14cm, 18cm, 22cm, 26cm. Tặng 1 nồi xửng hấp + 1 bộ 6 chén và đũa+ 1 bộ 5 thố thủy tinh.",
+                "promotion_desc": "tặng 1 nồi xửng hấp + 1 bộ 6 chén và đũa+ 1 bộ 5 thố thủy tinh.",
+                "keywords": "nồi, nồi inox, bộ nồi",
+                "viewcount": 22,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Là sản phẩm đáp ứng mọi nhu cầu nấu ăn và tiện lợi khi sử dụng. Chất liệu nồi bằng inox 410 bền đẹp, sáng bóng, không gỉ sét. Nồi có thể nấu trên mọi loại bếp tiện dụng trong mỗi gia đình</p>\n<p>Chất liệu: Inox 410, một 1 đáy</p>\n<p>Dung tích: Nồi 14 ~1L, Nồi 18 ~2L, Nồi 22 ~4L, Nồi 26 ~6L, Nồi 30 ~9L</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 499000,
+                    "listed_price_with_vat": 499000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1e09d1",
+                    "manufacturer_name": "VGS"
+                },
+                "product.supplier": {
+                    "uid": "0x1da9f1",
+                    "supplier_name": "VGS"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2c",
+                        "collection_name": "Nồi & Xoong & Chảo"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1e0a04",
+                    "brand_name": "Mishio"
+                },
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e154f/thumb_1592456132205.jpeg",
+                        "source": "images/products/0x1e154f/source_1592456132611.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e154f/thumb_1592456132215.jpeg",
+                        "source": "images/products/0x1e154f/source_1592456132418.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e154f/thumb_1592456132325.jpeg",
+                        "source": "images/products/0x1e154f/source_1592456132463.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e154f/thumb_1592456132363.jpeg",
+                        "source": "images/products/0x1e154f/source_1592456132485.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e154f/thumb_1592456132404.jpeg",
+                        "source": "images/products/0x1e154f/source_1592456132508.jpeg"
+                    }
+                ],
+                "videos": [
+                    {
+                        "media_type": "video",
+                        "thumb": "images/products/0x1e154f/thumb_1592533674155.jpeg",
+                        "source": "videos/products/0x1e154f/source_1592533674170.mp4"
+                    }
+                ]
+            },
+            {
+                "uid": "0x1e4a2f",
+                "sku_id": "10000996",
+                "product_name": "CHẢO CD ĐÁY TỪ FLONAL MINERALITE XÁM 26CM",
+                "display_name": "Chảo đáy từ Flonal Mineralite xám 26cm",
+                "display_name_detail": "Chảo chống dính đáy từ Flonal Mineralite xám 26cm",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1e4a2f/image_cover_1592795376307.jpeg",
+                "image_highlight": "images/products/0x1e4a2f/image_highlight_1592795376332.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Chảo Đáy Từ Chống Dính Flonal 26cm Lớp sơn phủ chống dính hoàn hảo không chứa chất độc hại PFOA Lớp sơn giữa tăng cường chống trầy xước và mài mòn Thân nhôm nguyên khối (tinh khiết 99%), dày 2.7mm.",
+                "promotion_desc": " tiết kiệm 196.000 đồng, giảm 22%.",
+                "keywords": "dụng cụ nấu ăn, nồi&chảo, chảo chống dính, chảo đáy từ, chảo chống dính đáy từ Flonal",
+                "viewcount": 2,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Chảo Đáy Từ Chống Dính Mineralite Flonal MIIPB2661 (26cm) - Xám có 7 lớp phủ theo công nghệ mới, với chất liệu thân nhôm nguyên khối, dày 2.7mm, giúp cho chảo có khả năng giữ nhiệt cũng như phân bố nhiệt tốt, lưu giữ trọn vẹn hương vị cũng như chất dinh dưỡng của món ăn, đảm bảo sức khỏe cho cả gia đình bạn.</p>\n<p>Chất liệu cao cấp chống gỉ sét, không bị oxy hóa và không tương tác hóa học với thực phẩm, đảm bảo an toàn cho sức khỏe người dùng.</p>\n<p>Lớp sơn chống dính với công nghệ teflon chất lượng và lâu bền, không chứa chất độc hại PFOA, giúp thức ăn khi nấu nướng không bị dính chảo gây vỡ nát, cháy khét, giữ nguyên được hình dạng và chất dinh dưỡng có trong thực phẩm.</p>\n<p>Lòng chảo được thiết kế vân nổi giúp giảm thiểu chất béo cho bữa ăn. Đáy từ bằng thép cứng chắc giúp bạn nấu được trên nhiều loại bếp, bao gồm cả bếp từ.</p>\n<p>Tay cầm chắc chắn, được làm bằng nhựa cách nhiệt, có khả năng chống nóng tốt, giúp bạn cầm nắm, di chuyển chảo dễ dàng ngay cả khi đang nấu, đảm bảo an toàn cho người sử dụng. Đầu tay cầm có lỗ nhỏ để bạn có thể treo nồi lên tường, kệ bếp khi không dùng tới, giữ cho gian bếp luôn gọn gàng, sạch sẽ.</p>\n<p>Sản phẩm sở hữu màu sắc trang nhã, góp phần mang đến vẻ sang trọng, hiện đại cho không gian bếp nhà bạn.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 699000,
+                    "listed_price_with_vat": 895000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1da997",
+                    "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                },
+                "product.supplier": {
+                    "uid": "0x1190c7",
+                    "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2c",
+                        "collection_name": "Nồi & Xoong & Chảo"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1e4806",
+                    "brand_name": "Flonal"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e4a2f/thumb_1592448002251.jpeg",
+                        "source": "images/products/0x1e4a2f/source_1592448002350.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e4a2f/thumb_1592448002278.jpeg",
+                        "source": "images/products/0x1e4a2f/source_1592448002444.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e4a2f/thumb_1592448002338.jpeg",
+                        "source": "images/products/0x1e4a2f/source_1592448002462.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1dd864",
+                "sku_id": "10000783",
+                "product_name": "Bộ nồi inox 5 đáy liên doanh KG864",
+                "display_name": "Bộ nồi inox 5 đáy liên doanh KG864",
+                "display_name_detail": "Bộ nồi inox 5 đáy liên doanh Kangaroo KG864",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1dd864/image_cover_1591764870558.jpeg",
+                "image_highlight": "images/products/0x1dd864/image_highlight_1591764870600.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thân nồi bằng chất liệu inox cao cấp, sáng bóng. Nắp kính dày, chịu lực chịu nhiệt, có lỗ thông hơi chống tràn khi đun sôi.",
+                "promotion_desc": " tiết kiệm 781.000 đồng, giảm 57%.",
+                "keywords": "bộ nồi, inox,  kangaroo",
+                "viewcount": 151,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Đáy nồi với công nghệ đáy 5 lớp (Inox cao cấp, nhôm nguyên chất, kim loại, nhôm nguyên chất, Inox 430</p>\n<p>• Lòng nồi sáng bóng, chống trầy xước, giảm cháy và dính thức ăn</p>\n<p>• Quai nồi mạ màu vàng sang trọng.</p>\n<p>• Kích thước nồi : 16 cm, 20 cm, 24 cm</p>\n<p>• Dùng được cho mọi loại bếp.</p>\n<p>– &nbsp;Chất liệu: Inox cao cấp</p>\n<p>– &nbsp;Cấu tạo đáy: 5 lớp</p>\n<p>– &nbsp;Kích thước sản phẩm: 16 cm, 20 cm, 24 cm</p>\n<p>– &nbsp;Khối lượng: 3,1 kg</p>\n<p>– &nbsp;Kích thước: 270x270x270 (mm).</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 599000,
+                    "listed_price_with_vat": 1380000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1dd7bd",
+                    "manufacturer_name": "CN CT CỔ PHẦN TẬP ĐOÀN ĐIỆN LẠNH ĐIỆN MÁY VIỆT ÚC"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff8",
+                    "supplier_name": "CN CT CỔ PHẦN TẬP ĐOÀN ĐIỆN LẠNH ĐIỆN MÁY VIỆT ÚC"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2c",
+                        "collection_name": "Nồi & Xoong & Chảo"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1540e0",
+                    "brand_name": "KAGAROO"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dd864/thumb_1591782305196.jpeg",
+                        "source": "images/products/0x1dd864/source_1591782305400.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dd864/thumb_1591782305246.jpeg",
+                        "source": "images/products/0x1dd864/source_1591782305426.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dd864/thumb_1591782305057.jpeg",
+                        "source": "images/products/0x1dd864/source_1591782305257.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dd864/thumb_1591782305076.jpeg",
+                        "source": "images/products/0x1dd864/source_1591782305291.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dd864/thumb_1591782305175.jpeg",
+                        "source": "images/products/0x1dd864/source_1591782305330.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x14458b",
+                "sku_id": "10000365",
+                "product_name": "Bộ 5 hộp thủy tinh 160, 350, 720, 490, 900ml",
+                "display_name": "Bộ 5 hộp thủy tinh Glasslock",
+                "display_name_detail": "Bộ 5 hộp thủy tinh Glasslock GL 1880 (160ml, 350ml, 720ml, 490ml, 900ml)",
+                "color": "#f48024",
+                "image_cover": "images/0x14458b/image_cover_1589539284527.jpeg",
+                "image_highlight": "images/products/0x14458b/image_highlight_1590143997077.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 5 hộp thủy tinh Glasslock GL1880 là một bộ sản phẩm được làm từ thủy tinh chịu lực, nên hộp có độ bền rất cao, vì thế bạn có thể sử dụng được trong lò vi sóng, trong tủ lạnh, máy rửa chén.",
+                "promotion_desc": "tiết kiệm 415.000 đồng, giảm 49%.",
+                "keywords": "hộp thủy tinh, glass lock",
+                "viewcount": 739,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 440000,
+                    "listed_price_with_vat": 855000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14453f",
+                    "manufacturer_name": "CÔNG TY TNHH COMO VINA"
+                },
+                "product.supplier": {
+                    "uid": "0x13c358",
+                    "supplier_name": "CÔNG TY TNHH COMMO VINA"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2e",
+                        "collection_name": "Hộp & Khay & Lọ"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x14430b",
+                    "brand_name": "Glasslock"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x14458b/thumb_1589861335333.jpeg",
+                        "source": "images/products/0x14458b/source_1589861335338.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x14458b/thumb_1589861335329.jpeg",
+                        "source": "images/products/0x14458b/source_1589861335334.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x14458b/thumb_1589861335330.jpeg",
+                        "source": "images/products/0x14458b/source_1589861335335.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x14458b/thumb_1589861335331.jpeg",
+                        "source": "images/products/0x14458b/source_1589861335336.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x14458b/thumb_1589861335332.jpeg",
+                        "source": "images/products/0x14458b/source_1589861335337.jpeg"
+                    }
+                ],
+                "videos": [
+                    {
+                        "media_type": "video",
+                        "thumb": "images/products/0x14458b/thumb_1591335386374.jpeg",
+                        "source": "videos/products/0x14458b/source_1591335386523.mp4"
+                    }
+                ]
+            },
+            {
+                "uid": "0x144664",
+                "sku_id": "10000411",
+                "product_name": "Bộ 03 hộp thủy tinh 400ml + 715ml*2 và túi giữ nhiệt",
+                "display_name": "Bộ 3 hộp thủy tinh Glasslock ",
+                "display_name_detail": "Bộ 3 hộp thủy tinh cường lực Glasslock (400ml và 715ml *2) + túi giữ nhiệt",
+                "color": "#f48024",
+                "image_cover": "images/0x144664/image_cover_1589540985782.jpeg",
+                "image_highlight": "images/products/0x144664/image_highlight_1590144022301.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ 3 hộp thủy tinh cường lực Glasslock 400ml và 715ml *2 + túi giữ nhiệt dung tích sản phẩm: 3 hộp thủy tinh cường lực: hộp 400ml và 715ml *2. Sản phẩm làm bằng thủy tinh cường lực.",
+                "promotion_desc": "tiết kiệm 333.000 đồng, giảm 49%.",
+                "keywords": "hộp thủy tinh, glass lock",
+                "viewcount": 1572,
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "product.pricing": {
+                    "price_with_vat": 343000,
+                    "listed_price_with_vat": 676000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14453f",
+                    "manufacturer_name": "CÔNG TY TNHH COMO VINA"
+                },
+                "product.supplier": {
+                    "uid": "0x13c358",
+                    "supplier_name": "CÔNG TY TNHH COMMO VINA"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2e",
+                        "collection_name": "Hộp & Khay & Lọ"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x14430b",
+                    "brand_name": "Glasslock"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144664/thumb_1589860991910.jpeg",
+                        "source": "images/products/0x144664/source_1589860991915.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144664/thumb_1589860991911.jpeg",
+                        "source": "images/products/0x144664/source_1589860991916.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144664/thumb_1589860991912.jpeg",
+                        "source": "images/products/0x144664/source_1589860991917.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144664/thumb_1589860991913.jpeg",
+                        "source": "images/products/0x144664/source_1589860991918.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144664/thumb_1589860991909.jpeg",
+                        "source": "images/products/0x144664/source_1589860991914.jpeg"
+                    }
+                ],
+                "videos": [
+                    {
+                        "media_type": "video",
+                        "thumb": "images/products/0x144664/thumb_1591339403836.jpeg",
+                        "source": "videos/products/0x144664/source_1591339403873.mp4"
+                    }
+                ]
+            },
+            {
+                "uid": "0x1dea3c",
+                "sku_id": "10000772",
+                "product_name": "Bộ bàn ăn 12 sản phẩm hoa bạch kim",
+                "display_name": "Bộ chén đĩa 12 sản phẩm hoa bạch kim",
+                "display_name_detail": "Bộ 12 sản phẩm hoa bạch kim (6 chén, 1 tô, 3 đĩa, 1 chén chấm, 1 đĩa chấm)",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1dea3c/image_cover_1591764255000.jpeg",
+                "image_highlight": "images/products/0x1dea3c/image_highlight_1591764255024.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Bộ bàn ăn 12 sản phẩm hoa bạch kim: 6 bát cơm. 1 tô canh. 3 đĩa. 2 chấm. Chất liệu gốm sứ Minh Châu cao cấp. Họa tiết hoa bạch kim tinh tế. Được nung ở nhiệt độ cao đến 130 độ C.",
+                "promotion_desc": " tiết kiệm 260.000 đồng, giảm 50%.",
+                "keywords": "Bộ bàn ăn, bộ chén đĩa, sứ Minh Châu cao cấp, nhà bếp",
+                "viewcount": 107,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Chất liệu gốm sứ Minh Châu cao cấp.</p>\n<p>Họa tiết hoa bạch kim tinh tế.</p>\n<p>Sản phẩm có độ bóng mịn, dễ lau chùi.</p>\n<p>Được nung ở nhiệt độ cao đến 1300 C</p>\n<p>Sản phẩm bền, cứng, hạn chế mẻ hay trầy xước.</p>\n<p>Loại bỏ các tạp chất không cần thiết.</p>\n<p>Không chứa chì, Cadmium và một số chất độc hại khác.</p>\n<p>Sản phẩm hay hoa văn không bị rạn nứt trong quá trình sử dụng.</p>\n<p>Khó bám bẩn, dễ tẩy rửa.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 300000,
+                    "listed_price_with_vat": 529000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1dea4c",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                },
+                "product.supplier": {
+                    "uid": "0x149885",
+                    "supplier_name": "CÔNG TY CỔ PHẦN SỨ VIỆT NAM"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x1e8ee1",
+                        "collection_name": "Chén Đũa & Tô & Đĩa"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1de6ff",
+                    "brand_name": "Minh Châu"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea3c/thumb_1591777937765.jpeg",
+                        "source": "images/products/0x1dea3c/source_1591777937854.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea3c/thumb_1591777937805.jpeg",
+                        "source": "images/products/0x1dea3c/source_1591777937900.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea3c/thumb_1591777937830.jpeg",
+                        "source": "images/products/0x1dea3c/source_1591777937942.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1dea3c/thumb_1591777937838.jpeg",
+                        "source": "images/products/0x1dea3c/source_1591777937960.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1e47e9",
+                "sku_id": "10000987",
+                "product_name": "NỒI ÁP SUẤT CAO ĐÁY TỪ HAPPYCALL XANH 28CM",
+                "display_name": "Nồi áp suất đáy từ Happycall xanh 28cm",
+                "display_name_detail": "Nồi áp suất cao đáy từ Happycall xanh 28cm",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1e47e9/image_cover_1592390684593.jpeg",
+                "image_highlight": "images/products/0x1e47e9/image_highlight_1592390684625.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Nồi áp suất cao đáy từ HappyCall xanh 28cm (4,6 lit) làm từ chất liệu nhôm kết hợp với thép không gỉ. Sử dụng được với tất cả các loại bếp như bếp điện, bếp ga, bếp điện từ.",
+                "promotion_desc": " tiết kiệm 960.000 đồng, giảm 39%.",
+                "keywords": "dụng cụ nhà bếp, đồ dùng nấu ăn, nồi đáy từ, nồi áp suất, nồi áp suất đáy từ Happy Call",
+                "viewcount": 26,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": false,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Nồi áp suất Happycall 28cm màu xanh thiết kế xoắn tròn độc đáo trải dài, tỏa đều nhiệt độ, giữ nhiệt lâu giúp thức ăn chín đều.</p>\n<p>Vỏ và ruột nồi áp suất HappyCall làm từ chất liệu nhôm nguyên chất và thép không gỉ, được bao phủ bởi lớp Alumite, gốm thuần khiết có tính chống mài mòn cao giúp bề mặt bóng mịn, tăng độ bền, chống bám cặn, dễ dàng vệ sinh.</p>\n<p>Nắp thủy tinh cường lực trong suốt giúp theo dõi quá trình đun nấu được dễ dàng hơn và tránh được việc thức ăn bị sôi trào.</p>\n<p>Tay cầm thiết kế độc đáo có khả năng chống nóng và để nắp không tiếp xúc với bề mặt vệ sinh trong nấu nướng.</p>\n<p>Nút van cao su điều chỉnh hơi nước đặc biệt ở nắp nồi áp suất cơ giúp bạn có thể điều chỉnh thoát hơi nước theo ý muốn hoặc hơi nước sẽ tự bốc hơi qua lỗ van này để nấu ăn được thuận tiện hơn.</p>\n<p>Nồi còn có thể sử dụng được cho tất cả các loại bếp như: bếp ga, bếp điện và bếp điện từ, bếp hồng ngoại.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 1490000,
+                    "listed_price_with_vat": 2450000
+                },
+                "product.manufacturer": {
+                    "uid": "0x1da997",
+                    "manufacturer_name": "CÔNG TY XNK VINH PHÁT"
+                },
+                "product.supplier": {
+                    "uid": "0x1190c7",
+                    "supplier_name": "CÔNG TY TNHH QUỐC TẾ VINH PHÁT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be2c",
+                        "collection_name": "Nồi & Xoong & Chảo"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x1e1abe",
+                    "brand_name": "HAPPY CALL"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e47e9/thumb_1592447511900.jpeg",
+                        "source": "images/products/0x1e47e9/source_1592447512220.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e47e9/thumb_1592447511953.jpeg",
+                        "source": "images/products/0x1e47e9/source_1592447512284.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e47e9/thumb_1592447511860.jpeg",
+                        "source": "images/products/0x1e47e9/source_1592447511995.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e47e9/thumb_1592447511877.jpeg",
+                        "source": "images/products/0x1e47e9/source_1592447512057.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1e47e9/thumb_1592447511888.jpeg",
+                        "source": "images/products/0x1e47e9/source_1592447512148.jpeg"
+                    }
+                ],
+                "videos": []
+            }
+        ],
+        "count_products": 14
+    }
+}

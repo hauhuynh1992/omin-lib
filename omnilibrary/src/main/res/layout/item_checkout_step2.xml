@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    sfView:cardBackgroundColor="@color/color_transparent">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/con"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:background="@color/color_transparent"
+        android:orientation="vertical"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:outlineSpotShadowColor="@color/text_black_70"
+        android:theme="@style/ItemStyle"
+        sfView:cardBackgroundColor="@color/color_transparent"
+        sfView:cardCornerRadius="@dimen/_5sdp"
+        sfView:cardElevation="@dimen/_5sdp"
+        sfView:cardPreventCornerOverlap="true"
+        sfView:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_25sdp"
+            android:background="#F3F3F3">
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/_10sdp"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/_8ssp"
+                sfView:type="bold" />
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginEnd="@dimen/_10sdp" />
+
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+
+</RelativeLayout>

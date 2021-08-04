@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingDefaultResource">
+    <!-- Focused and not pressed -->
+    <item android:drawable="@drawable/background_item_focus" android:state_focused="true" android:state_pressed="false" />
+
+    <!-- Focused and pressed -->
+    <item android:drawable="@drawable/background_item_focus" android:state_focused="true" android:state_pressed="true" />
+
+    <!-- Focused and pressed -->
+    <item android:drawable="@drawable/background_item_focus" android:state_selected="true" />
+
+    <!-- Unfocused and pressed -->
+    <!-- Default color -->
+    <item android:drawable="@drawable/item_color_unselected" />
+</selector>
+
+    <!--  <?xml version="1.0" encoding="utf-8"?>
+  <selector xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@mipmap/icon_cart_gray_active" android:state_selected="true" />
+  <item android:drawable="@mipmap/icon_cart_gray_active" android:state_focused="true" />
+  <item android:drawable="@mipmap/icon_cart_gray_active" android:state_pressed="true" />
+  <item android:drawable="@mipmap/icon_cart_gray" />
+  </selector>-->

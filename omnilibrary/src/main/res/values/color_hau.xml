@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trans">#00000000</color>
+    <color name="bg_gray_video">#80000000</color>
+    <color name="bg_cancel">#fad9cc</color>
+    <color name="text_cancel">#E00000</color>
+    <color name="bg_deliveried">#2E9B93</color>
+    <color name="bg_delivering">#4cc0ec</color>
+    <color name="color_a1b753">#a1b753</color>
+
+    <color name="color_order_payment_pending">#ec7623</color>
+    <color name="color_order_processing">#48b5e7</color>
+    <color name="color_order_delivering">#44b4e6</color>
+    <color name="color_order_delivered">#48b09a</color>
+    <color name="color_order_cancelled">#e53811</color>
+    <color name="color_order_returning">#44b4e6</color>
+    <color name="color_order_refund">#48b09a</color>
+</resources>

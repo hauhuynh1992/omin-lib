@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:SfView="http://schemas.android.com/apk/res-auto"
+    xmlns:sfView="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_status"
+        android:layout_width="@dimen/_248sdp"
+        android:layout_height="@dimen/_24sdp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_22sdp"
+        android:background="@drawable/ic_signup_pass" />
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/img_status"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_18sdp"
+        android:text="@string/vui_long_thiet_lap_mat_khau_cho_tk_cua_ban"
+        android:textColor="#0A0F06"
+        android:textSize="@dimen/_8ssp"
+        android:textStyle="bold"
+        sfView:type="medium" />
+
+
+    <com.bda.omnilibrary.views.SfEditText
+        android:id="@+id/edt_password"
+        android:layout_width="@dimen/_155sdp"
+        android:layout_height="@dimen/_47sdp"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_minus5sdp"
+        android:background="@drawable/strock_round_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:hint="@string/password"
+        android:paddingLeft="@dimen/_50sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_7sdp"
+        SfView:type="bold" />
+
+    <com.bda.omnilibrary.views.SfEditText
+        android:id="@+id/edt_confirm_password"
+        android:layout_width="@dimen/_155sdp"
+        android:layout_height="@dimen/_47sdp"
+        android:layout_below="@+id/edt_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_minus22sdp"
+        android:background="@drawable/strock_round_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center_vertical"
+        android:hint="@string/confirm_new_password"
+        android:paddingLeft="@dimen/_40sdp"
+        android:paddingBottom="@dimen/_5sdp"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_7sdp"
+        SfView:type="bold" />
+
+    <com.bda.omnilibrary.views.SfButton
+        android:id="@+id/bn_complete"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="@dimen/_80sdp"
+        android:layout_height="@dimen/_42sdp"
+        android:layout_below="@id/edt_confirm_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="@dimen/_52sdp"
+        android:layout_marginTop="@dimen/_minus12sdp"
+        android:background="@drawable/ic_complete_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:nextFocusRight="@+id/bn_update_profile"
+        android:textSize="@dimen/_8ssp"
+        android:theme="@style/ItemStyle"
+        sfView:type="medium" />
+</RelativeLayout>

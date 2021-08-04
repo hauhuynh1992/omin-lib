@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_item_background">
+
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/text_guide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_22sdp"
+        android:text="@string/text_input_phone_login"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="@dimen/_7ssp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/edt_phone__"
+        android:layout_width="@dimen/_158sdp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text_guide"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_12sdp"
+        android:background="@drawable/main_trans_edittext_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:hint="@string/text_nhap_so_dt"
+        android:nextFocusDown="@+id/edt_password"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingBottom="@dimen/_4sdp"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_8sdp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/edt_password"
+        android:layout_width="@dimen/_158sdp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/edt_phone__"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_12sdp"
+        android:background="@drawable/main_trans_edittext_selector"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:gravity="center"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        android:nextFocusUp="@+id/edt_phone__"
+        android:nextFocusDown="@+id/bn_login"
+        android:paddingTop="@dimen/_4sdp"
+        android:paddingBottom="@dimen/_4sdp"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_8sdp"
+        android:textStyle="bold"
+        app:type="bold" />
+
+    <com.bda.omnilibrary.views.SfButton
+        android:id="@+id/bn_login"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="@dimen/_75sdp"
+        android:layout_height="@dimen/_20sdp"
+        android:layout_below="@+id/edt_password"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_12sdp"
+        android:background="@drawable/main_trans_button_selector"
+        android:text="@string/dang_nhap"
+        android:textAllCaps="true"
+        android:textColor="@drawable/text_button_selector"
+        android:textSize="@dimen/_8ssp"
+        app:type="medium" />
+
+    <com.bda.omnilibrary.custome.BDAKeyboardView
+        android:id="@+id/keyboard"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="#0A0F06"
+        android:nextFocusRight="@+id/keyboard"
+        android:paddingTop="@dimen/_17sdp"
+        android:paddingBottom="@dimen/_17sdp"
+        android:visibility="visible" />
+
+</RelativeLayout>

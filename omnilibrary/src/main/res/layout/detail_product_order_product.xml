@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layout_order_product"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/_5sdp"
+    android:orientation="vertical">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/tv_detail_order_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_24sdp"
+        android:text="@string/relative_product"
+        android:textColor="@color/text_color_dark"
+        android:textSize="@dimen/_11ssp"
+        app:type="bold"
+       />
+
+    <androidx.leanback.widget.HorizontalGridView
+        android:id="@+id/rv_detail_order_product"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:clipToPadding="false"
+        android:paddingStart="@dimen/_18sdp"
+        android:paddingEnd="@dimen/layout_padding"
+        app:numberOfRows="1"
+        app:rowHeight="wrap_content" />
+
+</LinearLayout>

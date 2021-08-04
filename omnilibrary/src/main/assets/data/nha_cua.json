@@ -1,0 +1,1675 @@
+{
+    "statusCode": 200,
+    "data": [
+        {
+            "uid": "0x13be33",
+            "collection_name": "Vệ sinh nhà cửa",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be35",
+            "collection_name": "Dụng cụ sửa chữa",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be37",
+            "collection_name": "Nội thất & Salon & Bàn ghế",
+            "count_items": 0
+        },
+        {
+            "uid": "0x13be38",
+            "collection_name": "Vali & Túi xách",
+            "count_items": 5,
+            "products": [
+                {
+                    "uid": "0x1190f3",
+                    "sku_id": "10000085",
+                    "product_name": "Balo Chống Thấm Nước ARCTIC HUNTER B00283 (USB)(Black)",
+                    "display_name": "Balo chống nước Hunter B00283 đen",
+                    "display_name_detail": "Balo chống thấm nước Arctic Hunter B00283 màu đen ",
+                    "color": "#f48024",
+                    "image_cover": "images/0x1190f3/image_cover.jpg",
+                    "image_highlight": "images/0x1190f3/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Có 6 ngăn. Đặc biệt có 1 ngăn laptop riêng biệt. Ngăn lớn rộng rãi có thể đựng IPad, điện thoại, sạc dự phòng, và các vật dụng cá nhân khác.",
+                    "promotion_desc": "tặng ngay 2 chai nước rửa tay khô Hapicare 60ml khi mua Balo HUNTER.",
+                    "keywords": "Balo, balo chống thấm nước, Arctic Hunter",
+                    "viewcount": 272,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Có thể gắn trên thanh kéo vali.<br>\nMặt lưng thiết kếđệm tổ ong giúp êm ái và thoáng khí.<br>\nQuai đeo thiết kếdày và mềm giúp người sử dụng không đau vai.<br>\nThích hợp đi chơi, du lịch,...</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 929000,
+                        "listed_price_with_vat": 929000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be38",
+                            "collection_name": "Vali & Túi xách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b689",
+                        "brand_name": "ARCTIC HUNTER"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x1190f3/thumb.1587639212653.jpg",
+                            "source": "images/0x1190f3/source.1587449431105.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x1190f3/thumb.1587636033162.jpg",
+                            "source": "images/0x1190f3/source.1587636033163.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1190f9",
+                    "sku_id": "10000088",
+                    "product_name": "Balo Chống Thấm Nước ARCTIC HUNTER B00285 (USB) (Camou flage)",
+                    "display_name": "Balo chống nước Hunter B00285 đen ",
+                    "display_name_detail": "Balo Chống Thấm Nước ARCTIC HUNTER B00285 màu đen ",
+                    "color": "#f48024",
+                    "image_cover": "images/0x1190f9/image_cover.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thiết kế độc đáo với 1 phong cách ngầu và lịch lãm. Chất liệu vải polyester mềm mại cao cấp.",
+                    "promotion_desc": " tặng 2 chai nước rửa tay khô Hapicare 60ml khi mua balo HUNTER.",
+                    "keywords": "Balo, balo chống thấm nước, Arctic Hunter",
+                    "viewcount": 29,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Đột phá với những chiếc balo truyền thống, ARCTIC HUNTER B00285 không dùng khoá kéo mà gập nắp balo rồi khoá chốt bấm với độ an toàn gấp nhiều lần.<br>\nSự tiện lợi cho việc lấy vật dụng khi cần thiết với thiết kế ngăn khoá kéo rời.<br>\nCó 6 ngăn với 1 ngăn lớn chứa tất cả trong 1 và 1 ngăn chứa điện thoại bên hông túi.<br>\nCó cổng kết nối sạc USB.<br>\nMặt lưng thiết kế đệm tổ ong giúp êm ái và thoáng khí.<br>\nQuai đeo thiết kế dày và mềm giúp người sử dụng không đau vai.<br>\nThích hợp đi làm, đi công tác, du lịch,...&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 955000,
+                        "listed_price_with_vat": 955000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be38",
+                            "collection_name": "Vali & Túi xách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b689",
+                        "brand_name": "ARCTIC HUNTER"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x1190f9/thumb.1587639309373.jpg",
+                            "source": "images/0x1190f9/source.1587832316515.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x1190f9/thumb.1587467372855.jpg",
+                            "source": "images/0x1190f9/source.1587467372856.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1190fd",
+                    "sku_id": "10000090",
+                    "product_name": "Túi Chéo Chống Nước ARCTIC HUNTER XB00090 (USB) ( Black)",
+                    "display_name": "Túi chéo chống thấm Hunter XB0090 đen ",
+                    "display_name_detail": "Túi chéo Chống Thấm Nước ARCTIC HUNTER  XB0090 (USB) màu đen",
+                    "color": "#f48024",
+                    "image_cover": "images/0x1190fd/image_cover.jpg",
+                    "image_highlight": "images/0x1190fd/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Có 4 ngăn lớn nhỏ với 1 ngăn ngoài và 2 ngăn trong, rộng rãi và có thể đựng được Ipad, điện thoại, sạc dự phòng, bút, ví… ",
+                    "promotion_desc": " tặng 1 chai nước rửa tay khô Hapicare 60ml khi mua túi đeo chéo HUNTER.",
+                    "keywords": "Túi chéo, túi chéo chống nước, Arctic Hunter",
+                    "viewcount": 128,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Thêm vào đó, ngăn sau lưng được thiết kế để đựng những vật dụng quan trọng.</p>\n<p>Có cổng USB thông minh.</p>\n<p>Có thể thay đổi cách đeo tiện lợi và hợp thời trang.</p>\n<p>Phù hợp: đi du lịch, đi học, đi chơi hằng ngày,...&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 699000,
+                        "listed_price_with_vat": 699000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be38",
+                            "collection_name": "Vali & Túi xách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b689",
+                        "brand_name": "ARCTIC HUNTER"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x1190fd/thumb.1587640393690.jpg",
+                            "source": "images/0x1190fd/source.1587832527954.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x1190fd/thumb.1587467778323.jpg",
+                            "source": "images/0x1190fd/source.1587467778324.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x119101",
+                    "sku_id": "10000092",
+                    "product_name": "Túi Chéo Chống Nước ARCTIC HUNTER XB130027 (Black)",
+                    "display_name": "Túi Chéo Chống Nước Hunter XB130027 đen",
+                    "display_name_detail": "Túi chéo Chống Thấm Nước ARCTIC HUNTER XB 130027 (USB) màu đen",
+                    "color": "#f48024",
+                    "image_cover": "images/0x119101/image_cover.jpg",
+                    "image_highlight": "images/0x119101/image_highlight.jpg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Có 4 ngăn với 2 ngăn lớn riêng biệt. Mặt sau lót thoáng khí mang cảm giác dễ chịu khi nắng nóng.",
+                    "promotion_desc": "tặng 1 chai nước rửa tay khô Hapicare 60ml khi mua túi đeo chéo HUNTER.",
+                    "keywords": "Túi chéo, túi chéo chống nước, Arctic Hunter",
+                    "viewcount": 39,
+                    "ribbon": "Chỉ giao HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 1,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Dây đeo vai chắc chắn, có thể điều chỉnh dễ dàng.</p>\n<p>Thích hợp đi dạo hằng ngày, đi học, đi du lịch…&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 489000,
+                        "listed_price_with_vat": 489000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be38",
+                            "collection_name": "Vali & Túi xách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b689",
+                        "brand_name": "ARCTIC HUNTER"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119101/thumb.1587640420372.jpg",
+                            "source": "images/0x119101/source.1587832923508.jpg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/0x119101/thumb.1587468496371.jpg",
+                            "source": "images/0x119101/source.1587468496372.jpg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x14c150",
+                    "sku_id": "10000682",
+                    "product_name": "Vali nhựa trẻ em KIDGIRL",
+                    "display_name": "Vali nhựa trẻ em KIDGIRL",
+                    "display_name_detail": "Vali nhựa trẻ em KIDGIRL",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x14c150/image_cover_1590643388808.jpeg",
+                    "image_highlight": "images/products/0x14c150/image_highlight_1590643388852.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Điểm nổi bật: Nhựa ABS cao cấp, chống va đập. Bề mặt vân chống trầy xước tối đa. Cần kéo tiện lợi, dễ dàng điều chỉnh theo chiều cao.",
+                    "promotion_desc": "giá độc quyền chỉ còn 299.000 đồng, giảm 57%.",
+                    "keywords": "vali nhưa, vali, trẻ em",
+                    "viewcount": 31516,
+                    "ribbon": "Chỉ giao ở HCM",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": false,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bố trí 2 tay xách tiện lợi cho việc xách theo cả 2 chiều ngang hoặc dọc.</p>\n<p>Tay xách đệm cao su non ,vô cùng êm ái.</p>\n<p>Ngăn chứa rộng rãi, có ngăn nhỏ chứa đồ cá nhân và đai chữ X giữ quần áo ngăn nắp.</p>\n<p>Khóa số mật khẩu an toàn bánh xe xoay 360 độ ,đệm cao su nguyên chất dễ dàng di chuyển và hạn chế tiếng ồn tối đa 4 bánh được gắn trên 4 trục kim loại siêu bền.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 299000,
+                        "listed_price_with_vat": 699000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x11b67a",
+                        "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.supplier": {
+                        "uid": "0x118ff9",
+                        "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be38",
+                            "collection_name": "Vali & Túi xách"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x11b689",
+                        "brand_name": "ARCTIC HUNTER"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14c150/thumb_1590643388900.jpeg",
+                            "source": "images/products/0x14c150/source_1590643388990.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14c150/thumb_1590643388927.jpeg",
+                            "source": "images/products/0x14c150/source_1590643389005.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14c150/thumb_1590643388938.jpeg",
+                            "source": "images/products/0x14c150/source_1590643389037.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14c150/thumb_1590643388963.jpeg",
+                            "source": "images/products/0x14c150/source_1590643389052.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x14c150/thumb_1590643388971.jpeg",
+                            "source": "images/products/0x14c150/source_1590643389080.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be39",
+            "collection_name": "Giải trí & Thể thao & Đồ chơi",
+            "count_items": 10,
+            "products": [
+                {
+                    "uid": "0x1556a4",
+                    "sku_id": "10000678",
+                    "product_name": "[742022-UFC] Găng tay MMA màu đen, size 7oz-Contender MMA Grappling Glove - Mã 742022-UFC, Hiệu UFC",
+                    "display_name": "Găng tay MMA màu đen, size 7oz",
+                    "display_name_detail": "Găng tay MMA màu đen, size 7oz-Contender MMA Grappling Glove",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1556a4/image_cover_1591156200665.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Găng Tay Contender MMA Grappling Gloves UFC 742022 - Đen (Size 7oz) là sản phẩm găng tay tập luyện và thi đấu môn võ MMA. Giúp bảo vệ khớp ngón tay trong quá trình luyện tập và thi đấu.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100k), tiết kiệm 750.000 đồng, giảm 32%.",
+                    "keywords": "găng tay, thể thao",
+                    "viewcount": 4,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>- Size S: 19cm</p>\n<p>- Size M: 20cm</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 1600000,
+                        "listed_price_with_vat": 2350000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be24",
+                            "collection_name": "Điện gia dụng",
+                            "collection_image": "collection_images/collection_image.1589255616519.jpeg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1556a4/thumb_1591156200701.jpeg",
+                            "source": "images/products/0x1556a4/source_1591156200776.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1556a4/thumb_1591156200739.jpeg",
+                            "source": "images/products/0x1556a4/source_1591156200887.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1556db",
+                    "sku_id": "10000679",
+                    "product_name": "[UHA-69158] UHA-69158: Bóng tập thể hình UHA-69158, hiệu UFC (PS020011-10-01-F)",
+                    "display_name": "Bóng tập thể hình UHA-69158 hiệu UFC",
+                    "display_name_detail": "Bóng tập thể hình UHA-69158 hiệu UFC (PS020011-10-01-F)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1556db/image_cover_1591156425067.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Gym Ball sẽ hổ trợ bạn luyện tập TOÀN THÂN như: tay,ngực,bụng,cơ mông,lưng, chân.....Được săn chắc,dẻo dai,một thân hình lý tưởng.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100.000 đồng), tiết kiệm 150.000 đồng, giảm 20%.",
+                    "keywords": "bóng tập thể hình, thể hình, UFC",
+                    "viewcount": 1,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngoài ra Gym ball còn hổ trợ cho những bệnh nhân bị tai biến hoặc bị tai nạn, luyện &nbsp;&nbsp;tập phục hồi chức năng hiệu quả...&nbsp;</p>\n<p>Size: 55cm Dia. 900g</p>\n<p>Non-P PVC</p>\n<p>with air pump<br>\n &nbsp;&nbsp;&nbsp;&nbsp;</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 600000,
+                        "listed_price_with_vat": 750000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be24",
+                            "collection_name": "Điện gia dụng",
+                            "collection_image": "collection_images/collection_image.1589255616519.jpeg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1556db/thumb_1591156425102.jpeg",
+                            "source": "images/products/0x1556db/source_1591156425227.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1556db/thumb_1591156425142.jpeg",
+                            "source": "images/products/0x1556db/source_1591156425300.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x155eb5",
+                    "sku_id": "10000680",
+                    "product_name": "[UHA-69160] UHA-69160: Bóng tập thể hình UHA-69160, hiệu UFC (PS020009-20-01-F)",
+                    "display_name": "Bóng tập thể hình UHA-69160 hiệu UFC",
+                    "display_name_detail": "Bóng tập thể hình UHA-69160 hiệu UFC (PS020009-20-01-F)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x155eb5/image_cover_1591156470134.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Gym Ball sẽ hổ trợ bạn luyện tập TOÀN THÂN Như: tay,ngực,bụng,cơ mông,lưng, chân.....Được săn chắc,dẻo dai,một thân hình lý tưởng.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100k), tiết kiệm 200.000 đồng, giảm 19%.",
+                    "keywords": "bóng tập thể hình, thể hình, UFC",
+                    "viewcount": 1,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngoài ra Gym ball còn hổ trợ cho những bệnh nhân bị tai biến hoặc bị tai nạn, luyện tập phục hồi chức năng hiệu quả...&nbsp;</p>\n<p>Gym Ball mang nhãn hiệu UFC được làm bằng cao su dẻo có độ đàn hồi cao.</p>\n<p>Size: 75cm Dia. 1450g</p>\n<p>Non-P PVC</p>\n<p>with air pump.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 850000,
+                        "listed_price_with_vat": 1050000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155eb5/thumb_1591156470181.jpeg",
+                            "source": "images/products/0x155eb5/source_1591156470249.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155eb5/thumb_1591156470215.jpeg",
+                            "source": "images/products/0x155eb5/source_1591156470306.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x155f1e",
+                    "sku_id": "10000681",
+                    "product_name": "[UHA-69742] UHA-69742: Thảm tập Yoga UHA-69742, hiệu UFC (PS010097-40-01-F)",
+                    "display_name": "Thảm tập Yoga UHA-69742 hiệu UFC",
+                    "display_name_detail": "Thảm tập Yoga UHA-69742 hiệu UFC (PS010097-40-01-F)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x155f1e/image_cover_1592187219383.jpeg",
+                    "image_highlight": "images/products/0x155f1e/image_highlight_1592187219424.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Thảm Yoga NBR Training Mat UFC 974001 - Đỏ (1730 x 610 x 10 mm) giúp ngồi hay nằm tập cực kỳ êm ái. Kích thước thảm yoga thiết kế rộng rãi giúp bạn tập các tư thế nằm hay ngồi thoải mái hơn.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100k), tiết kiệm 401.000 đồng, giảm 41%.",
+                    "keywords": "thảm tập, yoga, UFC",
+                    "viewcount": 1,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Bề mặt có độ ma sát cao sẽ đảm bảo an toàn khi tập. Mặt chính của thảm yoga có logo UFC. Mặt dưới có độ nhám cao sẽ cố định thảm trên mặt sàn rất chắc chắn.</p>\n<p>Đây là loại thảm Yoga cao cấp nên có độ đàn hồi tốt, không bị bẹp khi bị lực tác động.</p>\n<p>Khi tập xong người dùng có thể cuộn tròn lại giúp tiện cho việc cất giữ và mang theo.</p>\n<p>Bạn có thể sử dụng thảm trên hầu hết các bề mặt như sàn gạch, sàn gỗ, nền xi măng.</p>\n<p>&nbsp;Kích thước: 173 x 61 x 10 cm.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 589000,
+                        "listed_price_with_vat": 990000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be24",
+                            "collection_name": "Điện gia dụng",
+                            "collection_image": "collection_images/collection_image.1589255616519.jpeg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155f1e/thumb_1591156530379.jpeg",
+                            "source": "images/products/0x155f1e/source_1591156530617.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155f1e/thumb_1591156530416.jpeg",
+                            "source": "images/products/0x155f1e/source_1591156530715.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155f1e/thumb_1591156530447.jpeg",
+                            "source": "images/products/0x155f1e/source_1591156530787.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x155f1e/thumb_1591156530510.jpeg",
+                            "source": "images/products/0x155f1e/source_1591156530906.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x15612c",
+                    "sku_id": "10000759",
+                    "product_name": "[372001-UFC] Kìm tập cơ tay điều chỉnh - Hand Grip - Mã 372001-UFC, Hiệu UFC",
+                    "display_name": "Kìm tập cơ tay điều chỉnh Hand Grip",
+                    "display_name_detail": "Kìm tập cơ tay điều chỉnh Hand Grip",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x15612c/image_cover_1592187320924.jpeg",
+                    "image_highlight": "images/products/0x15612c/image_highlight_1592187320953.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Kìm tập cơ tay điều chỉnh Hand Grip UFC 372001 là dụng cự hữu ích hỗ trợ bài tập cơ bàn tay, cổ Sử dụng kìm bóp tay giúp bạn giải trí, tăng cường sức khỏe, trong quá trình làm việc.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100k), tiết kiệm 200.000 đồng, giảm 22%.",
+                    "keywords": "kìm, kìm tập cơ tay, ufc",
+                    "viewcount": 4,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Kìm tập cơ tay thiết kế tiện lợi, gọn nhẹ, dễ dàng sử dụng ở bất kì đâu.</p>\n<p>Kìm bóp tay có lò xo điều chỉnh lực theo ý muốn. Phần tay cầm có vỏ bọc cao cấp chống trơn, thấm mồ hôi.</p>\n<p>Sản phẩm dùng cho mọi đối tượng, mọi lúc, mọi nơi (trong văn phòng, trên xe, ở nhà, đi du lịch) giúp giảm mệt mỏi nhanh chóng.</p>\n<p>Kích thước: 13cm</p>\n<p>Material:Aluminum+Steel.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 700000,
+                        "listed_price_with_vat": 900000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15612c/thumb_1591160857004.jpeg",
+                            "source": "images/products/0x15612c/source_1591160857140.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x15612c/thumb_1591160857068.jpeg",
+                            "source": "images/products/0x15612c/source_1591160857213.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x156174",
+                    "sku_id": "10000760",
+                    "product_name": "[391102-UFC] Dây kháng lực - loại nhỏ - Power Band Light - Mã 391102-UFC, Hiệu UFC",
+                    "display_name": "Dây kháng lực loại nhỏ Power Band Light",
+                    "display_name_detail": "Dây kháng lực loại nhỏ Power Band Light",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x156174/image_cover_1591160912244.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dây kháng lực Power Band UFC được thiết kế nâng cấp kiên cố với chất liệu latex chắn chắn, điều chỉnh độ dài tốt hơn.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100.000 đồng), tiết kiệm 900.00 đồng, giảm 23%.",
+                    "keywords": "dây kháng lực, ufc",
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Là sản phẩm chuyên dụng cho người tập luyện thường xuyên rèn luyện thân thể phát triển các tố chất sức mạnh, sức bền, độ dẻo dai và tính linh hoạt…</p>\n<p>Với cơ chế sử dụng trọng lượng cơ thể làm trọng lực của người tập giúp thay thế cho các phương tiện máy móc khác hoặc dụng cụ tạ tập nặng nề mà chúng ta thường thấy.</p>\n<p>Có thể lập được rất nhiều bài tập khác nhau tại mọi lúc, mọi nơi bạn muốn.</p>\n<p>- Độ rộng: 13mm</p>\n<p>- Chiều dài tối thiểu: 45mm</p>\n<p>- Chiều dài tối đa: 1040 mm</p>\n<p>- Material: Latex.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 300000,
+                        "listed_price_with_vat": 390000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x156174/thumb_1591160912326.jpeg",
+                            "source": "images/products/0x156174/source_1591160912540.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x156174/thumb_1591160912379.jpeg",
+                            "source": "images/products/0x156174/source_1591160912743.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x156174/thumb_1591160912439.jpeg",
+                            "source": "images/products/0x156174/source_1591160912803.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x156174/thumb_1591160912486.jpeg",
+                            "source": "images/products/0x156174/source_1591160912874.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x156190",
+                    "sku_id": "10000761",
+                    "product_name": "[392004-UFC] Dây kháng lực - loại lớn - Power Band Heavy - Mã 392004-UFC, Hiệu UFC",
+                    "display_name": "Dây kháng lực loại lớn Power Band Heavy",
+                    "display_name_detail": "Dây kháng lực loại lớn Power Band Heavy",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x156190/image_cover_1591160956235.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Dây kháng lực cung cấp lực đàn hồi tốt, nâng cao hiệu quả luyện tập cho cơ đùi săn chắc, eo thon. Tăng cường sự linh hoạt Hỗ trợ luyện tập hằng ngày.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100k), tiết kiệm 220.000 đồng, giảm 23%.",
+                    "keywords": "dây kháng lực, ufc",
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Nó mang lại kết quả bất ngờ khi tập với work-out</p>\n<p>Trái với nâng tạ tự do chỉ cung cấp kháng lực cho bạn khi nhấc nó, việc sử dụng dây đàn hồi cung cấp cho bạn kháng lực cả 2 bên. Điều đó đem lại tác dung tập luyện gấp đôi chỉ trong một động tác.</p>\n<p>- Độ rộng: 45mm</p>\n<p>- Chiều dài tối thiểu: 45mm</p>\n<p>- Chiều dài tối đa: 1040 mm</p>\n<p>- Material: Latex.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 730000,
+                        "listed_price_with_vat": 950000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x156190/thumb_1591160956394.jpeg",
+                            "source": "images/products/0x156190/source_1591160956657.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x156190/thumb_1591160956324.jpeg",
+                            "source": "images/products/0x156190/source_1591160956421.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x156190/thumb_1591160956358.jpeg",
+                            "source": "images/products/0x156190/source_1591160956539.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x157e3c",
+                    "sku_id": "10000764",
+                    "product_name": "[804001-UFC] Con lăn EVA dài 45cm - Eva Foam Roller - Mã 804001-UFC, Hiệu UFC",
+                    "display_name": "Con lăn EVA dài 45cm Eva Foam Roller",
+                    "display_name_detail": "Con lăn EVA dài 45cm Eva Foam Roller",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x157e3c/image_cover_1591161130313.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Con lăn Eva Foam Roller UFC 804001 (45 x 15 cm) với thiết kế hình trụ rộng giúp dễ dàng tập luyện, kích thước nhỏ gọn dễ mang theo và tập luyện mọi nơi.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100.000 đồng), tiết kiệm 200.000 đồng, giảm 20%.",
+                    "keywords": "con lăn, ufc",
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Lớp mặt ngoài thiết kế hạt massage mềm giúp ngăn ngừa chấn thương và tạo cảm giác &nbsp;&nbsp;thoải mái khi tập luyện.<br>\nGiúp bắp chân săn chắc, giãn cơ, máu huyết lưu thông nhanh hơn.<br>\nKhi bạn sử dụng xong bạn vẫn không mất đi hình dáng ban đầu. &nbsp;&nbsp;&nbsp;</p>\n<p>Size: 15*45cm</p>\n<p>EVA.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 800000,
+                        "listed_price_with_vat": 1000000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x157e3c/thumb_1591161130443.jpeg",
+                            "source": "images/products/0x157e3c/source_1591161130599.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x157e3c/thumb_1591161130501.jpeg",
+                            "source": "images/products/0x157e3c/source_1591161130693.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x157e3c/thumb_1591161130565.jpeg",
+                            "source": "images/products/0x157e3c/source_1591161130776.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x157e55",
+                    "sku_id": "10000765",
+                    "product_name": "[UHA-69159] UHA-69159: Bóng tập thể hình UHA-69159, hiệu UFC (PS020008-40-01-F)",
+                    "display_name": " Bóng tập thể hình UHA-69159 hiệu UFC",
+                    "display_name_detail": "Bóng tập thể hình UHA-69159 hiệu UFC",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x157e55/image_cover_1592187256757.jpeg",
+                    "image_highlight": "images/products/0x157e55/image_highlight_1592187256800.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Gym Ball sẽ hổ trợ bạn luyện tập TOÀN THÂN Như: tay,ngực,bụng,cơ mông,lưng, chân.....Được săn chắc,dẻo dai,một thân hình lý tưởng.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100.000 đồng), tiết kiệm 170.000 đồng, giảm 20%.",
+                    "keywords": "bóng tập thể hình, thể hình, UFC",
+                    "viewcount": 9,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Ngoài ra Gym ball còn hổ trợ cho những bệnh nhân bị tai biến hoặc bị tai nạn, luyện tập phục hồi chức năng hiệu quả...&nbsp;</p>\n<p>Gym Ball mang nhãn hiệu UFC được làm bằng cao su dẻo có độ đàn hồi cao.</p>\n<p>Size: 65cm Dia. 1100g</p>\n<p>Non-P PVC</p>\n<p>with air pump.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 680000,
+                        "listed_price_with_vat": 850000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x157e55/thumb_1591161177152.jpeg",
+                            "source": "images/products/0x157e55/source_1591161177286.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x157e55/thumb_1591161177202.jpeg",
+                            "source": "images/products/0x157e55/source_1591161177356.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x157e55/thumb_1591161177233.jpeg",
+                            "source": "images/products/0x157e55/source_1591161177451.jpeg"
+                        }
+                    ],
+                    "videos": []
+                },
+                {
+                    "uid": "0x1583b1",
+                    "sku_id": "10000766",
+                    "product_name": "[UHA-69721] UHA-69721: Con lăn có điểm nổi UHA-69721, hiệu UFC (PS010078-K4-01-F)",
+                    "display_name": "Con lăn có điểm nổi UHA-69721 hiệu UFC",
+                    "display_name_detail": "Con lăn có điểm nổi UHA-69721 hiệu UFC (PS010078-K4-01-F)",
+                    "color": "#f48024",
+                    "image_cover": "images/products/0x1583b1/image_cover_1592187287625.jpeg",
+                    "image_highlight": "images/products/0x1583b1/image_highlight_1592187287649.jpeg",
+                    "instock": true,
+                    "show_detail": true,
+                    "short_desc": "Con lăn có điểm nổi Tire Mark Foam Roller UFC 78K401 (33 x 14 cm) với thiết kế hình trụ rộng giúp dễ dàng tập luyện, kích thước nhỏ gọn dễ mang theo và tập luyện mọi nơi.",
+                    "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100.000 đồng), tiết kiệm 230.000 đồng, giảm 23%.",
+                    "keywords": "con lăn, ufc",
+                    "viewcount": 4,
+                    "ribbon": "",
+                    "free_shipping_tag": true,
+                    "count_details": 0,
+                    "is_disabled_cod": true,
+                    "detail": {
+                        "title": "",
+                        "content": "<p>Size: 14*33cm</p>\n<p>EVA/EVA.</p>"
+                    },
+                    "product.pricing": {
+                        "price_with_vat": 760000,
+                        "listed_price_with_vat": 990000
+                    },
+                    "product.manufacturer": {
+                        "uid": "0x14982d",
+                        "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.supplier": {
+                        "uid": "0x14433a",
+                        "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                    },
+                    "product.collection": [
+                        {
+                            "uid": "0x13be23",
+                            "collection_name": "Nhà cửa & Đời sống",
+                            "collection_image": "collection_images/0x13be23.jpg"
+                        },
+                        {
+                            "uid": "0x13be39",
+                            "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                        }
+                    ],
+                    "product.brand": {
+                        "uid": "0x158374",
+                        "brand_name": "UFC"
+                    },
+                    "areas": [
+                        {
+                            "uid": "0x11e0bd",
+                            "name": "TP. Hồ Chí Minh",
+                            "vn_all_province": false
+                        },
+                        {
+                            "uid": "0x11e112",
+                            "name": "Hà Nội",
+                            "vn_all_province": false
+                        }
+                    ],
+                    "images": [
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1583b1/thumb_1591161219019.jpeg",
+                            "source": "images/products/0x1583b1/source_1591161219155.jpeg"
+                        },
+                        {
+                            "media_type": "image",
+                            "thumb": "images/products/0x1583b1/thumb_1591161219094.jpeg",
+                            "source": "images/products/0x1583b1/source_1591161219261.jpeg"
+                        }
+                    ],
+                    "videos": []
+                }
+            ]
+        },
+        {
+            "uid": "0x13be3a",
+            "collection_name": "Sách & Văn phòng phẩm",
+            "count_items": 0
+        },
+        {
+            "uid": "0x1e8ee6",
+            "collection_name": "Ô & Dù & Áo mưa",
+            "count_items": 0
+        }
+    ],
+    "Hotdeals": {
+        "products": [
+            {
+                "uid": "0x1190f3",
+                "sku_id": "10000085",
+                "product_name": "Balo Chống Thấm Nước ARCTIC HUNTER B00283 (USB)(Black)",
+                "display_name": "Balo chống nước Hunter B00283 đen",
+                "display_name_detail": "Balo chống thấm nước Arctic Hunter B00283 màu đen ",
+                "color": "#f48024",
+                "image_cover": "images/0x1190f3/image_cover.jpg",
+                "image_highlight": "images/0x1190f3/image_highlight.jpg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Có 6 ngăn. Đặc biệt có 1 ngăn laptop riêng biệt. Ngăn lớn rộng rãi có thể đựng IPad, điện thoại, sạc dự phòng, và các vật dụng cá nhân khác.",
+                "promotion_desc": "tặng ngay 2 chai nước rửa tay khô Hapicare 60ml khi mua Balo HUNTER.",
+                "keywords": "Balo, balo chống thấm nước, Arctic Hunter",
+                "viewcount": 272,
+                "ribbon": "Chỉ giao ở HCM",
+                "free_shipping_tag": true,
+                "count_details": 1,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Có thể gắn trên thanh kéo vali.<br>\nMặt lưng thiết kếđệm tổ ong giúp êm ái và thoáng khí.<br>\nQuai đeo thiết kếdày và mềm giúp người sử dụng không đau vai.<br>\nThích hợp đi chơi, du lịch,...</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 929000,
+                    "listed_price_with_vat": 929000
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67a",
+                    "manufacturer_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.supplier": {
+                    "uid": "0x118ff9",
+                    "supplier_name": "CÔNG TY TNHH SX TM PHÁT AN NHIÊN"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be23",
+                        "collection_name": "Nhà cửa & Đời sống",
+                        "collection_image": "collection_images/0x13be23.jpg"
+                    },
+                    {
+                        "uid": "0x13be38",
+                        "collection_name": "Vali & Túi xách"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b689",
+                    "brand_name": "ARCTIC HUNTER"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x1190f3/thumb.1587639212653.jpg",
+                        "source": "images/0x1190f3/source.1587449431105.jpg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/0x1190f3/thumb.1587636033162.jpg",
+                        "source": "images/0x1190f3/source.1587636033163.jpg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x144763",
+                "sku_id": "10000445",
+                "product_name": "Đèn bàn LED cảm ứng RD-RL-36 LED",
+                "display_name": "Đèn bàn LED cảm ứng Rạng Đông RL36",
+                "display_name_detail": "Đèn bàn LED cảm ứng Rạng Đông RL-36",
+                "color": "#f48024",
+                "image_cover": "images/0x144763/image_cover_1589450971917.jpeg",
+                "image_highlight": "images/0x144763/image_highlight_1589450971918.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Đèn bàn LED Rạng Đông bảo vệ thị lực. Tiết kiệm điện năng. Tuổi thọ cao. Dễ dàng điều chỉnh. Không chứa thủy ngân và hóa chất độc hại. Không phát ra tia tử ngoại, an toàn.",
+                "promotion_desc": "tiết kiệm 121.800 đồng, giảm 38%.",
+                "keywords": "led, đèn bàn, rạng đông, đèn led",
+                "viewcount": 91,
+                "ribbon": "",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Công suất:\t6W</p>\n<p>Điện áp danh định:\t220V/50Hz</p>\n<p>Độ rọi trung bình:\t≥700lux</p>\n<p>Nhiệt độ màu:\t3000K-6500K</p>\n<p>Tính năng điều khiển dimming 3 cấp công suất 30%-50%-100%</p>\n<p>Điều khiển 4 màu ánh sáng: trắng, trung tính 1, trung tính 2, vàng</p>\n<p>Ánh sáng không nhấp nháy, bảo vệ thị lực</p>\n<p>Thiết kế sang trọng, màu sắc trang nhã, lịch sự</p>\n<p>Tích hợp cảm ứng điều chỉnh ánh sáng theo mục đích sử dụng.</p>\n<p>Đặc tính của đèn</p>\n<p>Nguồn điện danh định\t220V/50Hz</p>\n<p>Công suất\t 6W</p>\n<p>Độ rọi trung bình trên mặt bàn\t&gt;600 lux</p>\n<p>Thông số điện</p>\n<p>Điện áp có thể hoạt động\t170V – 250V</p>\n<p>Dòng điện (Max)\t50 mA</p>\n<p>Hệ số công suất\t0.4</p>\n<p>Thông số quang</p>\n<p>Độ rọi trung bình\t&gt;600 lux</p>\n<p>Nhiệt độ màu\t5000K</p>\n<p>Hệ số trả màu (CRI)\t86</p>\n<p>Tuổi thọ</p>\n<p>Tuổi thọ của đèn\t25000 giờ&nbsp;</p>\n<p>Số chu kỳ tắt/bật\t50.000 lần</p>\n<p>Đặc điểm khác</p>\n<p>Hàm lượng thủy ngân\t0 mg</p>\n<p>Thời gian khởi động của đèn\t &lt; 0,5 giây</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 195000,
+                    "listed_price_with_vat": 316800
+                },
+                "product.manufacturer": {
+                    "uid": "0x11b67f",
+                    "manufacturer_name": "CÔNG TY CỔ PHẦN BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG"
+                },
+                "product.supplier": {
+                    "uid": "0x118fff",
+                    "supplier_name": "CÔNG TY CỔ PHẦN BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be34",
+                        "collection_name": "Thiết bị chiếu sáng"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x11b682",
+                    "brand_name": "Rạng Đông"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144763/thumb_1589863522186.jpeg",
+                        "source": "images/products/0x144763/source_1589863522191.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144763/thumb_1589863522187.jpeg",
+                        "source": "images/products/0x144763/source_1589863522192.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144763/thumb_1589863522188.jpeg",
+                        "source": "images/products/0x144763/source_1589863522193.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144763/thumb_1589863522189.jpeg",
+                        "source": "images/products/0x144763/source_1589863522194.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x144763/thumb_1589863522190.jpeg",
+                        "source": "images/products/0x144763/source_1589863522195.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x15612c",
+                "sku_id": "10000759",
+                "product_name": "[372001-UFC] Kìm tập cơ tay điều chỉnh - Hand Grip - Mã 372001-UFC, Hiệu UFC",
+                "display_name": "Kìm tập cơ tay điều chỉnh Hand Grip",
+                "display_name_detail": "Kìm tập cơ tay điều chỉnh Hand Grip",
+                "color": "#f48024",
+                "image_cover": "images/products/0x15612c/image_cover_1592187320924.jpeg",
+                "image_highlight": "images/products/0x15612c/image_highlight_1592187320953.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Kìm tập cơ tay điều chỉnh Hand Grip UFC 372001 là dụng cự hữu ích hỗ trợ bài tập cơ bàn tay, cổ Sử dụng kìm bóp tay giúp bạn giải trí, tăng cường sức khỏe, trong quá trình làm việc.",
+                "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100k), tiết kiệm 200.000 đồng, giảm 22%.",
+                "keywords": "kìm, kìm tập cơ tay, ufc",
+                "viewcount": 4,
+                "ribbon": "",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Kìm tập cơ tay thiết kế tiện lợi, gọn nhẹ, dễ dàng sử dụng ở bất kì đâu.</p>\n<p>Kìm bóp tay có lò xo điều chỉnh lực theo ý muốn. Phần tay cầm có vỏ bọc cao cấp chống trơn, thấm mồ hôi.</p>\n<p>Sản phẩm dùng cho mọi đối tượng, mọi lúc, mọi nơi (trong văn phòng, trên xe, ở nhà, đi du lịch) giúp giảm mệt mỏi nhanh chóng.</p>\n<p>Kích thước: 13cm</p>\n<p>Material:Aluminum+Steel.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 700000,
+                    "listed_price_with_vat": 900000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14982d",
+                    "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.supplier": {
+                    "uid": "0x14433a",
+                    "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be23",
+                        "collection_name": "Nhà cửa & Đời sống",
+                        "collection_image": "collection_images/0x13be23.jpg"
+                    },
+                    {
+                        "uid": "0x13be39",
+                        "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x158374",
+                    "brand_name": "UFC"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15612c/thumb_1591160857004.jpeg",
+                        "source": "images/products/0x15612c/source_1591160857140.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x15612c/thumb_1591160857068.jpeg",
+                        "source": "images/products/0x15612c/source_1591160857213.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x1583b1",
+                "sku_id": "10000766",
+                "product_name": "[UHA-69721] UHA-69721: Con lăn có điểm nổi UHA-69721, hiệu UFC (PS010078-K4-01-F)",
+                "display_name": "Con lăn có điểm nổi UHA-69721 hiệu UFC",
+                "display_name_detail": "Con lăn có điểm nổi UHA-69721 hiệu UFC (PS010078-K4-01-F)",
+                "color": "#f48024",
+                "image_cover": "images/products/0x1583b1/image_cover_1592187287625.jpeg",
+                "image_highlight": "images/products/0x1583b1/image_highlight_1592187287649.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Con lăn có điểm nổi Tire Mark Foam Roller UFC 78K401 (33 x 14 cm) với thiết kế hình trụ rộng giúp dễ dàng tập luyện, kích thước nhỏ gọn dễ mang theo và tập luyện mọi nơi.",
+                "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100.000 đồng), tiết kiệm 230.000 đồng, giảm 23%.",
+                "keywords": "con lăn, ufc",
+                "viewcount": 4,
+                "ribbon": "",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Size: 14*33cm</p>\n<p>EVA/EVA.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 760000,
+                    "listed_price_with_vat": 990000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14982d",
+                    "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.supplier": {
+                    "uid": "0x14433a",
+                    "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be23",
+                        "collection_name": "Nhà cửa & Đời sống",
+                        "collection_image": "collection_images/0x13be23.jpg"
+                    },
+                    {
+                        "uid": "0x13be39",
+                        "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x158374",
+                    "brand_name": "UFC"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1583b1/thumb_1591161219019.jpeg",
+                        "source": "images/products/0x1583b1/source_1591161219155.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x1583b1/thumb_1591161219094.jpeg",
+                        "source": "images/products/0x1583b1/source_1591161219261.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x155f1e",
+                "sku_id": "10000681",
+                "product_name": "[UHA-69742] UHA-69742: Thảm tập Yoga UHA-69742, hiệu UFC (PS010097-40-01-F)",
+                "display_name": "Thảm tập Yoga UHA-69742 hiệu UFC",
+                "display_name_detail": "Thảm tập Yoga UHA-69742 hiệu UFC (PS010097-40-01-F)",
+                "color": "#f48024",
+                "image_cover": "images/products/0x155f1e/image_cover_1592187219383.jpeg",
+                "image_highlight": "images/products/0x155f1e/image_highlight_1592187219424.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Thảm Yoga NBR Training Mat UFC 974001 - Đỏ (1730 x 610 x 10 mm) giúp ngồi hay nằm tập cực kỳ êm ái. Kích thước thảm yoga thiết kế rộng rãi giúp bạn tập các tư thế nằm hay ngồi thoải mái hơn.",
+                "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100k), tiết kiệm 401.000 đồng, giảm 41%.",
+                "keywords": "thảm tập, yoga, UFC",
+                "viewcount": 1,
+                "ribbon": "",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Bề mặt có độ ma sát cao sẽ đảm bảo an toàn khi tập. Mặt chính của thảm yoga có logo UFC. Mặt dưới có độ nhám cao sẽ cố định thảm trên mặt sàn rất chắc chắn.</p>\n<p>Đây là loại thảm Yoga cao cấp nên có độ đàn hồi tốt, không bị bẹp khi bị lực tác động.</p>\n<p>Khi tập xong người dùng có thể cuộn tròn lại giúp tiện cho việc cất giữ và mang theo.</p>\n<p>Bạn có thể sử dụng thảm trên hầu hết các bề mặt như sàn gạch, sàn gỗ, nền xi măng.</p>\n<p>&nbsp;Kích thước: 173 x 61 x 10 cm.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 589000,
+                    "listed_price_with_vat": 990000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14982d",
+                    "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.supplier": {
+                    "uid": "0x14433a",
+                    "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be24",
+                        "collection_name": "Điện gia dụng",
+                        "collection_image": "collection_images/collection_image.1589255616519.jpeg"
+                    },
+                    {
+                        "uid": "0x13be39",
+                        "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x158374",
+                    "brand_name": "UFC"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155f1e/thumb_1591156530379.jpeg",
+                        "source": "images/products/0x155f1e/source_1591156530617.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155f1e/thumb_1591156530416.jpeg",
+                        "source": "images/products/0x155f1e/source_1591156530715.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155f1e/thumb_1591156530447.jpeg",
+                        "source": "images/products/0x155f1e/source_1591156530787.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x155f1e/thumb_1591156530510.jpeg",
+                        "source": "images/products/0x155f1e/source_1591156530906.jpeg"
+                    }
+                ],
+                "videos": []
+            },
+            {
+                "uid": "0x157e55",
+                "sku_id": "10000765",
+                "product_name": "[UHA-69159] UHA-69159: Bóng tập thể hình UHA-69159, hiệu UFC (PS020008-40-01-F)",
+                "display_name": " Bóng tập thể hình UHA-69159 hiệu UFC",
+                "display_name_detail": "Bóng tập thể hình UHA-69159 hiệu UFC",
+                "color": "#f48024",
+                "image_cover": "images/products/0x157e55/image_cover_1592187256757.jpeg",
+                "image_highlight": "images/products/0x157e55/image_highlight_1592187256800.jpeg",
+                "instock": true,
+                "show_detail": true,
+                "short_desc": "Gym Ball sẽ hổ trợ bạn luyện tập TOÀN THÂN Như: tay,ngực,bụng,cơ mông,lưng, chân.....Được săn chắc,dẻo dai,một thân hình lý tưởng.",
+                "promotion_desc": "tặng gift voucher giảm 10% cho đợt mua hàng lần sau (tối đa 100.000 đồng), tiết kiệm 170.000 đồng, giảm 20%.",
+                "keywords": "bóng tập thể hình, thể hình, UFC",
+                "viewcount": 9,
+                "ribbon": "",
+                "free_shipping_tag": true,
+                "count_details": 0,
+                "is_disabled_cod": true,
+                "detail": {
+                    "title": "",
+                    "content": "<p>Ngoài ra Gym ball còn hổ trợ cho những bệnh nhân bị tai biến hoặc bị tai nạn, luyện tập phục hồi chức năng hiệu quả...&nbsp;</p>\n<p>Gym Ball mang nhãn hiệu UFC được làm bằng cao su dẻo có độ đàn hồi cao.</p>\n<p>Size: 65cm Dia. 1100g</p>\n<p>Non-P PVC</p>\n<p>with air pump.</p>"
+                },
+                "product.pricing": {
+                    "price_with_vat": 680000,
+                    "listed_price_with_vat": 850000
+                },
+                "product.manufacturer": {
+                    "uid": "0x14982d",
+                    "manufacturer_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.supplier": {
+                    "uid": "0x14433a",
+                    "supplier_name": "CÔNG TY TNHH TM XNK NGUỒN SỐNG VIỆT"
+                },
+                "product.collection": [
+                    {
+                        "uid": "0x13be23",
+                        "collection_name": "Nhà cửa & Đời sống",
+                        "collection_image": "collection_images/0x13be23.jpg"
+                    },
+                    {
+                        "uid": "0x13be39",
+                        "collection_name": "Giải trí & Thể thao & Đồ chơi"
+                    }
+                ],
+                "product.brand": {
+                    "uid": "0x158374",
+                    "brand_name": "UFC"
+                },
+                "areas": [
+                    {
+                        "uid": "0x11e0bd",
+                        "name": "TP. Hồ Chí Minh",
+                        "vn_all_province": false
+                    },
+                    {
+                        "uid": "0x11e112",
+                        "name": "Hà Nội",
+                        "vn_all_province": false
+                    }
+                ],
+                "images": [
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x157e55/thumb_1591161177152.jpeg",
+                        "source": "images/products/0x157e55/source_1591161177286.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x157e55/thumb_1591161177202.jpeg",
+                        "source": "images/products/0x157e55/source_1591161177356.jpeg"
+                    },
+                    {
+                        "media_type": "image",
+                        "thumb": "images/products/0x157e55/thumb_1591161177233.jpeg",
+                        "source": "images/products/0x157e55/source_1591161177451.jpeg"
+                    }
+                ],
+                "videos": []
+            }
+        ],
+        "count_products": 6
+    }
+}

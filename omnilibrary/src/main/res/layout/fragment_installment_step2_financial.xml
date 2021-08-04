@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.checkoutExistingUser.creditCard.credit.CreditCardFragment">
+
+    <com.bda.omnilibrary.views.SfTextView
+        android:id="@+id/txt_t"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_7sdp"
+        android:layout_marginTop="@dimen/_46sdp"
+        android:text="@string/thanh_toan_tra_gop_qua_cac_to_chuc_tai_chinh"
+        android:textColor="@color/text_color_dark"
+        android:textSize="@dimen/_7ssp"
+        app:type="bold" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_t"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/_11sdp">
+
+        <LinearLayout
+            android:id="@+id/ln_com"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:orientation="vertical">
+
+            <RadioGroup
+                android:id="@+id/view_select_gender"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/_22sdp"
+                android:orientation="horizontal">
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/cb_3_mouth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_22sdp"
+                    android:layout_centerVertical="true"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:text="@string/text_3_thang" />
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/cb_6_mouth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_22sdp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_6sdp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:text="@string/text_6_thang" />
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/cb_9_mouth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_22sdp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_6sdp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:text="@string/text_9_thang" />
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/cb_12_mouth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_22sdp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="@dimen/_6sdp"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:text="@string/text_12_thang" />
+            </RadioGroup>
+
+
+        </LinearLayout>
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/txt_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ln_com"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:text="@string/nhan_vien_cua_omnishop_se_lien_lac_ngay_voi_ban"
+            android:textColor="@color/text_color_dark"
+            android:textSize="@dimen/_6ssp"
+            app:type="medium" />
+
+        <LinearLayout
+            android:id="@+id/rl_bnt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txt_note"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/_6sdp">
+
+            <LinearLayout
+                android:id="@+id/bn_pay"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:nextFocusLeft="@id/bn_voucher"
+                android:nextFocusUp="@id/bn_voucher"
+                android:nextFocusDown="@id/bn_voucher"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/item_bn_pay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_3sdp"
+                    android:layout_marginTop="@dimen/_2sdp"
+                    android:layout_marginEnd="@dimen/_3sdp"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:background="@color/color_transparent"
+                    android:outlineSpotShadowColor="@color/text_black_70"
+                    android:theme="@style/ItemStyle"
+                    app:cardBackgroundColor="@color/color_transparent"
+                    app:cardCornerRadius="@dimen/_3sdp"
+                    app:cardElevation="@dimen/_1sdp"
+                    app:cardPreventCornerOverlap="true"
+                    app:cardUseCompatPadding="true">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/text_bn_pay"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/background_button_header_collection"
+                        android:paddingStart="@dimen/_8sdp"
+                        android:paddingTop="@dimen/_5sdp"
+                        android:paddingEnd="@dimen/_8sdp"
+                        android:paddingBottom="@dimen/_5sdp"
+                        android:text="@string/pay_check"
+                        android:textAllCaps="true"
+                        android:textColor="@drawable/selector_button_header"
+                        android:textSize="@dimen/_7ssp"
+                        app:type="bold" />
+
+                </com.google.android.material.card.MaterialCardView>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/bn_call_me"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_time"
+                android:layout_marginEnd="@dimen/_minus2sdp"
+                android:nextFocusLeft="@id/bn_voucher"
+                android:nextFocusUp="@id/bn_voucher"
+                android:nextFocusDown="@id/bn_voucher"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/item_bn_call_me"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_3sdp"
+                    android:layout_marginTop="@dimen/_2sdp"
+                    android:layout_marginEnd="@dimen/_3sdp"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:background="@color/color_transparent"
+                    android:outlineSpotShadowColor="@color/text_black_70"
+                    android:theme="@style/ItemStyle"
+                    app:cardBackgroundColor="@color/color_transparent"
+                    app:cardCornerRadius="@dimen/_3sdp"
+                    app:cardElevation="@dimen/_1sdp"
+                    app:cardPreventCornerOverlap="true"
+                    app:cardUseCompatPadding="true">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/text_bn_call_me"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:background="@drawable/background_button_header_collection"
+                        android:paddingStart="@dimen/_8sdp"
+                        android:paddingTop="@dimen/_5sdp"
+                        android:paddingEnd="@dimen/_8sdp"
+                        android:paddingBottom="@dimen/_5sdp"
+                        android:text="@string/text_goi_cho_toi"
+                        android:textAllCaps="true"
+                        android:textColor="@drawable/selector_button_header"
+                        android:textSize="@dimen/_7ssp"
+                        app:type="bold" />
+
+                </com.google.android.material.card.MaterialCardView>
+            </LinearLayout>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/layoutDetailCover"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imgDetailCover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:scaleType="fitCenter"
+            android:visibility="visible" />
+
+        <com.bda.omnilibrary.custome.VideoPlayer
+            android:id="@+id/videoDetailCover"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <View
+            android:id="@+id/view_trans"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_200sdp"
+            android:layout_alignParentBottom="true"
+            android:layout_gravity="bottom"
+            android:background="@drawable/gradient_video" />
+
+        <LinearLayout
+            android:id="@+id/layout_contain_product_video"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:orientation="horizontal">
+
+            <androidx.leanback.widget.HorizontalGridView
+                android:id="@+id/rv_detail_present"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_8sdp"
+                android:clipToPadding="false"
+                android:paddingStart="@dimen/layout_padding"
+                android:paddingEnd="@dimen/layout_padding"
+                app:horizontalMargin="@dimen/_5sdp"
+                app:numberOfRows="1"
+                app:rowHeight="wrap_content" />
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/dim"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#99363636"
+            android:visibility="gone" />
+
+        <FrameLayout
+            android:id="@+id/ln_product"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentEnd="true"
+            android:visibility="invisible">
+
+            <RelativeLayout
+                android:layout_width="@dimen/_208sdp"
+                android:layout_height="match_parent"
+                android:layout_marginStart="@dimen/_3sdp"
+                android:background="@color/color_product_background">
+
+                <LinearLayout
+                    android:id="@+id/ln_list_product"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/_22sdp"
+                    android:layout_marginTop="@dimen/_17sdp"
+                    android:layout_marginEnd="@dimen/_23sdp"
+                    android:orientation="vertical">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/text_tom_tat_don_hang"
+                        android:textColor="@color/dark_01"
+                        android:textSize="@dimen/_8ssp"
+                        app:type="medium" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/_5sdp"
+                        android:background="@drawable/round_background_new"
+                        android:orientation="vertical">
+
+                        <androidx.leanback.widget.VerticalGridView
+                            android:id="@+id/vg_product"
+                            android:layout_width="match_parent"
+                            android:layout_height="@dimen/_31sdp"
+                            android:layout_marginVertical="0dp"
+                            android:clipToPadding="false"
+                            android:focusable="false"
+                            android:focusableInTouchMode="false"
+                            android:orientation="vertical"
+                            android:visibility="visible" />
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/_8sdp"
+                            android:layout_marginTop="@dimen/_5sdp"
+                            android:layout_marginEnd="@dimen/_8sdp"
+                            android:layout_marginBottom="@dimen/_5sdp">
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/text_tam_tinh"
+                                android:textColor="@color/title_black_0A0F06"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="regular" />
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/price"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:textColor="@color/title_black_black"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="bold" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/_8sdp"
+                            android:layout_marginEnd="@dimen/_8sdp"
+                            android:layout_marginBottom="@dimen/_5sdp">
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="0.5dp"
+                                android:background="@color/color_text_key" />
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/_5sdp"
+                                android:text="@string/text_phi_giao_hang"
+                                android:textColor="@color/title_black_0A0F06"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="regular" />
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/shipping_price"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_marginTop="@dimen/_5sdp"
+                                android:textColor="@color/title_black_black"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="bold" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/ln_voucher"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/_8sdp"
+                            android:layout_marginEnd="@dimen/_8sdp"
+                            android:layout_marginBottom="@dimen/_3sdp"
+                            android:visibility="gone">
+
+                            <!--<View
+                                 android:layout_width="match_parent"
+                                 android:layout_height="0.5dp"
+                                 android:background="@color/color_text_key" />-->
+
+                            <RelativeLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/_4sdp">
+
+                                <com.bda.omnilibrary.views.SfTextView
+                                    android:id="@+id/txt_voucher"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_centerVertical="true"
+                                    android:text="@string/voucher"
+                                    android:textColor="@color/title_black_0A0F06"
+                                    android:textSize="@dimen/_7ssp"
+                                    app:type="regular" />
+
+                                <com.bda.omnilibrary.views.SfTextView
+                                    android:id="@+id/voucherCode"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_marginStart="@dimen/_3sdp"
+                                    android:layout_toEndOf="@+id/txt_voucher"
+                                    android:background="@drawable/background_voucher_code"
+                                    android:padding="@dimen/_2sdp"
+
+                                    android:textSize="@dimen/_7ssp"
+                                    app:type="bold" />
+
+                                <com.bda.omnilibrary.views.SfTextView
+                                    android:id="@+id/voucher"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_alignParentEnd="true"
+                                    android:layout_centerVertical="true"
+                                    android:textColor="@color/title_black_black"
+                                    android:textSize="@dimen/_7ssp"
+                                    app:type="bold" />
+                            </RelativeLayout>
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="@dimen/_8sdp"
+                            android:layout_marginEnd="@dimen/_8sdp"
+                            android:layout_marginBottom="@dimen/_5sdp">
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="0.5dp"
+                                android:background="@color/color_text_key" />
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="@dimen/_5sdp"
+                                android:text="@string/text_thanh_tien_vat"
+                                android:textColor="@color/title_black_0A0F06"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="regular" />
+
+                            <com.bda.omnilibrary.views.SfTextView
+                                android:id="@+id/total_vat"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentEnd="true"
+                                android:layout_marginTop="@dimen/_5sdp"
+                                android:textColor="@color/color_41AE96"
+                                android:textSize="@dimen/_7ssp"
+                                app:type="bold" />
+                        </RelativeLayout>
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/text_ssss"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/ln_list_product"
+                    android:layout_marginStart="@dimen/_22sdp"
+                    android:layout_marginTop="@dimen/_11sdp"
+                    android:layout_marginEnd="@dimen/_25sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:text="@string/text_xac_nhan_thong_tin_giao_hang"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="medium" />
+
+                <RelativeLayout
+                    android:id="@+id/rl_info"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/text_ssss"
+                    android:layout_marginTop="@dimen/_minus5sdp"
+                    android:paddingBottom="@dimen/_3sdp">
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_name_title"
+                        android:layout_width="@dimen/_10sdp"
+                        android:layout_height="@dimen/_22sdp"
+                        android:layout_below="@+id/tv_phone_title"
+                        android:layout_marginLeft="@dimen/_12sdp"
+                        android:layout_marginTop="@dimen/_1sdp"
+                        android:background="@android:color/transparent"
+                        android:gravity="center_vertical"
+                        android:textColor="#0A0F06"
+                        android:textSize="@dimen/_7ssp"
+                        app:type="regular" />
+
+                    <com.bda.omnilibrary.views.SfEditText
+                        android:id="@+id/edt_name"
+                        android:layout_width="@dimen/_135sdp"
+                        android:layout_height="@dimen/_47sdp"
+                        android:layout_below="@+id/tv_phone_title"
+                        android:layout_marginLeft="@dimen/_minus13sdp"
+                        android:layout_marginTop="@dimen/_minus8sdp"
+                        android:layout_toRightOf="@+id/tv_name_title"
+                        android:background="@drawable/strock_round_selector"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:gravity="center_vertical"
+                        android:hint="@string/text_nhap_ho_va_ten"
+                        android:maxLines="1"
+                        android:nextFocusLeft="@+id/edt_name"
+                        android:paddingLeft="@dimen/_20sdp"
+                        android:paddingRight="@dimen/_20sdp"
+                        android:paddingBottom="@dimen/_5sdp"
+                        android:textColor="@color/title_black"
+                        android:textSize="@dimen/_7sdp"
+                        app:type="bold" />
+
+                    <LinearLayout
+                        android:id="@+id/view_voice_remove_name"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_phone_title"
+                        android:layout_marginLeft="@dimen/_minus8sdp"
+                        android:layout_marginTop="@dimen/_2sdp"
+                        android:layout_toRightOf="@+id/edt_name"
+                        android:visibility="visible">
+
+                        <ImageButton
+                            android:id="@+id/bn_voice_name"
+                            android:layout_width="@dimen/_23sdp"
+                            android:layout_height="@dimen/_23sdp"
+                            android:background="@drawable/ic_voice_selector" />
+
+                        <com.bda.omnilibrary.views.SfButton
+                            android:id="@+id/bn_delete_name"
+                            style="?android:attr/borderlessButtonStyle"
+                            android:layout_width="@dimen/_27sdp"
+                            android:layout_height="@dimen/_23sdp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginLeft="@dimen/_1sdp"
+                            android:layout_toRightOf="@+id/bn_voice"
+                            android:background="@drawable/ic_del_selector"
+                            android:focusable="true"
+                            android:text="@string/del"
+                            android:paddingBottom="@dimen/_2sdp"
+                            android:focusableInTouchMode="true"
+                            android:textColor="@drawable/text_button_selector"
+                            android:textSize="@dimen/_8ssp"
+                            android:theme="@style/ItemStyle"
+                            app:type="medium" />
+                    </LinearLayout>
+
+                    <com.bda.omnilibrary.views.SfTextView
+                        android:id="@+id/tv_phone_title"
+                        android:layout_width="@dimen/_10sdp"
+                        android:layout_height="@dimen/_22sdp"
+                        android:layout_marginLeft="@dimen/_12sdp"
+                        android:layout_marginTop="@dimen/_9sdp"
+                        android:background="@android:color/transparent"
+                        android:gravity="center_vertical"
+                        android:textColor="#0A0F06"
+                        android:textSize="@dimen/_7ssp"
+                        app:type="regular" />
+
+                    <com.bda.omnilibrary.views.SfEditText
+                        android:id="@+id/edt_phone__"
+                        android:layout_width="@dimen/_135sdp"
+                        android:layout_height="@dimen/_47sdp"
+                        android:layout_marginLeft="@dimen/_minus13sdp"
+                        android:layout_toRightOf="@+id/tv_phone_title"
+                        android:background="@drawable/strock_round_selector"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:gravity="center_vertical"
+                        android:hint="@string/text_nhap_so_dien_thoai"
+                        android:maxLines="1"
+                        android:nextFocusLeft="@+id/edt_phone__"
+                        android:nextFocusUp="@+id/edt_phone__"
+                        android:paddingLeft="@dimen/_20sdp"
+                        android:paddingRight="@dimen/_20sdp"
+                        android:paddingBottom="@dimen/_5sdp"
+                        android:textColor="@color/title_black_black"
+                        android:textSize="@dimen/_7sdp"
+                        app:type="bold" />
+
+                    <LinearLayout
+                        android:id="@+id/view_voice_remove_phone"
+                        android:layout_width="wrap_content"
+                        android:layout_height="@dimen/_22sdp"
+                        android:layout_marginLeft="@dimen/_minus8sdp"
+                        android:layout_marginTop="@dimen/_10sdp"
+                        android:layout_toRightOf="@+id/edt_phone__"
+                        android:visibility="visible">
+
+                        <ImageButton
+                            android:id="@+id/bn_voice_phone"
+                            android:layout_width="@dimen/_23sdp"
+                            android:layout_height="@dimen/_23sdp"
+                            android:background="@drawable/ic_voice_selector"
+                            android:nextFocusUp="@+id/bn_voice_phone" />
+
+                        <com.bda.omnilibrary.views.SfButton
+                            android:id="@+id/bn_delete_phone"
+                            style="?android:attr/borderlessButtonStyle"
+                            android:layout_width="@dimen/_27sdp"
+                            android:layout_height="@dimen/_23sdp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginLeft="@dimen/_1sdp"
+                            android:layout_toRightOf="@+id/bn_voice"
+                            android:background="@drawable/ic_del_selector"
+                            android:focusable="true"
+                            android:text="@string/del"
+                            android:paddingBottom="@dimen/_2sdp"
+                            android:focusableInTouchMode="true"
+                            android:nextFocusUp="@+id/bn_delete_phone"
+                            android:textColor="@drawable/text_button_selector"
+                            android:textSize="@dimen/_8ssp"
+                            android:theme="@style/ItemStyle"
+                            app:type="medium" />
+                    </LinearLayout>
+                </RelativeLayout>
+
+                <LinearLayout
+                    android:id="@+id/ln_note_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/rl_info"
+                    android:layout_marginTop="@dimen/_minus10sdp"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:id="@+id/rl_ship_time"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_22sdp"
+                        android:layout_marginEnd="@dimen/_23sdp"
+                        android:layout_marginBottom="@dimen/_9sdp"
+                        android:background="@drawable/background_note_orange"
+                        android:padding="@dimen/_6sdp"
+                        android:visibility="gone">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="@string/text_du_kien_giao_hang"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/_6ssp"
+                            app:type="medium" />
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/text_ship_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentEnd="true"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/_6ssp"
+                            app:type="medium" />
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/rl_note"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_22sdp"
+                        android:layout_marginEnd="@dimen/_23sdp"
+                        android:layout_marginBottom="@dimen/_9sdp"
+                        android:background="@drawable/background_note_orange"
+                        android:padding="@dimen/_6sdp">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="@string/text_nhan_vien_cua_omni_shop_se_lien_he"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/_6ssp"
+                            app:type="medium" />
+                    </RelativeLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/ln_note_time"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/_minus5sdp">
+
+                    <RelativeLayout
+                        android:id="@+id/bn_back_"
+                        android:layout_width="@dimen/_110sdp"
+                        android:layout_height="@dimen/_48sdp"
+                        android:layout_marginTop="1sp"
+                        android:background="@drawable/btn_omi_buttn_small_selector"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:nextFocusLeft="@+id/bn_back"
+                        android:nextFocusUp="@+id/edt_name"
+                        android:padding="0dp">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/text_bn_back_"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@null"
+                            android:gravity="center_horizontal"
+                            android:paddingTop="@dimen/_16sdp"
+                            android:text="@string/text_tro_ve"
+                            android:textAllCaps="true"
+                            android:textColor="@drawable/selector_button_header"
+                            android:textSize="@dimen/_8ssp"
+                            app:type="bold" />
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/bn_confirm"
+                        android:layout_width="@dimen/_110sdp"
+                        android:layout_height="@dimen/_48sdp"
+                        android:layout_marginLeft="@dimen/_minus21sdp"
+                        android:layout_marginTop="1sp"
+                        android:background="@drawable/btn_omi_buttn_small_selector"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:padding="0dp">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/text_bn_confirm"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@null"
+                            android:gravity="center_horizontal"
+                            android:paddingTop="@dimen/_16sdp"
+                            android:text="@string/text_xac_nhan"
+                            android:textAllCaps="true"
+                            android:textColor="@drawable/selector_button_header"
+                            android:textSize="@dimen/_8ssp"
+                            app:type="bold" />
+                    </RelativeLayout>
+                </LinearLayout>
+            </RelativeLayout>
+        </FrameLayout>
+
+    </RelativeLayout>
+</LinearLayout>

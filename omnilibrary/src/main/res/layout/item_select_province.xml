@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_house"
+    android:layout_width="@dimen/_135sdp"
+    android:layout_height="@dimen/_47sdp"
+    android:layout_marginRight="@dimen/_minus22sdp"
+    android:layout_marginBottom="@dimen/_minus22sdp"
+    android:background="@drawable/strock_round_medium_selector"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+
+    <RadioButton
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/_22sdp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:background="@null"
+        android:button="@drawable/radiobutton_selector"
+        android:gravity="center_vertical"
+        android:paddingLeft="@dimen/_3sdp"
+        android:text="@string/text_nha_rieng_chung_cu"
+        android:textSize="@dimen/_7ssp" />
+
+</RelativeLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background_product_detail"
+    android:orientation="vertical"
+    tools:context=".ui.warrantyActivity.WarrantyActivity">
+
+    <RelativeLayout
+        android:id="@+id/image_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/text_black_2"
+        android:paddingTop="@dimen/_15sdp">
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_shopping"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_20sdp"
+            android:layout_marginStart="@dimen/_12sdp"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_marginBottom="@dimen/_3sdp"
+            android:background="@drawable/background_button_selector"
+            android:paddingLeft="@dimen/_3sdp"
+            android:paddingRight="@dimen/_3sdp"
+            android:text="@string/text_warranty"
+            android:textAllCaps="true"
+            android:textColor="@drawable/text_button_selector"
+            android:textSize="@dimen/_8ssp"
+            app:type="medium" />
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_store"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_20sdp"
+            android:layout_marginStart="@dimen/_18sdp"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_toEndOf="@+id/bn_shopping"
+            android:background="@drawable/background_button_selector"
+            android:paddingLeft="@dimen/_3sdp"
+            android:paddingRight="@dimen/_3sdp"
+            android:text="@string/text_delivery_type"
+            android:textAllCaps="true"
+            android:textColor="@drawable/text_button_selector"
+            android:textSize="@dimen/_8ssp"
+            app:type="medium" />
+
+        <com.bda.omnilibrary.views.SfButton
+            android:id="@+id/bn_search"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/_20sdp"
+            android:layout_marginStart="@dimen/_18sdp"
+            android:layout_marginTop="@dimen/_3sdp"
+            android:layout_toEndOf="@+id/bn_store"
+            android:background="@drawable/background_button_selector"
+            android:paddingLeft="@dimen/_3sdp"
+            android:paddingRight="@dimen/_3sdp"
+            android:text="@string/text_return"
+            android:textAllCaps="true"
+            android:textColor="@drawable/text_button_selector"
+            android:textSize="@dimen/_8ssp"
+            app:type="medium" />
+    </RelativeLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.bda.omnilibrary.views.SfTextView
+            android:id="@+id/text_context"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_20sdp"
+            android:layout_marginTop="@dimen/_13sdp"
+            android:layout_marginEnd="@dimen/_100sdp"
+            android:background="@drawable/background_button_selector"
+            android:textAllCaps="true"
+            android:textColor="@drawable/text_button_selector"
+            android:textSize="@dimen/_9ssp"
+            app:type="regular" />
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>

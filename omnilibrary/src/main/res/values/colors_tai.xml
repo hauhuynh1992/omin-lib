@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_white">#ffffff</color>
+    <color name="background_Image_tint">#77002237</color>
+
+    <color name="color_gray_green">#375730</color>
+    <color name="background_green_image_tint">#613C5730</color>
+    <color name="color_transparent">#00FFFFFF</color>
+    <color name="title_blue_2B2C34">#2B2C34</color>
+    <color name="title_white_transparent_20">#33FFFFFF</color>
+    <color name="title_grey_313131">#313131</color>
+    <color name="title_grey_a6a6a6">#a6a6a6</color>
+    <color name="title_grey_424242">#424242</color>
+    <color name="title_black_919191">#919191</color>
+    <color name="title_blue_1C2031">#1C2031</color>
+    <color name="title_green_50BC98">#50BC98</color>
+    <color name="title_green_2E9B93">#2E9B93</color>
+    <color name="title_main_item">#FFFFFF</color>
+    <color name="title_discount_item">#2E9B93</color>
+    <color name="title_name_item">#50BC98</color>
+    <color name="title_price_item">#2E9B93</color>
+    <color name="title_white_F2FFFFFF">#F2FFFFFF</color>
+    <color name="title_grey_979797">#979797</color>
+    <color name="title_red_ff424e">#ff424e</color>
+    <color name="title_orange_EE5D29">#EE5D29</color>
+    <color name="title_orange_D33800">#D33800</color>
+    <color name="title_red_D93365">#D93365</color>
+    <color name="title_red_CC003D">#CC003D</color>
+    <color name="title_white_66FFFFFF">#66FFFFFF</color>
+    <color name="title_grey_d1d1d1">#D1D1D1</color>
+    <color name="title_yellow_F0C33F">#F0C33F</color>
+    <color name="title_black_0A0F06">#0A0F06</color>
+    <color name="title_gray_C4C4C4">#C4C4C4</color>
+    <color name="title_gray_F3F3F3">#F3F3F3</color>
+    <string name="run_company">Đơn vị vận hành : Công ty cổ phần VM Commerce</string>
+    <string name="tax_number">MST : 0314981071</string>
+    <color name="title_orange_FF9736">#FF9736</color>
+    <color name="title_orange_DA5205">#DA5205</color>
+    <color name="title_orange_E00000">#E00000</color>
+</resources>

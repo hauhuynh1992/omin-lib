@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SuggestTextStyle" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@drawable/search_key_color_selector</item>
+        <item name="android:background">@drawable/search_background_selector</item>
+        <item name="android:textSize">@dimen/_8ssp</item>
+    </style>
+
+    <style name="TvTextStyle" parent="Theme.AppCompat.Light">
+        <item name="android:textColor">@drawable/text_button_selector</item>
+        <item name="android:background">@drawable/background_button_selector</item>
+        <item name="android:textSize">@dimen/_8ssp</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">#C4C4C4</item>
+        <item name="colorControlActivated">#DA5205</item>
+    </style>
+
+    <style name="ItemStyle" parent="Theme.MaterialComponents.DayNight">
+        <!--<item name="colorControlNormal">#C4C4C4</item>
+        <item name="colorControlActivated">#DA5205</item>-->
+        <item name="materialCardViewStyle">@style/Widget.MaterialComponents.CardView</item>
+    </style>
+
+    <style name="ProductItemStyle" parent="Theme.MaterialComponents.DayNight">
+        <!--<item name="colorControlNormal">#C4C4C4</item>
+        <item name="colorControlActivated">#DA5205</item>-->
+        <item name="materialCardViewStyle">@style/Widget.MaterialComponents.CardView</item>
+
+        <item name="cardCornerRadius">@dimen/_6sdp</item>
+        <item name="cardElevation">@dimen/_1sdp</item>
+
+        <item name="cardPreventCornerOverlap">true</item>
+        <item name="cardUseCompatPadding">true</item>
+
+        <item name="android:background">@color/color_transparent</item>
+        <item name="cardBackgroundColor">@color/color_transparent</item>
+
+
+        <item name="android:layout_marginStart">@dimen/_3sdp</item>
+        <item name="android:layout_marginTop">@dimen/_2sdp</item>
+        <item name="android:layout_marginEnd">@dimen/_3sdp</item>
+        <item name="android:layout_marginBottom">@dimen/_8sdp</item>
+    </style>
+</resources>

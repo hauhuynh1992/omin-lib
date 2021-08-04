@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/_10sdp"
+        android:background="@color/color_transparent"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_8sdp"
+        app:cardElevation="0dp"
+        app:cardMaxElevation="0dp">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_70sdp"
+            android:layout_height="@dimen/_56sdp">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/revealView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white"
+                android:visibility="gone"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="@dimen/_8sdp"
+                app:cardElevation="0dp"
+                app:cardMaxElevation="0dp" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="@dimen/_4sdp"
+                    android:background="@color/color_transparent"
+                    android:theme="@style/ItemStyle"
+                    app:cardBackgroundColor="@color/color_transparent"
+                    app:cardCornerRadius="@dimen/_7sdp"
+                    app:cardElevation="@dimen/_1sdp">
+
+                    <ImageView
+                        android:id="@+id/image"
+                        android:layout_width="@dimen/_61sdp"
+                        android:layout_height="@dimen/_34sdp"
+                        android:background="@color/white"
+                        android:scaleType="centerCrop" />
+
+                </androidx.cardview.widget.CardView>
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginStart="@dimen/_4sdp"
+                    android:layout_marginTop="@dimen/_1sdp"
+                    android:layout_marginEnd="@dimen/_4sdp"
+                    android:ellipsize="end"
+                    android:maxLines="1"
+                    android:textColor="#484848"
+                    android:textSize="@dimen/_6ssp"
+                    app:type="medium" />
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/tv_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginStart="@dimen/_4sdp"
+                    android:layout_marginEnd="@dimen/_4sdp"
+                    android:layout_marginBottom="@dimen/_1sdp"
+                    android:textColor="#999999"
+                    android:textSize="@dimen/_5ssp"
+                    android:visibility="gone"
+                    app:type="medium" />
+            </LinearLayout>
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

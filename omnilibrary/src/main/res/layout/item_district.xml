@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/_120sdp"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/_5sdp">
+
+    <TextView
+        android:id="@+id/rb_district"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:drawablePadding="@dimen/_5sdp"
+        android:gravity="center_vertical"
+        android:padding="@dimen/_4sdp"
+        android:paddingEnd="@dimen/_6sdp"
+        android:textColor="@color/title_black"
+        android:textSize="@dimen/_9ssp" />
+</LinearLayout>
+

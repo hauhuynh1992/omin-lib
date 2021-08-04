@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/layout_product_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_5sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:background="@color/color_transparent"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:outlineSpotShadowColor="@color/text_black_70"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_5sdp"
+        app:cardElevation="@dimen/_5sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <RelativeLayout
+            android:layout_width="@dimen/_235sdp"
+            android:layout_height="@dimen/_56sdp"
+            android:background="@color/white">
+
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/discount"
+                android:layout_width="@dimen/_39sdp"
+                android:layout_height="@dimen/_39sdp"
+                app:type="medium"
+                android:textColor="@color/title_white"
+                android:textSize="@dimen/_5ssp"
+                android:paddingTop="@dimen/_5sdp"
+                android:gravity="center"
+                android:background="@mipmap/ic_voucher_background"
+                android:layout_margin="@dimen/_8sdp"
+             />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/_6sdp"
+                android:layout_marginBottom="@dimen/_6sdp"
+                android:layout_toEndOf="@+id/discount"
+                android:orientation="vertical">
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/_3sdp"
+                    android:layout_marginEnd="@dimen/_5sdp"
+                    android:breakStrategy="simple"
+                    android:ellipsize="end"
+                    android:maxLines="2"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_8ssp"
+                    app:type="bold" />
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/description"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/name"
+                    android:layout_marginEnd="@dimen/_45sdp"
+                    android:ellipsize="end"
+                    android:gravity="bottom"
+                    android:maxLines="1"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_6ssp"
+                    app:type="medium" />
+
+                <LinearLayout
+                    android:id="@+id/bn_choose"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/name"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    android:layout_marginEnd="@dimen/_3sdp"
+                    android:orientation="vertical">
+
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/item_bn_choose"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="@dimen/_3sdp"
+                        android:layout_marginTop="@dimen/_2sdp"
+                        android:layout_marginEnd="@dimen/_3sdp"
+                        android:layout_marginBottom="@dimen/_5sdp"
+                        android:background="@color/color_transparent"
+                        android:outlineAmbientShadowColor="@color/trans"
+                        android:outlineSpotShadowColor="@color/text_black_70"
+                        android:theme="@style/ItemStyle"
+                        app:cardBackgroundColor="@color/color_transparent"
+                        app:cardCornerRadius="@dimen/_3sdp"
+                        app:cardElevation="@dimen/_1sdp"
+                        app:cardPreventCornerOverlap="true"
+                        app:cardUseCompatPadding="true">
+
+                        <com.bda.omnilibrary.views.SfTextView
+                            android:id="@+id/text_bn_choose"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:background="@drawable/background_button_header_collection"
+                            android:paddingStart="@dimen/_8sdp"
+                            android:paddingTop="@dimen/_3sdp"
+                            android:paddingEnd="@dimen/_8sdp"
+                            android:paddingBottom="@dimen/_3sdp"
+                            android:text="@string/choose_all_caps"
+                            android:textAllCaps="true"
+                            android:textColor="@drawable/selector_button_header"
+                            android:textSize="@dimen/_6ssp"
+                            app:type="bold" />
+
+                    </com.google.android.material.card.MaterialCardView>
+                </LinearLayout>
+            </RelativeLayout>
+        </RelativeLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_review"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/cardview_preview_review"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginStart="@dimen/_3sdp"
+        android:layout_marginTop="@dimen/_2sdp"
+        android:layout_marginEnd="@dimen/_3sdp"
+        android:layout_marginBottom="@dimen/_8sdp"
+        android:background="@color/color_transparent"
+        android:outlineAmbientShadowColor="@color/trans"
+        android:theme="@style/ItemStyle"
+        app:cardBackgroundColor="@color/color_transparent"
+        app:cardCornerRadius="@dimen/_6sdp"
+        app:cardElevation="@dimen/_1sdp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true">
+
+        <LinearLayout
+            android:layout_width="@dimen/_144sdp"
+            android:layout_height="@dimen/_144sdp"
+            android:background="@color/color_item_background"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_11sdp"
+                android:layout_marginTop="@dimen/_11sdp"
+                android:paddingRight="@dimen/_11sdp">
+
+                <ImageView
+                    android:id="@+id/ic_avatar"
+                    android:layout_width="@dimen/_22sdp"
+                    android:layout_height="@dimen/_22sdp"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/_6sdp"
+                    android:src="@mipmap/icon_user_gray"
+                    tools:ignore="VectorDrawableCompat" />
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/tv_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/ic_avatar"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_8ssp"
+                    android:textStyle="bold" />
+
+
+                <com.bda.omnilibrary.views.SfTextView
+                    android:id="@+id/tv_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/tv_name"
+                    android:layout_toRightOf="@+id/ic_avatar"
+                    android:textColor="@color/text_color_dark"
+                    android:textSize="@dimen/_7ssp" />
+            </RelativeLayout>
+
+
+            <RatingBar
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_11sdp"
+                android:layout_marginTop="@dimen/_9sdp"
+                android:rating="3"
+                android:theme="@style/RatingBar" />
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_11sdp"
+                android:layout_marginTop="@dimen/_9sdp"
+                android:background="@drawable/border_shape_gray_review"
+                android:padding="@dimen/_7sdp"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/_8ssp" />
+
+            <com.bda.omnilibrary.views.SfTextView
+                android:id="@+id/tv_comment"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_11sdp"
+                android:layout_marginTop="@dimen/_6sdp"
+                android:layout_marginRight="@dimen/_11sdp"
+                android:ellipsize="end"
+                android:maxLines="2"
+                android:textColor="@color/text_color_dark"
+                android:textSize="@dimen/_8ssp" />
+        </LinearLayout>
+    </com.google.android.material.card.MaterialCardView>
+</RelativeLayout>

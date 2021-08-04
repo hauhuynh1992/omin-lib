@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rl_con_"
+    android:layout_width="@dimen/_218sdp"
+    android:paddingLeft="@dimen/_7sdp"
+    android:layout_height="wrap_content"
+>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:id="@+id/img_number"
+        android:layout_width="@dimen/_138sdp"
+        android:layout_height="@dimen/_194sdp"
+        android:layout_marginTop="@dimen/_7sdp"
+        android:scaleType="fitStart"
+        app:srcCompat="@mipmap/ic_img_number_1" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true">
+
+        <include layout="@layout/item_product" />
+    </LinearLayout>
+</RelativeLayout>
