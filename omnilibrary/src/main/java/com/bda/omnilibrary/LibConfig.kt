@@ -1,12 +1,16 @@
 package com.bda.omnilibrary
 
 object LibConfig {
+    /* Setting */
+    var xApiKey = ""
+    var xApiKey_tracking = ""
+    var token = ""
+
     /* Specical */
-    const val proBaseUrl = "https://api-public.householdcommerce.com/api/v1.1/"
-    const val devBaseUrl = "https://dev-api-public.householdcommerce.com/api/v1.1/"
-    const val baseEuUrl = "https://api-public.householdcommerce.com/api/v1.1/"
-    const val baseTracking = "https://api-public.householdcommerce.com/api/v1.1/"
-    const val baseListTracking = "https://api-public.householdcommerce.com/api/v1.1/"
+    const val proBaseUrl = "https://api-public.shoppingtv.vn/api/v1.1/"
+    const val devBaseUrl = "https://dev-api-public.shoppingtv.vn/api/v1.1/"
+    const val baseTracking = "https://tracking.shoppingtv.vn/log/behavior"
+    const val baseListTracking = "https://tracking.shoppingtv.vn/log/behaviors"
     const val APP_ORIGIN = "OMNISHOP"
     const val VERSION_NAME = "0.0.1"
 
@@ -21,16 +25,6 @@ object LibConfig {
     const val OAUTH_DRIVE_URL = "https://www.googleapis.com/drive/v2/about"
 
     const val BASE_TTS_URL = "https://texttospeech.googleapis.com/v1beta1/text:synthesize"
-
-    const val xApiKey_box2018 = "Bfflmd0kBdt0dHXP"
-    const val xApiKey_box2019 = "UNOvlmlgC2dC38hc"
-    const val xApiKey_box2020 = "VyEj4xjX9ckVcKc2"
-    const val xApiKey_box2021 = "wn127jqxcCuT5gtL"
-    const val xApiKey_omnishopeu = "So2IGVBr6kq9XrBT"
-    const val xApiKey_tracking = "NCCm9zXmjYkWamrU"
-    const val xApiKey_eu_tracking = "UNOvlmlgC2dC38hc"
-    const val xApiKey_boxvnpt="D2xNcbx6RxE9enAW"
-    const val xApiKey_tracking_boxvnpt="D2xNcbx6RxE9enAW"
 
     const val FPT_KEY="tvecommercev6Dkdsad90dasdjlADS"
     const val SKY_SECRET_KEY="F47F377495C08E1116DE857E0A907D107F37F6BCEDB4F0D4417DAAE8689329B8"

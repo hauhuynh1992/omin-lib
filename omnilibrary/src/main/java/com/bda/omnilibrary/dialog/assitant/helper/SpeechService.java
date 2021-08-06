@@ -378,28 +378,7 @@ public class SpeechService extends Service {
                     shoppingTVUrl = new URL(LibConfig.proBaseUrl + "speechtotext/token");
                 }
                 HttpsURLConnection myConnection = (HttpsURLConnection) shoppingTVUrl.openConnection();
-                String xApiKey = "";
-                switch (Config.INSTANCE.getPlatform()) {
-                    case "box2018": {
-                        xApiKey = LibConfig.xApiKey_box2018;
-                    }
-                    case "box2019": {
-                        xApiKey = LibConfig.xApiKey_box2019;
-                    }
-                    case "box2020": {
-                        xApiKey = LibConfig.xApiKey_box2020;
-                    }
-                    case "box2021": {
-                        xApiKey = LibConfig.xApiKey_box2021;
-                    }
-                    case "omnishopeu": {
-                        xApiKey = LibConfig.xApiKey_omnishopeu;
-                    }
-                    case "boxvnpt": {
-                        xApiKey = LibConfig.xApiKey_boxvnpt;
-                    }
-
-                }
+                String xApiKey = LibConfig.INSTANCE.getXApiKey();
                 myConnection.setRequestProperty("x-api-key", xApiKey);
                 myConnection.setRequestMethod("GET");
                 int code = myConnection.getResponseCode();

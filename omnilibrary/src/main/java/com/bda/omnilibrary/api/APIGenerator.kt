@@ -91,44 +91,16 @@ class APIGenerator(baseUrl: String) {
                 chain.proceed(request)
             } else {
                 val builder = request.newBuilder()
-                var xApiKey = ""
-                when (Config.platform) {
-                    "box2018" -> {
-                        xApiKey = LibConfig.xApiKey_box2018
-                    }
-                    "box2019" -> {
-                        xApiKey = LibConfig.xApiKey_box2019
-                    }
-                    "box2020" -> {
-                        xApiKey = LibConfig.xApiKey_box2020
-                    }
-                    "box2021" -> {
-                        xApiKey = LibConfig.xApiKey_box2021
-                    }
-                    "omnishopeu" -> {
-                        xApiKey = LibConfig.xApiKey_omnishopeu
-                    }
-                    "boxvnpt" -> {
-                        xApiKey = LibConfig.xApiKey_boxvnpt
-                    }
-                }
+                var xApiKey = LibConfig.xApiKey
                 if (request.url().toString()
                         .contains("tracking.shoppingtv.vn", true)
                 ) {
                     xApiKey = LibConfig.xApiKey_tracking
                     if (Config.platform == "boxvnpt") {
-                        xApiKey = LibConfig.xApiKey_tracking_boxvnpt
+                        xApiKey = LibConfig.xApiKey_tracking
                     }
-
                 }
-                if (request.url().toString()
-                        .contains("tracking.householdcommerce.com", true)
-                ) {
-                    xApiKey = LibConfig.xApiKey_eu_tracking
-                }
-                Log.d("BBBHAU", Config.evironment)
                 if(Config.evironment.equals("development")){
-                    Log.d("BBBHAU", "is-dev")
                     builder.addHeader("is-dev", "yes")
                 }
                 builder.addHeader("x-api-key", xApiKey)

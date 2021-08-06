@@ -4,19 +4,12 @@ import com.bda.omnilibrary.LibConfig
 import com.bda.omnilibrary.util.Config
 
 class APIManager {
-    private val HOST_OMNISHOP_EU_URL = LibConfig.baseEuUrl
-    private val HOST_URL = LibConfig.devBaseUrl
+    private val HOST_URL = LibConfig.proBaseUrl
 
     private val mApi: ItemAPI
-    private val generator: APIGenerator =
-        if (LibConfig.APP_ORIGIN == Config.PARTNER.OMNISHOPEU.toString()) {
-            APIGenerator(HOST_OMNISHOP_EU_URL)
-        } else {
-            APIGenerator(HOST_URL)
-        }
+    private val generator: APIGenerator = APIGenerator(HOST_URL)
 
     init {
-
         mApi = generator.createService(ItemAPI::class.java)
     }
 

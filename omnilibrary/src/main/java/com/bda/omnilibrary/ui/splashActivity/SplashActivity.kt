@@ -3,6 +3,7 @@ package com.bda.omnilibrary.ui.splashActivity
 import android.content.Intent
 import android.os.Bundle
 import android.util.Log
+import com.bda.omnilibrary.LibConfig
 import com.bda.omnilibrary.R
 import com.bda.omnilibrary.helper.PreferencesHelper
 import com.bda.omnilibrary.helper.QuickstartPreferences
@@ -33,10 +34,10 @@ open class SplashActivity : BaseActivity(), SplashContact.View {
     private lateinit var checkInternetConnection: CheckInternetConnection
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        Log.d("BBBHAU", "OnCreate:")
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_splash)
         setLanguage(Config.LANGUAGE.vi.toString())
-        getConfig(Config.PARTNER.FPT)
         val dataObject = LogDataRequest()
         dataObject.source = utmSource
         dataObject.campaign = utmCampaign
@@ -53,13 +54,19 @@ open class SplashActivity : BaseActivity(), SplashContact.View {
         preferencesHelper = PreferencesHelper(this)
         Config.developer_mode = preferencesHelper.developerMode
         this.presenter = SplashPresenter(this, this)
+        ImageUtils.loadImageNoCache(
+            this,
+            background_splash,
+            "https://tvcommerce-st.fptplay.net/prod/images/splashscreen_images/splash_screen.jpeg?mode=scale&w=1920&h=1080&v=" + System.currentTimeMillis()
+        )
         initial()
 
     }
 
     private fun initial() {
+        Log.d("BBBHAU", "initial:")
         if (Functions.checkInternet(this)) {
-            getTokenFromIntent(intent)
+            presenter.loadSplash(LibConfig.token, getHistory())
         } else {
             Functions.showMessage(this, getString(R.string.no_internet))
             checkInternetConnection = CheckInternetConnection()
@@ -113,6 +120,7 @@ open class SplashActivity : BaseActivity(), SplashContact.View {
     }
 
     private fun requestNewToken(bundle: Bundle) {
+        Log.d("BBBHAU", "requestNewToken:")
         val launchIntent =
             this.packageManager.getLaunchIntentForPackage("net.fptplay.ottbox".takeIf { Config.platform == "box2021" }
                 ?: "net.androidboxfptplay")
@@ -132,6 +140,7 @@ open class SplashActivity : BaseActivity(), SplashContact.View {
     }
 
     private fun getTokenFromIntent(intent: Intent?) {
+        Log.d("BBBHAU", "getTokenFromIntent:")
         ImageUtils.loadImageNoCache(
             this,
             background_splash,
@@ -139,7 +148,7 @@ open class SplashActivity : BaseActivity(), SplashContact.View {
         )
         val bundle = intent?.extras
 //        var token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTI0NTgyMzk2NjAsImp0aSI6ImI2NjY2ZWJkLWVhOGItNGEzYy05OTFlLWM4Y2RmZDc2YTVjMSIsInN1YiI6Ijk3MTkxMjYifQ.Qu2uel0LvdoDZcG-pydfx0N1o9Rtg82q-RbGOLuMDNs"
-//        presenter.loadSplash(token, history)
+//        presenter.loadSplash(token, getHistory())
         if (bundle != null && !bundle.isEmpty) {
             var token: String? = bundle.getString("ACCESS_TOKEN")
             val data = bundle.getBundle("DATA")

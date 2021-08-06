@@ -19,7 +19,6 @@ import com.bda.omnilibrary.util.Functions
 import com.google.gson.Gson
 import kotlinx.android.synthetic.main.activity_brand_shop_detail.*
 import kotlinx.android.synthetic.main.activity_brand_shop_detail.rv_home
-import kotlinx.android.synthetic.main.activity_main.*
 import java.lang.ref.WeakReference
 import kotlin.random.Random
 

@@ -1,6 +1,7 @@
 package com.bda.omnilibrary.ui.mainActivity
 
 import android.Manifest
+import android.annotation.SuppressLint
 import android.content.ComponentName
 import android.content.Context
 import android.content.Intent
@@ -15,7 +16,7 @@ import android.view.View
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.fragment.app.DialogFragment
-import com.bda.omnilibrary.BuildConfig
+import androidx.leanback.widget.VerticalGridView
 import com.bda.omnilibrary.LibConfig
 import com.bda.omnilibrary.R
 import com.bda.omnilibrary.adapter.homev2.HomeAdapterV2
@@ -37,7 +38,7 @@ import com.google.firebase.remoteconfig.FirebaseRemoteConfig
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import kotlinx.android.synthetic.*
-import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_omni_main.*
 import java.lang.ref.WeakReference
 import kotlin.random.Random
 
@@ -90,10 +91,10 @@ class MainActivity : BaseActivity(), MainActivityContact.View {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_omni_main)
         presenter = MainActivityPresenter(this, this)
         loadhome(intent)
-        intialFirebaseConfig()
+//        intialFirebaseConfig()
     }
 
     private fun loadhome(intent: Intent?) {
@@ -133,14 +134,14 @@ class MainActivity : BaseActivity(), MainActivityContact.View {
 
     }
 
+    @SuppressLint("RestrictedApi")
     private fun initial() {
-
-        rv_home.removeAllViews()
+        rv_home?.removeAllViews()
         homeAdapter = null
-        rv_home.extraLayoutSpace = 800
-        rv_home.setItemViewCacheSize(20)
-        rv_home.clearFindViewByIdCache()
-        rv_home.setHasFixedSize(true)
+        rv_home?.extraLayoutSpace = 800
+        rv_home?.setItemViewCacheSize(20)
+        rv_home?.clearFindViewByIdCache()
+        rv_home?.setHasFixedSize(true)
         if (getDatabaseHandler()!!.getCountLogItem() > 0) {
             sendListLog()
         }
@@ -366,10 +367,10 @@ class MainActivity : BaseActivity(), MainActivityContact.View {
 
                 Functions.alphaAnimation(layout_media, 1f) {}
 
-                rv_home.scrollToPosition(0)
+                rv_home?.scrollToPosition(0)
             }
         })
-        rv_home.adapter = homeAdapter
+        rv_home?.adapter = homeAdapter
         if ((isPopup || isNotification) && productId != null) {
             gotoScreen(popupType, productId!!, landingImageUrl)
         } else if ((!isPopup && !isNotification) && productId != null) {
@@ -459,24 +460,28 @@ class MainActivity : BaseActivity(), MainActivityContact.View {
 
                 }
                 KeyEvent.KEYCODE_DPAD_DOWN -> {
-                    if (rv_home.hasFocus()) {
-                        if (homeAdapter?.getCurrentPositon() == 1) {
-                            Functions.alphaAnimation(layout_media, 0f) {}
+                    rv_home?.let{
+                        if (it.hasFocus()) {
+                            if (homeAdapter?.getCurrentPositon() == 1) {
+                                Functions.alphaAnimation(layout_media, 0f) {}
+                            }
                         }
                     }
                 }
                 KeyEvent.KEYCODE_DPAD_UP -> {
                     if (event!!.action == KeyEvent.ACTION_DOWN) {
-
-                        if (rv_home.hasFocus()) {
-                            Handler().postDelayed({
-                                if (homeAdapter?.getLiveCurrentPositon() == 1 &&
-                                    (homeAdapter!!.hasFocusHeader())
-                                ) {
-                                    Functions.alphaAnimation(layout_media, 1f) {}
-                                }
-                            }, 100)
+                        rv_home?.let {
+                            if (it.hasFocus()) {
+                                Handler().postDelayed({
+                                    if (homeAdapter?.getLiveCurrentPositon() == 1 &&
+                                        (homeAdapter!!.hasFocusHeader())
+                                    ) {
+                                        Functions.alphaAnimation(layout_media, 1f) {}
+                                    }
+                                }, 100)
+                            }
                         }
+
                     }
                 }
                 KeyEvent.KEYCODE_DPAD_RIGHT -> {

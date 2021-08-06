@@ -6,6 +6,11 @@ plugins {
 
 }
 
+androidExtensions {
+    experimental = true
+}
+
+
 android {
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
@@ -15,7 +20,6 @@ android {
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
-
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         consumerProguardFiles "consumer-rules.pro"
     }
@@ -26,12 +30,27 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
+    packagingOptions {
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/INDEX.LIST'
+        exclude 'META-INF/DEPENDENCIES'
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
-    kotlinOptions {
-        jvmTarget = '1.8'
+    defaultConfig {
+        vectorDrawables.useSupportLibrary = true
+    }
+    lintOptions {
+        checkReleaseBuilds false
+        abortOnError false
     }
 }
 
@@ -117,3 +136,4 @@ dependencies {
     implementation 'com.google.api.grpc:grpc-google-cloud-speech-v1:1.23.0'
 //    implementation 'com.github.GrenderG:Toasty:1.5.0'
 }
+//apply plugin: 'com.google.gms.google-services'
